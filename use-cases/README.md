@@ -15,7 +15,7 @@ Explore Reflexivity examples by **persona** or by **insight type**. Each page li
 ## Browse by Insight Type
 
 - [Market Catalyst](by-category/market-catalyst.md) — 9 examples
-- [Geopolitical Catalyst](by-category/geopolitical-catalyst.md) — 1 examples
+- [Geopolitical Catalyst](by-category/geopolitical-catalyst.md) — 1 example
 - [Company Catalyst](by-category/company-catalyst.md) — 8 examples
 - [Earnings Catalyst](by-category/earnings-catalyst.md) — 7 examples
 - [Scenario Insight](by-category/scenario-insight.md) — 3 examples
