@@ -26,4 +26,4 @@ _Release notes will be added here._
 
 This knowledge base is a living collection. Links and indexes will be expanded as historical and current material is consolidated.
 
-Questions or need more information? Contact **support@reflexivity.com**.
+Questions or need more information? Contact **gtm@reflexivity.com**.
