@@ -4,10 +4,10 @@ These examples are dated platform outputs. Check them against current market dat
 
 ## Wealth Management / RIA
 
-- [Trump Threatens Spain Trade Ties (EWP)](../wealth-management-ria/trump-threatens-spain-trade-ties-ewp.md) — July 8, 2026 — Bearish
+- [Trump Threatens Spain Trade Ties (EWP)](../wealthmanagementria/trump-threatens-spain-trade-ties-ewp.md) — July 8, 2026 — Bearish
 
 ---
 
 [← All Use Cases](../README.md)
 
-Questions or need more information? Contact **support@reflexivity.com**.
+Questions or need more information? Contact **gtm@reflexivity.com**.
