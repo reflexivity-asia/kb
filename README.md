@@ -10,7 +10,9 @@ _Product materials will be added here._
 
 ## Use Cases
 
-_Use cases will be added here._
+[Browse Reflexivity use cases by persona or insight type →](use-cases/README.md)
+
+The current use-case collection contains 28 dated proof examples across wealth management, hedge funds, and long-only asset management.
 
 ## Articles
 
@@ -23,3 +25,5 @@ _Release notes will be added here._
 ---
 
 This knowledge base is a living collection. Links and indexes will be expanded as historical and current material is consolidated.
+
+Questions or need more information? Contact **support@reflexivity.com**.
