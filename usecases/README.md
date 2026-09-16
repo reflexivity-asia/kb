@@ -1,8 +1,8 @@
 # Reflexivity Use Cases
 
-Explore Reflexivity examples by **persona** or by **insight type**. Each page links back to the original live Reflexivity insight and identifies the source resource used to build this collection.
+Explore Reflexivity examples by **persona**, **insight type**, or **asset class**.
 
-> These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
+> These examples are dated research or platform outputs. Check them against current market data before using them for a current investment decision, or present them as illustrative examples only.
 
 ## Browse by Persona
 
@@ -20,11 +20,17 @@ Explore Reflexivity examples by **persona** or by **insight type**. Each page li
 - [Earnings Catalyst](bycategory/earnings-catalyst.md) — 7 examples
 - [Scenario Insight](bycategory/scenario-insight.md) — 3 examples
 
-## Resource
+## Browse by Asset Class
 
-This collection was organized from **Reflexivity Insights Proof Set — Sales Enablement**, a sales-enablement proof set containing dated live-platform examples grouped by ICP/persona. Each use-case page also links to its original Reflexivity insight.
+[Browse research and workflow examples by asset class →](byasset/README.md)
 
-For questions about the original source file, provenance, or access to the source material, contact **jim@reflexivity.com**.
+The asset-class view is being expanded from the reviewed Japanese use-case baseline. Each logical article keeps one stable `RX-USECASE-*` identity and one canonical body; navigation views link to that article rather than duplicating it.
+
+## Resources
+
+The original proof-example collection was organized from **Reflexivity Insights Proof Set — Sales Enablement**, a dated sales-enablement source grouped by ICP/persona. The KB also includes additional Reflexivity research examples and partner-provided use cases as they are reviewed and canonicalized.
+
+Each substantive page identifies its source basis or publication context. For questions about original source files, provenance, or source access, contact **jim@reflexivity.com**.
 
 ---
 
