@@ -10,8 +10,10 @@ Research and workflow examples for equity themes, company events, earnings, scre
 - [Turn strong themes into US and Japanese company candidates](top-themes-and-us-japan-company-picks.md) — `RX-USECASE-0047`
 - [Analyze the US IPO market through completed deals and the forward pipeline](us-ipo-market-analysis.md) — `RX-USECASE-0048`
 - [Compare the S&P 500 with the Russell 2000 and identify small-cap leaders](sp500-vs-russell2000-leaders.md) — `RX-USECASE-0051`
+- [Build a research workflow around US retail earnings week](us-retail-earnings-calendar-workflow.md) — `RX-USECASE-0056`
+- [Use Company Catalyst to trace the market impact of NVIDIA-related news](company-catalyst-nvidia-example.md) — `RX-USECASE-0057`
 
-This section is being canonicalized in small verified batches from the reviewed Japanese baseline.
+The reviewed Japanese equities surface is now canonicalized in English. Related cross-asset articles remain linked from their own canonical asset-class locations rather than duplicated here.
 
 ---
 
