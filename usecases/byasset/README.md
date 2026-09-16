@@ -10,6 +10,7 @@ A single use case may be relevant to more than one asset class or persona. The a
 - [Fixed Income](fixedincome/README.md)
 - [Macro](macro/README.md)
 - [Equities](equities/README.md)
+- [Multi-Asset](multiasset/README.md)
 
 Additional asset-class sections will be added as the reviewed Japanese use-case baseline is canonicalized into English.
 
