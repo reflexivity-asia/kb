@@ -1,0 +1,87 @@
+name: Audit English public KB
+
+on:
+  push:
+    paths:
+      - '**/*.md'
+      - '.github/workflows/audit-en-public-kb.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check public pages
+        shell: python
+        run: |
+          from pathlib import Path
+          from urllib.parse import unquote
+          import re
+          import subprocess
+
+          raw = subprocess.check_output(['git', '-c', 'core.quotepath=false', 'ls-files', '-z', '*.md'])
+          files = [Path(p.decode('utf-8')) for p in raw.split(b'\0') if p]
+          errors = []
+          stable_ids = {}
+          link_re = re.compile(r'!?\[[^\]]*\]\(([^)]+)\)')
+
+          def visible_text(text):
+              if text.startswith('<!--'):
+                  end = text.find('-->')
+                  if end >= 0:
+                      return text[end+3:]
+              return text
+
+          for path in files:
+              text = path.read_text(encoding='utf-8')
+              visible = visible_text(text)
+
+              if visible.lstrip().startswith('---'):
+                  errors.append(f'{path}: visible YAML/front matter')
+
+              meta_end = text.find('-->') if text.startswith('<!--') else -1
+              meta = text[:meta_end+3] if meta_end >= 0 else ''
+              id_match = re.search(r'^id:\s*(RX-[A-Z]+-\d{4})\s*$', meta, re.M)
+              if id_match:
+                  stable_id = id_match.group(1)
+                  previous = stable_ids.get(stable_id)
+                  if previous is not None:
+                      errors.append(f'duplicate stable id {stable_id}: {previous} and {path}')
+                  else:
+                      stable_ids[stable_id] = path
+
+              for m in link_re.finditer(visible):
+                  target = m.group(1).strip()
+                  if target.startswith('<') and target.endswith('>'):
+                      target = target[1:-1]
+                  if not target or target.startswith(('http://','https://','mailto:','#','tel:')):
+                      continue
+                  target = target.split('#',1)[0].split('?',1)[0]
+                  if not target:
+                      continue
+                  resolved = (path.parent / unquote(target)).resolve()
+                  try:
+                      resolved.relative_to(Path('.').resolve())
+                  except ValueError:
+                      errors.append(f'{path}: local link escapes repository: {target}')
+                      continue
+                  if not resolved.exists():
+                      errors.append(f'{path}: broken local link/image: {target}')
+
+          if Path('.tmp').exists():
+              leftovers = [str(p) for p in Path('.tmp').rglob('*') if p.is_file()]
+              if leftovers:
+                  errors.append('.tmp contains publication leftovers: ' + ', '.join(leftovers))
+
+          print(f'Markdown files checked: {len(files)}')
+          print(f'Stable IDs checked: {len(stable_ids)}')
+          if errors:
+              print('\nAudit errors:')
+              for item in errors:
+                  print('ERROR', item)
+              raise SystemExit(1)
+          print('\nAUDIT PASSED')
