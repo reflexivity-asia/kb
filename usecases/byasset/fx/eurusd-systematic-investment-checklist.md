@@ -14,7 +14,7 @@ roles: FX PM, Macro PM, Multi-Asset Investor
 publication_mode: faithful-source-preserving
 -->
 
-# Turn an EUR/USD Investment View into a Systematic Checklist
+# Turn a EUR/USD Investment View into a Systematic Checklist
 
 **Author:** Reflexivity Research  
 **Primary asset:** FX (EUR/USD)  
