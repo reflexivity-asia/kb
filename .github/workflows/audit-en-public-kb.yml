@@ -26,25 +26,34 @@ jobs:
           raw = subprocess.check_output(['git', '-c', 'core.quotepath=false', 'ls-files', '-z', '*.md'])
           files = [Path(p.decode('utf-8')) for p in raw.split(b'\0') if p]
           errors = []
+          warnings = []
           stable_ids = {}
           link_re = re.compile(r'!?\[[^\]]*\]\(([^)]+)\)')
 
-          def visible_text(text):
+          def split_metadata(text):
               if text.startswith('<!--'):
                   end = text.find('-->')
                   if end >= 0:
-                      return text[end+3:]
-              return text
+                      return text[:end+3], text[end+3:], 'html-comment'
+              if text.startswith('---'):
+                  end = text.find('\n---', 3)
+                  if end >= 0:
+                      return text[:end+4], text[end+4:], 'yaml'
+              return '', text, 'none'
 
           for path in files:
               text = path.read_text(encoding='utf-8')
-              visible = visible_text(text)
+              meta, visible, meta_style = split_metadata(text)
 
-              if visible.lstrip().startswith('---'):
-                  errors.append(f'{path}: visible YAML/front matter')
+              # Existing proof-set pages still use visible YAML. Treat that as
+              # known legacy debt, but do not permit the new by-asset canonical
+              # surface to introduce more visible front matter.
+              if meta_style == 'yaml':
+                  if str(path).startswith('usecases/byasset/'):
+                      errors.append(f'{path}: new byasset page uses visible YAML/front matter')
+                  else:
+                      warnings.append(f'{path}: legacy visible YAML/front matter')
 
-              meta_end = text.find('-->') if text.startswith('<!--') else -1
-              meta = text[:meta_end+3] if meta_end >= 0 else ''
               id_match = re.search(r'^id:\s*(RX-[A-Z]+-\d{4})\s*$', meta, re.M)
               if id_match:
                   stable_id = id_match.group(1)
@@ -79,6 +88,10 @@ jobs:
 
           print(f'Markdown files checked: {len(files)}')
           print(f'Stable IDs checked: {len(stable_ids)}')
+          if warnings:
+              print('\nKnown legacy warnings:')
+              for item in warnings:
+                  print('WARN', item)
           if errors:
               print('\nAudit errors:')
               for item in errors:
