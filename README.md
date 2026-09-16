@@ -10,9 +10,9 @@ _Product materials will be added here._
 
 ## Use Cases
 
-[Browse Reflexivity use cases by persona or insight type →](usecases/README.md)
+[Browse Reflexivity use cases →](usecases/README.md)
 
-The current use-case collection contains 28 dated proof examples across wealth management, hedge funds, and long-only asset management.
+The library includes the original 28 dated proof examples across wealth management, hedge funds, and long-only asset management, plus additional reviewed research and partner-provided use cases as they are canonicalized. Use cases can be explored by persona, insight type, or asset class where available.
 
 ## Articles
 
