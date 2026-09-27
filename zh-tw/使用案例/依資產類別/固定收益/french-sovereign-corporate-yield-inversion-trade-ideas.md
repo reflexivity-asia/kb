@@ -1,0 +1,107 @@
+<!--
+id: RX-USECASE-0029
+type: use-case
+language: zh
+locale: zh-TW
+author: Reflexivity Research
+published: 2026-09-15
+status: published
+translation_status: current
+original_language: en
+source_text_status: canonicalized_from_platform_research_with_reviewed_editorial_clarification
+asset_class: Fixed Income, FX, Cross-Asset
+roles: Fixed Income PM, Macro PM, Multi-Asset Investor
+publication_mode: faithful-source-preserving
+-->
+
+# 從法國主權信用壓力建立相對價值交易
+
+<!-- locale-switcher:start -->
+**Languages:** [English](../../../../en/usecases/byasset/fixedincome/french-sovereign-corporate-yield-inversion-trade-ideas.md) · [日本語](../../../../ja/ユースケース/運用資産別/債券/french-sovereign-corporate-yield-inversion-trade-ideas.md) · [한국어](../../../../ko/유스케이스/운용자산별/채권/french-sovereign-corporate-yield-inversion-trade-ideas.md) · [简体中文](../../../../zh-cn/使用案例/按资产类别/固定收益/french-sovereign-corporate-yield-inversion-trade-ideas.md) · **繁體中文（台灣）** · [繁體中文（香港）](../../../../zh-hk/使用案例/按資產類別/固定收益/french-sovereign-corporate-yield-inversion-trade-ideas.md)
+<!-- locale-switcher:end -->
+
+[← 固定收益使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
+**作者：** Reflexivity Research  
+**主要資產：** 固定收益、FX、跨資產  
+**適用使用者：** 固定收益 PM、Macro PM、多資產投資人  
+**分析類型：** 相對價值、交易建構、情境分析
+
+> 本頁保留 Reflexivity 原始研究與當時市場觀察。下列交易與價位皆為歷史研究輸出，不是目前的投資建議。
+
+**[在 Reflexivity 中開啟這個研究範例 →](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)**
+
+## 起點
+
+原始研究從一個不尋常的關係出發：法國主權債收益率與高品質法國公司債收益率出現異常相對關係，同時政治風險升高。研究問題不只是這個錯價是否有意義，而是**如何透過不同市場表達這個觀點**。
+
+### 市場條件
+
+- 法國 10 年期公債收益率：**3.507%**
+- 德國 10 年期公債收益率：**2.714%**，法德利差 **79 bp**
+- 希臘 10 年期公債收益率：**3.397%**；原資料指出法國比希臘**高 11 bp**，屬不尋常倒掛
+- 義大利 10 年期公債收益率：**3.548%**，只比法國高約 **4 bp**
+- EUR/USD：**1.1734**
+- 分析前提是高品質法國公司債收益率相對主權曲線出現倒掛
+
+## 四種固定收益表達方式
+
+### 1. 做多高品質法國公司債 / 放空法國公債
+
+原資料提出買進 L'Oréal、Airbus、AXA 等高品質發行人的相同期限債券，同時放空法國公債。考量流動性後，5–10 年區間被視為相對實用的公司債—主權債收益率倒掛表達方式。
+
+### 2. 法德主權利差擴大
+
+放空法國 10 年期、做多德國 10 年期。原資料在壓力情境下考慮利差由 79 bp 擴至約 100–120 bp，同時把 **ECB 干預或政治局勢快速解決**列為關鍵風險。
+
+### 3. 法國殖利率曲線變陡
+
+放空法國 10 年期、做多 2 年期。假設政治風險溢價更集中在長端。原資料以 2s10s 約 140 bp 朝超過 180 bp 移動作為示意情境。
+
+### 4. 周邊國家收斂反轉
+
+放空法國公債、做多希臘公債。原資料把法國—希臘收益率倒掛視為歷史上不尋常的狀況，並討論久期配對，以及關係反向移動時的停損條件。
+
+## 跨資產延伸
+
+### 5. 相對避險貨幣放空歐元
+
+EUR/USD、EUR/CHF、EUR/JPY 空頭都被列為可能表達方式，也包含以選擇權限制下行風險的結構。
+
+### 6. 法國股票產業輪動
+
+做多公用事業、民生必需品等防禦產業，放空較具景氣循環性或金融曝險。原資料也討論同時透過股票與信用持有 L'Oréal 類公司，或放空法國銀行、再用 CAC 40 對沖大盤 beta。
+
+### 7. 歐洲信用品質分化
+
+做多德國與荷蘭公司信用、相對放空法國公司信用。假設是主權壓力可能延後傳導到公司債利差。
+
+## 相對價值與波動延伸
+
+8. **波動率：** 做多 EUR/USD 與法國主權債波動，例如 3–6 個月 straddle。  
+9. **期貨 / 現券基差：** 尋找法國公債期貨與現券間的短期錯價。  
+10. **跨幣別基差：** 透過 EUR/USD cross-currency basis 或 FX forward 表達由法國風險帶來的歐元融資溢價。
+
+## 風險管理
+
+原資料也明確列出失效條件：
+
+- ECB 購債或其他干預
+- 政治局勢快速解決、利差收斂
+- 個別法國公司債的流動性限制
+- 更廣泛的歐洲危機，破壞法國與原本被視為「安全」對沖市場之間的假設關係
+
+## 相對價值表達
+
+原資料最終優先選擇**做多 5–10 年高品質法國公司債 / 放空法國公債**，因為它與核心錯價最直接相關。
+
+原研究也包含六個月期間與示意性的 2–3:1 風險報酬估計。這些都是當時的研究輸出，不應視為目前可執行建議或目前價位。
+
+## 本使用案例說明了什麼
+
+這個例子展示如何從主權—信用異常出發，延伸出利率、信用、FX、股票、波動率與基差市場的多種交易表達，同時保留明確失效條件，而不是停在市場敘事層次。
+
+
+---
+
+[← 固定收益使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

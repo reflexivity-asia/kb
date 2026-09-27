@@ -1,0 +1,14 @@
+# FX 유스케이스
+
+환율, 금리차, 포지셔닝, 기술적 지표, 정책 이벤트를 함께 보며 FX 투자 판단과 리서치 프로세스를 구성하는 사례입니다.
+
+## 유스케이스
+
+- [EUR/USD 투자 관점을 체계적인 체크리스트로 정리하기](eurusd-systematic-investment-checklist.md) — `RX-USECASE-0032`
+- [EUR/USD RSI 전략을 파라미터와 아웃오브샘플로 검증하기](eurusd-rsi-walk-forward-backtest.md) — `RX-USECASE-0037`
+- [급격한 엔화 강세의 배경과 다른 통화로의 확산 여부 분석하기](yen-strength-background-outlook.md) — `RX-USECASE-0044`
+
+
+---
+
+[← 운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)

@@ -1,0 +1,125 @@
+<!--
+id: RX-USECASE-0035
+type: use-case
+language: zh
+locale: zh-HK
+author: Reflexivity Research
+published: 2026-09-15
+status: published
+translation_status: current
+original_language: en
+source_text_status: localized_from_en_canonical
+asset_class: Macro, Cross-Asset
+roles: CIO, Macro PM, Multi-Asset PM, Strategist
+publication_mode: faithful-source-preserving
+-->
+
+# 從反證角度挑戰「美國經濟強勁」的投資論點
+
+<!-- locale-switcher:start -->
+**Languages:** [English](../../../../en/usecases/byasset/macro/challenge-strong-us-economy-thesis.md) · [日本語](../../../../ja/ユースケース/運用資産別/マクロ/challenge-strong-us-economy-thesis.md) · [한국어](../../../../ko/유스케이스/운용자산별/매크로/challenge-strong-us-economy-thesis.md) · [简体中文](../../../../zh-cn/使用案例/按资产类别/宏观/challenge-strong-us-economy-thesis.md) · [繁體中文（台灣）](../../../../zh-tw/使用案例/依資產類別/總體/challenge-strong-us-economy-thesis.md) · **繁體中文（香港）**
+<!-- locale-switcher:end -->
+
+[← 宏觀使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
+**作者：** Reflexivity Research  
+**主要資產：** 宏觀、跨資產  
+**適用使用者：** CIO、Macro PM、Multi-Asset PM、策略師  
+**分析類型：** 反證分析、投資論點測試、情景分析
+
+> 本頁保留 Reflexivity 原研究及其有日期的觀察。這是一個如何測試投資論點的案例，並非當前宏觀預測。
+
+**[在 Reflexivity 中開啟這個研究示例 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=4fa62dde-58f4-4b3b-b433-837634dc84fb&scrollTo=top)**
+
+## 起點問題
+
+研究並非為「美國經濟強勁」這個主流論點蒐集支持證據，而是問：**這個論點在哪些地方開始出現裂縫？**
+
+來源結論相當細緻：私人需求仍然強勁，但就業動能、實質工資，以及貨幣緊縮的滯後影響正在轉弱。因此，來源較傾向把經濟放在**週期後段（late cycle）**，而不是視為全面且持久的強勁增長。
+
+## 五項測試
+
+### 1. 私人需求與整體 GDP
+
+- 私人國內最終銷售實質增長：**2026 Q2 +8.5% SAAR**
+- 整體實質 GDP：**+1.48%**
+
+淨出口及庫存拖低整體 GDP，但國內私人需求明顯較強。這是**反對經濟轉弱論點**最有力的證據。
+
+### 2. 就業市場與實質工資
+
+- 三個月平均 NFP：約 **71k**
+- 來源採用的維持就業基準：約 **150k**
+- 實質工資增長：**-0.07% YoY**
+- 失業率：**4.1%**
+- ADP：**+38k**
+
+來源把這一組數據視為「強勁經濟」論點最明顯開始轉弱的地方。
+
+### 3. 商業調查與 PMI
+
+- ISM Manufacturing：**54.6**
+- S&P Global Manufacturing PMI：**53.9**
+- ISM New Orders：**53.7**
+- JOLTS 職位空缺：**7.27m**
+
+這些數據仍處於擴張區間，但來源認為動能是在放慢，而不是加速。
+
+### 4. 信貸環境與逾期率
+
+- C&I 收緊指標：**0.0**，一年前為 9.5
+- 信用卡逾期率：**2.85%**，兩年前為 3.22%
+
+來源在這個階段並未把信貸壓力視為主要衰退訊號。
+
+### 5. 利率與貨幣緊縮的傳導
+
+- 10Y-2Y：**+0.41 個百分點**
+- 10Y-3M：**+0.87 個百分點**
+- 10Y 實質孳息率：**2.42%**
+- Fed funds：**3.63%**
+
+孳息曲線倒掛已經消失，但實質利率仍具限制性。因此，來源仍把早前緊縮政策的滯後影響視為持續的逆風。
+
+## 證據圖譜
+
+| 測試 | 來源訊號 | 解讀 |
+|---|---|---|
+| 私人需求 | 支持強勁論點 | 國內需求較整體 GDP 強 |
+| 就業 / 實質工資 | 轉弱 | 招聘及實質工資動能較弱 |
+| 調查 / PMI | 仍擴張，但放慢 | 高於 50，但動能下降 |
+| 信貸 | 暫未見重大壓力 | 貸款及逾期數據未見急劇惡化 |
+| 利率 / 政策傳導 | 具限制性 | 實質利率及滯後緊縮仍構成拖累 |
+
+## 來源的概率加權經濟狀態評估
+
+- **週期後段：50%**
+- **持續增長：30%**
+- **已進入放緩：20%**
+
+來源的綜合判斷是：經濟強勁並非虛構，但支撐面正在收窄，也更容易受到限制性政策影響。
+
+## 限制
+
+來源明確指出幾項限制：
+
+- 部分系列，例如 ISM、NFIB，在該次研究中未能透過授權數據完整取得；
+- 季度私人需求估算可能被修訂；
+- 並非所有地區聯儲調查都可取得。
+
+## 如何使用這套流程
+
+實用之處，是讓研究充當投資論點的**挑戰機制**，而不是只用來收集支持論點的資料。
+
+可重複使用的次序是：
+
+**提出論點 → 定義哪些證據應可推翻它 → 測試多個獨立渠道 → 保留最有力的反證 → 更新情景概率，而不是強行得出二元答案。**
+
+## 本使用案例說明了甚麼
+
+這個例子展示如何從需求、就業、商業調查、信貸及利率多個角度壓力測試宏觀論點，同時保留互相矛盾的證據，而不是把所有資料磨平成單一敘事。
+
+
+---
+
+[← 宏觀使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
