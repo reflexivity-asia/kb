@@ -11,12 +11,14 @@ published: 2026-08-10
 updated: 2026-09-07
 status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=a78d51aa-a1b4-45bf-8174-a0e1e59963ca"
-canonical_path: "use-cases/hedge-fund-tier-1/us-ai-chip-export-curb-hits-semis-smh.md"
+canonical_path: "usecases/byasset/equities/us-ai-chip-export-curb-hits-semis-smh.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
 -->
 
 # US AI chip export curb hits semis (SMH)
+
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 **Persona:** Tier 1 Hedge Fund  
 **Insight type:** Market Catalyst  
@@ -44,6 +46,6 @@ The PM instantly sees the move is broad, not idiosyncratic, and can decide where
 
 ---
 
-[← Back to Use Cases](../README.md)
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.
