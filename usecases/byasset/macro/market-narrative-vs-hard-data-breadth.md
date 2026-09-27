@@ -23,7 +23,7 @@ publication_mode: faithful-source-preserving
 
 > This page preserves a dated Reflexivity research output. The purpose is to show how a market narrative can be tested against multiple evidence sets rather than accepted from headlines alone.
 
-**[Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)**
+> ### [Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)
 
 ## Research question
 
