@@ -1,4 +1,4 @@
----
+<!--
 id: RX-USECASE-0002
 title: "ACV rolls out VIPER nationwide for dealer sourcing (ACVA)"
 type: use-case
@@ -14,7 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=f045e1af-ddc4-4f13
 canonical_path: "use-cases/hedge-fund-tier-3/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
----
+-->
 
 # ACV rolls out VIPER nationwide for dealer sourcing (ACVA)
 
