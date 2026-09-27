@@ -1,4 +1,4 @@
----
+<!--
 id: RX-USECASE-0012
 title: "Cardinal Health clean beat, stronger FY27 outlook (CAH)"
 type: use-case
@@ -14,7 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=f8a6a84d-9e28-4a75
 canonical_path: "use-cases/hedge-fund-tier-2/cardinal-health-clean-beat-stronger-fy27-outlook-cah.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
----
+-->
 
 # Cardinal Health clean beat, stronger FY27 outlook (CAH)
 
