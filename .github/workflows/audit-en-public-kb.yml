@@ -29,6 +29,7 @@ jobs:
           warnings = []
           stable_ids = {}
           link_re = re.compile(r'!?\[[^\]]*\]\(([^)]+)\)')
+          platform_re = re.compile(r'https://(?:app\.)?reflexivity\.com/app/', re.I)
 
           def split_metadata(text):
               if text.startswith('<!--'):
@@ -63,80 +64,8 @@ jobs:
                   else:
                       stable_ids[stable_id] = path
 
-                  is_use_case = bool(re.search(r'^type:\\s*use-case\\s*
-              for m in link_re.finditer(visible):
-                  target = m.group(1).strip()
-                  if target.startswith('<') and target.endswith('>'):
-                      target = target[1:-1]
-                  if not target or target.startswith(('http://','https://','mailto:','#','tel:')):
-                      continue
-                  target = target.split('#',1)[0].split('?',1)[0]
-                  if not target:
-                      continue
-                  resolved = (path.parent / unquote(target)).resolve()
-                  try:
-                      resolved.relative_to(Path('.').resolve())
-                  except ValueError:
-                      errors.append(f'{path}: local link escapes repository: {target}')
-                      continue
-                  if not resolved.exists():
-                      errors.append(f'{path}: broken local link/image: {target}')
-
-          if Path('.tmp').exists():
-              leftovers = [str(p) for p in Path('.tmp').rglob('*') if p.is_file()]
-              if leftovers:
-                  errors.append('.tmp contains publication leftovers: ' + ', '.join(leftovers))
-
-          print(f'Markdown files checked: {len(files)}')
-          print(f'Stable IDs checked: {len(stable_ids)}')
-          if warnings:
-              print('\nKnown legacy warnings:')
-              for item in warnings:
-                  print('WARN', item)
-          if errors:
-              print('\nAudit errors:')
-              for item in errors:
-                  print('ERROR', item)
-              raise SystemExit(1)
-          print('\nAUDIT PASSED')
-, meta, re.M | re.I))
-                  is_partner = bool(re.search(r'^source_type:\\s*partner-provided-use-case\\s*
-              for m in link_re.finditer(visible):
-                  target = m.group(1).strip()
-                  if target.startswith('<') and target.endswith('>'):
-                      target = target[1:-1]
-                  if not target or target.startswith(('http://','https://','mailto:','#','tel:')):
-                      continue
-                  target = target.split('#',1)[0].split('?',1)[0]
-                  if not target:
-                      continue
-                  resolved = (path.parent / unquote(target)).resolve()
-                  try:
-                      resolved.relative_to(Path('.').resolve())
-                  except ValueError:
-                      errors.append(f'{path}: local link escapes repository: {target}')
-                      continue
-                  if not resolved.exists():
-                      errors.append(f'{path}: broken local link/image: {target}')
-
-          if Path('.tmp').exists():
-              leftovers = [str(p) for p in Path('.tmp').rglob('*') if p.is_file()]
-              if leftovers:
-                  errors.append('.tmp contains publication leftovers: ' + ', '.join(leftovers))
-
-          print(f'Markdown files checked: {len(files)}')
-          print(f'Stable IDs checked: {len(stable_ids)}')
-          if warnings:
-              print('\nKnown legacy warnings:')
-              for item in warnings:
-                  print('WARN', item)
-          if errors:
-              print('\nAudit errors:')
-              for item in errors:
-                  print('ERROR', item)
-              raise SystemExit(1)
-          print('\nAUDIT PASSED')
-, meta, re.M | re.I))
+                  is_use_case = bool(re.search(r'^type:\s*use-case\s*$', meta, re.M | re.I))
+                  is_partner = bool(re.search(r'^source_type:\s*partner-provided-use-case\s*$', meta, re.M | re.I))
                   if is_use_case and not is_partner and not platform_re.search(visible):
                       errors.append(f'{path}: Reflexivity-created use case {stable_id} lacks visible Reflexivity platform URL')
 
