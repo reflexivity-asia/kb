@@ -1,4 +1,4 @@
----
+<!--
 id: RX-USECASE-0005
 title: "Arteris / IC-Link AI chip design (AIP)"
 type: use-case
@@ -14,7 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=c91f4ed8-e44b-4520
 canonical_path: "use-cases/hedge-fund-tier-3/arteris-ic-link-ai-chip-design-aip.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
----
+-->
 
 # Arteris / IC-Link AI chip design (AIP)
 
