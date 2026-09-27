@@ -11,12 +11,14 @@ published: 2026-08-11
 updated: 2026-09-07
 status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=f8a6a84d-9e28-4a75-9a66-b6c151be8bf7"
-canonical_path: "use-cases/hedge-fund-tier-2/cardinal-health-clean-beat-stronger-fy27-outlook-cah.md"
+canonical_path: "usecases/byasset/equities/cardinal-health-clean-beat-stronger-fy27-outlook-cah.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
 -->
 
 # Cardinal Health clean beat, stronger FY27 outlook (CAH)
+
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 **Persona:** Tier 2 Hedge Fund  
 **Insight type:** Earnings Catalyst  
@@ -44,6 +46,6 @@ A large-cap PM can size the beat off the guidance reset, weighing pharma-distrib
 
 ---
 
-[← Back to Use Cases](../README.md)
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.
