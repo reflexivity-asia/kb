@@ -23,8 +23,7 @@ publication_mode: faithful-source-preserving
 
 > This page preserves the underlying Reflexivity research and its dated market observations. The trades and levels below are historical research outputs, not current recommendations.
 
-
-**[Open the original research in Reflexivity →](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)**
+**[Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)**
 
 ## Starting point
 
@@ -96,7 +95,6 @@ It also includes a six-month horizon and an illustrative 2–3:1 risk/reward est
 
 This example shows how to move from an observed sovereign-credit anomaly to a menu of trade expressions across rates, credit, FX, equities, volatility, and basis markets while preserving explicit failure conditions rather than stopping at a market narrative.
 
-[Open in Reflexivity](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)
 
 ---
 

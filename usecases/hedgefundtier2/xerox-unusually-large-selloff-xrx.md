@@ -25,6 +25,8 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
+**[Open this research example in Reflexivity →](https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=xrx_nasd&activeInsight=e01d491b-c454-4e05-81be-bcaa9947735c)**
+
 ## Relevant
 
 This is not a news event but a systematic signal, flagging that Xerox just had an unusually large selloff.

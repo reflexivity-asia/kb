@@ -25,6 +25,8 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
+**[Open this research example in Reflexivity →](https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=gure_nasd&activeInsight=1d6ec2d3-63bf-438b-b8bd-1b214f8f19af)**
+
 ## Relevant
 
 This is the kind of under-covered micro-cap signal a solo PM has to size fast, with GURE trading near $2.85 (down 6.86% on the day) as analyst sales forecasts roll over.

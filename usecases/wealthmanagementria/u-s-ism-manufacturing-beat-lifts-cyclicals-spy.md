@@ -25,6 +25,8 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
+**[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7-8915-37c6337f4488)**
+
 ## Relevant
 
 A firmer U.S. factory read is exactly the kind of top-down signal that drives same-day client questions an advisor has to answer.

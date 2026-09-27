@@ -25,6 +25,8 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
+**[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=2b32e10c-7ca1-49ee-b740-2bda079f6579)**
+
 ## Relevant
 
 A pod PM needs a fast read on whether Palantir’s print is idiosyncratic or a broad AI-software demand signal across the group.

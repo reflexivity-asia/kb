@@ -25,6 +25,8 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
+**[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=a1e9e6f4-4865-499f-bdba-4afbf73fe75e)**
+
 ## Relevant
 
 A pod PM needs a fast, auditable reaction across a crowded semis book, which is why real-time push alerting matters for this segment.

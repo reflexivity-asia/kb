@@ -25,6 +25,8 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
+**[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=f045e1af-ddc4-4f13-8d2c-6ccf806a49f1)**
+
 ## Relevant
 
 This is exactly the kind of under-covered small-cap product catalyst a solo PM has to judge quickly, since the stock fell 14.75% to $6.36 on the day of a nationwide launch.

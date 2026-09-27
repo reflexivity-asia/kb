@@ -25,6 +25,8 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
+**[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=a78d51aa-a1b4-45bf-8174-a0e1e59963ca)**
+
 ## Relevant
 
 A pod PM needs a fast read on whether a policy headline is a broad semis de-rating or a single-name event.

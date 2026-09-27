@@ -21,8 +21,7 @@ publication_mode: faithful-source-preserving
 
 > This page preserves the logic of an actual Reflexivity research output rather than reducing it to a conclusion. The figures and market observations are tied to the original research date.
 
-
-**[Open the original research in Reflexivity →](https://app.reflexivity.com/app/alfred?conversationId=1ae89f55-bd78-4dfe-a303-65f8d4843d05&mode=research&activeHistorySidebarCategory=all)**
+**[Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?conversationId=1ae89f55-bd78-4dfe-a303-65f8d4843d05&mode=research&activeHistorySidebarCategory=all)**
 
 ## What the research tested
 
@@ -69,7 +68,6 @@ The practical lesson is to test cross-asset rules of thumb on actual time series
 
 This research shows how to move from a cross-asset intuition to a measurable test, place the current observation in historical context, and evaluate whether the apparent relationship is strong enough to deserve further use.
 
-[Open in Reflexivity](https://app.reflexivity.com/app/alfred?conversationId=1ae89f55-bd78-4dfe-a303-65f8d4843d05&mode=research&activeHistorySidebarCategory=all)
 
 ---
 

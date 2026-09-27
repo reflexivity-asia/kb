@@ -23,8 +23,7 @@ publication_mode: faithful-source-preserving
 
 > This page preserves a dated Reflexivity research output and its limitations. One statistic in the source appears to require revalidation, so the results below should not be treated as independently verified historical facts.
 
-
-**[Open the original research in Reflexivity →](https://app.reflexivity.com/app/alfred?conversationId=5c412f9a-ea78-4c81-8911-f0419ddeefd8&mode=research&activeHistorySidebarCategory=all)**
+**[Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?conversationId=5c412f9a-ea78-4c81-8911-f0419ddeefd8&mode=research&activeHistorySidebarCategory=all)**
 
 ## Research question
 
@@ -79,7 +78,6 @@ Because the source itself contains at least one statistic that appears questiona
 
 This example shows both the value and the limits of automated hypothesis testing: Reflexivity can structure the historical test and expose false positives, while the analyst still has to interrogate surprising statistics and validate the data definition before treating the output as established evidence.
 
-[Open in Reflexivity](https://app.reflexivity.com/app/alfred?conversationId=5c412f9a-ea78-4c81-8911-f0419ddeefd8&mode=research&activeHistorySidebarCategory=all)
 
 ---
 

@@ -25,6 +25,8 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
+**[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=f8a6a84d-9e28-4a75-9a66-b6c151be8bf7)**
+
 ## Relevant
 
 Cardinal Health posted a clean beat, EPS $2.91 (up 20.25% versus consensus) with above-consensus FY2027 guidance, and the stock is up 3.16% since the Aug 7 close.

@@ -25,6 +25,8 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
+**[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=5999b612-16b0-4475-ad47-8cf24a5ac845)**
+
 ## Relevant
 
 A gold selloff triggers a wave of same-day client questions that an advisor with no research team still has to answer quickly.

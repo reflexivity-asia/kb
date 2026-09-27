@@ -25,6 +25,8 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
+**[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=c2e84322-21f6-47be-b74e-b67101f8f052)**
+
 ## Relevant
 
 A Tier 2 PM has to size a large-cap REIT print fast when the headline and the operating metrics disagree.

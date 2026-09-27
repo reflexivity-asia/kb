@@ -25,6 +25,8 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
+**[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=601e0300-50c3-4ed9-900c-82627746f1ec)**
+
 ## Relevant
 
 A large-cap beat-and-raise moves an entire book, and a Tier 2 PM needs a fast read on whether the debate shifts from demand to durability.

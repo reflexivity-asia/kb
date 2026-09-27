@@ -23,8 +23,7 @@ publication_mode: faithful-source-preserving
 
 > This page preserves a dated Reflexivity research output. The purpose is to show how a market narrative can be tested against multiple evidence sets rather than accepted from headlines alone.
 
-
-**[Open the original research in Reflexivity →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)**
+**[Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)**
 
 ## Research question
 
@@ -97,7 +96,6 @@ The result may be confirmation, contradiction, or narrow support. The objective 
 
 This example shows how to measure narrative breadth across independent evidence sets and identify when a strong headline environment is not matched by equally broad market or economic confirmation.
 
-[Open in Reflexivity](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)
 
 ---
 

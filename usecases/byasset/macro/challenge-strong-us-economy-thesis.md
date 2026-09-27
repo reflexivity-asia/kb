@@ -23,8 +23,7 @@ publication_mode: faithful-source-preserving
 
 > This page preserves the underlying Reflexivity research and its dated observations. It is a worked example of testing an investment thesis rather than a current macro forecast.
 
-
-**[Open the original research in Reflexivity →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=4fa62dde-58f4-4b3b-b433-837634dc84fb&scrollTo=top)**
+**[Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=4fa62dde-58f4-4b3b-b433-837634dc84fb&scrollTo=top)**
 
 ## Starting question
 
@@ -114,7 +113,6 @@ A reusable sequence is:
 
 This example shows how a macro thesis can be pressure-tested across demand, labor, surveys, credit, and rates while preserving contradictory evidence instead of smoothing it into a single narrative.
 
-[Open in Reflexivity](https://app.reflexivity.com/app/alfred?mode=research&conversationId=4fa62dde-58f4-4b3b-b433-837634dc84fb&scrollTo=top)
 
 ---
 

@@ -25,6 +25,8 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
+**[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=887570bf-d204-467d-a72e-050fd3e96dce)**
+
 ## Relevant
 
 A fatal Bab el-Mandeb attack revives Red Sea chokepoint risk, lifting energy, freight and insurance costs and pressuring oil-importing, trade-sensitive emerging markets, with EEM near $65.62 (+0.69%) as a liquid sentiment gauge.

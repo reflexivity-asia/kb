@@ -25,6 +25,8 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
+**[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=b399a5e0-60b3-4bec-ab37-75b77577727a)**
+
 ## Relevant
 
 This is a slow-burn fundamental deal that closes in fiscal Q1 2027, which suits a patient buy-and-hold horizon.

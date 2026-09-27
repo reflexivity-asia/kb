@@ -25,6 +25,8 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
+**[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=0f64c0ff-bc65-4ff1-a313-fca5ad8e916b)**
+
 ## Relevant
 
 A guidance revision sent the stock up 19 percent, and the PM needs a fast read on whether the move is actually supported.

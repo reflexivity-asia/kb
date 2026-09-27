@@ -25,6 +25,8 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
+**[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=0b72cda9-18ac-423b-86d4-8b04b7fe2394)**
+
 ## Relevant
 
 A small bolt-on AI acquisition is exactly the kind of under-covered move a solo founder-PM would otherwise have to piece together manually.

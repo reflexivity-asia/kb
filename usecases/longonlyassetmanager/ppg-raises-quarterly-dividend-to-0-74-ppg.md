@@ -25,6 +25,8 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
+**[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=244bc038-44f5-4292-93b3-def717033967)**
+
 ## Relevant
 
 A dividend raise is a clean, low-noise signal for a quality-focused, buy-and-hold mandate that cares more about durable capital returns than a one-day move.

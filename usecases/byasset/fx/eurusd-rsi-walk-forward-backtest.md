@@ -22,8 +22,7 @@ publication_mode: faithful-source-preserving
 
 > This page preserves the underlying Reflexivity research while incorporating the reasoning bridges validated in the reviewed Japanese edition. Figures and market conditions are historical snapshots from the original research, not current investment advice.
 
-
-**[Open the original research in Reflexivity →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)**
+**[Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)**
 
 ## Research objective
 
@@ -97,7 +96,6 @@ The calibration-best setting itself is less important than whether the result su
 
 This example preserves a reusable research process: the question, test design, parameter sweep, out-of-sample challenge, limitations, and the interpretation of what failed to hold up.
 
-[Open in Reflexivity](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)
 
 ---
 

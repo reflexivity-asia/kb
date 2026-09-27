@@ -25,6 +25,8 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
+**[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=0474081c-861c-4cde-b075-59834514aba0)**
+
 ## Relevant
 
 A pod PM needs a fast, auditable read across a crowded semis book when the group de-rates even as bellwethers beat — exactly this segment’s pain point.

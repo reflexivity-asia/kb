@@ -15,6 +15,8 @@ source_text_status: canonicalized_from_reviewed_ja_rendering
 **Author:** Reflexivity Research  
 **Primary asset classes:** Multi-asset, macro, equities, fixed income
 
+**[Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=98829b32-be9b-4e02-8064-0901c5b6d28b&scrollTo=top)**
+
 ## Research question
 
 Read the day's news and reduce the flow to five investment ideas that are worth studying further.
@@ -42,7 +44,6 @@ Macro developments, policy changes, company news, commodities, rates, and FX can
 
 The value is in the **prioritization step**: rather than treating every headline as equally important, the workflow produces a manageable set of hypotheses or themes to investigate next.
 
-[Open in Reflexivity](https://app.reflexivity.com/app/alfred?mode=research&conversationId=98829b32-be9b-4e02-8064-0901c5b6d28b&scrollTo=top)
 
 ---
 

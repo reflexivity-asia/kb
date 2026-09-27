@@ -25,6 +25,8 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
+**[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=2eec06f6-3e35-4c79-b5ac-06c25801084b)**
+
 ## Relevant
 
 Middleby beat and raised, EPS $2.35 (up 10.33%) on revenue up 17.15% to $876M, yet the stock fell 8.59% since the Aug 7 close after the Food Processing separation.

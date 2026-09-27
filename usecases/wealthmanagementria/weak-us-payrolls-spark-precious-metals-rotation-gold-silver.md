@@ -25,6 +25,8 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
+**[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=c60cffb0-8926-444e-bedd-088ede75e998)**
+
 ## Relevant
 
 A soft payrolls print is the kind of top-down macro move clients ask about the same day, and it resets the rates-and-dollar backdrop.

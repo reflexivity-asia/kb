@@ -16,6 +16,8 @@ publication_mode: faithful-source-preserving
 **Author:** Reflexivity Research  
 **Primary assets:** Fixed Income, Rates, FX, Multi-Asset
 
+**[Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?conversationId=13b510d0-1f45-45bd-bbbf-c2c978fd3b9a&mode=research&activeHistorySidebarCategory=all)**
+
 ## Research question
 
 Compare the movement in EUR/USD with the movement in the spread between EUR swaps and USD swaps, and examine how changes in FX correspond to changes in relative rates pricing.
@@ -37,7 +39,6 @@ This workflow is useful when an analyst does not want to explain EUR/USD only th
 
 For a rates investor, it connects changes in swap pricing to the currency market. For a multi-asset investor, it is a compact example of testing the same macro hypothesis across two market expressions.
 
-[Open in Reflexivity](https://app.reflexivity.com/app/alfred?conversationId=13b510d0-1f45-45bd-bbbf-c2c978fd3b9a&mode=research&activeHistorySidebarCategory=all)
 
 ---
 

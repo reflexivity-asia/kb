@@ -25,6 +25,8 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
+**[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=5f4fe1ef-07db-480b-955d-7f145a8cf723)**
+
 ## Relevant
 
 This is a quality compounder where the long-term hold decision turns on capital allocation and margin execution, not the headline beat.

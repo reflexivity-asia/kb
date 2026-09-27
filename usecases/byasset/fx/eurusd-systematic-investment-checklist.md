@@ -23,8 +23,7 @@ publication_mode: faithful-source-preserving
 
 > This page preserves the research logic and dated market observations from the source while incorporating the reasoning bridges validated in the reviewed Japanese edition. Figures and market conditions are historical snapshots from the original research, not current investment advice.
 
-
-**[Open the original research in Reflexivity →](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)**
+**[Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)**
 
 ## Research objective
 
@@ -134,7 +133,6 @@ The value of the checklist is not that it should always produce the same conclus
 
 This example shows a reusable research process rather than only a final call: the starting question, data layers, supporting and contradictory evidence, explicit assumptions, scenario framing, and the conditions that would change the view.
 
-[Open in Reflexivity](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)
 
 ---
 
