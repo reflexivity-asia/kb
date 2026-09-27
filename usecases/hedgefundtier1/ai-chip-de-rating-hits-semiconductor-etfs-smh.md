@@ -1,4 +1,4 @@
----
+<!--
 id: RX-USECASE-0022
 title: "AI-chip de-rating hits semiconductor ETFs (SMH)"
 type: use-case
@@ -14,7 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=0474081c-861c-4cde
 canonical_path: "use-cases/hedge-fund-tier-1/ai-chip-de-rating-hits-semiconductor-etfs-smh.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
----
+-->
 
 # AI-chip de-rating hits semiconductor ETFs (SMH)
 
