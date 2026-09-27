@@ -11,12 +11,14 @@ published: 2026-08-11
 updated: 2026-09-07
 status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=37ec34a5-3c1d-40cc-b7de-76ea7f842999"
-canonical_path: "use-cases/hedge-fund-tier-1/nvidia-launches-500b-ai-infrastructure-funding-push-nvda.md"
+canonical_path: "usecases/byasset/equities/nvidia-launches-500b-ai-infrastructure-funding-push-nvda.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
 -->
 
 # Nvidia launches $500B AI infrastructure funding push (NVDA)
+
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 **Persona:** Tier 1 Hedge Fund  
 **Insight type:** Company Catalyst  
@@ -44,6 +46,6 @@ A pod can express the theme broadly across semis, power and data-center names, s
 
 ---
 
-[← Back to Use Cases](../README.md)
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.
