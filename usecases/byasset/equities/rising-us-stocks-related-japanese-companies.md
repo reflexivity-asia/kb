@@ -100,12 +100,8 @@ The workflow can be extended by tracing competitors and suppliers for specific U
 
 ---
 
-This content was provided by QUICK Inc.
+This content was provided by QUICK.
 
 Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
-
----
-
-This content was provided by QUICK.

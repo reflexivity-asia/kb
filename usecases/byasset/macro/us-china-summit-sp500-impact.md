@@ -75,12 +75,8 @@ The historical pattern in the source is that summits with meaningful trade-polic
 
 ---
 
-This content was provided by QUICK Inc.
+This content was provided by QUICK.
 
 Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
-
----
-
-This content was provided by QUICK.
