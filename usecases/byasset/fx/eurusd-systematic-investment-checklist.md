@@ -23,6 +23,9 @@ publication_mode: faithful-source-preserving
 
 > This page preserves the research logic and dated market observations from the source while incorporating the reasoning bridges validated in the reviewed Japanese edition. Figures and market conditions are historical snapshots from the original research, not current investment advice.
 
+
+**[Open the original research in Reflexivity →](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)**
+
 ## Research objective
 
 The source does not ask Reflexivity to simply “research EUR/USD.” Instead, it turns the questions a PM wants to revisit into a repeatable checklist so that the same decision process can be updated over time. The source research was last updated on **August 28, 2025**.

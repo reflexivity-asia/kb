@@ -22,6 +22,9 @@ publication_mode: faithful-source-preserving
 
 > This page preserves the underlying Reflexivity research while incorporating the reasoning bridges validated in the reviewed Japanese edition. Figures and market conditions are historical snapshots from the original research, not current investment advice.
 
+
+**[Open the original research in Reflexivity →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)**
+
 ## Research objective
 
 An RSI strategy can look attractive if a particular lookback period or threshold is chosen after seeing the historical data. A single “best parameter” therefore does not tell us whether the strategy has a repeatable edge or is simply overfit to the sample.

@@ -23,6 +23,9 @@ publication_mode: faithful-source-preserving
 
 > This page preserves the underlying Reflexivity research and its dated observations. It is a worked example of testing an investment thesis rather than a current macro forecast.
 
+
+**[Open the original research in Reflexivity →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=4fa62dde-58f4-4b3b-b433-837634dc84fb&scrollTo=top)**
+
 ## Starting question
 
 The research does not try to collect evidence for the headline view that “the US economy is strong.” It asks **where that view is beginning to break down**.

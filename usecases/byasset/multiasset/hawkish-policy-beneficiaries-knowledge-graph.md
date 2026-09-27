@@ -21,6 +21,9 @@ publication_mode: faithful-source-preserving
 
 > This page preserves the structure and limitations of an actual Reflexivity research output. The point is not to claim that every graph link implies direct earnings sensitivity, but to show how a macro view can be translated into a research universe.
 
+
+**[Open the original research in Reflexivity →](https://app.reflexivity.com/app/alfred?conversationId=9e6182f9-1853-4fdd-8ec4-f5b2a42fcfab&mode=research&activeHistorySidebarCategory=all)**
+
 ## Research question
 
 Instead of stopping at “hawkish policy means higher rates,” the research traced the idea through three levels:

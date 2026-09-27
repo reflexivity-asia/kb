@@ -23,6 +23,9 @@ publication_mode: faithful-source-preserving
 
 > This page preserves the underlying Reflexivity research and its dated market observations. The trades and levels below are historical research outputs, not current recommendations.
 
+
+**[Open the original research in Reflexivity →](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)**
+
 ## Starting point
 
 The source begins with an unusual relationship between French sovereign yields and high-quality French corporate yields, alongside elevated political risk. The research question is not only whether the dislocation is meaningful, but **how that view could be expressed across different markets**.

@@ -23,6 +23,9 @@ publication_mode: faithful-source-preserving
 
 > This page preserves a dated Reflexivity research output. The purpose is to show how a market narrative can be tested against multiple evidence sets rather than accepted from headlines alone.
 
+
+**[Open the original research in Reflexivity →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)**
+
 ## Research question
 
 **Is the narrative that “the US economy is strong” supported by broad evidence, or is it being carried by a smaller number of strong headline observations?**

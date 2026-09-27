@@ -23,6 +23,9 @@ publication_mode: faithful-source-preserving
 
 > This page preserves a dated Reflexivity research output and its limitations. One statistic in the source appears to require revalidation, so the results below should not be treated as independently verified historical facts.
 
+
+**[Open the original research in Reflexivity →](https://app.reflexivity.com/app/alfred?conversationId=5c412f9a-ea78-4c81-8911-f0419ddeefd8&mode=research&activeHistorySidebarCategory=all)**
+
 ## Research question
 
 **Has an inversion of the US 2-year / 10-year Treasury spread historically predicted a recession nine to twelve months later?**

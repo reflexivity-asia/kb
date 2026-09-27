@@ -23,6 +23,9 @@ publication_mode: faithful-source-preserving
 
 > This source is a correction follow-up, not the complete original research package. The page preserves the corrected screening table and decision logic that were actually provided rather than reconstructing missing earlier output.
 
+
+**[Open the original research in Reflexivity →](https://app.reflexivity.com/app/alfred?conversationId=7a3cccb2-8503-4530-b85b-34386f208480&mode=research&activeHistorySidebarCategory=all)**
+
 ## What this source corrects
 
 The earlier output had a mismatch between some displayed trade labels and the underlying logic. This follow-up corrects that inconsistency.
