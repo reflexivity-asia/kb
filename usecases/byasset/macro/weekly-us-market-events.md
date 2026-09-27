@@ -3,7 +3,6 @@ id: RX-USECASE-0042
 type: use-case
 language: en
 locale: en
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-09-08
 status: published
@@ -16,8 +15,7 @@ publication_mode: faithful-source-preserving
 
 # Prioritize the Week's US Market Events by Likely Impact
 
-**Author:** QUICK Inc.  
-**Provided:** September 8, 2026  
+**Provided:** 2026-09-08
 **Primary assets:** Macro, Equities, Fixed Income, FX  
 **Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Fund Tier 2
 
@@ -90,5 +88,9 @@ If the market reaction differs from the event's pre-assigned importance, that it
 This example converts a weekly macro calendar into a ranked monitoring plan: policy-moving events first, confirming or contradictory data second, and market-specific supply or sector inputs third.
 
 ---
+
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

@@ -3,7 +3,6 @@ id: RX-USECASE-0049
 type: use-case
 language: en
 locale: en
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-09-03
 status: published
@@ -16,8 +15,7 @@ publication_mode: faithful-source-preserving
 
 # Use Market Catalyst to Triage the Beige Book
 
-**Author:** QUICK Inc.  
-**Provided:** September 3, 2026  
+**Provided:** 2026-09-03
 **Primary assets:** Macro, Equities, Fixed Income  
 **Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Fund Tier 1
 
@@ -61,5 +59,9 @@ The reviewed Japanese publication contains a verified QUICK source screenshot sh
 This is a workflow example for moving from a broad information source into a prioritized research path: configure the relevant coverage, identify the important catalyst, read the analysis, and use it to select the next question.
 
 ---
+
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

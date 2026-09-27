@@ -3,7 +3,6 @@ id: RX-USECASE-0051
 type: use-case
 language: en
 locale: en
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-08-05
 status: published
@@ -16,8 +15,7 @@ publication_mode: faithful-source-preserving
 
 # Compare the S&P 500 with the Russell 2000 and Identify Small-Cap Leaders
 
-**Author:** QUICK Inc.  
-**Provided:** August 5, 2026  
+**Provided:** 2026-08-05
 **Primary asset:** Equities  
 **Intended users:** Long-only Asset Managers, Hedge Fund Tier 2, Hedge Fund Tier 3
 
@@ -77,5 +75,9 @@ Start with the size rotation, identify where the returns came from, then test wh
 Because the original private Research result is not reconstructed here, this page demonstrates only the reusable analytical sequence supported by the source question: **benchmark comparison → leader extraction → catalyst analysis → interpretation of breadth**.
 
 ---
+
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

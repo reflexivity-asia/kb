@@ -3,7 +3,6 @@ id: RX-USECASE-0039
 type: use-case
 language: en
 locale: en
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-06-18
 status: published
@@ -16,8 +15,7 @@ publication_mode: faithful-source-preserving
 
 # Structure Complex Research with Long-Form Instructions
 
-**Author:** QUICK Inc.  
-**Provided:** June 18, 2026  
+**Provided:** 2026-06-18
 **Primary assets:** Macro, Equities, Multi-Asset  
 **Intended users:** Long-only Asset Managers, Hedge Fund Tier 1, Hedge Fund Tier 2
 
@@ -94,5 +92,9 @@ If the resulting research misses the user's intent, this structure also makes it
 This workflow shows how to design the research process in the prompt itself so that complex multi-step analysis remains connected to the final decision question rather than becoming a collection of unrelated facts.
 
 ---
+
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

@@ -3,7 +3,6 @@ id: RX-USECASE-0045
 type: use-case
 language: en
 locale: en
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-09-14
 status: published
@@ -15,8 +14,7 @@ publication_mode: faithful-source-preserving
 
 # Compare oil-price surges by regime and trace the sector impact
 
-**Author:** QUICK Corporation  
-**Provided:** 2026-09-14  
+**Provided:** 2026-09-14
 **Primary asset classes:** Commodities, equities, macro, multi-asset
 
 > This page preserves a use case provided by QUICK while removing customer, recipient, signature, and private-link information. Market levels and interpretations are a dated snapshot from the source material, not a current forecast.
@@ -111,5 +109,9 @@ To update the analysis, monitor variables such as:
 This is a cross-asset framework for separating apparently similar commodity rallies by cause, then tracing those differences into sector and company sensitivity.
 
 ---
+
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

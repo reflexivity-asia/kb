@@ -3,7 +3,6 @@ id: RX-USECASE-0056
 type: use-case
 language: en
 locale: en
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-08-18
 status: published
@@ -16,8 +15,7 @@ publication_mode: faithful-source-preserving
 
 # Build a Research Workflow Around US Retail Earnings Week
 
-**Author:** QUICK Inc.  
-**Provided:** August 18, 2026  
+**Provided:** 2026-08-18
 **Primary asset:** Equities  
 **Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Fund Tier 2, Hedge Fund Tier 3
 
@@ -112,5 +110,9 @@ The goal is to move from isolated stock reactions to a cross-company view of the
 This example links an event calendar to pre-event preparation, post-event review, cross-company pattern detection, and finally a broader consumer / market-sentiment question.
 
 ---
+
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

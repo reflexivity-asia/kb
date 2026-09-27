@@ -3,7 +3,6 @@ id: RX-USECASE-0043
 type: use-case
 language: en
 locale: en
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-08-03
 status: published
@@ -16,8 +15,7 @@ publication_mode: faithful-source-preserving
 
 # Find the Common Drivers Behind Last Week's Strongest Equity Themes
 
-**Author:** QUICK Inc.  
-**Provided:** August 3, 2026  
+**Provided:** 2026-08-03
 **Primary asset:** Equities  
 **Intended users:** Long-only Asset Managers, Hedge Fund Tier 2, Hedge Fund Tier 3
 
@@ -90,5 +88,9 @@ Do not label a short-term winner as a structurally strong theme from the weekly 
 This example moves from “what went up?” to “why did these groups move together?” by combining short-term momentum, constituent overlap, factor characteristics, and a longer performance history.
 
 ---
+
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

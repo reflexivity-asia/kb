@@ -3,7 +3,6 @@ id: RX-USECASE-0059
 type: use-case
 language: en
 locale: en
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-03-02
 status: published
@@ -15,8 +14,7 @@ publication_mode: faithful-source-preserving
 
 # Analyze the cross-asset impact of an Iran-attack scenario
 
-**Author:** QUICK Corporation  
-**Provided:** 2026-03-02  
+**Provided:** 2026-03-02
 **Primary asset classes:** Commodities, equities, FX, fixed income, macro, multi-asset
 
 > This page preserves a dated, conditional scenario analysis provided by QUICK on 2026-03-02. It is not a current geopolitical forecast or investment recommendation. The useful part of the use case is the research structure: establish the starting point, separate short- and medium-horizon transmission, compare with historical stress episodes, and identify the variables that would change the scenario.
@@ -129,5 +127,9 @@ The reviewed Japanese source includes three verified visuals: normalized one-yea
 This is a scenario-analysis template for turning a geopolitical shock into a cross-asset research process while keeping the starting point, time horizon, transmission mechanism, historical calibration, and scenario-invalidating conditions explicit.
 
 ---
+
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

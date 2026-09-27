@@ -3,7 +3,6 @@ id: RX-USECASE-0038
 type: use-case
 language: en
 locale: en
-author: QUICK
 provider: QUICK Inc.
 source_created: 2026-05-15
 provided: 2026-05-15
@@ -16,8 +15,7 @@ publication_mode: faithful-source-preserving
 
 # Compare the Themes Leading US and Japanese Equities
 
-**Author:** QUICK  
-**Provided:** May 15, 2026  
+**Provided:** 2026-05-15
 **Primary assets:** Equities, Multi-Asset
 
 > This page is based on a QUICK use case. Customer and recipient information, signatures, and private Research URLs have been removed while preserving the source question, evidence, analytical sequence, and limitations as closely as possible. Figures and market conditions are historical snapshots from the source period.
@@ -123,5 +121,9 @@ The reviewed Japanese publication contains a verified QUICK source figure for th
 This workflow compares two equity markets at the theme level without assuming that a shared headline theme implies the same investable exposure. It moves from normalized performance to common themes, value-chain differences, company-level evidence, and the next fundamental questions to investigate.
 
 ---
+
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

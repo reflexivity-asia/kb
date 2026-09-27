@@ -3,7 +3,6 @@ id: RX-USECASE-0055
 type: use-case
 language: en
 locale: en
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-08-17
 status: published
@@ -15,8 +14,7 @@ publication_mode: faithful-source-preserving
 
 # Trace news into themes, countries, and companies with Market Catalyst
 
-**Author:** QUICK Corporation  
-**Provided:** 2026-08-17  
+**Provided:** 2026-08-17
 **Primary asset classes:** Equities, macro, multi-asset
 
 > This page preserves a QUICK-provided use case while removing customer, recipient, signature, and private-link information.
@@ -84,5 +82,9 @@ The reviewed Japanese source includes verified Market Catalyst screenshots for t
 This workflow shows how to move from a filtered market event into its possible transmission paths, then convert those paths into concrete follow-up research targets.
 
 ---
+
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

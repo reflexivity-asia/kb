@@ -3,7 +3,6 @@ id: RX-USECASE-0041
 type: use-case
 language: en
 locale: en
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-09-15
 status: published
@@ -16,8 +15,7 @@ publication_mode: faithful-source-preserving
 
 # Frame FOMC Rate-Hike Scenarios Before the Meeting
 
-**Author:** QUICK Inc.  
-**Provided:** September 15, 2026  
+**Provided:** 2026-09-15
 **Primary assets:** Macro, Fixed Income, FX, Multi-Asset  
 **Intended users:** Long-only Asset Managers, Hedge Fund Tier 1, Wealth Management / RIA
 
@@ -82,5 +80,9 @@ That turns a meeting preview into a repeatable pre/post-event research process r
 This example shows how to organize event risk around the macro constraints, what is already priced, alternative policy paths, and the communication that would validate or invalidate each path.
 
 ---
+
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

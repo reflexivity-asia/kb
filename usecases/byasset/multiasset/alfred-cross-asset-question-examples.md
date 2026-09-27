@@ -3,7 +3,6 @@ id: RX-USECASE-0058
 type: use-case
 language: en
 locale: en
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-02-12
 status: published
@@ -15,8 +14,7 @@ publication_mode: faithful-source-preserving
 
 # Use Alfred across housing, precious metals, equities, and credit risk
 
-**Author:** QUICK Corporation  
-**Provided:** 2026-02-12  
+**Provided:** 2026-02-12
 **Primary asset classes:** Equities, fixed income, commodities, crypto, macro, multi-asset
 
 > This page preserves examples provided by QUICK while removing customer, recipient, signature, and private Conversation URLs. The examples show the breadth of questions that can be investigated in Alfred; any numerical results below are dated source outputs.
@@ -79,5 +77,9 @@ The value of the page is breadth: Alfred can be used for questions that begin in
 The common pattern is to start with a concrete question, identify the transmission mechanism, and then choose the next market or entity that needs to be tested.
 
 ---
+
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

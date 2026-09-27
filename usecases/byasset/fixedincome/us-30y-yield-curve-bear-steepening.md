@@ -3,7 +3,6 @@ id: RX-USECASE-0053
 type: use-case
 language: en
 locale: en
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-08-19
 status: published
@@ -16,8 +15,7 @@ publication_mode: faithful-source-preserving
 
 # Read a Rise in the US 30-Year Yield Through the Full Yield Curve
 
-**Author:** QUICK Inc.  
-**Provided:** August 19, 2026  
+**Provided:** 2026-08-19
 **Primary assets:** Fixed Income, Macro  
 **Intended users:** Long-only Asset Managers, Hedge Fund Tier 1
 
@@ -115,5 +113,9 @@ In a situation where the policy rate is stable but long yields continue to rise,
 This use case shows how to expand a headline move in one maturity into full-curve analysis, distinguish measurement windows, and use historical policy regimes to identify when fiscal, supply, or term-premium factors deserve more attention.
 
 ---
+
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

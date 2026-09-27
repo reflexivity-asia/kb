@@ -3,7 +3,6 @@ id: RX-USECASE-0054
 type: use-case
 language: en
 locale: en
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-08-20
 status: published
@@ -15,8 +14,7 @@ publication_mode: faithful-source-preserving
 
 # Trace how higher US long-term rates transmit into Japanese markets
 
-**Author:** QUICK Corporation  
-**Provided:** 2026-08-20  
+**Provided:** 2026-08-20
 **Primary asset classes:** Fixed income, equities, FX, macro, multi-asset
 
 > This page preserves a QUICK-provided use case while removing customer, recipient, signature, and private-link information. Market levels and interpretations are a dated snapshot from the source material.
@@ -109,5 +107,9 @@ Instead, update the links in sequence:
 This is a reusable cross-asset workflow for tracing a foreign rates shock through yield differentials, currency, monetary-policy response, and domestic sector performance.
 
 ---
+
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

@@ -3,7 +3,6 @@ id: RX-USECASE-0040
 type: use-case
 language: en
 locale: en
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-09-01
 status: published
@@ -16,8 +15,7 @@ publication_mode: faithful-source-preserving
 
 # Compare 10-Year Government-Bond Yields Across Major Markets
 
-**Author:** QUICK Inc.  
-**Provided:** September 1, 2026  
+**Provided:** 2026-09-01
 **Primary assets:** Fixed Income, Macro  
 **Intended users:** Long-only Asset Managers, Hedge Fund Tier 1, Wealth Management / RIA
 
@@ -84,5 +82,9 @@ A useful next step is to add each market's policy-rate outlook, inflation, fisca
 This workflow turns a simple cross-country yield snapshot into a comparative research process: normalize maturity and period, distinguish level from change, identify the common global move, and then isolate the policy and macro factors that explain country-level divergence.
 
 ---
+
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

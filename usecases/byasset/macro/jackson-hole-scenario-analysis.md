@@ -3,7 +3,6 @@ id: RX-USECASE-0060
 type: use-case
 language: en
 locale: en
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-08-21
 status: published
@@ -16,8 +15,7 @@ publication_mode: faithful-source-preserving
 
 # Frame Jackson Hole Speech Scenarios and Possible Market Reactions
 
-**Author:** QUICK Inc.  
-**Provided:** August 21, 2026  
+**Provided:** 2026-08-21
 **Primary assets:** Macro, Fixed Income, Equities, FX  
 **Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Fund Tier 1
 
@@ -121,5 +119,9 @@ After the speech, compare the actual communication with those pre-defined scenar
 This example shows how to prepare for a policy event without reducing the task to “predict the speech”: identify why the event matters, define alternative scenarios, measure what is already priced, calibrate reaction size, and connect the result to the next policy decision.
 
 ---
+
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

@@ -3,7 +3,6 @@ id: RX-USECASE-0046
 type: use-case
 language: en
 locale: en
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-09-11
 status: published
@@ -16,8 +15,7 @@ publication_mode: faithful-source-preserving
 
 # Test AAPL's Price Pattern Around iPhone Launches
 
-**Author:** QUICK Inc.  
-**Provided:** September 11, 2026  
+**Provided:** 2026-09-11
 **Primary asset:** Equities  
 **Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Fund Tier 2, Hedge Fund Tier 3
 
@@ -104,5 +102,9 @@ The reviewed Japanese publication contains a verified QUICK source visual for th
 This example uses repeated corporate events as a historical control set, compares the current reaction with that baseline, tests the difference against competing explanations, and identifies the operating data needed for the next update.
 
 ---
+
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

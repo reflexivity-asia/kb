@@ -3,7 +3,6 @@ id: RX-USECASE-0048
 type: use-case
 language: en
 locale: en
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-09-10
 status: published
@@ -16,8 +15,7 @@ publication_mode: faithful-source-preserving
 
 # Analyze the US IPO Market Through Completed Deals and the Forward Pipeline
 
-**Author:** QUICK Inc.  
-**Provided:** September 10, 2026  
+**Provided:** 2026-09-10
 **Primary assets:** Equities, Macro  
 **Intended users:** Long-only Asset Managers, Hedge Fund Tier 1, Hedge Fund Tier 2, Hedge Fund Tier 3
 
@@ -113,5 +111,9 @@ The QUICK research combined listed-market time series, IPO reporting, prediction
 This example treats the IPO market as a supply-and-demand system: assess realized deal quality first, then the forward pipeline, and finally the effect of issuance concentration on broader capital allocation.
 
 ---
+
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Equities use cases](README.md) · [Macro use cases](../macro/README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

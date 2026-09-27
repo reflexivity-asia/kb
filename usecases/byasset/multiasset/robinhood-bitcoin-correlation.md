@@ -3,7 +3,6 @@ id: RX-USECASE-0050
 type: use-case
 language: en
 locale: en
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-08-24
 status: published
@@ -15,8 +14,7 @@ publication_mode: faithful-source-preserving
 
 # Test the price relationship between Robinhood and Bitcoin
 
-**Author:** QUICK Corporation  
-**Provided:** 2026-08-24  
+**Provided:** 2026-08-24
 **Primary asset classes:** Equities, crypto, multi-asset
 
 > This page preserves a QUICK-provided use case while removing customer, recipient, signature, and private-link information. Figures and market observations are a dated snapshot from the source material.
@@ -98,5 +96,9 @@ Instead, monitor when the relationship is stable and when it breaks. Useful foll
 This workflow moves from apparent cross-asset co-movement to return-based correlation, then actively searches for the periods that break the relationship.
 
 ---
+
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

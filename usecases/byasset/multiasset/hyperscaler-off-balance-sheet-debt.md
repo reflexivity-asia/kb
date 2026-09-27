@@ -3,7 +3,6 @@ id: RX-USECASE-0052
 type: use-case
 language: en
 locale: en
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-08-05
 status: published
@@ -15,8 +14,7 @@ publication_mode: faithful-source-preserving
 
 # Analyze hyperscaler off-balance-sheet obligations
 
-**Author:** QUICK Corporation  
-**Provided:** 2026-08-05  
+**Provided:** 2026-08-05
 **Primary asset classes:** Equities, fixed income, multi-asset
 
 > The source material provided a private Research link. This public page does not reconstruct or guess the private result. It preserves the original question and explains the research framework implied by that question.
@@ -87,5 +85,9 @@ This framework can also be applied beyond hyperscalers to data-center operators,
 The private Research result is not reproduced here. The public value of the use case is the analytical structure for separating different contractual obligations before connecting them to equity and credit risk.
 
 ---
+
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

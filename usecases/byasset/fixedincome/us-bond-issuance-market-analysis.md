@@ -20,7 +20,7 @@ publication_mode: faithful-source-preserving
 
 [← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 
-**Provided:** 2026-09-25  
+**Provided:** 2026-09-25
 **Primary assets:** Fixed Income, Macro
 
 > This page is based on a use case provided by QUICK Inc. Customer names, recipients, email addresses, signatures, and other private correspondence details have been removed while preserving the research flow, evidence, and conclusions as closely as possible. Figures and market conditions are snapshots as of the provided date.
@@ -102,3 +102,7 @@ This content was provided by QUICK Inc.
 Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
+
+---
+
+This content was provided by QUICK.

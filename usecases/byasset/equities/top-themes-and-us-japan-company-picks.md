@@ -3,7 +3,6 @@ id: RX-USECASE-0047
 type: use-case
 language: en
 locale: en
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2025-12-26
 status: published
@@ -16,8 +15,7 @@ publication_mode: faithful-source-preserving
 
 # Turn Strong Themes into US and Japanese Company Candidates
 
-**Author:** QUICK Inc.  
-**Provided:** December 26, 2025  
+**Provided:** 2025-12-26
 **Primary asset:** Equities  
 **Intended users:** Long-only Asset Managers, Hedge Fund Tier 2, Hedge Fund Tier 3
 
@@ -129,5 +127,9 @@ The reviewed Japanese publication contains a verified QUICK source screen for th
 This workflow starts with market leadership and turns it into a cross-market research universe. It is useful for discovering less-obvious company candidates before applying investability, fundamentals, and valuation filters.
 
 ---
+
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
