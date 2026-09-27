@@ -11,12 +11,14 @@ published: 2026-07-16
 updated: 2026-09-07
 status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=281b5785-16b7-4f17-a5ae-621b8b3ec534"
-canonical_path: "use-cases/hedge-fund-tier-2/unh-q2-beat-and-guidance-raise-unh.md"
+canonical_path: "usecases/byasset/equities/unh-q2-beat-and-guidance-raise-unh.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
 -->
 
 # UNH Q2 beat and guidance raise (UNH)
+
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 **Persona:** Tier 2 Hedge Fund  
 **Insight type:** Earnings Catalyst  
@@ -44,6 +46,6 @@ The PM gets the numbers ready to act on — Q2 EPS $6.38 vs $4.85 est., revenue 
 
 ---
 
-[← Back to Use Cases](../README.md)
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.
