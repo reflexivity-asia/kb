@@ -1,4 +1,4 @@
----
+<!--
 id: RX-USECASE-0010
 title: "Precious Metals selloff (gold, silver)"
 type: use-case
@@ -14,7 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=5999b612-16b0-4475
 canonical_path: "use-cases/wealth-management-ria/precious-metals-selloff-gold-silver.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
----
+-->
 
 # Precious Metals selloff (gold, silver)
 
