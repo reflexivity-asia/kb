@@ -92,6 +92,7 @@ Instead, monitor when the relationship is stable and when it breaks. Useful foll
 - Correlation estimates in the source are approximate.
 - Correlation is sample- and horizon-dependent.
 - A common macro driver can raise correlation without implying direct causality.
+
 ## What this use case demonstrates
 
 This workflow moves from apparent cross-asset co-movement to return-based correlation, then actively searches for the periods that break the relationship.

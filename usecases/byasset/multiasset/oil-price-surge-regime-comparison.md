@@ -105,6 +105,7 @@ To update the analysis, monitor variables such as:
 
 - Regime returns use representative dates and also contain company-specific earnings, rates, and idiosyncratic news.
 - The qualitative regime labels reflect the QUICK-provided source analysis at the time.
+
 ## What this use case demonstrates
 
 This is a cross-asset framework for separating apparently similar commodity rallies by cause, then tracing those differences into sector and company sensitivity.

@@ -18,7 +18,7 @@ publication_mode: faithful-source-preserving
 **Provided:** 2026-03-02
 **Primary asset classes:** Commodities, equities, FX, fixed income, macro, multi-asset
 
-> This page preserves a dated, conditional scenario analysis provided by QUICK on 2026-03-02. It is not a current geopolitical forecast or investment recommendation. The useful part of the use case is the research structure: establish the starting point, separate short- and medium-horizon transmission, compare with historical stress episodes, and identify the variables that would change the scenario.
+> This is a dated, conditional scenario analysis from 2026-03-02, not a current geopolitical forecast or investment recommendation. The useful part is the research structure: establish the starting point, separate short- and medium-horizon transmission, compare with historical stress episodes, and identify the variables that would change the scenario.
 
 ## Question
 

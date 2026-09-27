@@ -20,7 +20,7 @@ publication_mode: faithful-source-preserving
 **Primary assets:** Macro, Fixed Income, FX, Multi-Asset  
 **Intended users:** Long-only Asset Managers, Hedge Funds, Wealth Management / RIA
 
-> This page is based on a use case provided by QUICK Inc. It preserves the dated scenario analysis rather than presenting it as a current prediction. The Federal Reserve's official calendar confirms the September 15–16, 2026 FOMC meeting and Kevin Warsh as FOMC Chairman; probability estimates and macro readings below remain source-date snapshots.
+> This is a dated scenario analysis, not a current prediction. The Federal Reserve's official calendar confirms the September 15–16, 2026 FOMC meeting and Kevin Warsh as FOMC Chairman; probability estimates and macro readings below remain source-date snapshots.
 
 ## Question
 

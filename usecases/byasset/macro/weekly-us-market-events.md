@@ -20,7 +20,7 @@ publication_mode: faithful-source-preserving
 **Primary assets:** Macro, Equities, Fixed Income, FX  
 **Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Funds
 
-> This page is based on a use case provided by QUICK Inc. Figures, consensus estimates, and event timing are source-date snapshots. The value of the example is the prioritization workflow rather than the historical calendar itself.
+> Figures, consensus estimates, and event timing are source-date snapshots. The value of the example is the prioritization workflow rather than the historical calendar itself.
 
 > List the US economic releases and other events this week that have the highest potential to affect markets.
 

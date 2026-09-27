@@ -107,6 +107,7 @@ Instead, update the links in sequence:
 
 - Theme returns in the source use Reflexivity equal-weight baskets and are not individual-stock results.
 - The macro interpretation was a scenario based on the relationships visible at the time, not a certainty.
+
 ## What this use case demonstrates
 
 This is a reusable cross-asset workflow for tracing a foreign rates shock through yield differentials, currency, monetary-policy response, and domestic sector performance.
