@@ -11,12 +11,14 @@ published: 2026-07-16
 updated: 2026-09-07
 status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=0474081c-861c-4cde-b075-59834514aba0"
-canonical_path: "use-cases/hedge-fund-tier-1/ai-chip-de-rating-hits-semiconductor-etfs-smh.md"
+canonical_path: "usecases/byasset/equities/ai-chip-de-rating-hits-semiconductor-etfs-smh.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
 -->
 
 # AI-chip de-rating hits semiconductor ETFs (SMH)
+
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 **Persona:** Tier 1 Hedge Fund  
 **Insight type:** Market Catalyst  
@@ -44,6 +46,6 @@ The PM instantly sees the shift from AI-narrative to durability skepticism — T
 
 ---
 
-[← Back to Use Cases](../README.md)
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.
