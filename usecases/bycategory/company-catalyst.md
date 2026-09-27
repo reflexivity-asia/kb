@@ -4,17 +4,17 @@ These examples are dated platform outputs. Check them against current market dat
 
 ## Hedge Fund Tier 3
 
-- [ACV rolls out VIPER nationwide for dealer sourcing (ACVA)](../hedgefundtier3/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md) — August 10, 2026 — Neutral
-- [Instacart buys Arpalus to deepen shelf-intelligence stack (CART)](../hedgefundtier3/instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md) — July 16, 2026 — Bullish
-- [Arteris / IC-Link AI chip design (AIP)](../hedgefundtier3/arteris-ic-link-ai-chip-design-aip.md) — July 8, 2026 — Bullish
+- [ACV rolls out VIPER nationwide for dealer sourcing (ACVA)](../byasset/equities/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md) — August 10, 2026 — Neutral
+- [Instacart buys Arpalus to deepen shelf-intelligence stack (CART)](../byasset/equities/instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md) — July 16, 2026 — Bullish
+- [Arteris / IC-Link AI chip design (AIP)](../byasset/equities/arteris-ic-link-ai-chip-design-aip.md) — July 8, 2026 — Bullish
 
 ## Tier 2 Hedge Fund
 
-- [MasTec $1.65B Superior / data-center deal (MTZ)](../hedgefundtier2/mastec-1-65b-superior-data-center-deal-mtz.md) — July 8, 2026 — Bullish
+- [MasTec $1.65B Superior / data-center deal (MTZ)](../byasset/equities/mastec-1-65b-superior-data-center-deal-mtz.md) — July 8, 2026 — Bullish
 
 ## Tier 1 Hedge Fund
 
-- [Nvidia launches $500B AI infrastructure funding push (NVDA)](../hedgefundtier1/nvidia-launches-500b-ai-infrastructure-funding-push-nvda.md) — August 11, 2026 — Bullish
+- [Nvidia launches $500B AI infrastructure funding push (NVDA)](../byasset/equities/nvidia-launches-500b-ai-infrastructure-funding-push-nvda.md) — August 11, 2026 — Bullish
 
 ## Long-only Asset Manager
 
