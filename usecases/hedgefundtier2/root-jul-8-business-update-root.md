@@ -1,4 +1,4 @@
----
+<!--
 id: RX-USECASE-0017
 title: "Root Jul. 8 business update (ROOT)"
 type: use-case
@@ -14,7 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=0f64c0ff-bc65-4ff1
 canonical_path: "use-cases/hedge-fund-tier-2/root-jul-8-business-update-root.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
----
+-->
 
 # Root Jul. 8 business update (ROOT)
 
