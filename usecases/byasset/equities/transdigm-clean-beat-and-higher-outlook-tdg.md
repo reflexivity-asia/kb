@@ -11,12 +11,14 @@ published: 2026-08-04
 updated: 2026-09-07
 status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=601e0300-50c3-4ed9-900c-82627746f1ec"
-canonical_path: "use-cases/hedge-fund-tier-2/transdigm-clean-beat-and-higher-outlook-tdg.md"
+canonical_path: "usecases/byasset/equities/transdigm-clean-beat-and-higher-outlook-tdg.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
 -->
 
 # TransDigm clean beat and higher outlook (TDG)
+
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 **Persona:** Tier 2 Hedge Fund  
 **Insight type:** Earnings Catalyst  
@@ -44,6 +46,6 @@ The PM can size on the raise (shares up 7.6% since the print) while watching whe
 
 ---
 
-[← Back to Use Cases](../README.md)
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.
