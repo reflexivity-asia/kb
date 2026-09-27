@@ -16,7 +16,7 @@ These examples are dated platform outputs or reviewed research examples. Check t
 
 ## Partner-Provided Research Examples
 
-These links point to the canonical article in the asset-class tree. Provider and source date are shown explicitly, with the most recent examples first.
+These links point to the article in the asset-class view. Provider and source date are shown explicitly, with the most recent examples first.
 
 - [Frame FOMC rate-hike scenarios before the meeting](../byasset/macro/fomc-rate-hike-scenarios.md) — Provided by QUICK | 2026-09-15
 - [Test AAPL's price pattern around iPhone launches](../byasset/equities/iphone-launch-and-aapl-price-pattern.md) — Provided by QUICK | 2026-09-11
