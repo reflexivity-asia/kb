@@ -12,10 +12,10 @@ These examples are dated platform outputs. Check them against current market dat
 
 ## Tier 1 Hedge Fund
 
-- [US AI chip export curb hits semis (SMH)](../hedgefundtier1/us-ai-chip-export-curb-hits-semis-smh.md) — August 10, 2026 — Bearish
-- [Palantir beat sharpens AI-software demand read-through (PLTR)](../hedgefundtier1/palantir-beat-sharpens-ai-software-demand-read-through-pltr.md) — August 4, 2026 — Bullish
-- [AI-chip de-rating hits semiconductor ETFs (SMH)](../hedgefundtier1/ai-chip-de-rating-hits-semiconductor-etfs-smh.md) — July 16, 2026 — Bearish
-- [DeepSeek inference chip / AI-chip pressure](../hedgefundtier1/deepseek-inference-chip-ai-chip-pressure.md) — July 8, 2026 — Bearish
+- [US AI chip export curb hits semis (SMH)](../byasset/equities/us-ai-chip-export-curb-hits-semis-smh.md) — August 10, 2026 — Bearish
+- [Palantir beat sharpens AI-software demand read-through (PLTR)](../byasset/equities/palantir-beat-sharpens-ai-software-demand-read-through-pltr.md) — August 4, 2026 — Bullish
+- [AI-chip de-rating hits semiconductor ETFs (SMH)](../byasset/equities/ai-chip-de-rating-hits-semiconductor-etfs-smh.md) — July 16, 2026 — Bearish
+- [DeepSeek inference chip / AI-chip pressure](../byasset/equities/deepseek-inference-chip-ai-chip-pressure.md) — July 8, 2026 — Bearish
 
 ---
 
