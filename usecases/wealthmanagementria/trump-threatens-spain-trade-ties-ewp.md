@@ -1,4 +1,4 @@
----
+<!--
 id: RX-USECASE-0011
 title: "Trump Threatens Spain Trade Ties (EWP)"
 type: use-case
@@ -14,7 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=0095138f-af96-497a
 canonical_path: "use-cases/wealth-management-ria/trump-threatens-spain-trade-ties-ewp.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
----
+-->
 
 # Trump Threatens Spain Trade Ties (EWP)
 
