@@ -11,12 +11,14 @@ published: 2026-07-08
 updated: 2026-09-07
 status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=c91f4ed8-e44b-4520-87d4-596f49b66cfe"
-canonical_path: "use-cases/hedge-fund-tier-3/arteris-ic-link-ai-chip-design-aip.md"
+canonical_path: "usecases/byasset/equities/arteris-ic-link-ai-chip-design-aip.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
 -->
 
 # Arteris / IC-Link AI chip design (AIP)
+
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 **Persona:** Hedge Fund Tier 3  
 **Insight type:** Company Catalyst  
@@ -44,6 +46,6 @@ A PM can build a differentiated small-cap view in minutes and knows exactly what
 
 ---
 
-[← Back to Use Cases](../README.md)
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.
