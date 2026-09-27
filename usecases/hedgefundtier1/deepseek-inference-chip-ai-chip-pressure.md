@@ -1,4 +1,4 @@
----
+<!--
 id: RX-USECASE-0023
 title: "DeepSeek inference chip / AI-chip pressure"
 type: use-case
@@ -14,7 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=a1e9e6f4-4865-499f
 canonical_path: "use-cases/hedge-fund-tier-1/deepseek-inference-chip-ai-chip-pressure.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
----
+-->
 
 # DeepSeek inference chip / AI-chip pressure
 
