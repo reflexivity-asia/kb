@@ -4,11 +4,11 @@ Research and workflow examples for foreign exchange markets.
 
 ## Use Cases
 
-- [Turn a EUR/USD investment view into a systematic checklist](eurusd-systematic-investment-checklist.md) — `RX-USECASE-0032`
-- [Test a EUR/USD RSI strategy across parameters and out of sample](eurusd-rsi-walk-forward-backtest.md) — `RX-USECASE-0037`
-- [Analyze the drivers of a rapid yen rally and whether it extends across FX](yen-strength-background-outlook.md) — `RX-USECASE-0044`
+- [Turn a EUR/USD investment view into a systematic checklist](eurusd-systematic-investment-checklist.md)
+- [Test a EUR/USD RSI strategy across parameters and out of sample](eurusd-rsi-walk-forward-backtest.md)
+- [Analyze the drivers of a rapid yen rally and whether it extends across FX](yen-strength-background-outlook.md)
 
-These pages are canonicalized from the reviewed Japanese use-case baseline while preserving the original source basis, dated observations, limitations, and stable IDs.
+These pages preserve the reviewed source basis, dated observations, limitations, and uncertainty.
 
 ---
 
