@@ -1,4 +1,4 @@
----
+<!--
 id: RX-USECASE-0018
 title: "Xerox unusually large selloff (XRX)"
 type: use-case
@@ -14,7 +14,7 @@ source_url: "https://reflexivity.com/app/stream/focus?activeDrawer=insights&enti
 canonical_path: "use-cases/hedge-fund-tier-2/xerox-unusually-large-selloff-xrx.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
----
+-->
 
 # Xerox unusually large selloff (XRX)
 
