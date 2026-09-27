@@ -4,12 +4,12 @@ These examples are dated platform outputs. Check them against current market dat
 
 ## Hedge Fund Tier 3
 
-- [Gulf Resources analyst sales forecast decline (GURE)](../hedgefundtier3/gulf-resources-analyst-sales-forecast-decline-gure.md) — August 11, 2026 — Bearish signal
-- [Fortrea unusually large selloff (FTRE)](../hedgefundtier3/fortrea-unusually-large-selloff-ftre.md) — August 4, 2026 — Bearish signal
+- [Gulf Resources analyst sales forecast decline (GURE)](../byasset/equities/gulf-resources-analyst-sales-forecast-decline-gure.md) — August 11, 2026 — Bearish signal
+- [Fortrea unusually large selloff (FTRE)](../byasset/equities/fortrea-unusually-large-selloff-ftre.md) — August 4, 2026 — Bearish signal
 
 ## Tier 2 Hedge Fund
 
-- [Xerox unusually large selloff (XRX)](../hedgefundtier2/xerox-unusually-large-selloff-xrx.md) — July 8, 2026 — Bullish signal
+- [Xerox unusually large selloff (XRX)](../byasset/equities/xerox-unusually-large-selloff-xrx.md) — July 8, 2026 — Bullish signal
 
 ---
 
