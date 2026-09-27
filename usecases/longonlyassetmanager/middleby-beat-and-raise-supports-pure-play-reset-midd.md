@@ -1,4 +1,4 @@
----
+<!--
 id: RX-USECASE-0024
 title: "Middleby beat and raise supports pure-play reset (MIDD)"
 type: use-case
@@ -14,7 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=2eec06f6-3e35-4c79
 canonical_path: "use-cases/long-only-asset-manager/middleby-beat-and-raise-supports-pure-play-reset-midd.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
----
+-->
 
 # Middleby beat and raise supports pure-play reset (MIDD)
 
