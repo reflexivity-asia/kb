@@ -1,4 +1,4 @@
----
+<!--
 id: RX-USECASE-0014
 title: "TransDigm clean beat and higher outlook (TDG)"
 type: use-case
@@ -14,7 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=601e0300-50c3-4ed9
 canonical_path: "use-cases/hedge-fund-tier-2/transdigm-clean-beat-and-higher-outlook-tdg.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
----
+-->
 
 # TransDigm clean beat and higher outlook (TDG)
 
