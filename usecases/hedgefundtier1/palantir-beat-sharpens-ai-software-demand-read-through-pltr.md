@@ -1,4 +1,4 @@
----
+<!--
 id: RX-USECASE-0021
 title: "Palantir beat sharpens AI-software demand read-through (PLTR)"
 type: use-case
@@ -14,7 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=2b32e10c-7ca1-49ee
 canonical_path: "use-cases/hedge-fund-tier-1/palantir-beat-sharpens-ai-software-demand-read-through-pltr.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
----
+-->
 
 # Palantir beat sharpens AI-software demand read-through (PLTR)
 
