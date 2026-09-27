@@ -11,12 +11,14 @@ published: 2026-07-08
 updated: 2026-09-07
 status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=a1e9e6f4-4865-499f-bdba-4afbf73fe75e"
-canonical_path: "use-cases/hedge-fund-tier-1/deepseek-inference-chip-ai-chip-pressure.md"
+canonical_path: "usecases/byasset/equities/deepseek-inference-chip-ai-chip-pressure.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
 -->
 
 # DeepSeek inference chip / AI-chip pressure
+
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 **Persona:** Tier 1 Hedge Fund  
 **Insight type:** Market Catalyst  
@@ -44,6 +46,6 @@ The PM instantly sees where substitution risk is concentrated (high-multiple mer
 
 ---
 
-[← Back to Use Cases](../README.md)
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.
