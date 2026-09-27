@@ -1,4 +1,4 @@
----
+<!--
 id: RX-USECASE-0025
 title: "Court forces Verisk back into AccuLynx deal fight (VRSK)"
 type: use-case
@@ -14,7 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=26e90af4-a5f3-4b3e
 canonical_path: "use-cases/long-only-asset-manager/court-forces-verisk-back-into-acculynx-deal-fight-vrsk.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
----
+-->
 
 # Court forces Verisk back into AccuLynx deal fight (VRSK)
 
