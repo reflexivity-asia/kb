@@ -1,4 +1,4 @@
----
+<!--
 id: RX-USECASE-0016
 title: "MasTec $1.65B Superior / data-center deal (MTZ)"
 type: use-case
@@ -14,7 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=f2915fc1-f1a7-452d
 canonical_path: "use-cases/hedge-fund-tier-2/mastec-1-65b-superior-data-center-deal-mtz.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
----
+-->
 
 # MasTec $1.65B Superior / data-center deal (MTZ)
 
