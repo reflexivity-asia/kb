@@ -1,4 +1,4 @@
----
+<!--
 id: RX-USECASE-0019
 title: "Nvidia launches $500B AI infrastructure funding push (NVDA)"
 type: use-case
@@ -14,7 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=37ec34a5-3c1d-40cc
 canonical_path: "use-cases/hedge-fund-tier-1/nvidia-launches-500b-ai-infrastructure-funding-push-nvda.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
----
+-->
 
 # Nvidia launches $500B AI infrastructure funding push (NVDA)
 
