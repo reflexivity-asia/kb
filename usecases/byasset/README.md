@@ -2,7 +2,7 @@
 
 Browse Reflexivity research and workflow examples by the primary asset class or market they address.
 
-A single use case may be relevant to more than one asset class or persona. The article body is kept in one canonical location and linked from the relevant navigation views rather than duplicated.
+A single use case may be relevant to more than one asset class or persona. The article body is maintained once and linked from the relevant navigation views rather than duplicated.
 
 ## Asset Classes
 
@@ -12,7 +12,7 @@ A single use case may be relevant to more than one asset class or persona. The a
 - [Equities](equities/README.md)
 - [Multi-Asset](multiasset/README.md)
 
-Additional asset-class sections will be added as the reviewed Japanese use-case baseline is canonicalized into English.
+Additional asset-class sections may be added as more reviewed examples are published.
 
 ---
 
