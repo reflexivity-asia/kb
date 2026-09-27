@@ -11,12 +11,14 @@ published: 2026-08-04
 updated: 2026-09-07
 status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=a5e0b764-a45f-4f90-a3be-ad2c9109f241"
-canonical_path: "use-cases/hedge-fund-tier-3/fortrea-unusually-large-selloff-ftre.md"
+canonical_path: "usecases/byasset/equities/fortrea-unusually-large-selloff-ftre.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
 -->
 
 # Fortrea unusually large selloff (FTRE)
+
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 **Persona:** Hedge Fund Tier 3  
 **Insight type:** Scenario Insight  
@@ -44,6 +46,6 @@ A PM can run a fast thesis check in minutes, seeing that history skews decisivel
 
 ---
 
-[← Back to Use Cases](../README.md)
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.
