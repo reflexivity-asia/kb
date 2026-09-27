@@ -1,4 +1,4 @@
----
+<!--
 id: RX-USECASE-0027
 title: "PPG raises quarterly dividend to $0.74 (PPG)"
 type: use-case
@@ -14,7 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=244bc038-44f5-4292
 canonical_path: "use-cases/long-only-asset-manager/ppg-raises-quarterly-dividend-to-0-74-ppg.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
----
+-->
 
 # PPG raises quarterly dividend to $0.74 (PPG)
 
