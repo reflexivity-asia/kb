@@ -11,12 +11,14 @@ published: 2026-07-08
 updated: 2026-09-07
 status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=0f64c0ff-bc65-4ff1-a313-fca5ad8e916b"
-canonical_path: "use-cases/hedge-fund-tier-2/root-jul-8-business-update-root.md"
+canonical_path: "usecases/byasset/equities/root-jul-8-business-update-root.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
 -->
 
 # Root Jul. 8 business update (ROOT)
+
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 **Persona:** Tier 2 Hedge Fund  
 **Insight type:** Earnings Catalyst  
@@ -44,6 +46,6 @@ The PM is steered away from chasing an unconfirmed move, since the platform fram
 
 ---
 
-[← Back to Use Cases](../README.md)
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.
