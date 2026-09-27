@@ -25,6 +25,8 @@ publication_mode: faithful-source-preserving
 
 How did the drivers of the oil-price rise after the March US-Iran conflict differ from the rise since August, and which industries and major companies were affected by higher oil prices?
 
+![Oil-price regimes and affected sectors](../../../assets/usecases/quick/RX-USECASE-0045/source-visuals.webp)
+
 ## What the research is trying to establish
 
 Two oil rallies can look similar on a price chart while being economically very different.
@@ -104,8 +106,6 @@ To update the analysis, monitor variables such as:
 
 - Regime returns use representative dates and also contain company-specific earnings, rates, and idiosyncratic news.
 - The qualitative regime labels reflect the QUICK-provided source analysis at the time.
-- The reviewed Japanese page contains a verified source visual; the English repository is intentionally not linking it until the binary asset is copied and verified.
-
 ## What this use case demonstrates
 
 This is a cross-asset framework for separating apparently similar commodity rallies by cause, then tracing those differences into sector and company sensitivity.

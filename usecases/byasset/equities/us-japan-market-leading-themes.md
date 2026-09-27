@@ -35,6 +35,8 @@ Reference benchmarks in the source:
 
 The sequence is deliberate: first normalize the market leaders to identify what drove returns, then ask whether the same themes exist in both markets and, where they do, whether the same part of the value chain is actually leading.
 
+![US and Japanese equity leadership themes](../../../assets/usecases/quick/RX-USECASE-0038/email-02.webp)
+
 ## Theme comparison
 
 | Theme | Representative US exposure | Source US return | Representative Japan exposure | Source Japan return | Source reading |
@@ -113,10 +115,6 @@ The source therefore describes both “resonance” at the high-level theme and 
 - Sector/theme classification uses representative companies rather than official TOPIX industry indexes.
 - Some company-specific causal explanations rely on source news and available data rather than a complete earnings decomposition.
 - The source notes that some Japanese automation stocks may have reflected expectations for future AI / recovery rather than contemporaneous profit strength.
-
-## Visual availability
-
-The reviewed Japanese publication contains a verified QUICK source figure for this comparison. It has not yet been byte-synchronized into the English repository, so this page intentionally avoids a broken or substitute image.
 
 ## What this use case demonstrates
 

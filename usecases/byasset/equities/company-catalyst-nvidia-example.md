@@ -45,7 +45,7 @@ The purpose of the summary is not to end the analysis. It defines the questions 
 
 After understanding the event, the next step is to see how quickly the market incorporated it. A strategically important announcement can still produce a muted or negative price response if the valuation, transaction cost, or perceived integration risk offsets the strategic logic.
 
-The reviewed Japanese publication contains a verified QUICK source image of the market reaction. That image has not yet been byte-synchronized into the English repository, so this page intentionally avoids a broken or substitute visual.
+![NVIDIA catalyst market reaction](../../../assets/usecases/quick/RX-USECASE-0057/02-nvidia-market-reaction.webp)
 
 ## Read management's explanation
 

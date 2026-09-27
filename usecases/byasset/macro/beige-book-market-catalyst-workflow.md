@@ -31,6 +31,8 @@ A document such as the Beige Book contains a large amount of information. In man
 
 Market Catalyst provides an entry point from the event headline into the analysis. The workflow narrows the feed to the user's coverage area, identifies the relevant event, and then opens the detailed market interpretation.
 
+![Beige Book entry in Market Catalyst](../../../assets/usecases/quick/RX-USECASE-0049/01-beige-book-market-catalyst-list.webp)
+
 ## Workflow
 
 If no country, region, or theme has been configured, the Market Catalyst view may appear blank. The source suggests:
@@ -51,10 +53,6 @@ The resulting research flow is:
 The value is not only a shorter Beige Book summary. The workflow helps answer **what should I investigate next?**
 
 For example, after identifying a market-relevant Beige Book point, the analyst can move into the region, sector, inflation, labor, or policy issue most relevant to the portfolio rather than treating the entire document as equally important.
-
-## Visual availability
-
-The reviewed Japanese publication contains a verified QUICK source screenshot showing the Beige Book in Market Catalyst. The visual has not yet been byte-synchronized into the English repository, so this page intentionally does not publish a broken or substitute image.
 
 ## What this use case demonstrates
 

@@ -25,6 +25,8 @@ publication_mode: faithful-source-preserving
 
 > List the major US IPOs completed this year and analyze their market impact. Also analyze the large IPOs reported or expected before year-end.
 
+![US IPO market: completed deals and forward pipeline](../../../assets/usecases/quick/RX-USECASE-0048/source-visuals.webp)
+
 ## Research objective
 
 IPO-market strength cannot be judged from aggregate proceeds alone. One exceptionally large deal can dominate total issuance, while weak aftermarket performance can reveal that investors are still highly selective.
@@ -99,10 +101,6 @@ The next update should also examine lock-up expirations, rates, and flows into g
 - Some post-listing return histories were only a few weeks or months long.
 - The source notes that SK hynix's US listing differs in nature from a conventional new-company IPO.
 - Aggregate issuance can be distorted by unusually large deals.
-
-## Visual availability
-
-The reviewed Japanese publication contains a verified QUICK source visual for this use case. It has not yet been byte-synchronized into the English repository, so no broken or substitute image is published here.
 
 ## Research basis
 

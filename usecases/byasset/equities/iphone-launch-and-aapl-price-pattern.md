@@ -25,6 +25,8 @@ publication_mode: faithful-source-preserving
 
 > Analyze the relationship between new iPhone announcements and AAPL's share price over the past five years. Also analyze the market reaction to the latest Duo announcement.
 
+![AAPL price behavior around iPhone launches](../../../assets/usecases/quick/RX-USECASE-0046/source-visuals.webp)
+
 ## Research objective
 
 A single post-launch price move does not tell us whether the reaction is typical for Apple product events or specific to the current announcement.
@@ -88,10 +90,6 @@ For recurring corporate events, avoid judging success or failure from the event-
 3. identify what is genuinely different this time;
 4. test the positive interpretation against supply, margin, and company-specific risks;
 5. update the view when real operating data arrive.
-
-## Visual availability
-
-The reviewed Japanese publication contains a verified QUICK source visual for this use case. It has not yet been byte-synchronized into the English repository, so this page intentionally avoids a broken or substitute image.
 
 ## Research basis
 

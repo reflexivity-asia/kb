@@ -62,6 +62,10 @@ The source links the long-end pressure to concerns around fiscal deficits, debt 
 
 The source uses **August 17, 2026** as the reference date and FRED daily constant-maturity Treasury yields. Non-business days are filled with the prior business day's value, and the three-month comparison uses the nearest business day approximately 91 days earlier.
 
+![Yield changes by US Treasury maturity](../../../assets/usecases/quick/RX-USECASE-0053/01-maturity-yield-changes.webp)
+
+![US Treasury yield curve: current versus three months earlier](../../../assets/usecases/quick/RX-USECASE-0053/02-yield-curve-current-vs-3m.webp)
+
 ## Why compare with past policy regimes next?
 
 Once the current move is identified as long-end-led, the next question is whether that pattern is normal for a hiking or cutting cycle. If not, the analyst needs to look beyond the policy rate toward fiscal, supply, inflation, and term-premium variables.
@@ -86,6 +90,8 @@ The 2026 episode is different in the source because the effective fed funds rate
 | 2015–18 | Hikes | 0.24% → 2.27% | -103 bp | +11 bp | Bear flattening |
 | 2007–08 | Cuts | 4.94% → 0.16% | +110 bp | -214 bp | Bull steepening |
 | 2004–06 | Hikes | 1.03% → 4.99% | -212 bp | -29 bp | Bull flattening |
+
+![2s10s spread and fed-funds rate across historical regimes](../../../assets/usecases/quick/RX-USECASE-0053/03-2s10s-fed-funds-history.webp)
 
 ## Why “bear steepening” and “bear flattening” can both appear
 

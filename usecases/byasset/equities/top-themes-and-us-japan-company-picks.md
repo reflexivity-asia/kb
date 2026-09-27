@@ -23,6 +23,8 @@ publication_mode: faithful-source-preserving
 
 > This page is based on a use case provided by QUICK Inc. Customer names, recipients, email addresses, signatures, and private URLs have been removed while preserving the source question, candidate list, and screening logic. The list is a research-universe starting point, not a recommendation list.
 
+![US and Japanese companies related to selected themes](../../../assets/usecases/quick/RX-USECASE-0047/source-visuals.webp)
+
 ## When this workflow is useful
 
 A theme leaderboard can tell an investor which areas are performing well, but it does not directly identify the companies worth researching.
@@ -119,10 +121,6 @@ A practical next-stage filter can add:
 - target market or geography.
 
 This prevents a strong theme from being converted directly into a “buy list.” The theme first expands the search space; investment constraints then narrow it.
-
-## Visual availability
-
-The reviewed Japanese publication contains a verified QUICK source screen for this use case. It has not yet been byte-synchronized into the English repository, so no broken or substitute visual is published here.
 
 ## What this use case demonstrates
 

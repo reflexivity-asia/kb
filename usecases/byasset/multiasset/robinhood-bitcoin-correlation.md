@@ -27,6 +27,8 @@ publication_mode: faithful-source-preserving
 
 Using a ticker after `@` can make entity resolution more precise when similar company names exist.
 
+![Robinhood and Bitcoin price relationship](../../../assets/usecases/quick/RX-USECASE-0050/source-visuals.webp)
+
 ## What the research is trying to establish
 
 Two price charts can rise in the same general direction without being tightly linked day to day. A high correlation in price **levels** can also be inflated when both assets simply share a long-term trend.
@@ -91,8 +93,6 @@ Instead, monitor when the relationship is stable and when it breaks. Useful foll
 - Correlation estimates in the source are approximate.
 - Correlation is sample- and horizon-dependent.
 - A common macro driver can raise correlation without implying direct causality.
-- The reviewed Japanese page contains a verified source visual; the English page omits the image until the binary asset is copied and verified.
-
 ## What this use case demonstrates
 
 This workflow moves from apparent cross-asset co-movement to return-based correlation, then actively searches for the periods that break the relationship.

@@ -52,6 +52,8 @@ As of 2026-02-26, the QUICK-provided source used the following snapshot:
 
 The source's reason for establishing the starting point first was simple: the same shock can have very different incremental effects on an asset that is already extended versus one that is still relatively depressed.
 
+![Normalized paths of major assets](../../../assets/usecases/quick/RX-USECASE-0059/01-normalized-asset-paths.webp)
+
 ## Short- and medium-horizon scenario ranges
 
 | Asset | Source starting level | 1–7 day scenario | 1–6 month scenario |
@@ -62,6 +64,8 @@ The source's reason for establishing the starting point first was simple: the sa
 | DXY | 97.74 | +2% to +5% | +1% to +4% |
 
 These ranges were scenario outputs from the source material, not observed outcomes or probabilities.
+
+![Short- and medium-horizon scenario ranges](../../../assets/usecases/quick/RX-USECASE-0059/02-scenario-ranges.webp)
 
 ## Why short term and medium term are separated
 
@@ -106,6 +110,8 @@ That leads to different questions by asset:
 - equities: initial downside risk versus the possibility of later normalization;
 - dollar: defensive demand versus medium-term macro offsets.
 
+![Cross-asset risk-return map](../../../assets/usecases/quick/RX-USECASE-0059/03-risk-return-map.webp)
+
 ## How to use the result
 
 The point is not to select one scenario range and treat it as a forecast.
@@ -119,10 +125,6 @@ The workflow is to keep updating the variables that can change the scenario, esp
 - whether the initial risk-off move broadens into economic or credit stress.
 
 If those conditions change, the asset ranges should be recalibrated rather than defended.
-
-## Asset note
-
-The reviewed Japanese source includes three verified visuals: normalized one-year asset paths, short/medium scenario ranges, and a risk/return map. The English page deliberately omits image links until those binary assets are copied and verified.
 
 ## What this use case demonstrates
 

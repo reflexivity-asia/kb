@@ -50,6 +50,10 @@ At the time of the QUICK-provided research:
 
 The source interpreted the combination of higher US yields, a wider rate differential, and yen weakness as an external pressure that could reinforce BOJ normalization and higher Japanese yields.
 
+![US and Japan long-term yields](../../../assets/usecases/quick/RX-USECASE-0054/01-us-japan-long-yields.webp)
+
+![USD/JPY and Nikkei 225](../../../assets/usecases/quick/RX-USECASE-0054/03-usdjpy-nikkei.webp)
+
 ## Why FX comes before the sector call
 
 The yield gap matters partly because of its effect on the yen.
@@ -73,6 +77,8 @@ The source separated three channels:
 | Banks | +30.3% | +1.9% | Tailwind from wider margins / higher reinvestment yields |
 | Real estate | +7.5% | -3.7% | Headwind from financing costs and discount rates |
 | Autos / exporters | -4.7% | -5.6% | Yen benefit offset by US growth and tariff concerns |
+
+![Bank, real-estate, and auto-theme performance](../../../assets/usecases/quick/RX-USECASE-0054/02-theme-performance.webp)
 
 ### Banks
 
@@ -102,8 +108,6 @@ Instead, update the links in sequence:
 
 - Theme returns in the source use Reflexivity equal-weight baskets and are not individual-stock results.
 - The macro interpretation was a scenario based on the relationships visible at the time, not a certainty.
-- The reviewed Japanese page contains three verified source visuals. The English page omits image links until those binaries are copied and verified.
-
 ## What this use case demonstrates
 
 This is a reusable cross-asset workflow for tracing a foreign rates shock through yield differentials, currency, monetary-policy response, and domestic sector performance.

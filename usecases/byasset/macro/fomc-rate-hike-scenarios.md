@@ -27,6 +27,8 @@ publication_mode: faithful-source-preserving
 
 What could Chairman Kevin Warsh say about a possible rate increase at this week's FOMC, given inflation, the oil-price rise, and the broader macro backdrop?
 
+![FOMC rate-hike scenario analysis](../../../assets/usecases/quick/RX-USECASE-0041/source-visuals.webp)
+
 ## Research objective
 
 Ahead of an FOMC meeting, it is easy to focus only on **hike versus hold**. Market reaction, however, depends both on the policy decision and on how the Chair explains the reaction function from here. An outcome that is already heavily priced can also produce a limited reaction even when it occurs.

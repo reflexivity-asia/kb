@@ -50,6 +50,8 @@ Across the source period from September 1, 2025 to August 31, 2026, 10-year gove
 
 The table deliberately separates two different questions. The UK had the highest absolute yield, while Japan experienced the largest change. Those are not the same signal.
 
+![10-year government-bond yields across major markets](../../../assets/usecases/quick/RX-USECASE-0040/source-visuals.webp)
+
 ## Country-level interpretation
 
 After confirming that all six markets moved higher, the next step is to ask why the size of the move differed.
