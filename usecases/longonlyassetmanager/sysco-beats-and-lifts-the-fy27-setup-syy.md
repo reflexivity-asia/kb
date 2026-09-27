@@ -1,4 +1,4 @@
----
+<!--
 id: RX-USECASE-0026
 title: "Sysco beats and lifts the FY27 setup (SYY)"
 type: use-case
@@ -14,7 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=5f4fe1ef-07db-480b
 canonical_path: "use-cases/long-only-asset-manager/sysco-beats-and-lifts-the-fy27-setup-syy.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
----
+-->
 
 # Sysco beats and lifts the FY27 setup (SYY)
 
