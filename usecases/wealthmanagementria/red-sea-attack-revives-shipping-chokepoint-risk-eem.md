@@ -1,4 +1,4 @@
----
+<!--
 id: RX-USECASE-0006
 title: "Red Sea attack revives shipping chokepoint risk (EEM)"
 type: use-case
@@ -14,7 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=887570bf-d204-467d
 canonical_path: "use-cases/wealth-management-ria/red-sea-attack-revives-shipping-chokepoint-risk-eem.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
----
+-->
 
 # Red Sea attack revives shipping chokepoint risk (EEM)
 
