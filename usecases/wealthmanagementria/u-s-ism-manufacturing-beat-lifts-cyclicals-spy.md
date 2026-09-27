@@ -1,4 +1,4 @@
----
+<!--
 id: RX-USECASE-0008
 title: "U.S. ISM Manufacturing beat lifts cyclicals (SPY)"
 type: use-case
@@ -14,7 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7
 canonical_path: "use-cases/wealth-management-ria/u-s-ism-manufacturing-beat-lifts-cyclicals-spy.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
----
+-->
 
 # U.S. ISM Manufacturing beat lifts cyclicals (SPY)
 
