@@ -11,12 +11,14 @@ published: 2026-07-08
 updated: 2026-09-07
 status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=f2915fc1-f1a7-452d-a550-b043d4be1b8b"
-canonical_path: "use-cases/hedge-fund-tier-2/mastec-1-65b-superior-data-center-deal-mtz.md"
+canonical_path: "usecases/byasset/equities/mastec-1-65b-superior-data-center-deal-mtz.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
 -->
 
 # MasTec $1.65B Superior / data-center deal (MTZ)
+
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 **Persona:** Tier 2 Hedge Fund  
 **Insight type:** Company Catalyst  
@@ -44,6 +46,6 @@ The PM can quickly frame the broader data-center and power-build theme, seeing w
 
 ---
 
-[← Back to Use Cases](../README.md)
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.
