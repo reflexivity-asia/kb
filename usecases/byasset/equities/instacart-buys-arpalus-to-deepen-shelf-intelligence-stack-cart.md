@@ -11,12 +11,14 @@ published: 2026-07-16
 updated: 2026-09-07
 status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=0b72cda9-18ac-423b-86d4-8b04b7fe2394"
-canonical_path: "use-cases/hedge-fund-tier-3/instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md"
+canonical_path: "usecases/byasset/equities/instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
 -->
 
 # Instacart buys Arpalus to deepen shelf-intelligence stack (CART)
+
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 **Persona:** Hedge Fund Tier 3  
 **Insight type:** Company Catalyst  
@@ -44,6 +46,6 @@ The PM gets the deal specifics in one place — target Arpalus, shelf-intelligen
 
 ---
 
-[← Back to Use Cases](../README.md)
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.
