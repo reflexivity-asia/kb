@@ -1,4 +1,4 @@
----
+<!--
 id: RX-USECASE-0009
 title: "U.S. housing data signal a sharper demand downshift (SPY)"
 type: use-case
@@ -14,7 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd
 canonical_path: "use-cases/wealth-management-ria/u-s-housing-data-signal-a-sharper-demand-downshift-spy.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
----
+-->
 
 # U.S. housing data signal a sharper demand downshift (SPY)
 
