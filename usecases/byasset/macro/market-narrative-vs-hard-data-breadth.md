@@ -32,7 +32,7 @@ publication_mode: faithful-source-preserving
 
 The source combines roughly 60 days of macro-related news, Fed-related information, prediction-market pricing, equity-theme leadership, and hard economic data into one evidence table.
 
-## Source conclusion
+## Conclusion
 
 The source judges the breadth of support as **limited**. Hard data are mixed, prediction markets reflect inflation and additional-tightening risk rather than a clean growth story, and equity-market leadership remains concentrated.
 
@@ -73,7 +73,7 @@ The index was near its high while internal theme performance remained highly dis
 | Manufacturing / growth | Expansion continues | ISM new orders 56.0 → 53.7; retail sales softer | Slowing |
 | Year-end growth regime | Soft landing | Soft landing 55%; overheating 42.5% | View remains split |
 
-## Additional signals in the source
+## Additional signals
 
 - Across 30 macro-related headlines, stories emphasizing rate-hike or inflation risk outnumbered strong-data headlines by roughly **3.5 to 1**.
 - ISM New Orders moved from **56.0 to 53.7**.

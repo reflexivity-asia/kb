@@ -11,7 +11,6 @@ source_type: partner-provided-use-case
 asset_class: equities, crypto, multi-asset
 publication_mode: faithful-source-preserving
 -->
-
 # Test the price relationship between Robinhood and Bitcoin
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
@@ -19,7 +18,7 @@ publication_mode: faithful-source-preserving
 **Provided:** 2026-08-24
 **Primary asset classes:** Equities, crypto, multi-asset
 
-> This page preserves a QUICK-provided use case while removing customer, recipient, signature, and private-link information. Figures and market observations are a dated snapshot from the source material.
+> Figures and market observations in this example reflect the provided date.
 
 ## Question
 

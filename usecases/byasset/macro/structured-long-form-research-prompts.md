@@ -12,16 +12,15 @@ asset_class: Macro, Equities, Multi-Asset
 roles: Long-only Asset Manager, Hedge Fund Tier 1, Hedge Fund Tier 2
 publication_mode: faithful-source-preserving
 -->
-
 # Structure Complex Research with Long-Form Instructions
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 
 **Provided:** 2026-06-18
 **Primary assets:** Macro, Equities, Multi-Asset  
-**Intended users:** Long-only Asset Managers, Hedge Fund Tier 1, Hedge Fund Tier 2
+**Intended users:** Long-only Asset Managers, Hedge Funds
 
-> This page is based on a use case provided by QUICK Inc. Customer names, recipients, email addresses, signatures, and private Conversation URLs have been removed while preserving the source prompt examples and their intent as closely as possible.
+> These examples focus on reusable long-form research prompt patterns.
 
 ## When this approach is useful
 
@@ -53,7 +52,7 @@ The important design choice is the progression:
 
 That keeps “largest emitter” separate from “hardest to decarbonize” until the final synthesis.
 
-The original material linked to a private Research result. This public page does not reconstruct that unavailable output.
+A Research result was provided for this example but is not published here, so this section focuses on the prompt structure rather than result-level findings.
 
 ## Example 2: expand from an event to affected companies
 

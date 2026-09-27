@@ -23,7 +23,7 @@ publication_mode: faithful-source-preserving
 
 Compare the movement in EUR/USD with the movement in the spread between EUR swaps and USD swaps, and examine how changes in FX correspond to changes in relative rates pricing.
 
-Original question:
+**Question:**
 
 > Compare moves in EURUSD vs moves in the EUR Swap vs USD Swap spread
 

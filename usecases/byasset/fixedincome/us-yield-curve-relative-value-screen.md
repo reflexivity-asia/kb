@@ -26,7 +26,7 @@ publication_mode: faithful-source-preserving
 
 **[Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?conversationId=7a3cccb2-8503-4530-b85b-34386f208480&mode=research&activeHistorySidebarCategory=all)**
 
-## What this source corrects
+## What this follow-up corrects
 
 The earlier output had a mismatch between some displayed trade labels and the underlying logic. This follow-up corrects that inconsistency.
 

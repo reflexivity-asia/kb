@@ -11,7 +11,6 @@ source_type: partner-provided-use-case
 asset_class: commodities, equities, macro, multi-asset
 publication_mode: faithful-source-preserving
 -->
-
 # Compare oil-price surges by regime and trace the sector impact
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
@@ -19,7 +18,7 @@ publication_mode: faithful-source-preserving
 **Provided:** 2026-09-14
 **Primary asset classes:** Commodities, equities, macro, multi-asset
 
-> This page preserves a use case provided by QUICK while removing customer, recipient, signature, and private-link information. Market levels and interpretations are a dated snapshot from the source material, not a current forecast.
+> Market levels and interpretations in this example are dated snapshots, not a current forecast.
 
 ## Question
 

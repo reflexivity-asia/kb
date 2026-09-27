@@ -12,16 +12,15 @@ asset_class: Equities
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 1, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
 -->
-
 # Use Company Catalyst to Trace the Market Impact of NVIDIA-Related News
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 
 **Provided:** 2026-09-04
 **Primary asset:** Equities  
-**Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Fund Tier 1, Hedge Fund Tier 2, Hedge Fund Tier 3
+**Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Funds
 
-> This page is based on a use case provided by QUICK Inc. Customer details, email metadata, and private URLs have been removed while preserving the original research sequence and source-date market context.
+> Market context in this example reflects the provided date.
 
 The source example follows a Company Catalyst item concerning an NVIDIA acquisition of Hugging Face.
 

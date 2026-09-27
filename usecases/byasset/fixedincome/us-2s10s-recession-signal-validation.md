@@ -34,7 +34,7 @@ The source examines 1976–2025 and tests the familiar yield-curve rule across s
 
 > **Data-quality caution:** the source contains values whose construction and definitions should be rechecked. In particular, its statement that the curve was inverted for **83.5% of the period since 1976** appears unusual and requires revalidation. This page records the research output faithfully; it does not present that statistic as a verified general fact.
 
-## Results by lead window in the source
+## Results by lead window
 
 | Metric | 9 months | 10 months | 11 months | 12 months |
 |---|---:|---:|---:|---:|
@@ -45,7 +45,7 @@ The source examines 1976–2025 and tests the familiar yield-curve rule across s
 
 The source highlights the ten-month window, where precision is reported at **6.6%** and the false-positive rate at **86.7%**. Its conclusion is that treating “the curve inverted” as a directly actionable recession signal would have generated many false alarms under the source's definitions.
 
-## Recession-by-recession review in the source
+## Recession-by-recession review
 
 | Recession | Period | Inversion 9–12 months before? | Source average spread |
 |---|---|---|---:|
@@ -56,14 +56,14 @@ The source highlights the ten-month window, where precision is reported at **6.6
 | 2008-01 to 2009-07 | 18 months | Yes | 0.03% |
 | 2020-03 to 2020-05 | 2 months | Yes | -0.21% |
 
-## Main points from the source
+## Main points
 
 1. **Low reported precision** means that recession warnings greatly outnumbered realized recessions under the test setup.
 2. The source classifies four of six recessions as captured while missing the 1980 and 2001 episodes.
 3. It notes that QE, global demand for Treasuries, and changes in market structure could alter the relationship across regimes.
 4. It recommends comparing 2s10s with other curve definitions and with unemployment, credit spreads, and leading indicators rather than using one spread in isolation.
 
-## Additional tests proposed by the source
+## Additional tests
 
 - compare predictive performance with changes in unemployment, credit spreads, and leading economic indicators;
 - test alternative curve definitions such as 3m10y and 1y10y;

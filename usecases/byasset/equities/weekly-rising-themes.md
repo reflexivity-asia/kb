@@ -12,16 +12,15 @@ asset_class: Equities
 roles: Long-only Asset Manager, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
 -->
-
 # Find the Common Drivers Behind Last Week's Strongest Equity Themes
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 
 **Provided:** 2026-08-03
 **Primary asset:** Equities  
-**Intended users:** Long-only Asset Managers, Hedge Fund Tier 2, Hedge Fund Tier 3
+**Intended users:** Long-only Asset Managers, Hedge Funds
 
-> This page is based on a use case provided by QUICK Inc. Customer names, recipients, email addresses, signatures, and private URLs have been removed while preserving the original question, evidence, and analytical flow. Figures and market conditions are source-date snapshots.
+> Figures and market conditions in this example reflect the provided date.
 
 ## Question
 

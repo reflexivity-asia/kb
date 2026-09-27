@@ -12,16 +12,15 @@ asset_class: Equities, Macro
 roles: Long-only Asset Manager, Hedge Fund Tier 1, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
 -->
-
 # Analyze the US IPO Market Through Completed Deals and the Forward Pipeline
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 
 **Provided:** 2026-09-10
 **Primary assets:** Equities, Macro  
-**Intended users:** Long-only Asset Managers, Hedge Fund Tier 1, Hedge Fund Tier 2, Hedge Fund Tier 3
+**Intended users:** Long-only Asset Managers, Hedge Funds
 
-> This page preserves a QUICK research snapshot from September 10, 2026. Deal sizes, post-IPO returns, and future IPO candidates below are source-date observations or reported expectations, not current confirmations. Customer details and private URLs have been removed.
+> Deal sizes, post-IPO returns, and future IPO candidates are observations or reported expectations from September 10, 2026, not current confirmations.
 
 > List the major US IPOs completed this year and analyze their market impact. Also analyze the large IPOs reported or expected before year-end.
 
@@ -104,7 +103,7 @@ The next update should also examine lock-up expirations, rates, and flows into g
 
 ## Research basis
 
-The QUICK research combined listed-market time series, IPO reporting, prediction-market information, and IPO statistics. The internal Research URL is not published.
+The QUICK research combined listed-market time series, IPO reporting, prediction-market information, and IPO statistics.
 
 ## What this use case demonstrates
 

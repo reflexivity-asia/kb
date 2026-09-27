@@ -12,16 +12,15 @@ asset_class: Equities
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
 -->
-
 # Test AAPL's Price Pattern Around iPhone Launches
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 
 **Provided:** 2026-09-11
 **Primary asset:** Equities  
-**Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Fund Tier 2, Hedge Fund Tier 3
+**Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Funds
 
-> This page is based on a use case provided by QUICK Inc. Customer names, recipients, email addresses, signatures, and private URLs have been removed while preserving the original question, historical comparison, counterevidence, and next-step logic. Product details and market figures are source-date snapshots.
+> Product details and market figures in this example reflect the provided date.
 
 > Analyze the relationship between new iPhone announcements and AAPL's share price over the past five years. Also analyze the market reaction to the latest Duo announcement.
 

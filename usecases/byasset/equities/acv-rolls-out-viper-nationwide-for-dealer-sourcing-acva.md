@@ -20,7 +20,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 
-**Persona:** Hedge Fund Tier 3  
+**Persona:** Hedge Fund
 **Insight type:** Company Catalyst  
 **Signal:** Neutral  
 **Date:** August 10, 2026

@@ -15,7 +15,6 @@ source_type: partner-provided-use-case
 asset_class: Fixed Income, Macro, Equities
 publication_mode: faithful-source-preserving
 -->
-
 # Compare the 5% US 10-Year Treasury Threshold with the Past 20 Years
 
 [← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
@@ -23,7 +22,7 @@ publication_mode: faithful-source-preserving
 **Provided:** 2026-09-16
 **Primary assets:** Fixed Income, Macro, Equities
 
-> This page is based on a use case provided by QUICK Inc. Customer names, recipients, email addresses, signatures, and other private correspondence details have been removed while preserving the question-to-analysis-to-conclusion flow as closely as possible. Figures and market conditions are snapshots as of the provided date.
+> Figures and market conditions in this example reflect the provided date.
 
 > The source included one image but no Reflexivity Research link. The article and the provided image are reproduced here.
 

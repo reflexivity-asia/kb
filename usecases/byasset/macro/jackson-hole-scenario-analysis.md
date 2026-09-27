@@ -12,14 +12,13 @@ asset_class: Macro, Fixed Income, Equities, FX
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 1
 publication_mode: faithful-source-preserving
 -->
-
 # Frame Jackson Hole Speech Scenarios and Possible Market Reactions
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 
 **Provided:** 2026-08-21
 **Primary assets:** Macro, Fixed Income, Equities, FX  
-**Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Fund Tier 1
+**Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Funds
 
 > This page preserves a **pre-event** scenario analysis provided before the August 27–29, 2026 Jackson Hole symposium. It should be read as an example of event preparation, not as a current forecast or a hindsight reconstruction of what later occurred.
 

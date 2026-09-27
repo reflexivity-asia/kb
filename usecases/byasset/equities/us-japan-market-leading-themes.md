@@ -12,7 +12,6 @@ source_type: partner-provided-use-case
 asset_class: Equities, Multi-Asset
 publication_mode: faithful-source-preserving
 -->
-
 # Compare the Themes Leading US and Japanese Equities
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
@@ -20,7 +19,7 @@ publication_mode: faithful-source-preserving
 **Provided:** 2026-05-15
 **Primary assets:** Equities, Multi-Asset
 
-> This page is based on a QUICK use case. Customer and recipient information, signatures, and private Research URLs have been removed while preserving the source question, evidence, analytical sequence, and limitations as closely as possible. Figures and market conditions are historical snapshots from the source period.
+> Figures and market conditions are historical snapshots from the provided period.
 
 > Are the themes behind the leading companies in the US equity market similar to the themes leading the Japanese market? If there are differences, what are they? Analyze the past three months of performance.
 

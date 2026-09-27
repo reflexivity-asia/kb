@@ -12,16 +12,15 @@ asset_class: Equities
 roles: Long-only Asset Manager, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
 -->
-
 # Compare the S&P 500 with the Russell 2000 and Identify Small-Cap Leaders
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 
 **Provided:** 2026-08-05
 **Primary asset:** Equities  
-**Intended users:** Long-only Asset Managers, Hedge Fund Tier 2, Hedge Fund Tier 3
+**Intended users:** Long-only Asset Managers, Hedge Funds
 
-> The QUICK source provided the research question and a private Research-result link. The private result is not publicly available. The workflow explanation below is **editorial clarification of the question's research logic, not a reconstruction of the unavailable Research output**.
+> A Research result was provided but is not published here. This page therefore focuses on the research workflow rather than result-level findings.
 
 ## Question
 
@@ -74,7 +73,7 @@ Start with the size rotation, identify where the returns came from, then test wh
 
 ## What this use case demonstrates
 
-Because the original private Research result is not reconstructed here, this page demonstrates only the reusable analytical sequence supported by the source question: **benchmark comparison → leader extraction → catalyst analysis → interpretation of breadth**.
+This page demonstrates the reusable analytical sequence: **benchmark comparison → leader extraction → catalyst analysis → interpretation of breadth**.
 
 ---
 

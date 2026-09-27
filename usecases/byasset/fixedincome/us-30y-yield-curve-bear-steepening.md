@@ -12,16 +12,15 @@ asset_class: Fixed Income, Macro
 roles: Long-only Asset Manager, Hedge Fund Tier 1
 publication_mode: faithful-source-preserving
 -->
-
 # Read a Rise in the US 30-Year Yield Through the Full Yield Curve
 
 [← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 
 **Provided:** 2026-08-19
 **Primary assets:** Fixed Income, Macro  
-**Intended users:** Long-only Asset Managers, Hedge Fund Tier 1
+**Intended users:** Long-only Asset Managers, Hedge Funds
 
-> This page is based on a use case provided by QUICK Inc. Customer names, recipients, email addresses, signatures, and private URLs have been removed while preserving the original question, analysis flow, evidence, and conclusions as closely as possible. Figures and market conditions are snapshots as of the provided date.
+> Figures and market conditions in this example reflect the provided date.
 
 > The US 30-year Treasury yield is rising. How is the overall yield curve changing?
 

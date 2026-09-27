@@ -12,14 +12,13 @@ asset_class: Macro, Fixed Income, FX, Multi-Asset
 roles: Long-only Asset Manager, Hedge Fund Tier 1, Wealth Management / RIA
 publication_mode: faithful-source-preserving
 -->
-
 # Frame FOMC Rate-Hike Scenarios Before the Meeting
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 
 **Provided:** 2026-09-15
 **Primary assets:** Macro, Fixed Income, FX, Multi-Asset  
-**Intended users:** Long-only Asset Managers, Hedge Fund Tier 1, Wealth Management / RIA
+**Intended users:** Long-only Asset Managers, Hedge Funds, Wealth Management / RIA
 
 > This page is based on a use case provided by QUICK Inc. It preserves the dated scenario analysis rather than presenting it as a current prediction. The Federal Reserve's official calendar confirms the September 15–16, 2026 FOMC meeting and Kevin Warsh as FOMC Chairman; probability estimates and macro readings below remain source-date snapshots.
 

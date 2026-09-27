@@ -15,7 +15,6 @@ source_type: partner-provided-use-case
 asset_class: Equities
 publication_mode: faithful-source-preserving
 -->
-
 # Find Japanese Companies Related to Rising US Stocks
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
@@ -23,7 +22,7 @@ publication_mode: faithful-source-preserving
 **Provided:** 2026-09-18
 **Primary assets:** Equities
 
-> This page is based on a use case provided by QUICK Inc. Customer names, recipients, email addresses, signatures, and other private correspondence details have been removed while preserving the research flow, evidence, and conclusions as closely as possible. Figures and market conditions are snapshots as of the provided date.
+> Figures and market conditions in this example reflect the provided date.
 
 > ### [Open this research example in Reflexivity →](https://app.reflexivity.com/alfred?mode=research&conversationId=8d4011b7-597b-4361-ad87-501046a67b28&scrollTo=top)
 

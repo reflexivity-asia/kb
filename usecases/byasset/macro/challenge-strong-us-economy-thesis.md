@@ -86,7 +86,7 @@ The curve inversion had already unwound, but real rates remained restrictive. Th
 | Credit | No major stress yet | Lending and delinquency data not showing acute deterioration |
 | Rates / policy transmission | Restrictive | Real rates and lagged tightening remain a drag |
 
-## Probability-weighted regime assessment in the source
+## Probability-weighted regime assessment
 
 - **Late cycle: 50%**
 - **Durable growth: 30%**

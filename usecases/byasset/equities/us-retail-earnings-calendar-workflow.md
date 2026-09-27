@@ -12,16 +12,15 @@ asset_class: Equities
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
 -->
-
 # Build a Research Workflow Around US Retail Earnings Week
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 
 **Provided:** 2026-08-18
 **Primary asset:** Equities  
-**Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Fund Tier 2, Hedge Fund Tier 3
+**Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Funds
 
-> This page is based on a use case provided by QUICK Inc. Customer details and private URLs have been removed while preserving the source workflow and interpretation. Event times and company schedules below are source-date snapshots.
+> Event times and company schedules in this example reflect the provided date.
 
 ## When this workflow is useful
 

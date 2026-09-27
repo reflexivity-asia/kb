@@ -15,7 +15,6 @@ source_type: partner-provided-use-case
 asset_class: Equities, Fixed Income
 publication_mode: faithful-source-preserving
 -->
-
 # Compare the Magnificent Seven's Financial Capacity and Rate Resilience
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
@@ -23,7 +22,7 @@ publication_mode: faithful-source-preserving
 **Provided:** 2026-09-17
 **Primary assets:** Equities, Fixed Income
 
-> This page is based on a use case provided by QUICK Inc. Customer names, recipients, email addresses, signatures, and other private correspondence details have been removed while preserving the research flow, evidence, and conclusions as closely as possible. Figures and market conditions are snapshots as of the provided date.
+> Figures and market conditions in this example reflect the provided date.
 
 > ### [Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=21bf31be-608b-4468-9697-9408b296d4dc&scrollTo=top)
 

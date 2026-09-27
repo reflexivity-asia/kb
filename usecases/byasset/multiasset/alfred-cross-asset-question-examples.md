@@ -11,7 +11,6 @@ source_type: partner-provided-use-case
 asset_class: equities, fixed income, commodities, crypto, macro, multi-asset
 publication_mode: faithful-source-preserving
 -->
-
 # Use Alfred across housing, precious metals, equities, and credit risk
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
@@ -19,7 +18,7 @@ publication_mode: faithful-source-preserving
 **Provided:** 2026-02-12
 **Primary asset classes:** Equities, fixed income, commodities, crypto, macro, multi-asset
 
-> This page preserves examples provided by QUICK while removing customer, recipient, signature, and private Conversation URLs. The examples show the breadth of questions that can be investigated in Alfred; any numerical results below are dated source outputs.
+> These examples illustrate the breadth of questions that can be investigated in Alfred. Numerical results are dated snapshots.
 
 ## 1. US housing and the equity-market read-through
 

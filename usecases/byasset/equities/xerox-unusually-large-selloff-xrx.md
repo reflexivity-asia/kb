@@ -20,7 +20,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 
-**Persona:** Tier 2 Hedge Fund  
+**Persona:** Hedge Fund
 **Insight type:** Scenario Insight  
 **Signal:** Bullish signal  
 **Date:** July 8, 2026

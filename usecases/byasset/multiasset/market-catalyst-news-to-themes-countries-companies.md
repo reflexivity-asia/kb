@@ -11,7 +11,6 @@ source_type: partner-provided-use-case
 asset_class: equities, macro, multi-asset
 publication_mode: faithful-source-preserving
 -->
-
 # Trace news into themes, countries, and companies with Market Catalyst
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
@@ -19,7 +18,7 @@ publication_mode: faithful-source-preserving
 **Provided:** 2026-08-17
 **Primary asset classes:** Equities, macro, multi-asset
 
-> This page preserves a QUICK-provided use case while removing customer, recipient, signature, and private-link information.
+> This is a dated workflow example.
 
 ## When to use this workflow
 

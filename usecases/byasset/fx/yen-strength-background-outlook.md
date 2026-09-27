@@ -12,16 +12,15 @@ asset_class: FX, Fixed Income, Macro
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 1
 publication_mode: faithful-source-preserving
 -->
-
 # Analyze the Drivers of a Rapid Yen Rally and Whether It Extends Across FX
 
 [← FX use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 
 **Provided:** 2026-09-09
 **Primary assets:** FX, Fixed Income, Macro  
-**Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Fund Tier 1
+**Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Funds
 
-> This page is based on a use case provided by QUICK Inc. Customer names, recipients, email addresses, signatures, and private URLs have been removed while preserving the original question, analysis flow, evidence, and conclusion as closely as possible. Figures and market conditions are snapshots as of the provided date.
+> Figures and market conditions in this example reflect the provided date.
 
 QUICK used Alfred to investigate the background to the yen's rapid appreciation.
 

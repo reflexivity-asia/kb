@@ -15,7 +15,6 @@ source_type: partner-provided-use-case
 asset_class: Fixed Income, Macro
 publication_mode: faithful-source-preserving
 -->
-
 # Analyze the US Bond-Issuance Market by Issuer, Use of Proceeds, Supply-Demand, and Yield
 
 [← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
@@ -23,7 +22,7 @@ publication_mode: faithful-source-preserving
 **Provided:** 2026-09-25
 **Primary assets:** Fixed Income, Macro
 
-> This page is based on a use case provided by QUICK Inc. Customer names, recipients, email addresses, signatures, and other private correspondence details have been removed while preserving the research flow, evidence, and conclusions as closely as possible. Figures and market conditions are snapshots as of the provided date.
+> Figures and market conditions in this example reflect the provided date.
 
 > ### [Open this research example in Reflexivity →](https://app.reflexivity.com/alfred?mode=research&conversationId=71c1788f-7e54-4620-a6b2-ab163bd6762f&scrollTo=top)
 

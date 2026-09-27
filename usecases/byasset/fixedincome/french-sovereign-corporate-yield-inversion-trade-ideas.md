@@ -30,7 +30,7 @@ publication_mode: faithful-source-preserving
 
 The source begins with an unusual relationship between French sovereign yields and high-quality French corporate yields, alongside elevated political risk. The research question is not only whether the dislocation is meaningful, but **how that view could be expressed across different markets**.
 
-### Market conditions in the source
+### Market conditions at the time
 
 - France 10Y government yield: **3.507%**
 - Germany 10Y government yield: **2.714%**, a **79 bp** France-Germany spread
@@ -86,7 +86,7 @@ The source states failure conditions alongside the trade ideas:
 - liquidity constraints in individual French corporate bonds
 - a broader European crisis that breaks the assumed relationship between France and the intended “safe” hedge markets
 
-## Source's preferred expression
+## Preferred expression
 
 The source ultimately prioritizes **long 5–10 year high-quality French corporate bonds / short French government bonds** as the expression most directly linked to the central dislocation.
 

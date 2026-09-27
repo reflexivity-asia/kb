@@ -12,16 +12,15 @@ asset_class: Macro, Equities, Fixed Income
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 1
 publication_mode: faithful-source-preserving
 -->
-
 # Use Market Catalyst to Triage the Beige Book
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 
 **Provided:** 2026-09-03
 **Primary assets:** Macro, Equities, Fixed Income  
-**Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Fund Tier 1
+**Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Funds
 
-> This page is based on a use case provided by QUICK Inc. Customer names, recipients, email addresses, signatures, and private URLs have been removed while preserving the source workflow and explanation order as closely as possible.
+> This is a dated workflow example.
 
 The source demonstrates using Market Catalyst to review major news analysis, with the Federal Reserve Beige Book as the example event.
 

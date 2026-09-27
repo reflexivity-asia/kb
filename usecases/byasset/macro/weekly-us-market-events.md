@@ -12,14 +12,13 @@ asset_class: Macro, Equities, Fixed Income, FX
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 2
 publication_mode: faithful-source-preserving
 -->
-
 # Prioritize the Week's US Market Events by Likely Impact
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 
 **Provided:** 2026-09-08
 **Primary assets:** Macro, Equities, Fixed Income, FX  
-**Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Fund Tier 2
+**Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Funds
 
 > This page is based on a use case provided by QUICK Inc. Figures, consensus estimates, and event timing are source-date snapshots. The value of the example is the prioritization workflow rather than the historical calendar itself.
 

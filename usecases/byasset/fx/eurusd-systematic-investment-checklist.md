@@ -120,7 +120,7 @@ Rather than collapsing all evidence into a single directional forecast, the fina
 | EUR Bear | 1.1200–1.1300 | 60% | EU recession, Fed higher-for-longer, USD safe-haven demand |
 | Base | 1.1400–1.1600 | 15% | Gradual EUR weakness driven by policy divergence |
 
-## Source conclusion
+## Conclusion
 
 At the time of the original research, the output characterized the directional view as **Bearish EUR**, with high conviction over a three-to-six-month horizon. The supporting factors were the rate differential, stronger relative US economic momentum, EUR richness versus the regression model, policy divergence, technicals, and risk sentiment.
 

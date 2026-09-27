@@ -11,7 +11,6 @@ source_type: partner-provided-use-case
 asset_class: equities, fixed income, multi-asset
 publication_mode: faithful-source-preserving
 -->
-
 # Analyze hyperscaler off-balance-sheet obligations
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
@@ -19,7 +18,7 @@ publication_mode: faithful-source-preserving
 **Provided:** 2026-08-05
 **Primary asset classes:** Equities, fixed income, multi-asset
 
-> The source material provided a private Research link. This public page does not reconstruct or guess the private result. It preserves the original question and explains the research framework implied by that question.
+> A Research result was provided but is not published here. This page therefore focuses on the research framework rather than result-level findings.
 
 ## Question
 
@@ -84,7 +83,7 @@ This framework can also be applied beyond hyperscalers to data-center operators,
 
 ## What this use case demonstrates
 
-The private Research result is not reproduced here. The public value of the use case is the analytical structure for separating different contractual obligations before connecting them to equity and credit risk.
+This use case demonstrates the analytical structure for separating different contractual obligations before connecting them to equity and credit risk.
 
 ---
 

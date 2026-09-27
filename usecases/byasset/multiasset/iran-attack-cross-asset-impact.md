@@ -11,7 +11,6 @@ source_type: partner-provided-use-case
 asset_class: commodities, equities, FX, fixed income, macro, multi-asset
 publication_mode: faithful-source-preserving
 -->
-
 # Analyze the cross-asset impact of an Iran-attack scenario
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

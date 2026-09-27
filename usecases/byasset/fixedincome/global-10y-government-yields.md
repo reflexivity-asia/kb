@@ -12,16 +12,15 @@ asset_class: Fixed Income, Macro
 roles: Long-only Asset Manager, Hedge Fund Tier 1, Wealth Management / RIA
 publication_mode: faithful-source-preserving
 -->
-
 # Compare 10-Year Government-Bond Yields Across Major Markets
 
 [← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 
 **Provided:** 2026-09-01
 **Primary assets:** Fixed Income, Macro  
-**Intended users:** Long-only Asset Managers, Hedge Fund Tier 1, Wealth Management / RIA
+**Intended users:** Long-only Asset Managers, Hedge Funds, Wealth Management / RIA
 
-> This page is based on a use case provided by QUICK Inc. Customer names, recipients, email addresses, signatures, and private URLs have been removed while preserving the original question, analysis flow, evidence, and conclusions as closely as possible. Figures and market conditions are snapshots as of the provided date.
+> Figures and market conditions in this example reflect the provided date.
 
 > Analyze how long-term government-bond yields, including Japan, have changed over the past year across major countries.
 
