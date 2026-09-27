@@ -66,8 +66,13 @@ jobs:
 
                   is_use_case = bool(re.search(r'^type:\s*use-case\s*$', meta, re.M | re.I))
                   is_partner = bool(re.search(r'^source_type:\s*partner-provided-use-case\s*$', meta, re.M | re.I))
-                  if is_use_case and not is_partner and not platform_re.search(visible):
-                      errors.append(f'{path}: Reflexivity-created use case {stable_id} lacks visible Reflexivity platform URL')
+                  if is_use_case and not is_partner:
+                      if not platform_re.search(visible):
+                          errors.append(f'{path}: Reflexivity-created use case {stable_id} lacks visible Reflexivity platform URL')
+                      else:
+                          first_section = re.search(r'(?m)^##\s+', visible)
+                          if first_section and not platform_re.search(visible[:first_section.start()]):
+                              errors.append(f'{path}: Reflexivity-created use case {stable_id} places the primary Reflexivity CTA too low; put it before the first section heading')
 
               for m in link_re.finditer(visible):
                   target = m.group(1).strip()
