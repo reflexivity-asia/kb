@@ -11,12 +11,14 @@ published: 2026-08-10
 updated: 2026-09-07
 status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=f045e1af-ddc4-4f13-8d2c-6ccf806a49f1"
-canonical_path: "use-cases/hedge-fund-tier-3/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md"
+canonical_path: "usecases/byasset/equities/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
 -->
 
 # ACV rolls out VIPER nationwide for dealer sourcing (ACVA)
+
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 **Persona:** Hedge Fund Tier 3  
 **Insight type:** Company Catalyst  
@@ -44,6 +46,6 @@ A PM can run a fast thesis check in minutes and decide whether to fade the sell-
 
 ---
 
-[← Back to Use Cases](../README.md)
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.
