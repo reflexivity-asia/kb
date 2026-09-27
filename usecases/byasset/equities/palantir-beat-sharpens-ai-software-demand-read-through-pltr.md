@@ -11,12 +11,14 @@ published: 2026-08-04
 updated: 2026-09-07
 status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=2b32e10c-7ca1-49ee-b740-2bda079f6579"
-canonical_path: "use-cases/hedge-fund-tier-1/palantir-beat-sharpens-ai-software-demand-read-through-pltr.md"
+canonical_path: "usecases/byasset/equities/palantir-beat-sharpens-ai-software-demand-read-through-pltr.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
 -->
 
 # Palantir beat sharpens AI-software demand read-through (PLTR)
+
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 **Persona:** Tier 1 Hedge Fund  
 **Insight type:** Market Catalyst  
@@ -44,6 +46,6 @@ The PM instantly sees the bar just rose for AI-software peers and can decide whi
 
 ---
 
-[← Back to Use Cases](../README.md)
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.
