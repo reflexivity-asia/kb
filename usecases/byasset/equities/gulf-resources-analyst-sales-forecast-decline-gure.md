@@ -11,12 +11,14 @@ published: 2026-08-11
 updated: 2026-09-07
 status: published
 source_url: "https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=gure_nasd&activeInsight=1d6ec2d3-63bf-438b-b8bd-1b214f8f19af"
-canonical_path: "use-cases/hedge-fund-tier-3/gulf-resources-analyst-sales-forecast-decline-gure.md"
+canonical_path: "usecases/byasset/equities/gulf-resources-analyst-sales-forecast-decline-gure.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
 -->
 
 # Gulf Resources analyst sales forecast decline (GURE)
+
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 **Persona:** Hedge Fund Tier 3  
 **Insight type:** Scenario Insight  
@@ -44,6 +46,6 @@ A PM can decide whether to fade or short into the forecast cut, tracking bromine
 
 ---
 
-[← Back to Use Cases](../README.md)
+[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.
