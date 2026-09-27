@@ -13,6 +13,9 @@ Research and workflow examples for equity themes, company events, earnings, scre
 - [Build a research workflow around US retail earnings week](us-retail-earnings-calendar-workflow.md) — `RX-USECASE-0056`
 - [Use Company Catalyst to trace the market impact of NVIDIA-related news](company-catalyst-nvidia-example.md) — `RX-USECASE-0057`
 
+- [Compare the Magnificent Seven's financial capacity and rate resilience](magnificent-seven-financial-comparison.md) — RX-USECASE-0064
+- [Find Japanese companies related to rising US stocks](rising-us-stocks-related-japanese-companies.md) — RX-USECASE-0065
+
 ## Hedge Fund proof examples
 
 - [Nvidia launches $500B AI infrastructure funding push (NVDA)](nvidia-launches-500b-ai-infrastructure-funding-push-nvda.md) — `RX-USECASE-0019`

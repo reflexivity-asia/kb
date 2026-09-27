@@ -11,6 +11,9 @@ Research and workflow examples for sovereign rates, yield curves, credit, and re
 - [Read a rise in the US 30-year yield through the full yield curve](us-30y-yield-curve-bear-steepening.md) — `RX-USECASE-0053`
 - [Compare EUR/USD moves with the EUR-vs-USD swap spread](eurusd-vs-eur-usd-swap-spread.md) — `RX-USECASE-0062`
 
+- [Compare the 5% US 10-year Treasury threshold with the past 20 years](us-10y-yield-5-percent-threshold.md) — RX-USECASE-0063
+- [Analyze the US bond-issuance market by issuer, use of proceeds, supply-demand, and yield](us-bond-issuance-market-analysis.md) — RX-USECASE-0067
+
 These pages are canonicalized from the reviewed Japanese use-case baseline while preserving the original source basis, dated observations, limitations, and stable IDs.
 
 ---

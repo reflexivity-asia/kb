@@ -12,6 +12,8 @@ Research and workflow examples for economic cycles, monetary policy, market narr
 - [Use Market Catalyst to triage the Beige Book](beige-book-market-catalyst-workflow.md) — `RX-USECASE-0049`
 - [Frame Jackson Hole speech scenarios and possible market reactions](jackson-hole-scenario-analysis.md) — `RX-USECASE-0060`
 
+- [Examine how the S&P 500 moved around US-China summits](us-china-summit-sp500-impact.md) — RX-USECASE-0066
+
 ## Related Cross-Asset Use Cases
 
 These articles have one canonical body under another asset class and are linked here rather than duplicated.
