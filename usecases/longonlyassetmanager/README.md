@@ -15,7 +15,7 @@ These examples are dated platform outputs or reviewed research examples. Check t
 
 ## Partner-Provided Research Examples
 
-These links point to the canonical article in the asset-class tree. Provider and source date are shown explicitly, with the most recent examples first.
+These links point to the article in the asset-class view. Provider and source date are shown explicitly, with the most recent examples first.
 
 - [Analyze the US IPO market through completed deals and the forward pipeline](../byasset/equities/us-ipo-market-analysis.md) — Provided by QUICK | 2026-09-10
 - [Compare 10-year government-bond yields across major markets](../byasset/fixedincome/global-10y-government-yields.md) — Provided by QUICK | 2026-09-01
