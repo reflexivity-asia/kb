@@ -1,4 +1,4 @@
----
+<!--
 id: RX-USECASE-0020
 title: "US AI chip export curb hits semis (SMH)"
 type: use-case
@@ -14,7 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=a78d51aa-a1b4-45bf
 canonical_path: "use-cases/hedge-fund-tier-1/us-ai-chip-export-curb-hits-semis-smh.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
----
+-->
 
 # US AI chip export curb hits semis (SMH)
 
