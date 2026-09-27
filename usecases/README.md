@@ -7,9 +7,7 @@ Explore Reflexivity examples by **persona**, **insight type**, or **asset class*
 ## Browse by Persona
 
 - [Wealth Management / RIA](wealthmanagementria/) — 6 examples
-- [Hedge Fund Tier 3](hedgefundtier3/) — 5 examples
-- [Tier 2 Hedge Fund](hedgefundtier2/) — 7 examples
-- [Tier 1 Hedge Fund](hedgefundtier1/) — 5 examples
+- [Hedge Fund](hedgefund/) — 17 examples; Tier 1 / 2 / 3 are shown as audience classifications
 - [Long-only Asset Manager](longonlyassetmanager/) — 5 examples
 
 ## Browse by Insight Type
