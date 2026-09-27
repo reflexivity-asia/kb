@@ -1,4 +1,4 @@
----
+<!--
 id: RX-USECASE-0028
 title: "Enerpac buys SFE Group $472M (EPAC)"
 type: use-case
@@ -14,7 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=b399a5e0-60b3-4bec
 canonical_path: "use-cases/long-only-asset-manager/enerpac-buys-sfe-group-472m-epac.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
----
+-->
 
 # Enerpac buys SFE Group $472M (EPAC)
 
