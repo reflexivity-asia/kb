@@ -16,6 +16,7 @@ publication_mode: faithful-source-preserving
 # Use Market Catalyst to Triage the Beige Book
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
+
 **Provided:** 2026-09-03
 **Primary assets:** Macro, Equities, Fixed Income  
 **Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Fund Tier 1
@@ -51,7 +52,7 @@ The value is not only a shorter Beige Book summary. The workflow helps answer **
 
 For example, after identifying a market-relevant Beige Book point, the analyst can move into the region, sector, inflation, labor, or policy issue most relevant to the portfolio rather than treating the entire document as equally important.
 
-## Source-visual status
+## Visual availability
 
 The reviewed Japanese publication contains a verified QUICK source screenshot showing the Beige Book in Market Catalyst. The visual has not yet been byte-synchronized into the English repository, so this page intentionally does not publish a broken or substitute image.
 

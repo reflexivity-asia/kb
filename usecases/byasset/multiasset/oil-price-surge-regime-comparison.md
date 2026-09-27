@@ -15,12 +15,13 @@ publication_mode: faithful-source-preserving
 # Compare oil-price surges by regime and trace the sector impact
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
+
 **Provided:** 2026-09-14
 **Primary asset classes:** Commodities, equities, macro, multi-asset
 
 > This page preserves a use case provided by QUICK while removing customer, recipient, signature, and private-link information. Market levels and interpretations are a dated snapshot from the source material, not a current forecast.
 
-## Original question
+## Question
 
 How did the drivers of the oil-price rise after the March US-Iran conflict differ from the rise since August, and which industries and major companies were affected by higher oil prices?
 

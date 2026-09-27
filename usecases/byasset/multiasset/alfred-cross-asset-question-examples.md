@@ -15,6 +15,7 @@ publication_mode: faithful-source-preserving
 # Use Alfred across housing, precious metals, equities, and credit risk
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
+
 **Provided:** 2026-02-12
 **Primary asset classes:** Equities, fixed income, commodities, crypto, macro, multi-asset
 
@@ -22,7 +23,7 @@ publication_mode: faithful-source-preserving
 
 ## 1. US housing and the equity-market read-through
 
-Original question:
+**Question:**
 
 > With mortgage rates falling, could housing contribute positively to US economic growth this year, and what could that mean for equities?
 
@@ -32,7 +33,7 @@ The reusable workflow is to move from housing finance conditions into activity, 
 
 ## 2. Precious metals and Bitcoin
 
-Original question:
+**Question:**
 
 > Analyze the relationship between precious-metal prices and Bitcoin.
 
@@ -45,7 +46,7 @@ The point is the same as in other correlation use cases: a shared long-term upwa
 
 ## 3. Start from Caterpillar and extend the theme into Japanese equities
 
-Original question:
+**Question:**
 
 > Why is Caterpillar (CAT) rising, which themes are connected to the move, and which Japanese companies are exposed to similar drivers?
 
@@ -57,7 +58,7 @@ The reusable pattern is:
 
 ## 4. US private-credit stress and the cross-market transmission path
 
-Original question:
+**Question:**
 
 > Credit concerns are emerging around US private-debt defaults. How could that affect US and Japanese rates and equity markets?
 

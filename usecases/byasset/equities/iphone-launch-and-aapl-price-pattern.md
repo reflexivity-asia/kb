@@ -16,6 +16,7 @@ publication_mode: faithful-source-preserving
 # Test AAPL's Price Pattern Around iPhone Launches
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
+
 **Provided:** 2026-09-11
 **Primary asset:** Equities  
 **Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Fund Tier 2, Hedge Fund Tier 3
@@ -34,7 +35,7 @@ The source therefore follows four steps:
 
 It first separates launch-day behavior from the following weeks or quarter. That creates a baseline before asking whether the latest event is genuinely unusual.
 
-## Historical pattern in the source
+## Historical pattern
 
 | Year | Launch event | Before event | Immediate reaction | Following weeks |
 |---|---|---|---|---|
@@ -49,7 +50,7 @@ The source identifies a recurring **“sell the news” or muted launch-day reac
 
 It also notes that 2022 was heavily affected by the broader macro environment, which is a reminder not to attribute every post-launch move to the product event.
 
-## Why the latest reaction looked different in the source
+## Why the latest reaction looked different
 
 The source says the announcement day itself was almost flat, but AAPL rose about **2.4% the following day**. Because that was more positive than the typical immediate pattern, the research asks what was different rather than simply labeling the event a success.
 
@@ -72,7 +73,7 @@ The research also tests the positive interpretation against two risks:
 
 This matters because a positive share-price reaction to pricing does not automatically imply a positive profit outcome.
 
-## Source conclusion
+## Conclusion
 
 The source sees the latest event as partly consistent with history — launch-day reaction remained muted — but unusual in the strength of the next-day buying response.
 
@@ -88,11 +89,11 @@ For recurring corporate events, avoid judging success or failure from the event-
 4. test the positive interpretation against supply, margin, and company-specific risks;
 5. update the view when real operating data arrive.
 
-## Source-visual status
+## Visual availability
 
 The reviewed Japanese publication contains a verified QUICK source visual for this use case. It has not yet been byte-synchronized into the English repository, so this page intentionally avoids a broken or substitute image.
 
-## Source basis
+## Research basis
 
 - Entity: AAPL:NASD
 - Time series: AAPL:NASD.price

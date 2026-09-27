@@ -16,6 +16,7 @@ publication_mode: faithful-source-preserving
 # Prioritize the Week's US Market Events by Likely Impact
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
+
 **Provided:** 2026-09-08
 **Primary assets:** Macro, Equities, Fixed Income, FX  
 **Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Fund Tier 2
@@ -67,7 +68,7 @@ These events are still useful, but the source treats them more as inputs into pa
 - **Energy:** EIA crude inventories, EIA short-term outlook, OPEC and IEA reports, natural-gas inventories.
 - **Positioning / supply:** CFTC speculative positions and the Baker Hughes rig count toward week-end.
 
-## Source summary
+## Summary
 
 The source's hierarchy puts **August CPI** first, followed by **PPI / jobless claims** and the **Michigan survey**. The central reasoning is that inflation-sensitive releases can change Fed expectations and therefore raise volatility simultaneously across equities, rates, and FX, while the lower tiers are more targeted to specific markets or sectors.
 

@@ -16,6 +16,7 @@ publication_mode: faithful-source-preserving
 # Compare the Themes Leading US and Japanese Equities
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
+
 **Provided:** 2026-05-15
 **Primary assets:** Equities, Multi-Asset
 
@@ -47,7 +48,7 @@ The sequence is deliberate: first normalize the market leaders to identify what 
 | Financials / banks | XLF | -2.3% | MUFG, SMFG | +0.2% | Broadly similar lagging profile |
 | Healthcare | XLV | -6.8% | No major index leader in source | N/A | Asymmetric |
 
-## Major company-level observations in the source
+## Major company-level observations
 
 ### United States
 
@@ -97,7 +98,7 @@ The source distinguishes Amazon, Alphabet, and Microsoft as large global cloud /
 
 Toyota materially underperformed in the source period. The underlying QUICK analysis attributed part of that weakness to tariff/cost pressure and intensifying EV competition in China, while noting that globally exposed Japanese manufacturers can be more directly affected by trade, FX, and overseas competitive conditions. These are source-period attributions, not a general current claim about the sector.
 
-## Source synthesis
+## Synthesis
 
 The broad AI / semiconductor direction was common to both markets, but the **economic layer capturing the return differed**:
 
@@ -113,7 +114,7 @@ The source therefore describes both “resonance” at the high-level theme and 
 - Some company-specific causal explanations rely on source news and available data rather than a complete earnings decomposition.
 - The source notes that some Japanese automation stocks may have reflected expectations for future AI / recovery rather than contemporaneous profit strength.
 
-## Source-visual status
+## Visual availability
 
 The reviewed Japanese publication contains a verified QUICK source figure for this comparison. It has not yet been byte-synchronized into the English repository, so this page intentionally avoids a broken or substitute image.
 

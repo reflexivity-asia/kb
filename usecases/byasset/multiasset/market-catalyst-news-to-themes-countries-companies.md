@@ -15,6 +15,7 @@ publication_mode: faithful-source-preserving
 # Trace news into themes, countries, and companies with Market Catalyst
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
+
 **Provided:** 2026-08-17
 **Primary asset classes:** Equities, macro, multi-asset
 
@@ -32,7 +33,7 @@ The workflow is:
 
 The goal is not to stop at summarization. It is to turn the news into a structured follow-up queue.
 
-## Example catalyst types in the source
+## Example catalyst types
 
 The QUICK material included examples such as:
 

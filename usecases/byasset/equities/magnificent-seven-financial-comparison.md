@@ -67,7 +67,7 @@ Even in the high-rate environment described in the source, most of the companies
 4. **Rate resilience is not equal.**  
    Microsoft is shown with interest coverage of 706x and Meta with 87x. Tesla is around 3x, making it the most rate-sensitive of the seven on this measure.
 
-## How the source groups them in a rising-rate environment
+## Rate-resilience grouping
 
 - **Most resilient: Microsoft and Nvidia.**  
   Low leverage, very large net-cash positions, and high interest coverage limit the direct burden from higher rates.

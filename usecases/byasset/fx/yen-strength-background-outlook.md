@@ -16,6 +16,7 @@ publication_mode: faithful-source-preserving
 # Analyze the Drivers of a Rapid Yen Rally and Whether It Extends Across FX
 
 [← FX use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
+
 **Provided:** 2026-09-09
 **Primary assets:** FX, Fixed Income, Macro  
 **Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Fund Tier 1
@@ -89,7 +90,7 @@ After establishing that the yen move reflected both yen-specific and US-side dri
 3. **Intervention and official-sector risk remain relevant.** The rise in implied volatility reflected heightened sensitivity to verbal or actual intervention during a period of rapid movement.
 4. **Positioning can amplify both directions.** The unwind of a large yen-short position contributed to the appreciation, but after a sharp correction, positioning can also create room for a rebound in USD/JPY.
 
-## Source conclusion
+## Conclusion
 
 The source characterized the move from roughly 164 toward 154 as the combination of **BOJ tightening expectations + Fed easing expectations and a narrower US-Japan rate differential**, amplified by **intervention concerns and the unwind of yen shorts**.
 
@@ -101,7 +102,7 @@ The reusable research sequence is **speed of the move → driver decomposition �
 
 On the next update, reviewing the US-Japan rate differential, yen-short positioning, one-month implied volatility, and relative performance versus other currencies in the same order makes it easier to determine whether the driver of yen strength has changed.
 
-## Source data referenced
+## Data referenced
 
 ### Entities
 

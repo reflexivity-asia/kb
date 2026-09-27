@@ -16,6 +16,7 @@ publication_mode: faithful-source-preserving
 # Turn Strong Themes into US and Japanese Company Candidates
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
+
 **Provided:** 2025-12-26
 **Primary asset:** Equities  
 **Intended users:** Long-only Asset Managers, Hedge Fund Tier 2, Hedge Fund Tier 3
@@ -34,11 +35,11 @@ The workflow is:
 
 The original prompt did not require listed companies only and did not yet apply financial-quality filters, which is why a non-listed institution such as JAXA appears in the source output.
 
-## Original research prompt
+## Research prompt
 
 > For the themes gene editing, satellite technology, space exploration, copper mining, and gold production, list three related organizations in the US and three in Japan for each category.
 
-## Candidate universe from the source
+## Candidate universe
 
 ### Gene editing
 
@@ -119,7 +120,7 @@ A practical next-stage filter can add:
 
 This prevents a strong theme from being converted directly into a “buy list.” The theme first expands the search space; investment constraints then narrow it.
 
-## Source-visual status
+## Visual availability
 
 The reviewed Japanese publication contains a verified QUICK source screen for this use case. It has not yet been byte-synchronized into the English repository, so no broken or substitute visual is published here.
 

@@ -15,12 +15,13 @@ publication_mode: faithful-source-preserving
 # Test the price relationship between Robinhood and Bitcoin
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
+
 **Provided:** 2026-08-24
 **Primary asset classes:** Equities, crypto, multi-asset
 
 > This page preserves a QUICK-provided use case while removing customer, recipient, signature, and private-link information. Figures and market observations are a dated snapshot from the source material.
 
-## Original question
+## Question
 
 > Analyze the correlation between @HOOD and the price of Bitcoin.
 
@@ -39,7 +40,7 @@ The research therefore proceeds in four steps:
 
 That separates **visual co-movement → quantitative correlation → exceptions → economic interpretation**.
 
-## Source snapshot: August 2025 to August 2026
+## Market snapshot: August 2025 to August 2026
 
 | Episode | Timing | HOOD | Bitcoin | Direction |
 | --- | --- | --- | --- | --- |

@@ -15,12 +15,13 @@ publication_mode: faithful-source-preserving
 # Trace how higher US long-term rates transmit into Japanese markets
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
+
 **Provided:** 2026-08-20
 **Primary asset classes:** Fixed income, equities, FX, macro, multi-asset
 
 > This page preserves a QUICK-provided use case while removing customer, recipient, signature, and private-link information. Market levels and interpretations are a dated snapshot from the source material.
 
-## Original question
+## Question
 
 US long-term interest rates have been rising. How could that affect Japanese monetary policy and the Japanese economy, and what does it imply for themes such as banks, real estate, and exporters?
 
@@ -34,7 +35,7 @@ The research therefore follows a causal chain:
 
 The point is to test each link rather than jump directly from “US yields are higher” to a sector conclusion.
 
-## Source snapshot
+## Market snapshot
 
 At the time of the QUICK-provided research:
 
@@ -65,7 +66,7 @@ The source separated three channels:
 2. **Higher Japanese long-term yields** — global duration pressure and domestic normalization can reinforce each other.
 3. **Two-sided economic effects** — exporters and inbound-sensitive businesses may benefit from yen weakness while households and domestic demand face higher import costs.
 
-## Sector implications in the source snapshot
+## Sector implications
 
 | Theme | 1-year return | 1-month return | Rate sensitivity in the source |
 | --- | ---: | ---: | --- |

@@ -15,12 +15,13 @@ publication_mode: faithful-source-preserving
 # Analyze the cross-asset impact of an Iran-attack scenario
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
+
 **Provided:** 2026-03-02
 **Primary asset classes:** Commodities, equities, FX, fixed income, macro, multi-asset
 
 > This page preserves a dated, conditional scenario analysis provided by QUICK on 2026-03-02. It is not a current geopolitical forecast or investment recommendation. The useful part of the use case is the research structure: establish the starting point, separate short- and medium-horizon transmission, compare with historical stress episodes, and identify the variables that would change the scenario.
 
-## Original question
+## Question
 
 > If the United States and Israel attack Iran, what short- and medium-term effects could be expected for oil, gold, equities, and the US dollar?
 
@@ -39,7 +40,7 @@ The analysis therefore follows this sequence:
 
 **current pricing → short/medium scenarios → historical calibration → risk/return framing → variables to monitor**.
 
-## Starting market environment in the source
+## Starting market environment
 
 As of 2026-02-26, the QUICK-provided source used the following snapshot:
 
@@ -51,7 +52,7 @@ As of 2026-02-26, the QUICK-provided source used the following snapshot:
 
 The source's reason for establishing the starting point first was simple: the same shock can have very different incremental effects on an asset that is already extended versus one that is still relatively depressed.
 
-## Short- and medium-horizon scenario ranges in the source
+## Short- and medium-horizon scenario ranges
 
 | Asset | Source starting level | 1–7 day scenario | 1–6 month scenario |
 | --- | ---: | --- | --- |

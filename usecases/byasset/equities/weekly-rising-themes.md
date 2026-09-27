@@ -16,13 +16,14 @@ publication_mode: faithful-source-preserving
 # Find the Common Drivers Behind Last Week's Strongest Equity Themes
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
+
 **Provided:** 2026-08-03
 **Primary asset:** Equities  
 **Intended users:** Long-only Asset Managers, Hedge Fund Tier 2, Hedge Fund Tier 3
 
 > This page is based on a use case provided by QUICK Inc. Customer names, recipients, email addresses, signatures, and private URLs have been removed while preserving the original question, evidence, and analytical flow. Figures and market conditions are source-date snapshots.
 
-## Original question
+## Question
 
 > Do the equity themes that rose over the past week share any common characteristics?
 
@@ -36,7 +37,7 @@ The workflow is:
 
 That sequence helps distinguish genuine breadth from several differently named themes that are actually driven by the same small group of stocks.
 
-## Top themes in the source
+## Top themes
 
 The strongest one-week themes were heavily concentrated in enterprise software, SaaS, cloud, AI, and IT services.
 
@@ -71,7 +72,7 @@ That suggests a common pattern of **previously weak / lagging groups rebounding*
 
 AI, software automation, and developer-platform names appeared across several theme baskets, indicating that the short-term leadership was also tied to a broader AI-related risk theme.
 
-## Source conclusion
+## Conclusion
 
 The common denominator was **high-beta software / cloud growth with AI exposure**, and much of the move looked like a rebound from prior one-year weakness.
 

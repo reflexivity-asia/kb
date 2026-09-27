@@ -16,6 +16,7 @@ publication_mode: faithful-source-preserving
 # Compare 10-Year Government-Bond Yields Across Major Markets
 
 [← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
+
 **Provided:** 2026-09-01
 **Primary assets:** Fixed Income, Macro  
 **Intended users:** Long-only Asset Managers, Hedge Fund Tier 1, Wealth Management / RIA
@@ -49,7 +50,7 @@ Across the source period from September 1, 2025 to August 31, 2026, 10-year gove
 
 The table deliberately separates two different questions. The UK had the highest absolute yield, while Japan experienced the largest change. Those are not the same signal.
 
-## Country-level interpretation in the source
+## Country-level interpretation
 
 After confirming that all six markets moved higher, the next step is to ask why the size of the move differed.
 
@@ -59,7 +60,7 @@ After confirming that all six markets moved higher, the next step is to ask why 
 - **France and Italy:** yields rose alongside Germany, while spreads versus Germany were described as broadly stable rather than showing a large peripheral-risk repricing.
 - **United Kingdom:** remained the highest-yielding major market in the comparison, with sticky inflation cited as an important reason.
 
-## Source conclusion
+## Conclusion
 
 The source contrasts the high-yield US and UK markets with Japan, Germany, France, and Italy, which remained lower in absolute terms but moved upward over the year.
 
@@ -71,7 +72,7 @@ The important distinction is between **the country with the highest yield** and 
 
 A useful next step is to add each market's policy-rate outlook, inflation, fiscal stance, sovereign issuance, and relevant cross-market spreads. That helps determine whether the common rise in global yields is likely to persist or whether the opportunity has shifted toward relative-value differences across countries.
 
-## Limitations and source basis
+## Limitations and research basis
 
 - The analysis uses daily sovereign yield series for September 1, 2025 through August 31, 2026.
 - Yields are presented on a consistent yield-to-maturity basis.

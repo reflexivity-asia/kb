@@ -16,13 +16,16 @@ publication_mode: faithful-source-preserving
 # Frame FOMC Rate-Hike Scenarios Before the Meeting
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
+
 **Provided:** 2026-09-15
 **Primary assets:** Macro, Fixed Income, FX, Multi-Asset  
 **Intended users:** Long-only Asset Managers, Hedge Fund Tier 1, Wealth Management / RIA
 
 > This page is based on a use case provided by QUICK Inc. It preserves the dated scenario analysis rather than presenting it as a current prediction. The Federal Reserve's official calendar confirms the September 15–16, 2026 FOMC meeting and Kevin Warsh as FOMC Chairman; probability estimates and macro readings below remain source-date snapshots.
 
-Original question, paraphrased from the source: what could Chairman Kevin Warsh say about a possible rate increase at this week's FOMC, given inflation, the oil-price rise, and the broader macro backdrop?
+## Question
+
+What could Chairman Kevin Warsh say about a possible rate increase at this week's FOMC, given inflation, the oil-price rise, and the broader macro backdrop?
 
 ## Research objective
 
@@ -34,7 +37,7 @@ The workflow therefore moves through four layers:
 
 It first checks inflation, oil, labor, and the current policy rate; then asks what the market has already priced; then lays out base, hold, and dovish alternatives together with the conditions that would support each one.
 
-## Source-date macro snapshot
+## Macro snapshot at the time
 
 | Indicator | Source value | Source date | Policy interpretation in source |
 |---|---:|---|---|
@@ -46,7 +49,7 @@ It first checks inflation, oil, labor, and the current policy rate; then asks wh
 
 The source describes Warsh as prioritizing inflation control and being reluctant to use extensive forward guidance. Rather than treat that characterization alone as the forecast, the analysis asks whether incoming data and market pricing support it.
 
-## Scenario map in the source
+## Scenario map
 
 | Scenario | Source market probability | Policy action | Communication pattern assumed in the source |
 |---|---:|---|---|

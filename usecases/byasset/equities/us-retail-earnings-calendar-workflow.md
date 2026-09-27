@@ -16,6 +16,7 @@ publication_mode: faithful-source-preserving
 # Build a Research Workflow Around US Retail Earnings Week
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
+
 **Provided:** 2026-08-18
 **Primary asset:** Equities  
 **Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Fund Tier 2, Hedge Fund Tier 3
@@ -32,7 +33,7 @@ The workflow is:
 
 It starts with the event screen, uses previews to define what matters before the release, uses reviews after the release, and then asks whether several retailers are describing the same change in consumer behavior.
 
-## Retail earnings calendar in the source
+## Retail earnings calendar
 
 The source lists the following Japan-time events for that week:
 
@@ -71,7 +72,7 @@ The QUICK source then asks Alfred whether US retail earnings can become a read o
 
 The reason to move from the company calendar to this question is to separate **company-specific execution** from a broader shift in household behavior.
 
-## Why the source treats retail earnings as a macro signal
+## Why retail earnings can act as a macro signal
 
 ### Consumer spending is central to the US economy
 
@@ -85,7 +86,7 @@ Comments on trade-down behavior, discretionary versus essential categories, prom
 
 A weak result at one company may reflect inventory management, merchandising, or another firm-specific problem. If several retailers report the same decline in traffic, shift toward lower-price products, or cautious outlook, the case for a broader consumer trend becomes stronger.
 
-## Potential market transmission in the source
+## Potential market transmission
 
 - **Strong earnings and guidance:** can reinforce a resilient-consumer interpretation and support risk appetite.
 - **Weak earnings and cautious guidance:** can increase concerns about consumer slowdown and pressure cyclical exposures.

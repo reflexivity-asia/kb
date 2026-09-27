@@ -59,7 +59,7 @@ Three observations frame the comparison:
 
 ![US 10-year Treasury yield and the 5% threshold, 2006–2026](../../../assets/usecases/quick/RX-USECASE-0063/01-us-10y-yield-5-percent.webp)
 
-### Source-date derived statistics
+### Derived statistics at the time
 
 | Metric | Value |
 | --- | ---: |

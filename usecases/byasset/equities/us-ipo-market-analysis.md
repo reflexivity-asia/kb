@@ -16,6 +16,7 @@ publication_mode: faithful-source-preserving
 # Analyze the US IPO Market Through Completed Deals and the Forward Pipeline
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
+
 **Provided:** 2026-09-10
 **Primary assets:** Equities, Macro  
 **Intended users:** Long-only Asset Managers, Hedge Fund Tier 1, Hedge Fund Tier 2, Hedge Fund Tier 3
@@ -34,7 +35,7 @@ The source therefore separates four questions:
 
 It first checks deal size, first-day reaction, and subsequent return for completed offerings. Only after observing realized investor demand does it turn to future candidates and ask how much additional capital and attention the pipeline could absorb.
 
-## Completed deals in the source
+## Completed deals
 
 The source characterizes 2026 as historically large by aggregate US IPO proceeds, while emphasizing that the total was heavily influenced by one very large transaction and that aftermarket performance was mixed.
 
@@ -48,14 +49,14 @@ The source characterizes 2026 as historically large by aggregate US IPO proceeds
 | Doncasters | DPC | 2026-06-24 | 919 | $33 | +33.3% | - |
 | Parabilis Medicines | PBLS | 2026-06-09 | 670 | $20 | +66.8% | - |
 
-### What the source reads from the completed-deal data
+### What the completed-deal data shows
 
 - **Large proceeds do not equal uniformly strong aftermarket performance.** The source uses SpaceX as the clearest example: very large issuance and a positive return versus offer price, but weaker performance from the initial trading level.
 - **Investor selection remains important.** The source contrasts weaker Quantinuum performance with stronger Bending Spoons and the US-listed SK hynix exposure.
 - **Issuance was concentrated in large themes.** Space, AI, semiconductors, and related growth areas received a disproportionate share of attention and capital.
 - The source also notes a high count of SPAC-related issuance relative to conventional operating-company IPOs.
 
-## Forward pipeline in the source
+## Forward pipeline
 
 The next step is not to assume that reported candidates will actually list. It is to map the potential supply and ask what would happen if several large deals compete for investor capital in a short period.
 
@@ -99,11 +100,11 @@ The next update should also examine lock-up expirations, rates, and flows into g
 - The source notes that SK hynix's US listing differs in nature from a conventional new-company IPO.
 - Aggregate issuance can be distorted by unusually large deals.
 
-## Source-visual status
+## Visual availability
 
 The reviewed Japanese publication contains a verified QUICK source visual for this use case. It has not yet been byte-synchronized into the English repository, so no broken or substitute image is published here.
 
-## Source basis
+## Research basis
 
 The QUICK research combined listed-market time series, IPO reporting, prediction-market information, and IPO statistics. The internal Research URL is not published.
 

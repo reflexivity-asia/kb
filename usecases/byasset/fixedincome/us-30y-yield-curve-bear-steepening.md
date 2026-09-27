@@ -16,6 +16,7 @@ publication_mode: faithful-source-preserving
 # Read a Rise in the US 30-Year Yield Through the Full Yield Curve
 
 [← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
+
 **Provided:** 2026-08-19
 **Primary assets:** Fixed Income, Macro  
 **Intended users:** Long-only Asset Managers, Hedge Fund Tier 1
@@ -102,7 +103,7 @@ The purpose is to avoid treating the 30-year yield as an isolated number. The wo
 
 In a situation where the policy rate is stable but long yields continue to rise, the next variables to examine are fiscal policy, Treasury supply, inflation expectations, and term premium.
 
-## Limitations and source basis
+## Limitations and research basis
 
 - Treasury yields are constant-maturity annualized yields; spreads use consistent yield differences.
 - Changes are based on daily closes and do not capture intraday movement.

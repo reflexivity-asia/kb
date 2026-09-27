@@ -15,12 +15,13 @@ publication_mode: faithful-source-preserving
 # Analyze hyperscaler off-balance-sheet obligations
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
+
 **Provided:** 2026-08-05
 **Primary asset classes:** Equities, fixed income, multi-asset
 
 > The source material provided a private Research link. This public page does not reconstruct or guess the private result. It preserves the original question and explains the research framework implied by that question.
 
-## Original question
+## Question
 
 > Summarize the off-balance-sheet debt of US hyperscalers.
 

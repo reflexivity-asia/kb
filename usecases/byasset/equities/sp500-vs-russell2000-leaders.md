@@ -16,13 +16,14 @@ publication_mode: faithful-source-preserving
 # Compare the S&P 500 with the Russell 2000 and Identify Small-Cap Leaders
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
+
 **Provided:** 2026-08-05
 **Primary asset:** Equities  
 **Intended users:** Long-only Asset Managers, Hedge Fund Tier 2, Hedge Fund Tier 3
 
 > The QUICK source provided the research question and a private Research-result link. The private result is not publicly available. The workflow explanation below is **editorial clarification of the question's research logic, not a reconstruction of the unavailable Research output**.
 
-## Original question
+## Question
 
 > Compare and analyze the performance of the S&P 500 and Russell 2000 from January 2026 to today. Then identify the five best-performing Russell 2000 constituents and explain why their share prices rose.
 

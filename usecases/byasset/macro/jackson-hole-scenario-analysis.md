@@ -16,13 +16,16 @@ publication_mode: faithful-source-preserving
 # Frame Jackson Hole Speech Scenarios and Possible Market Reactions
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
+
 **Provided:** 2026-08-21
 **Primary assets:** Macro, Fixed Income, Equities, FX  
 **Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Fund Tier 1
 
 > This page preserves a **pre-event** scenario analysis provided before the August 27–29, 2026 Jackson Hole symposium. It should be read as an example of event preparation, not as a current forecast or a hindsight reconstruction of what later occurred.
 
-Original question, paraphrased from the source: whose remarks should investors focus on at the upcoming Jackson Hole symposium, what scenarios are plausible, and how large could the impact on equities and financial markets be?
+## Question
+
+Whose remarks should investors focus on at the upcoming Jackson Hole symposium, what scenarios are plausible, and how large could the impact on equities and financial markets be?
 
 ## Research objective
 
@@ -34,7 +37,7 @@ The source therefore follows this sequence:
 
 It first identifies the key speaker and the proximity of the next FOMC meeting. It then reviews inflation and employment, checks market pricing and investor positioning, creates dovish / neutral / hawkish scenarios, and uses prior Jackson Hole reactions to calibrate plausible event risk.
 
-## Why the Chair's remarks mattered in the source
+## Why the Chair's remarks mattered
 
 The source focuses on Federal Reserve Chairman Kevin Warsh's keynote, scheduled for August 28 during the August 27–29 symposium. The conference theme was **Financial Innovation: Implications for Payments and Policy**.
 
@@ -42,7 +45,7 @@ The research treats the speech as important not because of the conference title 
 
 The macro backdrop described in the source was mixed: inflation remained above target while labor-market data had softened. That created a tension between inflation control and growth / employment risk rather than a one-directional policy setup.
 
-## Market pricing before the event in the source
+## Market pricing before the event
 
 The source reported the September FOMC as roughly:
 
@@ -92,7 +95,7 @@ Examples cited in the source include:
 
 The purpose of the comparison is to establish the scale of event risk, not to claim that historical reactions mechanically forecast the next speech.
 
-## Source-date market backdrop
+## Market backdrop at the time
 
 As of August 20 in the source:
 
