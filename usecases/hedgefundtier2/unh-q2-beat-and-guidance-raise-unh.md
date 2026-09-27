@@ -1,4 +1,4 @@
----
+<!--
 id: RX-USECASE-0015
 title: "UNH Q2 beat and guidance raise (UNH)"
 type: use-case
@@ -14,7 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=281b5785-16b7-4f17
 canonical_path: "use-cases/hedge-fund-tier-2/unh-q2-beat-and-guidance-raise-unh.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
----
+-->
 
 # UNH Q2 beat and guidance raise (UNH)
 
