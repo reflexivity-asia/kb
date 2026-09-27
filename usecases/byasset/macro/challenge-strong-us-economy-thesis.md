@@ -111,6 +111,8 @@ A reusable sequence is:
 
 This example shows how a macro thesis can be pressure-tested across demand, labor, surveys, credit, and rates while preserving contradictory evidence instead of smoothing it into a single narrative.
 
+[Open in Reflexivity](https://app.reflexivity.com/app/alfred?mode=research&conversationId=4fa62dde-58f4-4b3b-b433-837634dc84fb&scrollTo=top)
+
 ---
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

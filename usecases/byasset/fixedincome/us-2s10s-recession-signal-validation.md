@@ -76,6 +76,8 @@ Because the source itself contains at least one statistic that appears questiona
 
 This example shows both the value and the limits of automated hypothesis testing: Reflexivity can structure the historical test and expose false positives, while the analyst still has to interrogate surprising statistics and validate the data definition before treating the output as established evidence.
 
+[Open in Reflexivity](https://app.reflexivity.com/app/alfred?conversationId=5c412f9a-ea78-4c81-8911-f0419ddeefd8&mode=research&activeHistorySidebarCategory=all)
+
 ---
 
 [← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

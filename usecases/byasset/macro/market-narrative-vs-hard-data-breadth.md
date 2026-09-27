@@ -94,6 +94,8 @@ The result may be confirmation, contradiction, or narrow support. The objective 
 
 This example shows how to measure narrative breadth across independent evidence sets and identify when a strong headline environment is not matched by equally broad market or economic confirmation.
 
+[Open in Reflexivity](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)
+
 ---
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

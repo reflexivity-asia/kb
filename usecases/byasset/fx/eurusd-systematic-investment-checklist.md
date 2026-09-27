@@ -131,6 +131,8 @@ The value of the checklist is not that it should always produce the same conclus
 
 This example shows a reusable research process rather than only a final call: the starting question, data layers, supporting and contradictory evidence, explicit assumptions, scenario framing, and the conditions that would change the view.
 
+[Open in Reflexivity](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)
+
 ---
 
 [← FX use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

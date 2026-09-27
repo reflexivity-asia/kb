@@ -94,6 +94,8 @@ The calibration-best setting itself is less important than whether the result su
 
 This example preserves a reusable research process: the question, test design, parameter sweep, out-of-sample challenge, limitations, and the interpretation of what failed to hold up.
 
+[Open in Reflexivity](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)
+
 ---
 
 [← FX use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

@@ -66,6 +66,8 @@ The practical lesson is to test cross-asset rules of thumb on actual time series
 
 This research shows how to move from a cross-asset intuition to a measurable test, place the current observation in historical context, and evaluate whether the apparent relationship is strong enough to deserve further use.
 
+[Open in Reflexivity](https://app.reflexivity.com/app/alfred?conversationId=1ae89f55-bd78-4dfe-a303-65f8d4843d05&mode=research&activeHistorySidebarCategory=all)
+
 ---
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

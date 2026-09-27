@@ -85,6 +85,8 @@ The use case therefore ends with a **research universe**, not a buy list. Compan
 
 This workflow shows how to translate a macro policy view into a structured chain of transmission channels, sectors, and named companies, then hand those candidates into deeper fundamental research.
 
+[Open in Reflexivity](https://app.reflexivity.com/app/alfred?conversationId=9e6182f9-1853-4fdd-8ec4-f5b2a42fcfab&mode=research&activeHistorySidebarCategory=all)
+
 ---
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

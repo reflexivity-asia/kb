@@ -70,6 +70,8 @@ A low percentile can make a steepener look compelling at first glance. If holdin
 
 This correction is useful because it shows a research process that can revise its own output when display logic and economics disagree. The reusable pattern is: historical position → carry/rolldown → combined trade classification → correction when the components do not support the headline signal.
 
+[Open in Reflexivity](https://app.reflexivity.com/app/alfred?conversationId=7a3cccb2-8503-4530-b85b-34386f208480&mode=research&activeHistorySidebarCategory=all)
+
 ---
 
 [← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

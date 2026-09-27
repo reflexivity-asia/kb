@@ -93,6 +93,8 @@ It also includes a six-month horizon and an illustrative 2–3:1 risk/reward est
 
 This example shows how to move from an observed sovereign-credit anomaly to a menu of trade expressions across rates, credit, FX, equities, volatility, and basis markets while preserving explicit failure conditions rather than stopping at a market narrative.
 
+[Open in Reflexivity](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)
+
 ---
 
 [← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
