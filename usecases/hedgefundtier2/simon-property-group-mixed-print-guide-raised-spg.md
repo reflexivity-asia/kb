@@ -1,4 +1,4 @@
----
+<!--
 id: RX-USECASE-0013
 title: "Simon Property Group mixed print, guide raised (SPG)"
 type: use-case
@@ -14,7 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=c2e84322-21f6-47be
 canonical_path: "use-cases/hedge-fund-tier-2/simon-property-group-mixed-print-guide-raised-spg.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
----
+-->
 
 # Simon Property Group mixed print, guide raised (SPG)
 
