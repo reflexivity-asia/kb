@@ -15,6 +15,7 @@ publication_mode: faithful-source-preserving
 
 # Read a Rise in the US 30-Year Yield Through the Full Yield Curve
 
+[← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 **Provided:** 2026-08-19
 **Primary assets:** Fixed Income, Macro  
 **Intended users:** Long-only Asset Managers, Hedge Fund Tier 1

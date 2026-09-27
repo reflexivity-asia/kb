@@ -15,6 +15,7 @@ publication_mode: faithful-source-preserving
 
 # Prioritize the Week's US Market Events by Likely Impact
 
+[← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 **Provided:** 2026-09-08
 **Primary assets:** Macro, Equities, Fixed Income, FX  
 **Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Fund Tier 2

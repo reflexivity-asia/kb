@@ -14,6 +14,7 @@ publication_mode: faithful-source-preserving
 
 # Compare oil-price surges by regime and trace the sector impact
 
+[← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 **Provided:** 2026-09-14
 **Primary asset classes:** Commodities, equities, macro, multi-asset
 

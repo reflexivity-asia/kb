@@ -15,6 +15,7 @@ publication_mode: faithful-source-preserving
 
 # Compare the S&P 500 with the Russell 2000 and Identify Small-Cap Leaders
 
+[← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 **Provided:** 2026-08-05
 **Primary asset:** Equities  
 **Intended users:** Long-only Asset Managers, Hedge Fund Tier 2, Hedge Fund Tier 3

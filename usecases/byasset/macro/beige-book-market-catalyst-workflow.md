@@ -15,6 +15,7 @@ publication_mode: faithful-source-preserving
 
 # Use Market Catalyst to Triage the Beige Book
 
+[← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 **Provided:** 2026-09-03
 **Primary assets:** Macro, Equities, Fixed Income  
 **Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Fund Tier 1

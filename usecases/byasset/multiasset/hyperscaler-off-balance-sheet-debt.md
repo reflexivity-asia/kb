@@ -14,6 +14,7 @@ publication_mode: faithful-source-preserving
 
 # Analyze hyperscaler off-balance-sheet obligations
 
+[← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 **Provided:** 2026-08-05
 **Primary asset classes:** Equities, fixed income, multi-asset
 

@@ -18,6 +18,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 # Sysco beats and lifts the FY27 setup (SYY)
 
+[← Long-only Asset Manager use cases](README.md) · [All use cases](../README.md)
 **Persona:** Long-only Asset Manager  
 **Insight type:** Earnings Catalyst  
 **Signal:** Bullish  
@@ -44,6 +45,6 @@ The PM gets a ready-made read on capital-allocation posture ($2.1B free cash flo
 
 ---
 
-[← Back to Use Cases](../README.md)
+[← Long-only Asset Manager use cases](README.md) · [All use cases](../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.

@@ -18,7 +18,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 # Simon Property Group mixed print, guide raised (SPG)
 
-[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
+[← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 
 **Persona:** Tier 2 Hedge Fund  
 **Insight type:** Earnings Catalyst  
@@ -46,6 +46,6 @@ The PM can size on the raise and the capital return (dividend up 4.7% to $2.25, 
 
 ---
 
-[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
+[← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.

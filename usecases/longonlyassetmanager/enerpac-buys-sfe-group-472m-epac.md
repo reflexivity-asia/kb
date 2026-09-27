@@ -18,6 +18,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 # Enerpac buys SFE Group $472M (EPAC)
 
+[← Long-only Asset Manager use cases](README.md) · [All use cases](../README.md)
 **Persona:** Long-only Asset Manager  
 **Insight type:** Company Catalyst  
 **Signal:** Bullish  
@@ -44,6 +45,6 @@ The analyst gets a ready-made view on whether the deal is accretive and financea
 
 ---
 
-[← Back to Use Cases](../README.md)
+[← Long-only Asset Manager use cases](README.md) · [All use cases](../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.

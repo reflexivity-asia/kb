@@ -18,6 +18,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 # U.S. housing data signal a sharper demand downshift (SPY)
 
+[← Wealth Management / RIA use cases](README.md) · [All use cases](../README.md)
 **Persona:** Wealth Management / RIA  
 **Insight type:** Market Catalyst  
 **Signal:** Bearish  
@@ -44,6 +45,6 @@ The advisor can send a source-cited client note explaining the Jthiune pending-h
 
 ---
 
-[← Back to Use Cases](../README.md)
+[← Wealth Management / RIA use cases](README.md) · [All use cases](../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.

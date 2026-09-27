@@ -16,6 +16,7 @@ publication_mode: faithful-source-preserving
 
 # Build Relative-Value Trades from French Sovereign-Credit Stress
 
+[← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 **Author:** Reflexivity Research  
 **Primary assets:** Fixed Income, FX, Cross-Asset  
 **Intended users:** Fixed Income PMs, Macro PMs, Multi-Asset Investors  

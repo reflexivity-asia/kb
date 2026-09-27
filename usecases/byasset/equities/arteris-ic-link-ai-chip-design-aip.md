@@ -18,7 +18,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 # Arteris / IC-Link AI chip design (AIP)
 
-[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
+[← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 
 **Persona:** Hedge Fund Tier 3  
 **Insight type:** Company Catalyst  
@@ -46,6 +46,6 @@ A PM can build a differentiated small-cap view in minutes and knows exactly what
 
 ---
 
-[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
+[← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.

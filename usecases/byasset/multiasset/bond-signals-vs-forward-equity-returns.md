@@ -14,6 +14,7 @@ publication_mode: faithful-source-preserving
 
 # Test whether bond-market signals relate to forward equity returns
 
+[← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 **Author:** Reflexivity Research  
 **Primary asset classes:** Fixed income, equities, cross-asset  
 **Intended users:** Multi-asset PMs, quants, asset allocators  

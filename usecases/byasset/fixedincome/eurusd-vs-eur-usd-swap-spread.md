@@ -13,6 +13,7 @@ publication_mode: faithful-source-preserving
 
 # Compare EUR/USD Moves with the EUR-vs-USD Swap Spread
 
+[← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 **Author:** Reflexivity Research  
 **Primary assets:** Fixed Income, Rates, FX, Multi-Asset
 
@@ -42,4 +43,4 @@ For a rates investor, it connects changes in swap pricing to the currency market
 
 ---
 
-[← Fixed income use cases](README.md) · [FX use cases](../fx/README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
+[← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

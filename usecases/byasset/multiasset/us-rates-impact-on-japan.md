@@ -14,6 +14,7 @@ publication_mode: faithful-source-preserving
 
 # Trace how higher US long-term rates transmit into Japanese markets
 
+[← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 **Provided:** 2026-08-20
 **Primary asset classes:** Fixed income, equities, FX, macro, multi-asset
 

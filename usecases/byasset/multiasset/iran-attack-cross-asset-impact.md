@@ -14,6 +14,7 @@ publication_mode: faithful-source-preserving
 
 # Analyze the cross-asset impact of an Iran-attack scenario
 
+[← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 **Provided:** 2026-03-02
 **Primary asset classes:** Commodities, equities, FX, fixed income, macro, multi-asset
 

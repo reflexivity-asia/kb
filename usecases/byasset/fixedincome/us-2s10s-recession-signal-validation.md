@@ -16,6 +16,7 @@ publication_mode: faithful-source-preserving
 
 # Test Whether the US 2s10s Curve Historically Predicted Recessions
 
+[← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 **Author:** Reflexivity Research  
 **Primary assets:** Fixed Income (US Rates), Macro  
 **Intended users:** Fixed Income PMs, Macro Strategists, Asset Allocators  

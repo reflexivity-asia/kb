@@ -18,7 +18,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 # Xerox unusually large selloff (XRX)
 
-[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
+[← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 
 **Persona:** Tier 2 Hedge Fund  
 **Insight type:** Scenario Insight  
@@ -46,6 +46,6 @@ The PM gets a quick, evidence-based read on how this setup has historically reso
 
 ---
 
-[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
+[← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.

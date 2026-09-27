@@ -15,6 +15,7 @@ publication_mode: faithful-source-preserving
 
 # Compare the Themes Leading US and Japanese Equities
 
+[← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 **Provided:** 2026-05-15
 **Primary assets:** Equities, Multi-Asset
 

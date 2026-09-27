@@ -18,7 +18,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 # Root Jul. 8 business update (ROOT)
 
-[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
+[← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 
 **Persona:** Tier 2 Hedge Fund  
 **Insight type:** Earnings Catalyst  
@@ -46,6 +46,6 @@ The PM is steered away from chasing an unconfirmed move, since the platform fram
 
 ---
 
-[← Equities Use Cases](README.md) · [All Use Cases](../../README.md)
+[← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.

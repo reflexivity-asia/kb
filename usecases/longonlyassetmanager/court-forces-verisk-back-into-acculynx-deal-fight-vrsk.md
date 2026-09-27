@@ -18,6 +18,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 # Court forces Verisk back into AccuLynx deal fight (VRSK)
 
+[← Long-only Asset Manager use cases](README.md) · [All use cases](../README.md)
 **Persona:** Long-only Asset Manager  
 **Insight type:** Company Catalyst  
 **Signal:** Bearish  
@@ -44,6 +45,6 @@ The long-only PM gets a ready-made read on whether management recommits to or ke
 
 ---
 
-[← Back to Use Cases](../README.md)
+[← Long-only Asset Manager use cases](README.md) · [All use cases](../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.

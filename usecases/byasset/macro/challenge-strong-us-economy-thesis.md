@@ -16,6 +16,7 @@ publication_mode: faithful-source-preserving
 
 # Challenge a Strong-US-Economy Thesis from the Disconfirming Side
 
+[← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 **Author:** Reflexivity Research  
 **Primary assets:** Macro, Cross-Asset  
 **Intended users:** CIOs, Macro PMs, Multi-Asset PMs, Strategists  

@@ -18,6 +18,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 # PPG raises quarterly dividend to $0.74 (PPG)
 
+[← Long-only Asset Manager use cases](README.md) · [All use cases](../README.md)
 **Persona:** Long-only Asset Manager  
 **Insight type:** Company Catalyst  
 **Signal:** Bullish  
@@ -44,6 +45,6 @@ The PM gets a ready-made read on capital-allocation posture — payout raised to
 
 ---
 
-[← Back to Use Cases](../README.md)
+[← Long-only Asset Manager use cases](README.md) · [All use cases](../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.

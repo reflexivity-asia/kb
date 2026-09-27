@@ -16,6 +16,7 @@ publication_mode: faithful-source-preserving
 
 # Test Whether a Market Narrative Is Supported by Broad Hard Data
 
+[← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 **Author:** Reflexivity Research  
 **Primary assets:** Macro, Equities, Fixed Income, Cross-Asset  
 **Intended users:** CIOs, Macro PMs, Multi-Asset PMs, Strategists  

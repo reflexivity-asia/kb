@@ -14,6 +14,7 @@ publication_mode: faithful-source-preserving
 
 # Trace hawkish-policy beneficiaries from macro channels to companies
 
+[← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 **Author:** Reflexivity Research  
 **Primary asset classes:** Equities, fixed income, FX, cross-asset  
 **Intended users:** Macro PMs, multi-asset PMs, equity PMs  

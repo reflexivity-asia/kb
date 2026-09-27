@@ -15,6 +15,7 @@ publication_mode: faithful-source-preserving
 
 # Use Company Catalyst to Trace the Market Impact of NVIDIA-Related News
 
+[← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 **Provided:** 2026-09-04
 **Primary asset:** Equities  
 **Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Fund Tier 1, Hedge Fund Tier 2, Hedge Fund Tier 3

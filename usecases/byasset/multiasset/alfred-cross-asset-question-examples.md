@@ -14,6 +14,7 @@ publication_mode: faithful-source-preserving
 
 # Use Alfred across housing, precious metals, equities, and credit risk
 
+[← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 **Provided:** 2026-02-12
 **Primary asset classes:** Equities, fixed income, commodities, crypto, macro, multi-asset
 

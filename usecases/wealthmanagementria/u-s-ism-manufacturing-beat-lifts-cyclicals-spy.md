@@ -18,6 +18,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 # U.S. ISM Manufacturing beat lifts cyclicals (SPY)
 
+[← Wealth Management / RIA use cases](README.md) · [All use cases](../README.md)
 **Persona:** Wealth Management / RIA  
 **Insight type:** Market Catalyst  
 **Signal:** Bullish  
@@ -44,6 +45,6 @@ The advisor can send a source-cited client note within minutes explaining why cy
 
 ---
 
-[← Back to Use Cases](../README.md)
+[← Wealth Management / RIA use cases](README.md) · [All use cases](../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.

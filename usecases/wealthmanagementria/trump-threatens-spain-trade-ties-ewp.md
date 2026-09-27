@@ -18,6 +18,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 # Trump Threatens Spain Trade Ties (EWP)
 
+[← Wealth Management / RIA use cases](README.md) · [All use cases](../README.md)
 **Persona:** Wealth Management / RIA  
 **Insight type:** Geopolitical Catalyst  
 **Signal:** Bearish  
@@ -44,6 +45,6 @@ The advisor can reassure clients with a measured, source-cited note and knows wh
 
 ---
 
-[← Back to Use Cases](../README.md)
+[← Wealth Management / RIA use cases](README.md) · [All use cases](../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.

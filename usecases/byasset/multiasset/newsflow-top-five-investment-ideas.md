@@ -12,6 +12,7 @@ source_text_status: canonicalized_from_reviewed_ja_rendering
 
 # Turn today's newsflow into five investment ideas to study
 
+[← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 **Author:** Reflexivity Research  
 **Primary asset classes:** Multi-asset, macro, equities, fixed income
 

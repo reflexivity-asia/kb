@@ -15,6 +15,7 @@ publication_mode: faithful-source-preserving
 
 # Analyze the US IPO Market Through Completed Deals and the Forward Pipeline
 
+[← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 **Provided:** 2026-09-10
 **Primary assets:** Equities, Macro  
 **Intended users:** Long-only Asset Managers, Hedge Fund Tier 1, Hedge Fund Tier 2, Hedge Fund Tier 3
@@ -116,4 +117,4 @@ This content was provided by QUICK.
 
 Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
-[← Equities use cases](README.md) · [Macro use cases](../macro/README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
+[← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

@@ -18,6 +18,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 # Middleby beat and raise supports pure-play reset (MIDD)
 
+[← Long-only Asset Manager use cases](README.md) · [All use cases](../README.md)
 **Persona:** Long-only Asset Manager  
 **Insight type:** Earnings Catalyst  
 **Signal:** Bullish  
@@ -44,6 +45,6 @@ A long-only PM can treat the pullback as a capital-allocation quality check, dec
 
 ---
 
-[← Back to Use Cases](../README.md)
+[← Long-only Asset Manager use cases](README.md) · [All use cases](../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.

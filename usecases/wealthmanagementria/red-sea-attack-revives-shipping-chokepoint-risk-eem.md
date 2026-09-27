@@ -18,6 +18,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 
 # Red Sea attack revives shipping chokepoint risk (EEM)
 
+[← Wealth Management / RIA use cases](README.md) · [All use cases](../README.md)
 **Persona:** Wealth Management / RIA  
 **Insight type:** Market Catalyst  
 **Signal:** Bearish  
@@ -44,6 +45,6 @@ The advisor can send a short client note framing this as an oil-and-inflation wa
 
 ---
 
-[← Back to Use Cases](../README.md)
+[← Wealth Management / RIA use cases](README.md) · [All use cases](../README.md)
 
 Questions or need more information? Contact **support@reflexivity.com**.

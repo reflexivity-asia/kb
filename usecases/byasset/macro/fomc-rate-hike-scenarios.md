@@ -15,6 +15,7 @@ publication_mode: faithful-source-preserving
 
 # Frame FOMC Rate-Hike Scenarios Before the Meeting
 
+[← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 **Provided:** 2026-09-15
 **Primary assets:** Macro, Fixed Income, FX, Multi-Asset  
 **Intended users:** Long-only Asset Managers, Hedge Fund Tier 1, Wealth Management / RIA

@@ -15,6 +15,7 @@ publication_mode: faithful-source-preserving
 
 # Turn Strong Themes into US and Japanese Company Candidates
 
+[← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 **Provided:** 2025-12-26
 **Primary asset:** Equities  
 **Intended users:** Long-only Asset Managers, Hedge Fund Tier 2, Hedge Fund Tier 3

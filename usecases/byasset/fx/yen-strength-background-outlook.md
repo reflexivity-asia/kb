@@ -15,6 +15,7 @@ publication_mode: faithful-source-preserving
 
 # Analyze the Drivers of a Rapid Yen Rally and Whether It Extends Across FX
 
+[← FX use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 **Provided:** 2026-09-09
 **Primary assets:** FX, Fixed Income, Macro  
 **Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Fund Tier 1

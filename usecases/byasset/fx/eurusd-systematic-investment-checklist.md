@@ -16,6 +16,7 @@ publication_mode: faithful-source-preserving
 
 # Turn a EUR/USD Investment View into a Systematic Checklist
 
+[← FX use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 **Author:** Reflexivity Research  
 **Primary asset:** FX (EUR/USD)  
 **Intended users:** FX PMs, Macro PMs, Multi-Asset Investors  

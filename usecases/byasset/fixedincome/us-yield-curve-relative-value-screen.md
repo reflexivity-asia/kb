@@ -16,6 +16,7 @@ publication_mode: faithful-source-preserving
 
 # Screen the US Yield Curve for Steepener and Flattener Candidates
 
+[← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 **Author:** Reflexivity Research  
 **Primary asset:** Fixed Income (US Rates)  
 **Intended users:** Fixed Income PMs, Rates Investors, Relative-Value Investors  

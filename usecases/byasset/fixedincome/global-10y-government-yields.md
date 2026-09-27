@@ -15,6 +15,7 @@ publication_mode: faithful-source-preserving
 
 # Compare 10-Year Government-Bond Yields Across Major Markets
 
+[← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 **Provided:** 2026-09-01
 **Primary assets:** Fixed Income, Macro  
 **Intended users:** Long-only Asset Managers, Hedge Fund Tier 1, Wealth Management / RIA
