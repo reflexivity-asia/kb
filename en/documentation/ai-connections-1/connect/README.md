@@ -13,6 +13,11 @@ resource: Reflexivity Documentation
 
 [AI Connections](../README.md) · [Documentation](../../README.md)
 
+## In this section
+
+- [Connect your account](connect-your-account/README.md)
+- [Set up your organization](set-up-your-organization/README.md)
+
 ---
 
 ← [AI Connections](../README.md) · [Application Guides](../application-guides/README.md) →
