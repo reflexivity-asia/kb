@@ -4,14 +4,14 @@ type: product
 language: en
 locale: en
 author: Reflexivity GTM Team
-source_id: 6a1963a45bab9fa46f23352e
-resource: Reflexivity Documentation
 kb_imported: 2026-09-29
 status: published
 translation_status: canonical
-source_route: alfred
+resource: Reflexivity Documentation
 -->
 # Alfred
+
+[Documentation](../README.md)
 
 Alfred allows applications to submit user questions to assistant services and receive generated responses with related metadata. Use Alfred for chat-style workflows where a user question, session context, and optional routing information need to be sent to backend assistant services.
 
@@ -19,7 +19,7 @@ Alfred supports both general knowledge requests and targeted assistant requests.
 
 ## Base Path
 
-/alfred/v1
+`/alfred/v1`
 
 ## Start Here
 
@@ -29,10 +29,11 @@ Alfred supports both general knowledge requests and targeted assistant requests.
 
 ## Endpoints
 
-[Ask Question](ask-question/README.md) : ​ POST /alfred/v1
+[Ask Question](ask-question/README.md): **POST /alfred/v1**
 
 - Use this endpoint to submit a user question with session context. The request can include routing information when the question should be handled by a specific assistant.
-[Ask general knowledge](../README.md) : ​ POST /alfred/v1/general-knowledge
+
+Ask general knowledge: **POST /alfred/v1/general-knowledge**
 
 - Use this endpoint to submit a general knowledge question that does not need to be routed to a specialized assistant.
 
@@ -44,6 +45,14 @@ Requests may include a target field when the question should be routed to a spec
 
 Responses may include metadata events that can be processed and displayed by the client application.
 
+## In this section
+
+- [🧠 Consuming Alfred v1](consuming-alfred/README.md)
+- [Ask question](ask-question/README.md) **POST**
+- [🧠 Consuming Alfred via Conversation v2](consuming-alfred-via-conversation-v2/README.md)
+- [Conversation](conversation/README.md)
+- [Microsoft integration](microsoft-integration/README.md)
+
 ---
 
-[← Documentation](../README.md)
+← [Overview](../overview/README.md) · [🧠 Consuming Alfred v1](consuming-alfred/README.md) →

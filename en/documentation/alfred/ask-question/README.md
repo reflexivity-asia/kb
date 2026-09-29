@@ -4,49 +4,114 @@ type: product
 language: en
 locale: en
 author: Reflexivity GTM Team
-source_id: 6a1963a45bab9fa46f233534
-resource: Reflexivity Documentation
 kb_imported: 2026-09-29
 status: published
 translation_status: canonical
-source_route: alfred/ask-question
+resource: Reflexivity Documentation
 -->
 # Ask question
 
+[Alfred](../README.md) · [Documentation](../../README.md)
+
+**Method:** `POST`
+
 Returns streamed event response from the assistants.
 
-#### Body Parameters Expand all
+#### Body Parameters
 
-question string Required The question to ask Alfred.
+`question` — `string` — **Required**
 
-ancillary object Additional information to help Alfred answer the question.
+The question to ask Alfred.
 
-Show child attributes
+`ancillary` — `object`
 
-session_id string Required The session id.
+Additional information to help Alfred answer the question.
 
-target string Specifies target assistant.
+`session_id` — `string` — **Required**
 
-### Response Expand all
+The session id.
 
-200 Object Alfred API status.
+`target` — `string`
+
+Specifies target assistant.
+
+### Response
+
+**200** — Object: Alfred API status.
 
 #### Response Attributes
 
-source string The source of the streamed event. It specifies the assistant that generated the event.
+`source` — `string`
 
-event string The event type.
+The source of the streamed event. It specifies the assistant that generated the event.
 
-data object The data received from the assistant.
+`event` — `string`
 
-Show child attributes
+The event type.
 
-request_id string The request id.
+`data` — `object`
 
-400 Object Bad request.
+The data received from the assistant.
 
-500 Object Internal error.
+`request_id` — `string`
+
+The request id.
+
+**400** — Object: Bad request.
+
+**500** — Object: Internal error.
+
+**Endpoint:** `POST /alfred/v1`
+
+## Request example
+
+```bash
+curl --location 'https://api.reflexivity.com/alfred/v1' \
+--data '{
+  "question": "How did Tesla perform in the last quarter?",
+  "ancillary": {
+    "documents": [
+      "23a2b674-999a-4be2-ae59-f793b2554154",
+      "9a8ff2d8-1208-4b49-9452-21cd21422dae"
+    ]
+  },
+  "session_id": "API_Explorer_session",
+  "target": "document-assistant"
+}'
+```
+
+## Response example
+
+```json
+{
+  "source": "document-assistant",
+  "event": "Metadata",
+  "data": {
+    "citation_group_id": "123",
+    "document_ids": [
+      "9a8ff2d8-1208-4b49-9452-21cd21422dae"
+    ],
+    "message": "Tesla's performance in the last quarter (Q4 2024) showed mixed results...",
+    "overview": {
+      "companies": 1,
+      "document_types": {
+        "document_types": {
+          "Presentation": {
+            "count": 2,
+            "relevance": 0.6865049494405595
+          },
+          "Transcript": {
+            "count": 2,
+            "relevance": 0.7023648825
+          }
+        }
+      }
+    }
+  },
+  "request_id": "123"
+}
+```
 
 ---
 
-[← Documentation](../../README.md)
+← [🧠 Consuming Alfred v1](../consuming-alfred/README.md) · [🧠 Consuming Alfred via Conversation v2](../consuming-alfred-via-conversation-v2/README.md) →
