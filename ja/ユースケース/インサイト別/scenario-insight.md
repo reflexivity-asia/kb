@@ -1,5 +1,7 @@
 # シナリオ分析
 
+[← ユースケース一覧](../README.md)
+
 この分類に該当する公開済みのユースケースです。
 
 - [Gulf Resources：アナリスト売上予想の低下 (GURE) - 弱気シグナル](../運用資産別/株式/gulf-resources-analyst-sales-forecast-decline-gure.md)
