@@ -46,6 +46,16 @@ All graph relations are supported by an underlying ranking which represents the 
 
 To authenticate for the respective environment, refer to the [Authentication](../README.md) page of the docs. For any questions, please reach out to [support@reflexivity.com](mailto:support@reflexivity.com)
 
+## Sections
+
+- [🏷️ Company → Theme](company-theme/README.md) — `GET`
+- [🎯 Theme → Company](theme-company/README.md) — `GET`
+- [🌍 Company → Country](company-country/README.md) — `GET`
+- [🌍 Company → Region](company-region/README.md) — `GET`
+- [Company → Company (Competitors)](company-company-competitors/README.md) — `GET`
+- [Company → Product/Brand](company-product/README.md) — `GET`
+- [Legacy](legacy/README.md)
+
 ---
 
 [← Documentation](../README.md)
