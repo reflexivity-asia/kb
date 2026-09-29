@@ -13,11 +13,24 @@ source_route: calculator/get-snake-data
 -->
 # Get snake data
 
-[← Documentation](../../README.md)
+#### Body Parameters
 
-Detailed documentation for this page is temporarily unavailable in this GitHub mirror.
+snake_expression string date_since integer
+### Response Expand all
 
-For assistance, contact **gtm@reflexivity.com**.
+200 Object Successful response
+
+#### Response Attributes
+
+meta object Show child attributes
+
+result object Show child attributes
+
+400 Object Bad request.
+
+404 Object Not found.
+
+500 Object Internal server error.
 
 ---
 

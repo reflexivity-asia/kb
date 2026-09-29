@@ -13,11 +13,61 @@ source_route: alfred/microsoft-integration/integration-lifecycle/disconnect-a-pr
 -->
 # Disconnect a provider or a single service
 
-[← Documentation](../../../../README.md)
+#### Header Parameters
 
-Detailed documentation for this page is temporarily unavailable in this GitHub mirror.
+Authorization-User-Id string
+#### Query Parameters
 
-For assistance, contact **gtm@reflexivity.com**.
+service string Disconnect a single service. Omit to disconnect all services.
+
+#### Path Parameters
+
+provider string Required Integration provider.
+
+Enum values: `microsoft`
+### Response
+
+204 Object Disconnected.
+
+400 Object Unsupported provider or invalid service.
+
+#### Response Attributes
+
+error string Required Machine-readable error code.
+
+message string Human-readable text (optional).
+
+details string Debug info (optional).
+
+401 Object Missing user id.
+
+#### Response Attributes
+
+error string Required Machine-readable error code.
+
+message string Human-readable text (optional).
+
+details string Debug info (optional).
+
+404 Object No active integration found.
+
+#### Response Attributes
+
+error string Required Machine-readable error code.
+
+message string Human-readable text (optional).
+
+details string Debug info (optional).
+
+500 Object Internal error.
+
+#### Response Attributes
+
+error string Required Machine-readable error code.
+
+message string Human-readable text (optional).
+
+details string Debug info (optional).
 
 ---
 

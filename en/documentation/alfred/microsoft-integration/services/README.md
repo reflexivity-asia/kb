@@ -13,13 +13,6 @@ source_route: alfred/microsoft-integration/services
 -->
 # Services
 
-[← Documentation](../../../README.md)
-
-## Sections
-
-- [List connectable services](list-connectable-services/README.md) — `GET`
-- [List connectable services (alias)](list-connectable-services-alias/README.md) — `GET`
-
 ---
 
 [← Documentation](../../../README.md)

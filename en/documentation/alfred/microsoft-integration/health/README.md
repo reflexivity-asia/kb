@@ -13,12 +13,6 @@ source_route: alfred/microsoft-integration/health
 -->
 # Health
 
-[← Documentation](../../../README.md)
-
-## Sections
-
-- [Liveness probe](liveness-probe-1/README.md) — `GET`
-
 ---
 
 [← Documentation](../../../README.md)

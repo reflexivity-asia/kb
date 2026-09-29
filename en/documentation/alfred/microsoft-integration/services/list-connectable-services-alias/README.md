@@ -13,11 +13,36 @@ source_route: alfred/microsoft-integration/services/list-connectable-services-al
 -->
 # List connectable services (alias)
 
-[← Documentation](../../../../README.md)
+#### Header Parameters
 
-Detailed documentation for this page is temporarily unavailable in this GitHub mirror.
+Authorization-User-Id string
+### Response Expand all
 
-For assistance, contact **gtm@reflexivity.com**.
+200 Object Service catalog grouped by provider.
+
+#### Response Attributes
+
+provider string services array Show child attributes
+
+401 Object Missing user id.
+
+#### Response Attributes
+
+error string Required Machine-readable error code.
+
+message string Human-readable text (optional).
+
+details string Debug info (optional).
+
+500 Object Internal error.
+
+#### Response Attributes
+
+error string Required Machine-readable error code.
+
+message string Human-readable text (optional).
+
+details string Debug info (optional).
 
 ---
 

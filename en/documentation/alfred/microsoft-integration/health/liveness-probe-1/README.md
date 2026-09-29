@@ -13,11 +13,13 @@ source_route: alfred/microsoft-integration/health/liveness-probe-1
 -->
 # Liveness probe
 
-[← Documentation](../../../../README.md)
+### Response
 
-Detailed documentation for this page is temporarily unavailable in this GitHub mirror.
+200 Object Service is up.
 
-For assistance, contact **gtm@reflexivity.com**.
+#### Response Attributes
+
+status string
 
 ---
 
