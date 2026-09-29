@@ -17,8 +17,6 @@ source_route: scenario-insights
 
 ## セクション
 
-- [条件指定でScenario Insightsを取得](get-filtered-insights/README.md) — `POST`
-- [IDでScenario Insightを取得](get-insight-based-on-requested-id/README.md) — `GET`
 - [IDでScenario Insightの予測を取得](get-insight-predictions-based-on-requested-id/README.md) — `GET`
 
 ---
