@@ -13,12 +13,6 @@ source_route: entity
 -->
 # Entity
 
-[← Documentation](../README.md)
-
-## Sections
-
-- [Get filtered entities](get-filtered-entities/README.md) — `POST`
-
 ---
 
 [← Documentation](../README.md)
