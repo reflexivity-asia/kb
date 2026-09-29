@@ -17,6 +17,13 @@ Configure and manage your Microsoft integration to enable seamless authenticatio
 
 Manage your Microsoft integration settings and streamline authentication processes within your applications. This section enables you to connect, configure, and control access to Microsoft services, enhancing seamless interoperability and user management.
 
+## In this section
+
+- [Conversation items](conversation-items/README.md)
+- [Integration lifecycle](integration-lifecycle/README.md)
+- [Services](services/README.md)
+- [Health](health/README.md)
+
 ---
 
 [← Documentation](../../README.md)
