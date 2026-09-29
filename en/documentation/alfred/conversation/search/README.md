@@ -13,12 +13,6 @@ source_route: alfred/conversation/search
 -->
 # Search
 
-[← Documentation](../../../README.md)
-
-## Sections
-
-- [Search conversations](search-conversations/README.md) — `GET`
-
 ---
 
 [← Documentation](../../../README.md)

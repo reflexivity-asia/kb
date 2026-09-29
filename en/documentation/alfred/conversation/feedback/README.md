@@ -13,12 +13,6 @@ source_route: alfred/conversation/feedback
 -->
 # Feedback
 
-[← Documentation](../../../README.md)
-
-## Sections
-
-- [Submit feedback](submit-feedback/README.md) — `POST`
-
 ---
 
 [← Documentation](../../../README.md)

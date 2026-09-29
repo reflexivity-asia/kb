@@ -13,14 +13,6 @@ source_route: alfred/conversation/settings
 -->
 # Settings
 
-[← Documentation](../../../README.md)
-
-## Sections
-
-- [Get a user setting](get-a-user-setting/README.md) — `GET`
-- [Set a user setting](set-a-user-setting/README.md) — `PUT`
-- [Delete a user setting](delete-a-user-setting/README.md) — `DELETE`
-
 ---
 
 [← Documentation](../../../README.md)

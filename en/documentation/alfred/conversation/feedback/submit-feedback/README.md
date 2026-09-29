@@ -13,11 +13,27 @@ source_route: alfred/conversation/feedback/submit-feedback
 -->
 # Submit feedback
 
-[← Documentation](../../../../README.md)
+Records thumbs-up / thumbs-down feedback for a specific task within a conversation.
 
-Detailed documentation for this page is temporarily unavailable in this GitHub mirror.
+#### Header Parameters
 
-For assistance, contact **gtm@reflexivity.com**.
+Authorization string
+#### Body Parameters
+
+conversation_id string Required ID of the conversation.
+
+request_id string Required ID of the task (request) within the conversation.
+
+feedback string Thumbs feedback value.
+
+Enum values: `Neutral``Bad``Good`
+### Response
+
+204 Object Feedback recorded.
+
+400 Object Bad request — missing required fields.
+
+401 Object Unauthorized.
 
 ---
 

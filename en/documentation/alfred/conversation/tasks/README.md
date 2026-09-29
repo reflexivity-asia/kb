@@ -13,14 +13,6 @@ source_route: alfred/conversation/tasks
 -->
 # Tasks
 
-[← Documentation](../../../README.md)
-
-## Sections
-
-- [Update the active task](update-the-active-task/README.md) — `PUT`
-- [Get state records for a task](get-state-records-for-a-task/README.md) — `GET`
-- [Get a single state record](get-a-single-state-record/README.md) — `GET`
-
 ---
 
 [← Documentation](../../../README.md)
