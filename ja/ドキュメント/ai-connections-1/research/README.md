@@ -4,21 +4,19 @@ type: product
 language: ja
 locale: ja-JP
 author: Reflexivity GTM Team
-source_id: 6aa95a1a50675fa0b9c9cda8
-resource: Reflexivity Documentation
 kb_imported: 2026-09-29
 status: published
-translation_status: review-needed
-source_route: ai-connections-1/research
+translation_status: current
+resource: Reflexivity Documentation
 -->
 # リサーチ
 
-[← ドキュメント](../../README.md)
+[AI連携](../README.md) · [ドキュメント](../../README.md)
 
-## セクション
+## このセクション
 
 - [カバレッジと情報源](coverage-and-sources/README.md)
 
 ---
 
-[← ドキュメント](../../README.md)
+← [Microsoft 365 Copilot](../application-guides/microsoft-365-copilot/README.md) · [カバレッジと情報源](coverage-and-sources/README.md) →
