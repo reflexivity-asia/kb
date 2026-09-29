@@ -17,8 +17,11 @@ Select a page below to continue.
 
 ## In this section
 
+- [Get prices](get-prices/README.md) **GET**
+- [Get delayed prices](get-delayed-prices/README.md) **GET**
+- [Get latest delayed price](get-latest-delayed-price/README.md) **GET**
 - [Get market-close price](get-market-close-price/README.md) **GET**
 
 ---
 
-← [Get scenario insight predictions by ID](../scenario-insights/get-insight-predictions-based-on-requested-id/README.md) · [Get market-close price](get-market-close-price/README.md) →
+← [Scenario Insights](../scenario-insights/README.md) · [AI Connections](../ai-connections-1/README.md) →
