@@ -18,9 +18,6 @@ source_route: knowledge-graph
 ## セクション
 
 - [🏷️ Company → Theme](company-theme/README.md) — `GET`
-- [🎯 Theme → Company](theme-company/README.md) — `GET`
-- [🌍 Company → Country](company-country/README.md) — `GET`
-- [🌍 Company → Region](company-region/README.md) — `GET`
 - [🏢 Company → Company（競合）](company-company-competitors/README.md) — `GET`
 - [🛍️ Company → Product](company-product/README.md) — `GET`
 - [Legacy](legacy/README.md)
