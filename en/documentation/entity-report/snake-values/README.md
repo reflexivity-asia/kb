@@ -13,11 +13,78 @@ source_route: entity-report/snake-values
 -->
 # V1 Snake Values
 
-[← Documentation](../../README.md)
+Retrieves the latest snake values for a given entity tag. If a snake is not found it is
+omitted from the returned object, if no snakes are found an empty object is returned.
 
-Detailed documentation for this page is temporarily unavailable in this GitHub mirror.
+Title Description JSON Key
 
-For assistance, contact **gtm@reflexivity.com**.
+Mapping
+
+mom(horiz=1d)
+
+1D return
+
+mom(horiz=1w)
+
+1W return
+
+mom(horiz=1m)
+
+1M return
+
+mom(horiz=3m)
+
+3M return
+
+mom(horiz=6m)
+
+6M return
+
+mom(horiz=12m)
+
+1Y return
+
+pe ibes forward_12m
+
+P/E (trailing)
+
+pe ibes trailing_12m
+
+P/E (forward)
+
+price_rsi(horiz=14d)
+
+RSI
+
+#### Path Parameters
+
+entity_tag string Required The unique identifier for an entity.
+
+### Response Expand all
+
+200 Object OK
+
+#### Response Attributes
+
+mom(horiz=12m) object Show child attributes
+
+mom(horiz=1d) object Show child attributes
+
+mom(horiz=1m) object Show child attributes
+
+mom(horiz=1w) object Show child attributes
+
+mom(horiz=3m) object Show child attributes
+
+mom(horiz=6m) object Show child attributes
+
+pe_ibes_forward_12m object Show child attributes
+
+pe_ibes_trailing_12m object Show child attributes
+
+price_rsi(horiz=14d) object Show child attributes
+
+400 Object Invalid entity tag
 
 ---
 

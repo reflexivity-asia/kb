@@ -13,11 +13,19 @@ source_route: knowledge-graph/legacy/company-company-proximity
 -->
 # 🧲 Company → Company (Proximity)
 
-[← Documentation](../../../README.md)
+#### Body Parameters
 
-Detailed documentation for this page is temporarily unavailable in this GitHub mirror.
+entity string the entity tag
 
-For assistance, contact **gtm@reflexivity.com**.
+### Response
+
+200 Object Successful request
+
+#### Response Attributes
+
+googl_nasd string snap_nyse string 400 Object Bad request
+
+500 Object Something went wrong!
 
 ---
 

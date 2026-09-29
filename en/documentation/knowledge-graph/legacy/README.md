@@ -13,12 +13,6 @@ source_route: knowledge-graph/legacy
 -->
 # Legacy
 
-[← Documentation](../../README.md)
-
-## Sections
-
-- [🧲 Company → Company (Proximity)](company-company-proximity/README.md) — `POST`
-
 ---
 
 [← Documentation](../../README.md)
