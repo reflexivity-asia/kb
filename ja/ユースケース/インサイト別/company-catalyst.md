@@ -1,5 +1,7 @@
 # 企業カタリスト
 
+[← ユースケース一覧](../README.md)
+
 この分類に該当する公開済みのユースケースです。
 
 - [ACV：VIPERを全国展開し、ディーラー仕入れを強化 (ACVA) - 中立](../運用資産別/株式/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md)
