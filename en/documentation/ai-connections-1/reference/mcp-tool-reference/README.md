@@ -4,49 +4,31 @@ type: product
 language: en
 locale: en
 author: Reflexivity GTM Team
-source_id: 6aac3bcf50675fa0b9e8b06e
-resource: Reflexivity Documentation
 kb_imported: 2026-09-29
 status: published
 translation_status: canonical
-source_route: ai-connections-1/reference/mcp-tool-reference
+resource: Reflexivity Documentation
 -->
 # MCP tool reference
 
+[Reference](../README.md) · [Documentation](../../../README.md)
+
 ---
+
 Reference for developers configuring the Reflexivity connection or handling its responses. All seven tools are read-only. For installation, use [Connect](../../connect/README.md).
 
 ---
 
 ## Connection
 
-Title Description Item
-
-Value
-
-Production endpoint
-
-`https://api.reflexivity.com/external-research-mcp/mcp`
-
-Transport
-
-MCP over Streamable HTTP
-
-Plugin server name
-
-`reflexivity-research`
-
-Plugin authentication
-
-Browser OAuth with PKCE through `identity.reflexivity.com`; the host handles client registration and token storage
-
-Account requirement
-
-Full Reflexivity user with their own account
-
-Scope
-
-Read published research and Knowledge Graph data; use authorized saved lists
+| Item | Value |
+| --- | --- |
+| Production endpoint | `https://api.reflexivity.com/external-research-mcp/mcp` |
+| Transport | MCP over Streamable HTTP |
+| Plugin server name | `reflexivity-research` |
+| Plugin authentication | Browser OAuth with PKCE through `identity.reflexivity.com`; the host handles client registration and token storage |
+| Account requirement | Full Reflexivity user with their own account |
+| Scope | Read published research and Knowledge Graph data; use authorized saved lists |
 
 The [plugin repository](https://github.com/toggleglobal/reflexivity-ai-plugins) packages the connection for Claude Code, Codex and Cursor. Other hosts may require their own OAuth registration. Do not assume the plugin's dynamic-registration flow applies to an administrator-created Microsoft 365 connection.
 
@@ -56,47 +38,14 @@ The [plugin repository](https://github.com/toggleglobal/reflexivity-ai-plugins) 
 
 Use references returned by the service rather than constructing theme or relationship identifiers.
 
-Title Description Title Kind
-
-Format
-
-Used by
-
-Company
-
-`entity: _ `, lowercase
-
-Research and company lookups
-
-Theme
-
-`theme: `
-
-Research subjects and theme lookups
-
-Research
-
-`kg: ` or `scenario: `
-
-Read full research
-
-Relationship
-
-`rel: `
-
-Relationship evidence
-
-Saved list
-
-Bare UUID plus `watchlist` or `basket`
-
-Search and lookup filters
-
-Other targets
-
-`country: `, `region: `, `product: `
-
-Relationship outputs
+| Kind | Format | Used by |
+| --- | --- | --- |
+| Company | `entity:<ticker>_<exchange>`, lowercase | Research and company lookups |
+| Theme | `theme:<uuid>` | Research subjects and theme lookups |
+| Research | `kg:<uuid>` or `scenario:<uuid>` | Read full research |
+| Relationship | `rel:<opaque>` | Relationship evidence |
+| Saved list | Bare UUID plus `watchlist` or `basket` | Search and lookup filters |
+| Other targets | `country:<ISO-2>`, `region:<name>`, `product:<id>` | Relationship outputs |
 
 A subject or security object can contain `query`, `ref`, `kind`, `exchange` and `asset_class`. `ref` takes precedence over `query`. `kind` defaults to `entity`; use `theme` for a theme query. Exchange hints use codes such as `NASD`. Asset classes are `stock`, `equity`, `etf`, `bond`, `future`, `fx`, `commodity`, `credit` and `mutual_fund`; accepting an input value does not establish research coverage for that asset class.
 
@@ -106,41 +55,16 @@ Saved-list filters use `saved_universe_id` and `saved_universe_type`. List the a
 
 ## Common response fields
 
-Title Description Field
-
-Meaning
-
-`schema_version`
-
-Response contract version. Read the value returned by the service and interpret the response using the matching contract. This is separate from the plugin or application version.
-
-`data_as_of`
-
-UTC timestamp indicating when the response was assembled. It is not the research publication date, reporting period, or proof that the underlying source data was refreshed at that time.
-
-`coverage`
-
-Counts of `requested`, `resolved`, `authorized` and `executed`. Units differ by tool.
-
-`source_status`
-
-Backend sources and their status, including `ok`, `skipped` and `unavailable`; `detail` may explain a problem.
-
-`interpretations`
-
-Input resolution: `input`, `status`, `selected`, ambiguity `candidates`, and `resolver_version`, where applicable.
-
-`page`
-
-Paged tools: `requested_limit`, `effective_limit`, `has_more`, and `next_cursor` when another page exists.
-
-`window`
-
-Applied `from` and `to`, for research search.
-
-`omitted_refs`
-
-Missing items with a `ref` and `reason`, where partial retrieval supports them.
+| Field | Meaning |
+| --- | --- |
+| `schema_version` | Response contract version. Read the value returned by the service and interpret the response using the matching contract. This is separate from the plugin or application version. |
+| `data_as_of` | UTC timestamp indicating when the response was assembled. It is not the research publication date, reporting period, or proof that the underlying source data was refreshed at that time. |
+| `coverage` | Counts of `requested`, `resolved`, `authorized` and `executed`. Units differ by tool. |
+| `source_status` | Backend sources and their status, including `ok`, `skipped` and `unavailable`; `detail` may explain a problem. |
+| `interpretations` | Input resolution: `input`, `status`, `selected`, ambiguity `candidates`, and `resolver_version`, where applicable. |
+| `page` | Paged tools: `requested_limit`, `effective_limit`, `has_more`, and `next_cursor` when another page exists. |
+| `window` | Applied `from` and `to`, for research search. |
+| `omitted_refs` | Missing items with a `ref` and `reason`, where partial retrieval supports them. |
 
 Resolution statuses include `resolved`, `ambiguous` and `not_found`. Query resolutions identify the selected company or theme; company queries can include ticker and exchange. Read the selected label, especially for theme queries, which may match a related name.
 
@@ -154,45 +78,20 @@ For pagination, pass `page.next_cursor` unchanged with the original filters. A z
 
 `search_insights` returns compact research summaries, newest first by publication date.
 
-Title Description Input
-
-Default or limit
-
-`subjects`
-
-Optional array of subject objects; matches research about any specified subject
-
-`types`
-
-All types; choose `company_catalyst`, `market_catalyst`, `earnings_preview`, `earnings_recap`, `scenario`
-
-`from`, `to`
-
-`from`: 30 days before `to`; `to`: now. RFC 3339 timestamps or dates.
-
-`saved_universe_id`, `saved_universe_type`
-
-Optional saved-list filter
-
-`limit`
-
-20; maximum 50
-
-`cursor`
-
-Previous `page.next_cursor`
-
-`language`
-
-Optional BCP-47 code
-
-`partial_ok`
-
-`false`; `true` requests results from subjects and sources that can answer
+| Input | Default or limit |
+| --- | --- |
+| `subjects` | Optional array of subject objects; matches research about any specified subject |
+| `types` | All types; choose `company_catalyst`, `market_catalyst`, `earnings_preview`, `earnings_recap`, `scenario` |
+| `from`, `to` | `from`: 30 days before `to`; `to`: now. RFC 3339 timestamps or dates. |
+| `saved_universe_id`, `saved_universe_type` | Optional saved-list filter |
+| `limit` | 20; maximum 50 |
+| `cursor` | Previous `page.next_cursor` |
+| `language` | Optional BCP-47 code |
+| `partial_ok` | `false`; `true` requests results from subjects and sources that can answer |
 
 Date-only `from` starts at 00:00 UTC; date-only `to` includes the end of that day.
 
-{"subjects": [{"ref": "entity:nvda_nasd"}], "types": ["earnings_recap"], "limit": 5}
+`{"subjects": [{"ref": "entity:nvda_nasd"}], "types": ["earnings_recap"], "limit": 5}`
 
 The result array is `insights`. Items contain `ref`, `type`, `title`, `published_at`, and, where applicable, `subtitle`, `sentiment` and `subject_ref`. Scenario summaries have no subtitle or sentiment. Some market catalysts have no subject. Research sentiments include `positive`, `neutral` and `negative`.
 
@@ -200,7 +99,7 @@ Coverage counts each explicit subject once and each saved list once. Theme subje
 
 ### Star ratings
 
-The documented search_insights inputs do not include a star-rating filter, and the documented search and detail responses do not expose a star-rating field. Do not translate a request such as “7+ stars” into an unsupported parameter or claim to have filtered results by stars. Separate product API filters do not establish support in this MCP interface.
+The documented `search_insights` inputs do not include a star-rating filter, and the documented search and detail responses do not expose a star-rating field. Do not translate a request such as “7+ stars” into an unsupported parameter or claim to have filtered results by stars. Separate product API filters do not establish support in this MCP interface.
 
 ---
 
@@ -208,27 +107,14 @@ The documented search_insights inputs do not include a star-rating filter, and t
 
 `get_insights` retrieves selected research from references returned by search.
 
-Title Description Input
+| Input | Default or limit |
+| --- | --- |
+| `refs` | Required; up to 5 `kg:` or `scenario:` references |
+| `include` | Applicable groups; choose `summary`, `sections`, `statistics` |
+| `language` | Optional BCP-47 code |
+| `partial_ok` | `false`; `true` reports missing items in `omitted_refs` |
 
-Default or limit
-
-`refs`
-
-Required; up to 5 `kg:` or `scenario:` references
-
-`include`
-
-Applicable groups; choose `summary`, `sections`, `statistics`
-
-`language`
-
-Optional BCP-47 code
-
-`partial_ok`
-
-`false`; `true` reports missing items in `omitted_refs`
-
-{"refs": ["kg:<reference-from-search>"], "include": ["summary", "sections"]}
+`{"refs": ["kg:<reference-from-search>"], "include": ["summary", "sections"]}`
 
 The `insights` items repeat summary fields and add `included_field_groups`. Card-based research adds `updated_at` and `sections`; section types include `hero`, `takeaway`, `quotes`, `details_grid`, `graph` and `geo`. Their content can include badges, takeaways, theme tags, key figures, ranked peer tables and country cards. Sections and counts vary by research type; do not require every section or assume an empty section is a rights restriction.
 
@@ -246,7 +132,7 @@ Sentiment is a separate optional insight field. Do not assume it is present on e
 
 If the response does not provide the requested direction, report it as unavailable. Do not infer a bullish or bearish label from the title alone.
 
-Knowledge Graph exposure_direction describes a different concept and should not be substituted.
+Knowledge Graph `exposure_direction` describes a different concept and should not be substituted.
 
 ---
 
@@ -254,35 +140,16 @@ Knowledge Graph exposure_direction describes a different concept and should not 
 
 `get_company_relationships` returns relationships for one or more companies.
 
-Title Description Input
+| Input | Default or limit |
+| --- | --- |
+| `securities` | Optional array of security objects; alternative to a saved list |
+| `saved_universe_id`, `saved_universe_type` | Optional saved-list filter |
+| `relationship_types` | All six: `theme`, `macro_theme`, `financial_theme`, `product`, `country`, `region` |
+| `limit` | 20 edges; maximum 50 |
+| `cursor`, `language` | Optional |
+| `partial_ok` | `false`; server description says unresolved inputs block execution and return candidates |
 
-Default or limit
-
-`securities`
-
-Optional array of security objects; alternative to a saved list
-
-`saved_universe_id`, `saved_universe_type`
-
-Optional saved-list filter
-
-`relationship_types`
-
-All six: `theme`, `macro_theme`, `financial_theme`, `product`, `country`, `region`
-
-`limit`
-
-20 edges; maximum 50
-
-`cursor`, `language`
-
-Optional
-
-`partial_ok`
-
-`false`; server description says unresolved inputs block execution and return candidates
-
-{"securities": [{"query": "NVIDIA", "exchange": "NASD"}], "relationship_types": ["theme"]}
+`{"securities": [{"query": "NVIDIA", "exchange": "NASD"}], "relationship_types": ["theme"]}`
 
 The `relationships` array contains `ref`, `type`, `source`, `target` and `rank`. Source identifies the company with its reference, label, ticker and exchange; target identifies the related theme, product or geography. Financial and macro themes add `exposure_direction`: `positive`, `negative` or `neutral`.
 
@@ -296,31 +163,15 @@ Coverage counts securities, including each member of a saved list. A company out
 
 `get_company_competitors` returns ranked competitors for one or more companies.
 
-Title Description Input
+| Input | Default or limit |
+| --- | --- |
+| `securities` | Optional array of security objects |
+| `saved_universe_id`, `saved_universe_type` | Optional saved-list filter |
+| `limit` | 20 competitors; maximum 50 |
+| `cursor` | Optional |
+| `partial_ok` | `false` |
 
-Default or limit
-
-`securities`
-
-Optional array of security objects
-
-`saved_universe_id`, `saved_universe_type`
-
-Optional saved-list filter
-
-`limit`
-
-20 competitors; maximum 50
-
-`cursor`
-
-Optional
-
-`partial_ok`
-
-`false`
-
-{"securities": [{"ref": "entity:nvda_nasd"}, {"ref": "entity:amd_nasd"}], "limit": 10}
+`{"securities": [{"ref": "entity:nvda_nasd"}, {"ref": "entity:amd_nasd"}], "limit": 10}`
 
 The `competitors` array contains company `ref`, `label`, `ticker`, `exchange`, `rank`, `competitor_of` and `refs`. `competitor_of` identifies the requested companies using bare company tags. `refs` contains the relationship references used to request evidence.
 
@@ -334,35 +185,16 @@ Coverage counts securities, including saved-list members. Outside-coverage compa
 
 `find_theme_companies` returns companies associated with a selected theme.
 
-Title Description Input
+| Input | Default or limit |
+| --- | --- |
+| `theme` | Required subject object: theme query or exact `theme:` reference |
+| `securities` | Optional filter to selected companies |
+| `saved_universe_id`, `saved_universe_type` | Optional saved-list filter; this route still needs verification |
+| `limit` | 20 companies; maximum 50 |
+| `cursor`, `language` | Optional |
+| `partial_ok` | `false` |
 
-Default or limit
-
-`theme`
-
-Required subject object: theme query or exact `theme:` reference
-
-`securities`
-
-Optional filter to selected companies
-
-`saved_universe_id`, `saved_universe_type`
-
-Optional saved-list filter; this route still needs verification
-
-`limit`
-
-20 companies; maximum 50
-
-`cursor`, `language`
-
-Optional
-
-`partial_ok`
-
-`false`
-
-{"theme": {"query": "Artificial Intelligence", "kind": "theme"}, "limit": 20}
+`{"theme": {"query": "Artificial Intelligence", "kind": "theme"}, "limit": 20}`
 
 The `relationships` array uses the edge shape above, with the theme as `source` and company as `target`. The selected theme is reported in `interpretations`. Its matching `score` is an internal match score, not an exposure measure.
 
@@ -376,23 +208,13 @@ The underlying industry methodology distinguishes a company's strongest themes f
 
 `get_relationship_evidence` expands relationship references returned by company, competitor or theme lookups.
 
-Title Description Input
+| Input | Default or limit |
+| --- | --- |
+| `refs` | Required; up to 10 service-issued `rel:` references |
+| `language` | Optional |
+| `partial_ok` | `false`; the server describes omitted-reference reporting when `true` |
 
-Default or limit
-
-`refs`
-
-Required; up to 10 service-issued `rel:` references
-
-`language`
-
-Optional
-
-`partial_ok`
-
-`false`; the server describes omitted-reference reporting when `true`
-
-{"refs": ["rel:<reference-from-a-lookup>"]}
+`{"refs": ["rel:<reference-from-a-lookup>"]}`
 
 The `evidence` array repeats the edge's identifiers, type, rank and any exposure direction, then adds `description`. `source_evidence` and `document_ids` may also be present. Competitor relationships can return a description without those supporting fields. Document identifiers are opaque; this connection provides no tool to turn them into a source title or URL.
 
@@ -404,25 +226,12 @@ Coverage counts references. There is no pagination. More than ten references or 
 
 Omitting types requests both watchlists and baskets. To return only personal watchlists, set types to ["watchlist"]. To return only shared baskets, set types to ["basket"]. Present the two categories separately when reporting totals.
 
-Title Description Input
-
-Default or limit
-
-`types`
-
-Both `watchlist` and `basket`; optionally restrict the array
-
-`limit`
-
-25; maximum 100; zero selects the default
-
-`cursor`
-
-Optional
-
-`partial_ok`
-
-`false`; `true` requests available families if one source fails
+| Input | Default or limit |
+| --- | --- |
+| `types` | Both `watchlist` and `basket`; optionally restrict the array |
+| `limit` | 25; maximum 100; zero selects the default |
+| `cursor` | Optional |
+| `partial_ok` | `false`; `true` requests available families if one source fails |
 
 The `universes` array contains `type`, `id`, `name` and `count`. This listing does not return member securities. Pass its ID and type to another tool to request research across the list; those results can identify the companies researched.
 
@@ -434,35 +243,22 @@ Coverage counts list families: one for watchlists, one for baskets. This tool ha
 
 Errors are MCP tool errors rather than normal response envelopes. They use text of the form `[CODE] message`. Recorded validation cases include:
 
-Title Description Code
-
-Cause
-
-`INVALID_INPUT`
-
-Too many detail/evidence references, invalid relationship references, or a date window whose start follows its end
-
-`SUBJECT_NOT_FOUND`
-
-Unknown research reference with partial retrieval disabled
-
-`UNAUTHORIZED` / HTTP 401
-
-Plugin setup describes this as missing or expired sign-in
-
-`FORBIDDEN` / HTTP 403
-
-Plugin setup describes this as an account without research access
+| Code | Cause |
+| --- | --- |
+| `INVALID_INPUT` | Too many detail/evidence references, invalid relationship references, or a date window whose start follows its end |
+| `SUBJECT_NOT_FOUND` | Unknown research reference with partial retrieval disabled |
+| `UNAUTHORIZED` / HTTP 401 | Plugin setup describes this as missing or expired sign-in |
+| `FORBIDDEN` / HTTP 403 | Plugin setup describes this as an account without research access |
 
 The last two outcomes come from plugin guidance and still need a recorded production account test. Rate-limit, expiry, rights-restriction and response-budget error behavior is not yet established. Do not infer the cause of a missing item from an error code that was not returned.
 
 ### Authentication and connection recovery
 
-A successful browser authentication does not establish that the host has discovered the tools or can execute a tool call. Verify discovery and a successful call separately. A normal empty list_saved_universes response can confirm a successful call; a timeout or unavailable source cannot.
+A successful browser authentication does not establish that the host has discovered the tools or can execute a tool call. Verify discovery and a successful call separately. A normal empty `list_saved_universes` response can confirm a successful call; a timeout or unavailable source cannot.
 
 Testing has surfaced invalidated connections, missing tools after authentication, and expiry-related reconnection failures. A reported Cursor diagnostic included “refresh_token grant not yet implemented”; the cause and scope require engineering verification. Do not treat all timeouts as network failures or assume automatic token refresh is reliable across hosts.
 
-For user recovery steps, see [Troubleshooting](../../help/troubleshooting/README.md). Record the host version, installation route, exact error, and whether reauthentication restores tool calls when investigating failures.
+For user recovery steps, see Troubleshooting. Record the host version, installation route, exact error, and whether reauthentication restores tool calls when investigating failures.
 
 ---
 
@@ -474,4 +270,4 @@ Pagination limits count the tool's result objects, not universally companies. De
 
 ---
 
-[← Documentation](../../../README.md)
+← [Reference](../README.md)
