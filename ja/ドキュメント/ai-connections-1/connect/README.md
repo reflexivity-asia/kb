@@ -4,22 +4,15 @@ type: product
 language: ja
 locale: ja-JP
 author: Reflexivity GTM Team
-source_id: 6aa959dd407571e975616f17
-resource: Reflexivity Documentation
 kb_imported: 2026-09-29
 status: published
-translation_status: review-needed
-source_route: ai-connections-1/connect
+translation_status: current
+resource: Reflexivity Documentation
 -->
 # 接続
 
-[← ドキュメント](../../README.md)
-
-## セクション
-
-- [アカウントを接続](connect-your-account/README.md)
-- [組織を設定](set-up-your-organization/README.md)
+[AI連携](../README.md) · [ドキュメント](../../README.md)
 
 ---
 
-[← ドキュメント](../../README.md)
+← [AI連携](../README.md) · [アプリケーション別ガイド](../application-guides/README.md) →
