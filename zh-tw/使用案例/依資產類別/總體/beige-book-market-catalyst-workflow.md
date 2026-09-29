@@ -35,7 +35,7 @@ Beige Book 這類文件包含大量資訊。在許多投資研究流程中，第
 
 Market Catalyst 提供從事件 headline 進入分析的入口。工作流程先把 feed 縮小到使用者真正覆蓋的領域，再找出重要事件，接著開啟較完整的市場解讀。
 
-![Market Catalyst 中的 Beige Book 項目](../../../圖片/使用案例/quick/RX-USECASE-0049/01-beige-book-market-catalyst-list.webp)
+![Market Catalyst 中的 Beige Book 項目](../../../../assets/usecases/quick/RX-USECASE-0049/01-beige-book-market-catalyst-list.webp)
 
 ## 工作流程
 

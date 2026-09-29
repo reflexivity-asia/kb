@@ -39,7 +39,7 @@ publication_mode: faithful-source-preserving
 
 分析顺序是有意设计的：先统一比较市场领先者，识别收益来源；再问两个市场是否由同样的主题驱动；即便主题相同，也继续检查真正领先的是价值链的同一环节还是不同环节。
 
-![美国与日本股票市场的主导主题](../../../图片/使用案例/quick/RX-USECASE-0038/email-02.webp)
+![美国与日本股票市场的主导主题](../../../../assets/usecases/quick/RX-USECASE-0038/email-02.webp)
 
 ## 主题比较
 

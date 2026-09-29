@@ -29,7 +29,7 @@ publication_mode: faithful-source-preserving
 
 分析 `@HOOD` 與 Bitcoin 價格的 correlation。用 `@` 加 ticker 可在公司名稱相似時提高 entity resolution 準確度。
 
-![Robinhood 與 Bitcoin 的價格關係](../../../圖片/使用案例/quick/RX-USECASE-0050/source-visuals.webp)
+![Robinhood 與 Bitcoin 的價格關係](../../../../assets/usecases/quick/RX-USECASE-0050/source-visuals.webp)
 
 ## 研究要建立甚麼
 

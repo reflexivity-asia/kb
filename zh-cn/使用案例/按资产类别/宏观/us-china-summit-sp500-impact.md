@@ -49,7 +49,7 @@ publication_mode: faithful-source-preserving
 | G20 Bali | 2022 年 11 月 | 3,993 → 3,950 | 反应有限 |
 | APEC San Francisco | 2023 年 11 月 | 4,503 → 4,557 | 上涨延续；降息预期是更大驱动 |
 
-![过去 10 年的 S&P 500](../../../图片/使用案例/quick/RX-USECASE-0066/01-sp500-10y.webp)
+![过去 10 年的 S&P 500](../../../../assets/usecases/quick/RX-USECASE-0066/01-sp500-10y.webp)
 
 ## 单独看反应更大的会议
 

@@ -40,7 +40,7 @@ publication_mode: faithful-source-preserving
 
 分析順序很重要：先用一致框架找出市場領先者與報酬驅動因素，再判斷兩個市場是否由相同主題帶動；如果主題相同，進一步確認真正領先的是不是同一段價值鏈。
 
-![美國與日本股市的領先主題](../../../圖片/使用案例/quick/RX-USECASE-0038/email-02.webp)
+![美國與日本股市的領先主題](../../../../assets/usecases/quick/RX-USECASE-0038/email-02.webp)
 
 ## 主題比較
 

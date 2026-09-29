@@ -27,7 +27,7 @@ publication_mode: faithful-source-preserving
 
 > 本案例保留原始問題、候選名單與篩選邏輯。這份名單是建立**研究 universe 的起點，不是投資推薦名單**。
 
-![所選主題與相關美國、日本公司](../../../圖片/使用案例/quick/RX-USECASE-0047/source-visuals.webp)
+![所選主題與相關美國、日本公司](../../../../assets/usecases/quick/RX-USECASE-0047/source-visuals.webp)
 
 ## 何時適合使用這個工作流程
 

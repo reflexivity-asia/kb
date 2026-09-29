@@ -28,7 +28,7 @@ publication_mode: faithful-source-preserving
 
 > 올해 완료된 주요 미국 IPO를 정리하고 시장 영향을 분석해 주세요. 연말까지 보도되거나 예상되는 대형 IPO도 분석해 주세요.
 
-![미국 IPO 시장의 완료 딜과 향후 파이프라인](../../../이미지/유스케이스/quick/RX-USECASE-0048/source-visuals.webp)
+![미국 IPO 시장의 완료 딜과 향후 파이프라인](../../../../assets/usecases/quick/RX-USECASE-0048/source-visuals.webp)
 
 ## 조사 목적
 

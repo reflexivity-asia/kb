@@ -53,9 +53,9 @@ At the time of the QUICK-provided research:
 
 The source interpreted the combination of higher US yields, a wider rate differential, and yen weakness as an external pressure that could reinforce BOJ normalization and higher Japanese yields.
 
-![US and Japan long-term yields](../../../assets/usecases/quick/RX-USECASE-0054/01-us-japan-long-yields.webp)
+![US and Japan long-term yields](../../../../assets/usecases/quick/RX-USECASE-0054/01-us-japan-long-yields.webp)
 
-![USD/JPY and Nikkei 225](../../../assets/usecases/quick/RX-USECASE-0054/03-usdjpy-nikkei.webp)
+![USD/JPY and Nikkei 225](../../../../assets/usecases/quick/RX-USECASE-0054/03-usdjpy-nikkei.webp)
 
 ## Why FX comes before the sector call
 
@@ -81,7 +81,7 @@ The source separated three channels:
 | Real estate | +7.5% | -3.7% | Headwind from financing costs and discount rates |
 | Autos / exporters | -4.7% | -5.6% | Yen benefit offset by US growth and tariff concerns |
 
-![Bank, real-estate, and auto-theme performance](../../../assets/usecases/quick/RX-USECASE-0054/02-theme-performance.webp)
+![Bank, real-estate, and auto-theme performance](../../../../assets/usecases/quick/RX-USECASE-0054/02-theme-performance.webp)
 
 ### Banks
 

@@ -45,7 +45,7 @@ publication_mode: faithful-source-preserving
 
 この設定で1,244個の観測値を散布図にすると、最新値が過去分布のどこに位置するかと、同じ水準で将来リターンがどれほどばらついたかを同時に見られます。
 
-![債券シグナルと株式の先行リターン](../../../画像/ユースケース/reflexivity/RX-USECASE-0033/chart-1.webp)
+![債券シグナルと株式の先行リターン](../../../../assets/usecases/reflexivity/RX-USECASE-0033/chart-1.webp)
 
 *債券市場のシグナルと、その後の株式リターンを観測値ごとに比較した散布図。*
 

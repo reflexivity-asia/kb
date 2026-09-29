@@ -38,7 +38,7 @@ publication_mode: faithful-source-preserving
 
 반도체에서는 Intel, AMD, Qualcomm이 강세를 주도했습니다. AI/플랫폼에서는 Meta, AI/클라우드에서는 Oracle이 상승했습니다. 같은 기간 Nvidia는 거의 보합이어서 반도체 안에서도 성과가 달랐음을 보여줍니다.
 
-![선별한 미국 종목의 성과](../../../이미지/유스케이스/quick/RX-USECASE-0065/01-us-stock-performance.webp)
+![선별한 미국 종목의 성과](../../../../assets/usecases/quick/RX-USECASE-0065/01-us-stock-performance.webp)
 
 | 기업 | 테마 / 업종 | 수익률 | 가격, 9월 1일 → 9월 17일 |
 | --- | --- | ---: | --- |

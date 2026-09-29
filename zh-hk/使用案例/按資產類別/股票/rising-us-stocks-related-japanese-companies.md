@@ -39,7 +39,7 @@ publication_mode: faithful-source-preserving
 
 半導體是主要強勢來源，Intel、AMD 與 Qualcomm 領漲。Meta 在 AI／平台方向上漲，Oracle 在 AI／雲端方向上漲。同期 Nvidia 大致持平，顯示即使在半導體行業內部，表現也有明顯差異。
 
-![所選美國股票的表現](../../../圖片/使用案例/quick/RX-USECASE-0065/01-us-stock-performance.webp)
+![所選美國股票的表現](../../../../assets/usecases/quick/RX-USECASE-0065/01-us-stock-performance.webp)
 
 | 公司 | 主題 / 行業 | 回報率 | 價格，9 月 1 日 → 9 月 17 日 |
 | --- | --- | ---: | --- |

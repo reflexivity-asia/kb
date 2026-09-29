@@ -39,7 +39,7 @@ publication_mode: faithful-source-preserving
 
 半导体是主要强势来源，Intel、AMD 和 Qualcomm 领涨。Meta 在 AI/平台方向上涨，Oracle 在 AI/云方向上涨。同期 Nvidia 基本持平，说明即使在半导体板块内部，表现也存在明显差异。
 
-![所选美国股票的表现](../../../图片/使用案例/quick/RX-USECASE-0065/01-us-stock-performance.webp)
+![所选美国股票的表现](../../../../assets/usecases/quick/RX-USECASE-0065/01-us-stock-performance.webp)
 
 | 公司 | 主题 / 行业 | 收益率 | 价格，9 月 1 日 → 9 月 17 日 |
 | --- | --- | ---: | --- |

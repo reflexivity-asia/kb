@@ -27,7 +27,7 @@ publication_mode: faithful-source-preserving
 
 > 本案例保留原问题、候选名单和筛选逻辑。这里的名单是研究起点，不是推荐清单。
 
-![所选主题及相关美国与日本公司](../../../图片/使用案例/quick/RX-USECASE-0047/source-visuals.webp)
+![所选主题及相关美国与日本公司](../../../../assets/usecases/quick/RX-USECASE-0047/source-visuals.webp)
 
 ## 什么时候适合这套工作流
 

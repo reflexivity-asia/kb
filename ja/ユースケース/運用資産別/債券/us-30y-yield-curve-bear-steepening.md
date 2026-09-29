@@ -49,13 +49,13 @@ publication_mode: faithful-source-preserving
 - ただし、提供日時点ではカーブ全体として順イールドを維持していました：10年-2年 +0.52%ポイント、10年-3ヶ月 +0.85%ポイント。逆イールドは既に解消済みです。
 - 背景として、報道では財政赤字・債務残高への懸念やタームプレミアムの上昇が、長期金利を数十年ぶりの高水準へ押し上げていると指摘されています。
 
-![残存年限別の利回り変化](../../../画像/ユースケース/quick/RX-USECASE-0053/01-maturity-yield-changes.webp)
+![残存年限別の利回り変化](../../../../assets/usecases/quick/RX-USECASE-0053/01-maturity-yield-changes.webp)
 
 ## チャート・テーブル
 
 提供日時点と3か月前の米国債イールドカーブを比較すると、長期ゾーンの持ち上がりが確認できます。
 
-![米国債イールドカーブ：現在と3ヶ月前](../../../画像/ユースケース/quick/RX-USECASE-0053/02-yield-curve-current-vs-3m.webp)
+![米国債イールドカーブ：現在と3ヶ月前](../../../../assets/usecases/quick/RX-USECASE-0053/02-yield-curve-current-vs-3m.webp)
 
 残存年限別の利回り変化（1ヶ月・3ヶ月）は以下の通りです。
 
@@ -96,7 +96,7 @@ publication_mode: faithful-source-preserving
 
 過去の局面と比べると、**利上げ局面ではカーブがフラット化（時に逆イールド化）、利下げ局面ではブル・スティープ化**するのが一般的でした。ところが提供日時点ではFRBが据え置き（実効FF金利 約3.63%）のなか長期金利が上昇しており、据え置き下で30年金利が +47bp 上昇する一方、2s10sは約18bp縮小＝ベア・フラット化という、政策金利が動かないまま長期主導で金利が上がる特殊な局面に位置しています。
 
-![2s10sとFF金利の過去局面比較](../../../画像/ユースケース/quick/RX-USECASE-0053/03-2s10s-fed-funds-history.webp)
+![2s10sとFF金利の過去局面比較](../../../../assets/usecases/quick/RX-USECASE-0053/03-2s10s-fed-funds-history.webp)
 
 ### 主なポイント
 

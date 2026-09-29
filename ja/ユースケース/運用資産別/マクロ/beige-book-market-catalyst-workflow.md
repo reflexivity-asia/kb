@@ -38,7 +38,7 @@ publication_mode: faithful-source-preserving
 
 マーケットカタリストでは、担当する国・地域やテーマに合わせて重要イベントを絞り込み、見出しから分析へ進めます。この例では、ベージュブックが市場イベントとしてどう整理されているかを確認し、その後に詳細な分析を読む、という流れです。
 
-![マーケットカタリストに表示されたベージュブックの分析](../../../画像/ユースケース/quick/RX-USECASE-0049/01-beige-book-market-catalyst-list.webp)
+![マーケットカタリストに表示されたベージュブックの分析](../../../../assets/usecases/quick/RX-USECASE-0049/01-beige-book-market-catalyst-list.webp)
 
 ## 確認の手順
 

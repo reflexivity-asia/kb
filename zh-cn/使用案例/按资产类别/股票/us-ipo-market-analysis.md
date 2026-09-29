@@ -29,7 +29,7 @@ publication_mode: faithful-source-preserving
 
 > 列出今年已完成的主要美国 IPO，并分析它们对市场的影响。同时分析年底前报道或预期中的大型 IPO。
 
-![美国 IPO 市场的已完成交易与未来发行管线](../../../图片/使用案例/quick/RX-USECASE-0048/source-visuals.webp)
+![美国 IPO 市场的已完成交易与未来发行管线](../../../../assets/usecases/quick/RX-USECASE-0048/source-visuals.webp)
 
 ## 研究目标
 

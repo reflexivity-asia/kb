@@ -52,9 +52,9 @@ Even in the high-rate environment described in the source, most of the companies
 | Meta | 81.6 | 61.3 | 20.3 | 0.28 | 87x | 34.7% | 46.1 | 29.9 |
 | Apple | 54.7 | 100.8 | -46.1 | 1.37 | net income* | 3.1% | 98.8 | 4.5 |
 
-![Liquidity, debt, and net cash across the Magnificent Seven](../../../assets/usecases/quick/RX-USECASE-0064/01-liquidity-debt-net-cash.webp)
+![Liquidity, debt, and net cash across the Magnificent Seven](../../../../assets/usecases/quick/RX-USECASE-0064/01-liquidity-debt-net-cash.webp)
 
-![Capital-expenditure intensity and free cash flow](../../../assets/usecases/quick/RX-USECASE-0064/02-capex-fcf.webp)
+![Capital-expenditure intensity and free cash flow](../../../../assets/usecases/quick/RX-USECASE-0064/02-capex-fcf.webp)
 
 ## Four differences that matter
 

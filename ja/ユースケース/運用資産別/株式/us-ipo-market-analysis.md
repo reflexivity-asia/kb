@@ -32,7 +32,7 @@ publication_mode: faithful-source-preserving
 
 **米国市場で今期実施された主なIPOをリストアップして、市場への影響を分析してください。また、今年の年末までに予定されている大型のIPOについても同様の分析をしてください。**
 
-![米国IPO市場を実績と今後の大型案件から分析する - 元資料の図表・画面](../../../画像/ユースケース/quick/RX-USECASE-0048/source-visuals.webp)
+![米国IPO市場を実績と今後の大型案件から分析する - 元資料の図表・画面](../../../../assets/usecases/quick/RX-USECASE-0048/source-visuals.webp)
 
 ## この調査で確かめたいこと
 

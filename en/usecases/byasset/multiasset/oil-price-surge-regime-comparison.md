@@ -28,7 +28,7 @@ publication_mode: faithful-source-preserving
 
 How did the drivers of the oil-price rise after the March US-Iran conflict differ from the rise since August, and which industries and major companies were affected by higher oil prices?
 
-![Oil-price regimes and affected sectors](../../../assets/usecases/quick/RX-USECASE-0045/source-visuals.webp)
+![Oil-price regimes and affected sectors](../../../../assets/usecases/quick/RX-USECASE-0045/source-visuals.webp)
 
 ## What the research is trying to establish
 

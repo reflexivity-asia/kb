@@ -53,7 +53,7 @@ publication_mode: faithful-source-preserving
 
 이 표는 서로 다른 두 질문을 의도적으로 분리합니다. 절대 금리가 가장 높은 나라는 영국이었지만, 1년 동안 금리 환경이 가장 크게 바뀐 나라는 일본이었습니다. 두 신호는 같지 않습니다.
 
-![주요 시장의 10년 국채금리 비교](../../../이미지/유스케이스/quick/RX-USECASE-0040/source-visuals.webp)
+![주요 시장의 10년 국채금리 비교](../../../../assets/usecases/quick/RX-USECASE-0040/source-visuals.webp)
 
 ## 국가별 해석
 

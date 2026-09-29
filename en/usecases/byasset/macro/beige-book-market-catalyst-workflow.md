@@ -34,7 +34,7 @@ A document such as the Beige Book contains a large amount of information. In man
 
 Market Catalyst provides an entry point from the event headline into the analysis. The workflow narrows the feed to the user's coverage area, identifies the relevant event, and then opens the detailed market interpretation.
 
-![Beige Book entry in Market Catalyst](../../../assets/usecases/quick/RX-USECASE-0049/01-beige-book-market-catalyst-list.webp)
+![Beige Book entry in Market Catalyst](../../../../assets/usecases/quick/RX-USECASE-0049/01-beige-book-market-catalyst-list.webp)
 
 ## Workflow
 

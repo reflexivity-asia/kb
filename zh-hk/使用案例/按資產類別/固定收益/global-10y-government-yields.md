@@ -54,7 +54,7 @@ publication_mode: faithful-source-preserving
 
 這個表刻意分開兩個不同問題。英國的絕對孳息最高，但日本的變化最大。兩者不是同一種訊號。
 
-![主要市場 10 年期政府債券孳息比較](../../../圖片/使用案例/quick/RX-USECASE-0040/source-visuals.webp)
+![主要市場 10 年期政府債券孳息比較](../../../../assets/usecases/quick/RX-USECASE-0040/source-visuals.webp)
 
 ## 國別解讀
 

@@ -49,7 +49,7 @@ publication_mode: faithful-source-preserving
 | G20バリ | 2022年11月 | 3,993 → 3,950 | 反応限定 |
 | APECサンフランシスコ | 2023年11月 | 4,503 → 4,557 | 上昇継続、主因は金利低下期待 |
 
-![S&P500の過去10年の推移](../../../画像/ユースケース/quick/RX-USECASE-0066/01-sp500-10y.webp)
+![S&P500の過去10年の推移](../../../../assets/usecases/quick/RX-USECASE-0066/01-sp500-10y.webp)
 
 ## 反応が大きかった会談を分けて考える
 

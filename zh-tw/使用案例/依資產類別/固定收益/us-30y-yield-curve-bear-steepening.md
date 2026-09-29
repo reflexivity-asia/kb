@@ -66,9 +66,9 @@ publication_mode: faithful-source-preserving
 
 原資料以 **2026-08-17** 為參考日，使用 FRED 每日 constant-maturity 美國公債收益率。非營業日以最近前一個營業日數值填補，三個月比較則使用約 91 天前最接近的營業日。
 
-![美國公債各天期殖利率變化](../../../圖片/使用案例/quick/RX-USECASE-0053/01-maturity-yield-changes.webp)
+![美國公債各天期殖利率變化](../../../../assets/usecases/quick/RX-USECASE-0053/01-maturity-yield-changes.webp)
 
-![目前與三個月前的美國公債殖利率曲線](../../../圖片/使用案例/quick/RX-USECASE-0053/02-yield-curve-current-vs-3m.webp)
+![目前與三個月前的美國公債殖利率曲線](../../../../assets/usecases/quick/RX-USECASE-0053/02-yield-curve-current-vs-3m.webp)
 
 ## 為什麼接著要與歷史政策 regime 比較？
 
@@ -95,7 +95,7 @@ publication_mode: faithful-source-preserving
 | 2007–08 | 降息 | 4.94% → 0.16% | +110 bp | -214 bp | Bull steepening |
 | 2004–06 | 升息 | 1.03% → 4.99% | -212 bp | -29 bp | Bull flattening |
 
-![歷史政策階段的 2s10s 利差與 Fed Funds](../../../圖片/使用案例/quick/RX-USECASE-0053/03-2s10s-fed-funds-history.webp)
+![歷史政策階段的 2s10s 利差與 Fed Funds](../../../../assets/usecases/quick/RX-USECASE-0053/03-2s10s-fed-funds-history.webp)
 
 ## 為什麼 bear steepening 與 bear flattening 可以同時出現
 

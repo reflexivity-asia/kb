@@ -66,9 +66,9 @@ publication_mode: faithful-source-preserving
 
 原资料以 **2026-08-17** 为参考日，使用 FRED 日度 constant-maturity Treasury yields。非交易日以前一交易日数值填充，三个月比较使用约 91 天前最近的交易日。
 
-![美国国债各期限收益率变化](../../../图片/使用案例/quick/RX-USECASE-0053/01-maturity-yield-changes.webp)
+![美国国债各期限收益率变化](../../../../assets/usecases/quick/RX-USECASE-0053/01-maturity-yield-changes.webp)
 
-![当前与三个月前的美国国债收益率曲线](../../../图片/使用案例/quick/RX-USECASE-0053/02-yield-curve-current-vs-3m.webp)
+![当前与三个月前的美国国债收益率曲线](../../../../assets/usecases/quick/RX-USECASE-0053/02-yield-curve-current-vs-3m.webp)
 
 ## 为什么接下来要与过去政策周期比较？
 
@@ -95,7 +95,7 @@ publication_mode: faithful-source-preserving
 | 2007–08 | 降息 | 4.94% → 0.16% | +110 bp | -214 bp | Bull steepening |
 | 2004–06 | 加息 | 1.03% → 4.99% | -212 bp | -29 bp | Bull flattening |
 
-![历史政策阶段的 2s10s 利差与 Fed Funds](../../../图片/使用案例/quick/RX-USECASE-0053/03-2s10s-fed-funds-history.webp)
+![历史政策阶段的 2s10s 利差与 Fed Funds](../../../../assets/usecases/quick/RX-USECASE-0053/03-2s10s-fed-funds-history.webp)
 
 ## 为什么“熊市陡峭化”和“熊市平坦化”会同时出现
 

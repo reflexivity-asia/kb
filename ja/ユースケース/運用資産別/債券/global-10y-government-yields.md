@@ -32,7 +32,7 @@ publication_mode: faithful-source-preserving
 
 原資料に含まれていたReflexivityの画面・チャートを、掲載順を保ってまとめています。
 
-![主要国の10年国債利回りを横断比較する - QUICK提供原資料](../../../画像/ユースケース/quick/RX-USECASE-0040/source-visuals.webp)
+![主要国の10年国債利回りを横断比較する - QUICK提供原資料](../../../../assets/usecases/quick/RX-USECASE-0040/source-visuals.webp)
 
 日本を含む主要各国の長期金利（国債）の過去1年間の推移を分析してください。  
 

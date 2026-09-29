@@ -29,7 +29,7 @@ publication_mode: faithful-source-preserving
 
 來源問題可概括為：考慮通脹、油價上升及更廣泛宏觀背景，主席 Kevin Warsh 在本周 FOMC 對可能加息會如何表述？
 
-![FOMC 加息情景分析](../../../圖片/使用案例/quick/RX-USECASE-0041/source-visuals.webp)
+![FOMC 加息情景分析](../../../../assets/usecases/quick/RX-USECASE-0041/source-visuals.webp)
 
 ## 研究目標
 

@@ -29,7 +29,7 @@ publication_mode: faithful-source-preserving
 
 3 月美國—伊朗衝突後油價上升的驅動因素，與 8 月以來的上升有何不同？較高油價影響了哪些行業及主要公司？
 
-![油價環境與受影響行業比較](../../../圖片/使用案例/quick/RX-USECASE-0045/source-visuals.webp)
+![油價環境與受影響行業比較](../../../../assets/usecases/quick/RX-USECASE-0045/source-visuals.webp)
 
 ## 研究要建立甚麼
 

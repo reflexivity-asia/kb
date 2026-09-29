@@ -40,7 +40,7 @@ The analysis first identifies stocks that rose in the US market between Septembe
 
 Semiconductors were a major source of strength, led by Intel, AMD, and Qualcomm. Meta rose in AI/platforms and Oracle in AI/cloud. Nvidia was roughly flat over the same period, showing that performance differed even within the semiconductor complex.
 
-![Performance of selected US stocks](../../../assets/usecases/quick/RX-USECASE-0065/01-us-stock-performance.webp)
+![Performance of selected US stocks](../../../../assets/usecases/quick/RX-USECASE-0065/01-us-stock-performance.webp)
 
 | Company | Theme / industry | Return | Price, Sep. 1 → Sep. 17 |
 | --- | --- | ---: | --- |

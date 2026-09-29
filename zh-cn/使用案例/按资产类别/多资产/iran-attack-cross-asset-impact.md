@@ -56,7 +56,7 @@ publication_mode: faithful-source-preserving
 
 原资料先确定起点的理由很简单：同样的冲击，对已经大幅延伸的资产和仍处于相对低位的资产，边际影响可能完全不同。
 
-![主要资产的一年期标准化路径](../../../图片/使用案例/quick/RX-USECASE-0059/01-normalized-asset-paths.webp)
+![主要资产的一年期标准化路径](../../../../assets/usecases/quick/RX-USECASE-0059/01-normalized-asset-paths.webp)
 
 ## 短期与中期情景区间
 
@@ -69,7 +69,7 @@ publication_mode: faithful-source-preserving
 
 这些区间是原资料中的**情景输出**，不是已发生结果，也不是发生概率。
 
-![短期与中期情景区间](../../../图片/使用案例/quick/RX-USECASE-0059/02-scenario-ranges.webp)
+![短期与中期情景区间](../../../../assets/usecases/quick/RX-USECASE-0059/02-scenario-ranges.webp)
 
 ## 为什么要把短期和中期分开
 
@@ -114,7 +114,7 @@ publication_mode: faithful-source-preserving
 - 股票：初始下行风险，需要与后续正常化可能性一起考虑；
 - 美元：防御性需求，需要与中期宏观抵消因素一起考虑。
 
-![跨资产风险收益图](../../../图片/使用案例/quick/RX-USECASE-0059/03-risk-return-map.webp)
+![跨资产风险收益图](../../../../assets/usecases/quick/RX-USECASE-0059/03-risk-return-map.webp)
 
 ## 如何使用结果
 

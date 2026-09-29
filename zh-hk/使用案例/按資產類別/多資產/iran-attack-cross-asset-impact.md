@@ -56,7 +56,7 @@ publication_mode: faithful-source-preserving
 
 先建立起點的原因很簡單：同一衝擊落在已經大幅延伸的資產，與落在仍相對低迷的資產，新增影響可以完全不同。
 
-![主要資產的一年期標準化路徑](../../../圖片/使用案例/quick/RX-USECASE-0059/01-normalized-asset-paths.webp)
+![主要資產的一年期標準化路徑](../../../../assets/usecases/quick/RX-USECASE-0059/01-normalized-asset-paths.webp)
 
 ## 來源的短／中期情景範圍
 
@@ -69,7 +69,7 @@ publication_mode: faithful-source-preserving
 
 以上是來源材料中的**情景輸出範圍，不是已實現結果，也不是概率預測。**
 
-![短期與中期情景範圍](../../../圖片/使用案例/quick/RX-USECASE-0059/02-scenario-ranges.webp)
+![短期與中期情景範圍](../../../../assets/usecases/quick/RX-USECASE-0059/02-scenario-ranges.webp)
 
 ## 為甚麼要分開短期與中期
 
@@ -93,7 +93,7 @@ publication_mode: faithful-source-preserving
 
 來源與早前中東壓力事件比較，只是為了檢查假設範圍在**數量級**上是否合理，而不是主張今次必然複製歷史模式。
 
-![跨資產風險回報圖](../../../圖片/使用案例/quick/RX-USECASE-0059/03-risk-return-map.webp)
+![跨資產風險回報圖](../../../../assets/usecases/quick/RX-USECASE-0059/03-risk-return-map.webp)
 
 ## 如何使用結果
 

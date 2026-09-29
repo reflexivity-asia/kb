@@ -38,7 +38,7 @@ Reference benchmarks in the source:
 
 The sequence is deliberate: first normalize the market leaders to identify what drove returns, then ask whether the same themes exist in both markets and, where they do, whether the same part of the value chain is actually leading.
 
-![US and Japanese equity leadership themes](../../../assets/usecases/quick/RX-USECASE-0038/email-02.webp)
+![US and Japanese equity leadership themes](../../../../assets/usecases/quick/RX-USECASE-0038/email-02.webp)
 
 ## Theme comparison
 

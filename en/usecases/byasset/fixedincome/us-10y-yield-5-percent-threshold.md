@@ -60,7 +60,7 @@ Three observations frame the comparison:
 | June 2007 | 5.29% | Pre-GFC; recession followed an inverted curve |
 | April–July 2006 | 5.25% | Fed tightening cycle; housing-market peak |
 
-![US 10-year Treasury yield and the 5% threshold, 2006–2026](../../../assets/usecases/quick/RX-USECASE-0063/01-us-10y-yield-5-percent.webp)
+![US 10-year Treasury yield and the 5% threshold, 2006–2026](../../../../assets/usecases/quick/RX-USECASE-0063/01-us-10y-yield-5-percent.webp)
 
 ### Derived statistics at the time
 

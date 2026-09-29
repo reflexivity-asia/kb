@@ -50,9 +50,9 @@ publication_mode: faithful-source-preserving
 | Meta | 81.6 | 61.3 | 20.3 | 0.28 | 87x | 34.7% | 46.1 | 29.9 |
 | Apple | 54.7 | 100.8 | -46.1 | 1.37 | 순이익* | 3.1% | 98.8 | 4.5 |
 
-![Magnificent Seven의 유동성, 부채, 순현금](../../../이미지/유스케이스/quick/RX-USECASE-0064/01-liquidity-debt-net-cash.webp)
+![Magnificent Seven의 유동성, 부채, 순현금](../../../../assets/usecases/quick/RX-USECASE-0064/01-liquidity-debt-net-cash.webp)
 
-![설비투자 강도와 잉여현금흐름](../../../이미지/유스케이스/quick/RX-USECASE-0064/02-capex-fcf.webp)
+![설비투자 강도와 잉여현금흐름](../../../../assets/usecases/quick/RX-USECASE-0064/02-capex-fcf.webp)
 
 ## 중요한 네 가지 차이
 

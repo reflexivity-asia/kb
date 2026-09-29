@@ -29,7 +29,7 @@ publication_mode: faithful-source-preserving
 
 原始問題：列出今年完成的主要美國 IPO 並分析其市場影響，同時分析年底前報道或預期的大型 IPO。
 
-![美國 IPO 市場的已完成交易與後續供應 pipeline](../../../圖片/使用案例/quick/RX-USECASE-0048/source-visuals.webp)
+![美國 IPO 市場的已完成交易與後續供應 pipeline](../../../../assets/usecases/quick/RX-USECASE-0048/source-visuals.webp)
 
 ## 研究目標
 

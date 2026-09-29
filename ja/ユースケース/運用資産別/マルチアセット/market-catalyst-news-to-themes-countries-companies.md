@@ -52,11 +52,11 @@ publication_mode: faithful-source-preserving
 1. メニューの「インサイト」をクリックし、「マーケットカタリスト」を選択します。
 2. テーマや地域を設定します。どちらか一方だけでも構いません。
 
-![マーケットカタリストの地域設定](../../../画像/ユースケース/quick/RX-USECASE-0055/02-region-setting.webp)
+![マーケットカタリストの地域設定](../../../../assets/usecases/quick/RX-USECASE-0055/02-region-setting.webp)
 
 設定すると、該当する市場カタリストが一覧に表示されます。ここで見出しを比較し、重要度や自分の運用対象との関連性から、詳しく読むイベントを選びます。
 
-![設定後に表示されたマーケットカタリスト](../../../画像/ユースケース/quick/RX-USECASE-0055/03-market-catalyst-list.webp)
+![設定後に表示されたマーケットカタリスト](../../../../assets/usecases/quick/RX-USECASE-0055/03-market-catalyst-list.webp)
 
 見出しを開いた後は、ニュースそのものだけでなく、どのテーマ・国・企業へ影響が及ぶのかを確認します。そこで見つかった関連先を、次の企業分析やテーマ分析の候補にできます。
 

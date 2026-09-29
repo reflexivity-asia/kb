@@ -59,7 +59,7 @@ EUR/USDのスポットレートで、RSIだけを使う平均回帰戦略を2年
 
 全期間で最も良く見える組み合わせも、買い持ちとの比較やアウトオブサンプルでの崩れ方まで一緒に見る必要があります。
 
-![EUR/USD RSI戦略と買い持ちの比較](../../../画像/ユースケース/reflexivity/RX-USECASE-0037/chart-1.webp)
+![EUR/USD RSI戦略と買い持ちの比較](../../../../assets/usecases/reflexivity/RX-USECASE-0037/chart-1.webp)
 
 *RSI-14・20/80・クロスバック戦略のネット成長率とEUR/USDの買い持ちを比較した元の調査の図表。*
 

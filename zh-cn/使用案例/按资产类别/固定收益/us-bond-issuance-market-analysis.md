@@ -49,7 +49,7 @@ publication_mode: faithful-source-preserving
 
 ## 收益率上升，长端尤其明显
 
-![美国国债收益率与有效联邦基金利率](../../../图片/使用案例/quick/RX-USECASE-0067/01-us-treasury-fed-funds.webp)
+![美国国债收益率与有效联邦基金利率](../../../../assets/usecases/quick/RX-USECASE-0067/01-us-treasury-fed-funds.webp)
 
 | 指标 | 最新值（2026-09-23） | 一年前 | 变化 |
 | --- | ---: | ---: | ---: |
@@ -66,7 +66,7 @@ publication_mode: faithful-source-preserving
 
 ## 发行量很大，但信用利差仍然很窄
 
-![投资级与高收益信用利差](../../../图片/使用案例/quick/RX-USECASE-0067/02-credit-spreads.webp)
+![投资级与高收益信用利差](../../../../assets/usecases/quick/RX-USECASE-0067/02-credit-spreads.webp)
 
 尽管供给创纪录，截至原资料日期，IG 和 HY 利差仍处在历史偏窄水平。
 
@@ -74,7 +74,7 @@ publication_mode: faithful-source-preserving
 
 ## 用债务余额增长近似供给
 
-![债券供给增长](../../../图片/使用案例/quick/RX-USECASE-0067/03-bond-supply.webp)
+![债券供给增长](../../../../assets/usecases/quick/RX-USECASE-0067/03-bond-supply.webp)
 
 联邦政府债务被描述为已扩大到约 39 万亿美元，非金融企业债券余额约为 16 万亿美元。
 

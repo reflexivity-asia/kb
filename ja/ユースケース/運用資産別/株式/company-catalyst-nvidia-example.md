@@ -44,7 +44,7 @@ Company Catalystでは、ニュースの要点から市場への波及まで順�
 
 次に、ニュース発表後の市場反応を確認します。材料の重要性を考えるうえでは、内容だけでなく、市場がどの程度すぐに価格へ織り込んだかを見ることが重要です。
 
-![NVIDIA関連カタリスト前後の市場反応](../../../画像/ユースケース/quick/RX-USECASE-0057/02-nvidia-market-reaction.webp)
+![NVIDIA関連カタリスト前後の市場反応](../../../../assets/usecases/quick/RX-USECASE-0057/02-nvidia-market-reaction.webp)
 
 ## リーダーシップの引用
 

@@ -49,7 +49,7 @@ publication_mode: faithful-source-preserving
 
 ## 孳息上升，長期尤其明顯
 
-![美國國債孳息與有效聯邦基金利率](../../../圖片/使用案例/quick/RX-USECASE-0067/01-us-treasury-fed-funds.webp)
+![美國國債孳息與有效聯邦基金利率](../../../../assets/usecases/quick/RX-USECASE-0067/01-us-treasury-fed-funds.webp)
 
 | 指標 | 最新值（2026-09-23） | 一年前 | 變化 |
 | --- | ---: | ---: | ---: |
@@ -66,7 +66,7 @@ publication_mode: faithful-source-preserving
 
 ## 發行量很大，但信用利差仍然很窄
 
-![投資級與高收益信用利差](../../../圖片/使用案例/quick/RX-USECASE-0067/02-credit-spreads.webp)
+![投資級與高收益信用利差](../../../../assets/usecases/quick/RX-USECASE-0067/02-credit-spreads.webp)
 
 儘管供給創下高點，截至原始資料日期，IG 與 HY 利差仍處在歷史偏窄水準。
 
@@ -74,7 +74,7 @@ publication_mode: faithful-source-preserving
 
 ## 用債務餘額成長近似供給
 
-![債券供給成長](../../../圖片/使用案例/quick/RX-USECASE-0067/03-bond-supply.webp)
+![債券供給成長](../../../../assets/usecases/quick/RX-USECASE-0067/03-bond-supply.webp)
 
 聯邦政府債務被描述為已擴大到約 39 兆美元，非金融企業債券餘額約為 16 兆美元。
 

@@ -30,7 +30,7 @@ publication_mode: faithful-source-preserving
 
 Using a ticker after `@` can make entity resolution more precise when similar company names exist.
 
-![Robinhood and Bitcoin price relationship](../../../assets/usecases/quick/RX-USECASE-0050/source-visuals.webp)
+![Robinhood and Bitcoin price relationship](../../../../assets/usecases/quick/RX-USECASE-0050/source-visuals.webp)
 
 ## What the research is trying to establish
 

@@ -52,9 +52,9 @@ publication_mode: faithful-source-preserving
 
 原資料把較高的美國殖利率、較大的利差與日圓走弱視為外部壓力，可能強化 BOJ normalization 與日本殖利率上升。
 
-![美國與日本長期殖利率](../../../圖片/使用案例/quick/RX-USECASE-0054/01-us-japan-long-yields.webp)
+![美國與日本長期殖利率](../../../../assets/usecases/quick/RX-USECASE-0054/01-us-japan-long-yields.webp)
 
-![USD/JPY 與 Nikkei 225](../../../圖片/使用案例/quick/RX-USECASE-0054/03-usdjpy-nikkei.webp)
+![USD/JPY 與 Nikkei 225](../../../../assets/usecases/quick/RX-USECASE-0054/03-usdjpy-nikkei.webp)
 
 ## 為什麼 FX 要放在產業判斷之前
 
@@ -80,7 +80,7 @@ publication_mode: faithful-source-preserving
 | 房地產 | +7.5% | -3.7% | 融資成本與折現率形成逆風 |
 | 汽車／出口商 | -4.7% | -5.6% | 日圓利多被美國成長與關稅擔憂抵銷 |
 
-![銀行、房地產與汽車主題表現](../../../圖片/使用案例/quick/RX-USECASE-0054/02-theme-performance.webp)
+![銀行、房地產與汽車主題表現](../../../../assets/usecases/quick/RX-USECASE-0054/02-theme-performance.webp)
 
 ### 銀行
 

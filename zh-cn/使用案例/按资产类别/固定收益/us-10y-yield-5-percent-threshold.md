@@ -59,7 +59,7 @@ publication_mode: faithful-source-preserving
 | 2007 年 6 月 | 5.29% | GFC 前；倒挂曲线后进入衰退 |
 | 2006 年 4–7 月 | 5.25% | Fed 紧缩周期；房地产市场见顶 |
 
-![美国 10 年期国债收益率与 5% 门槛，2006–2026](../../../图片/使用案例/quick/RX-USECASE-0063/01-us-10y-yield-5-percent.webp)
+![美国 10 年期国债收益率与 5% 门槛，2006–2026](../../../../assets/usecases/quick/RX-USECASE-0063/01-us-10y-yield-5-percent.webp)
 
 ### 当时的派生统计
 

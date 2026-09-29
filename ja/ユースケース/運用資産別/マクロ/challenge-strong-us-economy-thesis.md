@@ -86,7 +86,7 @@ publication_mode: faithful-source-preserving
 
 ここまでの需要、雇用、実質所得、景況感、信用・金利の証拠を並べると、元の調査では次の図表と確率評価に集約されました。
 
-![米国景気の強さを反証方向から検証した主要図表](../../../画像/ユースケース/reflexivity/RX-USECASE-0035/source-figures.webp)
+![米国景気の強さを反証方向から検証した主要図表](../../../../assets/usecases/reflexivity/RX-USECASE-0035/source-figures.webp)
 
 *元の調査で用いた主要比較図と、景気局面の確率評価。*
 

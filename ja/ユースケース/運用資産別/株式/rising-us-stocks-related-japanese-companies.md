@@ -39,7 +39,7 @@ publication_mode: faithful-source-preserving
 
 半導体セクターの上昇が大きく、Intel、AMD、Qualcommが主導。AI/プラットフォームのMeta、AI/クラウドのOracleも上昇しました。一方、NVIDIAは同期間ほぼ横ばいで、同じ半導体でも値動きに差があることが確認されています。
 
-![米国主要銘柄の騰落率](../../../画像/ユースケース/quick/RX-USECASE-0065/01-us-stock-performance.webp)
+![米国主要銘柄の騰落率](../../../../assets/usecases/quick/RX-USECASE-0065/01-us-stock-performance.webp)
 
 | 銘柄 | 業種 | 騰落率 | 株価（9/1→9/17） |
 | --- | --- | ---: | --- |

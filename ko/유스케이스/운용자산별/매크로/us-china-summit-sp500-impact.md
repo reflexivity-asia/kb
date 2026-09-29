@@ -48,7 +48,7 @@ publication_mode: faithful-source-preserving
 | G20 Bali | 2022년 11월 | 3,993 → 3,950 | 반응 제한적 |
 | APEC San Francisco | 2023년 11월 | 4,503 → 4,557 | 상승 지속, 금리하락 기대가 더 큰 동인 |
 
-![지난 10년 S&P 500](../../../이미지/유스케이스/quick/RX-USECASE-0066/01-sp500-10y.webp)
+![지난 10년 S&P 500](../../../../assets/usecases/quick/RX-USECASE-0066/01-sp500-10y.webp)
 
 ## 반응이 더 컸던 회담을 따로 본다
 

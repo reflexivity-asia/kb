@@ -30,7 +30,7 @@ QUICK은 Alfred를 이용해 급격한 엔화 강세의 배경을 조사했습�
 
 > USD/JPY가 엔화 강세 방향으로 크게 움직였습니다. 이번 움직임의 배경과 다른 통화들의 움직임을 분석하고, 시장이 향후 전망을 어떻게 보고 있는지도 분석해 주세요.
 
-![USD/JPY 움직임과 주요 통화 비교](../../../이미지/유스케이스/quick/RX-USECASE-0044/source-visuals.webp)
+![USD/JPY 움직임과 주요 통화 비교](../../../../assets/usecases/quick/RX-USECASE-0044/source-visuals.webp)
 
 ## 조사 목적
 

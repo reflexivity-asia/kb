@@ -27,7 +27,7 @@ publication_mode: faithful-source-preserving
 
 > 本頁根據 QUICK Inc. 提供的使用案例整理，保留來源問題、候選名單及篩選邏輯。**以下名單只是建立 research universe 的起點，不是推薦或買入名單。**
 
-![所選主題與相關美國、日本公司](../../../圖片/使用案例/quick/RX-USECASE-0047/source-visuals.webp)
+![所選主題與相關美國、日本公司](../../../../assets/usecases/quick/RX-USECASE-0047/source-visuals.webp)
 
 ## 甚麼時候適合使用
 

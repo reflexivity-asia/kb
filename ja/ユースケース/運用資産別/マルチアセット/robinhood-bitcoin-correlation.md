@@ -34,7 +34,7 @@ publication_mode: faithful-source-preserving
 
 「@」の後にティッカーを入れて指定することもできます。「ロビンフッド」と企業名で入力する方法もありますが、似た名称の銘柄がある場合はティッカーを指定すると対象を特定しやすくなります。
 
-![Robinhood株とビットコインの価格連動性を検証する - 元資料の図表・画面](../../../画像/ユースケース/quick/RX-USECASE-0050/source-visuals.webp)
+![Robinhood株とビットコインの価格連動性を検証する - 元資料の図表・画面](../../../../assets/usecases/quick/RX-USECASE-0050/source-visuals.webp)
 
 ## この調査で確かめたいこと
 

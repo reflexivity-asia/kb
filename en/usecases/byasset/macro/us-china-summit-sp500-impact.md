@@ -50,7 +50,7 @@ The clearest market reactions came when meetings were accompanied by a **substan
 | G20 Bali | Nov. 2022 | 3,993 → 3,950 | Limited reaction |
 | APEC San Francisco | Nov. 2023 | 4,503 → 4,557 | Rise continued; falling-rate expectations were a larger driver |
 
-![S&P 500 over the past 10 years](../../../assets/usecases/quick/RX-USECASE-0066/01-sp500-10y.webp)
+![S&P 500 over the past 10 years](../../../../assets/usecases/quick/RX-USECASE-0066/01-sp500-10y.webp)
 
 ## Separate the meetings that produced a larger reaction
 

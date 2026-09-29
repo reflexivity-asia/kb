@@ -28,7 +28,7 @@ publication_mode: faithful-source-preserving
 
 > 최근 5년간 신형 iPhone 발표와 AAPL 주가의 관계를 분석하고, 최신 Duo 발표에 대한 시장 반응도 분석해 주세요.
 
-![iPhone 출시 전후 AAPL 주가 움직임](../../../이미지/유스케이스/quick/RX-USECASE-0046/source-visuals.webp)
+![iPhone 출시 전후 AAPL 주가 움직임](../../../../assets/usecases/quick/RX-USECASE-0046/source-visuals.webp)
 
 ## 조사 목적
 

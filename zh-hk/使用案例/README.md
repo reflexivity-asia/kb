@@ -6,19 +6,19 @@
 
 ## 按角色瀏覽
 
-- [財富管理 / RIA](財富管理RIA/)
-- [對沖基金](對沖基金/) — Tier 1 / 2 / 3 作為目標使用者分類
-- [Long-only Asset Manager](長期多頭資產管理人/)
+- [財富管理 / RIA](按投資者類型/財富管理RIA/)
+- [對沖基金](按投資者類型/對沖基金/) — Tier 1 / 2 / 3 作為目標使用者分類
+- [Long-only Asset Manager](按投資者類型/長期多頭資產管理人/)
 
 角色頁面同時展示既有 proof 案例及經審閱的合作夥伴研究案例。角色與 Tier 只用於瀏覽分類；每篇研究正文只維護一份，並由相關瀏覽頁面連結。
 
 ## 按洞察類型瀏覽
 
-- [Market Catalyst](分類瀏覽/market-catalyst.md) — 9 篇
-- [Geopolitical Catalyst](分類瀏覽/geopolitical-catalyst.md) — 1 篇
-- [Company Catalyst](分類瀏覽/company-catalyst.md) — 8 篇
-- [Earnings Catalyst](分類瀏覽/earnings-catalyst.md) — 7 篇
-- [Scenario Insight](分類瀏覽/scenario-insight.md) — 3 篇
+- [Market Catalyst](按洞察類型/market-catalyst.md) — 9 篇
+- [Geopolitical Catalyst](按洞察類型/geopolitical-catalyst.md) — 1 篇
+- [Company Catalyst](按洞察類型/company-catalyst.md) — 8 篇
+- [Earnings Catalyst](按洞察類型/earnings-catalyst.md) — 7 篇
+- [Scenario Insight](按洞察類型/scenario-insight.md) — 3 篇
 
 ## 按資產類別瀏覽
 

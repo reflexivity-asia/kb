@@ -48,7 +48,7 @@ publication_mode: faithful-source-preserving
 
 ## 금리는 올랐고 특히 장기물이 더 상승했다
 
-![미국 국채금리와 실효 연방기금금리](../../../이미지/유스케이스/quick/RX-USECASE-0067/01-us-treasury-fed-funds.webp)
+![미국 국채금리와 실효 연방기금금리](../../../../assets/usecases/quick/RX-USECASE-0067/01-us-treasury-fed-funds.webp)
 
 | 지표 | 최신값 (2026-09-23) | 1년 전 | 변화 |
 | --- | ---: | ---: | ---: |
@@ -65,7 +65,7 @@ publication_mode: faithful-source-preserving
 
 ## 발행이 많았지만 크레딧 스프레드는 타이트했다
 
-![투자등급과 하이일드 크레딧 스프레드](../../../이미지/유스케이스/quick/RX-USECASE-0067/02-credit-spreads.webp)
+![투자등급과 하이일드 크레딧 스프레드](../../../../assets/usecases/quick/RX-USECASE-0067/02-credit-spreads.webp)
 
 기록적인 공급에도 불구하고 제공일 당시 IG와 HY 스프레드는 역사적으로 타이트한 수준을 유지했습니다.
 
@@ -73,7 +73,7 @@ publication_mode: faithful-source-preserving
 
 ## 부채잔액 증가로 공급을 근사한다
 
-![채권 공급 증가](../../../이미지/유스케이스/quick/RX-USECASE-0067/03-bond-supply.webp)
+![채권 공급 증가](../../../../assets/usecases/quick/RX-USECASE-0067/03-bond-supply.webp)
 
 연방정부 부채는 약 39조 달러까지 늘었고, 비금융기업 채권잔액은 약 16조 달러에 도달한 것으로 설명됩니다.
 

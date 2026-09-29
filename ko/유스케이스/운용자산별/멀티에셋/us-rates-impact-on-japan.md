@@ -51,9 +51,9 @@ publication_mode: faithful-source-preserving
 
 원 자료는 높은 미국금리, 확대된 금리차, 엔화 약세의 조합이 BOJ 정상화와 일본 금리 상승 압력을 강화할 수 있는 외부 요인으로 해석했습니다.
 
-![미국과 일본의 장기금리](../../../이미지/유스케이스/quick/RX-USECASE-0054/01-us-japan-long-yields.webp)
+![미국과 일본의 장기금리](../../../../assets/usecases/quick/RX-USECASE-0054/01-us-japan-long-yields.webp)
 
-![USD/JPY와 Nikkei 225](../../../이미지/유스케이스/quick/RX-USECASE-0054/03-usdjpy-nikkei.webp)
+![USD/JPY와 Nikkei 225](../../../../assets/usecases/quick/RX-USECASE-0054/03-usdjpy-nikkei.webp)
 
 ## 왜 섹터 판단보다 FX를 먼저 보는가
 
@@ -79,7 +79,7 @@ publication_mode: faithful-source-preserving
 | 부동산 | +7.5% | -3.7% | 자금조달비용·할인율 상승이 부담 |
 | 자동차 / 수출주 | -4.7% | -5.6% | 엔화 효과가 미국 성장·관세 우려와 상쇄될 수 있음 |
 
-![은행·부동산·자동차 테마 성과](../../../이미지/유스케이스/quick/RX-USECASE-0054/02-theme-performance.webp)
+![은행·부동산·자동차 테마 성과](../../../../assets/usecases/quick/RX-USECASE-0054/02-theme-performance.webp)
 
 ### 은행
 

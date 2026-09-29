@@ -28,7 +28,7 @@ publication_mode: faithful-source-preserving
 
 3월 미국·이란 충돌 이후의 유가 상승과 8월 이후의 상승은 동인이 어떻게 달랐으며, 높은 유가가 어떤 산업과 주요 기업에 영향을 주었는가?
 
-![유가 국면과 영향 섹터 비교](../../../이미지/유스케이스/quick/RX-USECASE-0045/source-visuals.webp)
+![유가 국면과 영향 섹터 비교](../../../../assets/usecases/quick/RX-USECASE-0045/source-visuals.webp)
 
 ## 리서치가 확인하려는 것
 

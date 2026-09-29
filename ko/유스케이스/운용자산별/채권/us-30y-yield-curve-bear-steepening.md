@@ -65,9 +65,9 @@ publication_mode: faithful-source-preserving
 
 원 자료는 **2026-08-17**을 기준일로 사용하고 FRED 일별 constant-maturity Treasury 금리를 참조합니다. 비영업일은 직전 영업일 값으로 보완하고, 3개월 전 비교는 약 91일 전의 가장 가까운 영업일을 사용합니다.
 
-![미국 국채 만기별 금리 변화](../../../이미지/유스케이스/quick/RX-USECASE-0053/01-maturity-yield-changes.webp)
+![미국 국채 만기별 금리 변화](../../../../assets/usecases/quick/RX-USECASE-0053/01-maturity-yield-changes.webp)
 
-![현재와 3개월 전 미국 국채 일드커브](../../../이미지/유스케이스/quick/RX-USECASE-0053/02-yield-curve-current-vs-3m.webp)
+![현재와 3개월 전 미국 국채 일드커브](../../../../assets/usecases/quick/RX-USECASE-0053/02-yield-curve-current-vs-3m.webp)
 
 ## 왜 다음 단계에서 과거 정책국면과 비교하는가
 
@@ -94,7 +94,7 @@ publication_mode: faithful-source-preserving
 | 2007–08 | 인하 | 4.94% → 0.16% | +110 bp | -214 bp | Bull steepening |
 | 2004–06 | 인상 | 1.03% → 4.99% | -212 bp | -29 bp | Bull flattening |
 
-![과거 정책국면의 2s10s 금리차와 Fed Funds](../../../이미지/유스케이스/quick/RX-USECASE-0053/03-2s10s-fed-funds-history.webp)
+![과거 정책국면의 2s10s 금리차와 Fed Funds](../../../../assets/usecases/quick/RX-USECASE-0053/03-2s10s-fed-funds-history.webp)
 
 ## 왜 bear steepening과 bear flattening이 모두 나오는가
 

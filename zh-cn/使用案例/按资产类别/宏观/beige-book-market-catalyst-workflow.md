@@ -35,7 +35,7 @@ Beige Book 这类文件信息量很大。很多投资工作流的第一步并不
 
 Market Catalyst 从事件 headline 提供进入分析的入口。工作流先把信息流缩小到用户的覆盖范围，再找到相关事件，最后打开更详细的市场解读。
 
-![Market Catalyst 中的 Beige Book 条目](../../../图片/使用案例/quick/RX-USECASE-0049/01-beige-book-market-catalyst-list.webp)
+![Market Catalyst 中的 Beige Book 条目](../../../../assets/usecases/quick/RX-USECASE-0049/01-beige-book-market-catalyst-list.webp)
 
 ## 工作流
 

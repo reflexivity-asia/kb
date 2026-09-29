@@ -59,7 +59,7 @@ publication_mode: faithful-source-preserving
 | 2007 年 6 月 | 5.29% | GFC 前；倒掛曲線後進入衰退 |
 | 2006 年 4–7 月 | 5.25% | Fed 緊縮循環；房市見頂 |
 
-![美國 10 年期國債孳息與 5% 門檻，2006–2026](../../../圖片/使用案例/quick/RX-USECASE-0063/01-us-10y-yield-5-percent.webp)
+![美國 10 年期國債孳息與 5% 門檻，2006–2026](../../../../assets/usecases/quick/RX-USECASE-0063/01-us-10y-yield-5-percent.webp)
 
 ### 當時的衍生統計
 

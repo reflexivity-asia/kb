@@ -52,9 +52,9 @@ publication_mode: faithful-source-preserving
 
 來源把美國孳息率上升、息差擴闊及日圓偏弱的組合，解讀為可加強 BOJ 正常化及日本孳息率上升的外部壓力。
 
-![美國與日本長期孳息](../../../圖片/使用案例/quick/RX-USECASE-0054/01-us-japan-long-yields.webp)
+![美國與日本長期孳息](../../../../assets/usecases/quick/RX-USECASE-0054/01-us-japan-long-yields.webp)
 
-![USD/JPY 與 Nikkei 225](../../../圖片/使用案例/quick/RX-USECASE-0054/03-usdjpy-nikkei.webp)
+![USD/JPY 與 Nikkei 225](../../../../assets/usecases/quick/RX-USECASE-0054/03-usdjpy-nikkei.webp)
 
 ## 為何先看 FX 才看板塊
 
@@ -72,7 +72,7 @@ publication_mode: faithful-source-preserving
 2. **日本長期孳息率上升** — 全球 duration 壓力與日本本土正常化可以互相加強；
 3. **雙向經濟影響** — 出口及 inbound-sensitive 業務可能受惠於弱日圓，但家庭及內需面對較高進口成本。
 
-![銀行、地產與汽車主題表現](../../../圖片/使用案例/quick/RX-USECASE-0054/02-theme-performance.webp)
+![銀行、地產與汽車主題表現](../../../../assets/usecases/quick/RX-USECASE-0054/02-theme-performance.webp)
 
 ## 來源快照中的板塊含義
 

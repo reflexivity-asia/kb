@@ -31,7 +31,7 @@ publication_mode: faithful-source-preserving
 
 当公司名称可能混淆时，在 `@` 后使用 ticker 可以让实体识别更准确。
 
-![Robinhood 与 Bitcoin 的价格关系](../../../图片/使用案例/quick/RX-USECASE-0050/source-visuals.webp)
+![Robinhood 与 Bitcoin 的价格关系](../../../../assets/usecases/quick/RX-USECASE-0050/source-visuals.webp)
 
 ## 研究想确认什么
 

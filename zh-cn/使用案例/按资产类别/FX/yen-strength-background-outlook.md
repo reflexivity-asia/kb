@@ -31,7 +31,7 @@ QUICK 使用 Alfred 调查日元快速升值的背景。
 
 > USD/JPY 明显向日元升值方向移动。分析这轮走势的背景、其他货币的表现，以及市场如何看待后续走势。
 
-![USD/JPY 走势与主要货币比较](../../../图片/使用案例/quick/RX-USECASE-0044/source-visuals.webp)
+![USD/JPY 走势与主要货币比较](../../../../assets/usecases/quick/RX-USECASE-0044/source-visuals.webp)
 
 ## 研究目标
 

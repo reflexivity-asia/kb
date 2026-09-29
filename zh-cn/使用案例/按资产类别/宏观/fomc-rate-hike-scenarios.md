@@ -29,7 +29,7 @@ publication_mode: faithful-source-preserving
 
 原问题可概括为：考虑通胀、油价上涨和更广泛的宏观背景，FOMC 本周会议上，主席可能如何讨论潜在加息？
 
-![FOMC 加息情景分析](../../../图片/使用案例/quick/RX-USECASE-0041/source-visuals.webp)
+![FOMC 加息情景分析](../../../../assets/usecases/quick/RX-USECASE-0041/source-visuals.webp)
 
 ## 研究目标
 

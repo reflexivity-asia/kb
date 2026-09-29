@@ -51,9 +51,9 @@ publication_mode: faithful-source-preserving
 | Meta | 81.6 | 61.3 | 20.3 | 0.28 | 87x | 34.7% | 46.1 | 29.9 |
 | Apple | 54.7 | 100.8 | -46.1 | 1.37 | 净利润* | 3.1% | 98.8 | 4.5 |
 
-![Magnificent Seven 的流动性、债务与净现金](../../../图片/使用案例/quick/RX-USECASE-0064/01-liquidity-debt-net-cash.webp)
+![Magnificent Seven 的流动性、债务与净现金](../../../../assets/usecases/quick/RX-USECASE-0064/01-liquidity-debt-net-cash.webp)
 
-![资本开支强度与自由现金流](../../../图片/使用案例/quick/RX-USECASE-0064/02-capex-fcf.webp)
+![资本开支强度与自由现金流](../../../../assets/usecases/quick/RX-USECASE-0064/02-capex-fcf.webp)
 
 ## 四个重要差异
 

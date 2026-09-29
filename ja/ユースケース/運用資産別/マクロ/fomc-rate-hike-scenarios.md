@@ -32,7 +32,7 @@ publication_mode: faithful-source-preserving
 
 **今週開催されるFOMCでウォーシュ議長は利上げについてどのようなコメントを出すのか、インフレや原油価格上昇など現状のマクロ分析と合わせて、想定されるシナリオを教えてください。**
 
-![FOMC前に利上げシナリオと市場への波及を整理する - 元資料の図表・画面](../../../画像/ユースケース/quick/RX-USECASE-0041/source-visuals.webp)
+![FOMC前に利上げシナリオと市場への波及を整理する - 元資料の図表・画面](../../../../assets/usecases/quick/RX-USECASE-0041/source-visuals.webp)
 
 ## この調査で確かめたいこと
 

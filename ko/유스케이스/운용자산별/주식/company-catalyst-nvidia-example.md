@@ -48,7 +48,7 @@ publication_mode: faithful-source-preserving
 
 이벤트를 이해한 뒤에는 시장이 얼마나 빨리 이를 가격에 반영했는지 봅니다. 전략적으로 중요한 발표라도 밸류에이션, 거래비용, 통합 위험에 대한 우려가 전략적 논리를 상쇄하면 주가 반응은 제한적이거나 부정적일 수 있습니다.
 
-![NVIDIA catalyst의 시장 반응](../../../이미지/유스케이스/quick/RX-USECASE-0057/02-nvidia-market-reaction.webp)
+![NVIDIA catalyst의 시장 반응](../../../../assets/usecases/quick/RX-USECASE-0057/02-nvidia-market-reaction.webp)
 
 ## 경영진 설명 읽기
 

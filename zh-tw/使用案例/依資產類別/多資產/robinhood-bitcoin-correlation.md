@@ -31,7 +31,7 @@ publication_mode: faithful-source-preserving
 
 公司名稱容易混淆時，在 ticker 前使用 `@` 可以提高 entity resolution 的精確度。
 
-![Robinhood 與 Bitcoin 的價格關係](../../../圖片/使用案例/quick/RX-USECASE-0050/source-visuals.webp)
+![Robinhood 與 Bitcoin 的價格關係](../../../../assets/usecases/quick/RX-USECASE-0050/source-visuals.webp)
 
 ## 研究想確認什麼
 

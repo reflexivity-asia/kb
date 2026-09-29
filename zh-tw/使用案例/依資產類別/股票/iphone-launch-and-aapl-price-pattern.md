@@ -29,7 +29,7 @@ publication_mode: faithful-source-preserving
 
 > 分析過去五年新 iPhone 發表與 AAPL 股價之間的關係，也分析最新 Duo 發表後的市場反應。
 
-![iPhone 發表前後的 AAPL 股價走勢](../../../圖片/使用案例/quick/RX-USECASE-0046/source-visuals.webp)
+![iPhone 發表前後的 AAPL 股價走勢](../../../../assets/usecases/quick/RX-USECASE-0046/source-visuals.webp)
 
 ## 研究目標
 

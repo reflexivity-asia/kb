@@ -26,7 +26,7 @@ publication_mode: faithful-source-preserving
 
 > This candidate list is a research-universe starting point, not an investment recommendation.
 
-![US and Japanese companies related to selected themes](../../../assets/usecases/quick/RX-USECASE-0047/source-visuals.webp)
+![US and Japanese companies related to selected themes](../../../../assets/usecases/quick/RX-USECASE-0047/source-visuals.webp)
 
 ## When this workflow is useful
 

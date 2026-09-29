@@ -29,7 +29,7 @@ publication_mode: faithful-source-preserving
 
 原始問題可概括為：在通膨、油價上升與更廣泛總體背景下，FOMC 本週若討論升息，主席可能如何說明政策？
 
-![FOMC 升息情境分析](../../../圖片/使用案例/quick/RX-USECASE-0041/source-visuals.webp)
+![FOMC 升息情境分析](../../../../assets/usecases/quick/RX-USECASE-0041/source-visuals.webp)
 
 ## 研究目的
 

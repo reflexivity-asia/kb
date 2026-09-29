@@ -54,9 +54,9 @@ publication_mode: faithful-source-preserving
 
 原资料把较高的美国收益率、更宽的利差和日元走弱结合起来，视为一种外部压力，可能进一步强化日本央行正常化和日本收益率上升。
 
-![美国与日本长期收益率](../../../图片/使用案例/quick/RX-USECASE-0054/01-us-japan-long-yields.webp)
+![美国与日本长期收益率](../../../../assets/usecases/quick/RX-USECASE-0054/01-us-japan-long-yields.webp)
 
-![USD/JPY 与 Nikkei 225](../../../图片/使用案例/quick/RX-USECASE-0054/03-usdjpy-nikkei.webp)
+![USD/JPY 与 Nikkei 225](../../../../assets/usecases/quick/RX-USECASE-0054/03-usdjpy-nikkei.webp)
 
 ## 为什么先看 FX，再做行业判断
 
@@ -82,7 +82,7 @@ publication_mode: faithful-source-preserving
 | 房地产 | +7.5% | -3.7% | 融资成本与折现率上升形成逆风 |
 | 汽车 / 出口企业 | -4.7% | -5.6% | 日元走弱利好被美国增长和关税担忧抵消 |
 
-![银行、房地产与汽车主题表现](../../../图片/使用案例/quick/RX-USECASE-0054/02-theme-performance.webp)
+![银行、房地产与汽车主题表现](../../../../assets/usecases/quick/RX-USECASE-0054/02-theme-performance.webp)
 
 ### 银行
 

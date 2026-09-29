@@ -30,7 +30,7 @@ publication_mode: faithful-source-preserving
 
 What could Chairman Kevin Warsh say about a possible rate increase at this week's FOMC, given inflation, the oil-price rise, and the broader macro backdrop?
 
-![FOMC rate-hike scenario analysis](../../../assets/usecases/quick/RX-USECASE-0041/source-visuals.webp)
+![FOMC rate-hike scenario analysis](../../../../assets/usecases/quick/RX-USECASE-0041/source-visuals.webp)
 
 ## Research objective
 

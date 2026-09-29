@@ -13,11 +13,11 @@ source_route: alfred/consuming-alfred
 -->
 # 🧠 Consuming Alfred v1
 
-This guide helps you integrate [Alfred](..//README.md), our autonomous financial analyst, into your systems. The Alfred v1 API provides a streaming interface to interact with Reflexivity assistants, each with distinct capabilities for financial analysis workflows.
+This guide helps you integrate [Alfred](../README.md), our autonomous financial analyst, into your systems. The Alfred v1 API provides a streaming interface to interact with Reflexivity assistants, each with distinct capabilities for financial analysis workflows.
 
 ## 🔐 Authentication
 
-To start using the [Alfred API](..//README.md), obtain an authentication token from the [Overview authentication section](../../README.md) and include it in the Authorization header for all requests:
+To start using the [Alfred API](../README.md), obtain an authentication token from the [Overview authentication section](../../README.md) and include it in the Authorization header for all requests:
 
 HTTP `Authorization: Bearer `
 ## 📡 Request

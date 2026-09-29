@@ -34,7 +34,7 @@ Beige Book 같은 문서는 정보량이 매우 많습니다. 많은 투자 워�
 
 Market Catalyst는 이벤트 헤드라인에서 분석으로 들어가는 시작점을 제공합니다. 담당 영역에 맞게 피드를 좁히고, 관련 이벤트를 선택한 뒤 상세한 시장 해석을 열어봅니다.
 
-![Market Catalyst의 Beige Book 항목](../../../이미지/유스케이스/quick/RX-USECASE-0049/01-beige-book-market-catalyst-list.webp)
+![Market Catalyst의 Beige Book 항목](../../../../assets/usecases/quick/RX-USECASE-0049/01-beige-book-market-catalyst-list.webp)
 
 ## 워크플로
 

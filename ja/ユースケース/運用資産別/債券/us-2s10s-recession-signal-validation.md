@@ -41,7 +41,7 @@ publication_mode: faithful-source-preserving
 
 まず、2年・10年金利差を長期系列の中に置き、その後のカーブ変化と並べて確認します。
 
-![2年・10年金利差とその後のカーブ変化](../../../画像/ユースケース/reflexivity/RX-USECASE-0031/chart-1.webp)
+![2年・10年金利差とその後のカーブ変化](../../../../assets/usecases/reflexivity/RX-USECASE-0031/chart-1.webp)
 
 *2年・10年金利差と、その後の5年・10年のカーブ変化を比較した元の調査の図表。*
 
@@ -58,7 +58,7 @@ publication_mode: faithful-source-preserving
 
 次に、実際の景気後退局面とシグナルの出方を時系列で重ね、見逃しと偽陽性の両方を確認します。
 
-![景気後退シグナルの履歴検証](../../../画像/ユースケース/reflexivity/RX-USECASE-0031/chart-2.webp)
+![景気後退シグナルの履歴検証](../../../../assets/usecases/reflexivity/RX-USECASE-0031/chart-2.webp)
 
 *景気後退シグナルを履歴上で検証した元の調査の図表。*
 

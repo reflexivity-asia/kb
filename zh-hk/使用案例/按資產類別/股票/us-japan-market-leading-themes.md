@@ -39,7 +39,7 @@ publication_mode: faithful-source-preserving
 
 次序是刻意安排的：先把市場領先者標準化比較，找出帶動回報的主題；再問同一主題是否同時存在於兩地市場，以及即使主題相同，真正領先的是不是價值鏈的不同環節。
 
-![美國與日本股市的領先主題](../../../圖片/使用案例/quick/RX-USECASE-0038/email-02.webp)
+![美國與日本股市的領先主題](../../../../assets/usecases/quick/RX-USECASE-0038/email-02.webp)
 
 ## 主題比較
 

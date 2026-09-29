@@ -32,7 +32,7 @@ publication_mode: faithful-source-preserving
 
 **AAPL:NASD の新型iPhone発表のタイミングと株価の関係について、過去5年間の傾向を分析してください。また、今回のDuoの発表についての市場の反応も分析してください。**
 
-![新型iPhone発表前後のAAPL株価を過去5年で検証する - 元資料の図表・画面](../../../画像/ユースケース/quick/RX-USECASE-0046/source-visuals.webp)
+![新型iPhone発表前後のAAPL株価を過去5年で検証する - 元資料の図表・画面](../../../../assets/usecases/quick/RX-USECASE-0046/source-visuals.webp)
 
 ## この調査で確かめたいこと
 

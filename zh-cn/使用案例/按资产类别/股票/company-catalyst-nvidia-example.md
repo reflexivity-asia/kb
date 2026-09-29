@@ -49,7 +49,7 @@ publication_mode: faithful-source-preserving
 
 理解事件后，下一步是观察市场多快把信息计入价格。即使一项公告具有重大战略意义，如果估值、交易成本或市场担心的整合风险抵消了战略逻辑，股价反应仍可能温和甚至为负。
 
-![NVIDIA catalyst 的市场反应](../../../图片/使用案例/quick/RX-USECASE-0057/02-nvidia-market-reaction.webp)
+![NVIDIA catalyst 的市场反应](../../../../assets/usecases/quick/RX-USECASE-0057/02-nvidia-market-reaction.webp)
 
 ## 阅读管理层的解释
 

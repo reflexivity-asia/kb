@@ -54,7 +54,7 @@ publication_mode: faithful-source-preserving
 
 表格有意区分两个不同问题：英国的绝对收益率最高，而日本的一年变化最大。这不是同一个信号。
 
-![主要市场 10 年期政府债券收益率比较](../../../图片/使用案例/quick/RX-USECASE-0040/source-visuals.webp)
+![主要市场 10 年期政府债券收益率比较](../../../../assets/usecases/quick/RX-USECASE-0040/source-visuals.webp)
 
 ## 国家层面解读
 

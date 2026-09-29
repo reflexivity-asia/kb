@@ -30,7 +30,7 @@ publication_mode: faithful-source-preserving
 
 비슷한 기업명이 있을 때 `@` 뒤에 티커를 쓰면 엔티티 식별을 더 정확하게 만들 수 있습니다.
 
-![Robinhood와 Bitcoin의 가격 관계](../../../이미지/유스케이스/quick/RX-USECASE-0050/source-visuals.webp)
+![Robinhood와 Bitcoin의 가격 관계](../../../../assets/usecases/quick/RX-USECASE-0050/source-visuals.webp)
 
 ## 리서치가 확인하려는 것
 

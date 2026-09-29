@@ -49,7 +49,7 @@ publication_mode: faithful-source-preserving
 
 ## 金利は長期ゾーンを中心に上昇
 
-![米国債利回りとFF金利](../../../画像/ユースケース/quick/RX-USECASE-0067/01-us-treasury-fed-funds.webp)
+![米国債利回りとFF金利](../../../../assets/usecases/quick/RX-USECASE-0067/01-us-treasury-fed-funds.webp)
 
 | 指標 | 直近（2026-09-23） | 1年前 | 変化 |
 | --- | ---: | ---: | ---: |
@@ -66,7 +66,7 @@ publication_mode: faithful-source-preserving
 
 ## 大量供給でもクレジットスプレッドはタイト
 
-![IG・HYクレジットスプレッド](../../../画像/ユースケース/quick/RX-USECASE-0067/02-credit-spreads.webp)
+![IG・HYクレジットスプレッド](../../../../assets/usecases/quick/RX-USECASE-0067/02-credit-spreads.webp)
 
 記録的な供給にもかかわらず、IG・HYのスプレッドは提供日時点で歴史的にタイトな水準にありました。
 
@@ -74,7 +74,7 @@ publication_mode: faithful-source-preserving
 
 ## 供給規模は債務残高の増加で近似する
 
-![債券供給の増加](../../../画像/ユースケース/quick/RX-USECASE-0067/03-bond-supply.webp)
+![債券供給の増加](../../../../assets/usecases/quick/RX-USECASE-0067/03-bond-supply.webp)
 
 連邦政府債務は約39兆ドル規模、非金融企業の債券残高は約16兆ドル規模へ増加したとされています。
 

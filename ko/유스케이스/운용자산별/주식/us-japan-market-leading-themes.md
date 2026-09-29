@@ -38,7 +38,7 @@ publication_mode: faithful-source-preserving
 
 순서는 의도적입니다. 먼저 시장 주도 종목의 성과를 정규화해 무엇이 수익률을 만들었는지 확인한 뒤, 같은 테마가 두 시장에 모두 존재하는지, 존재한다면 실제로 **같은 밸류체인 구간이 주도하는지**를 봅니다.
 
-![미국과 일본 주식시장의 주도 테마](../../../이미지/유스케이스/quick/RX-USECASE-0038/email-02.webp)
+![미국과 일본 주식시장의 주도 테마](../../../../assets/usecases/quick/RX-USECASE-0038/email-02.webp)
 
 ## 테마 비교
 

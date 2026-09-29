@@ -29,7 +29,7 @@ publication_mode: faithful-source-preserving
 
 3 月美伊衝突後的油價上漲，與 8 月以來的上漲在驅動因素上有何不同？油價上升又影響了哪些產業與主要公司？
 
-![油價環境與受影響產業比較](../../../圖片/使用案例/quick/RX-USECASE-0045/source-visuals.webp)
+![油價環境與受影響產業比較](../../../../assets/usecases/quick/RX-USECASE-0045/source-visuals.webp)
 
 ## 研究想確認什麼
 

@@ -55,7 +55,7 @@ As of 2026-02-26, the QUICK-provided source used the following snapshot:
 
 The source's reason for establishing the starting point first was simple: the same shock can have very different incremental effects on an asset that is already extended versus one that is still relatively depressed.
 
-![Normalized paths of major assets](../../../assets/usecases/quick/RX-USECASE-0059/01-normalized-asset-paths.webp)
+![Normalized paths of major assets](../../../../assets/usecases/quick/RX-USECASE-0059/01-normalized-asset-paths.webp)
 
 ## Short- and medium-horizon scenario ranges
 
@@ -68,7 +68,7 @@ The source's reason for establishing the starting point first was simple: the sa
 
 These ranges were scenario outputs from the source material, not observed outcomes or probabilities.
 
-![Short- and medium-horizon scenario ranges](../../../assets/usecases/quick/RX-USECASE-0059/02-scenario-ranges.webp)
+![Short- and medium-horizon scenario ranges](../../../../assets/usecases/quick/RX-USECASE-0059/02-scenario-ranges.webp)
 
 ## Why short term and medium term are separated
 
@@ -113,7 +113,7 @@ That leads to different questions by asset:
 - equities: initial downside risk versus the possibility of later normalization;
 - dollar: defensive demand versus medium-term macro offsets.
 
-![Cross-asset risk-return map](../../../assets/usecases/quick/RX-USECASE-0059/03-risk-return-map.webp)
+![Cross-asset risk-return map](../../../../assets/usecases/quick/RX-USECASE-0059/03-risk-return-map.webp)
 
 ## How to use the result
 

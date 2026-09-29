@@ -94,7 +94,7 @@ Keep three dates separate: the reporting period covered by an earnings report, i
 
 An empty search with all sources available means no matching research was returned for that search. An unavailable source or omitted item means part of the request could not be completed. Ask for missing results to be identified before drawing conclusions.
 
-See [Research examples](..//README.md), [Troubleshooting](../../help/troubleshooting/README.md) or the [MCP tool reference](../../reference/mcp-tool-reference/README.md).
+See [Research examples](../README.md), [Troubleshooting](../../help/troubleshooting/README.md) or the [MCP tool reference](../../reference/mcp-tool-reference/README.md).
 
 ---
 

@@ -58,7 +58,7 @@ publication_mode: faithful-source-preserving
 | 2007년 6월 | 5.29% | GFC 직전, 역전 커브 이후 경기침체 |
 | 2006년 4~7월 | 5.25% | Fed 긴축 사이클, 주택시장 정점 |
 
-![미국 10년물 국채금리와 5% 기준선, 2006~2026년](../../../이미지/유스케이스/quick/RX-USECASE-0063/01-us-10y-yield-5-percent.webp)
+![미국 10년물 국채금리와 5% 기준선, 2006~2026년](../../../../assets/usecases/quick/RX-USECASE-0063/01-us-10y-yield-5-percent.webp)
 
 ### 당시 파생 통계
 

@@ -31,7 +31,7 @@ QUICK 使用 Alfred 分析日圓快速升值的背景。
 
 > USD/JPY 明顯朝日圓升值方向移動。請分析這波走勢的背景、其他貨幣的表現，以及市場如何看待後續展望。
 
-![USD/JPY 走勢與主要貨幣比較](../../../圖片/使用案例/quick/RX-USECASE-0044/source-visuals.webp)
+![USD/JPY 走勢與主要貨幣比較](../../../../assets/usecases/quick/RX-USECASE-0044/source-visuals.webp)
 
 ## 研究目的
 

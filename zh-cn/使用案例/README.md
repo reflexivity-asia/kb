@@ -6,19 +6,19 @@
 
 ## 按角色浏览
 
-- [财富管理 / RIA](财富管理RIA/)
-- [对冲基金](对冲基金/) — Tier 1 / 2 / 3 作为目标用户分类展示
-- [Long-only 资产管理人](长期多头资产管理人/)
+- [财富管理 / RIA](按投资者类型/财富管理RIA/)
+- [对冲基金](按投资者类型/对冲基金/) — Tier 1 / 2 / 3 作为目标用户分类展示
+- [Long-only 资产管理人](按投资者类型/长期多头资产管理人/)
 
 角色页面同时展示既有 proof 案例和经审阅的合作方研究案例。角色与 Tier 用于浏览分类；每篇研究正文只维护一份，并从相关浏览页面链接。
 
 ## 按洞察类型浏览
 
-- [Market Catalyst](分类浏览/market-catalyst.md) — 9 篇
-- [Geopolitical Catalyst](分类浏览/geopolitical-catalyst.md) — 1 篇
-- [Company Catalyst](分类浏览/company-catalyst.md) — 8 篇
-- [Earnings Catalyst](分类浏览/earnings-catalyst.md) — 7 篇
-- [Scenario Insight](分类浏览/scenario-insight.md) — 3 篇
+- [Market Catalyst](按洞察类型/market-catalyst.md) — 9 篇
+- [Geopolitical Catalyst](按洞察类型/geopolitical-catalyst.md) — 1 篇
+- [Company Catalyst](按洞察类型/company-catalyst.md) — 8 篇
+- [Earnings Catalyst](按洞察类型/earnings-catalyst.md) — 7 篇
+- [Scenario Insight](按洞察类型/scenario-insight.md) — 3 篇
 
 ## 按资产类别浏览
 

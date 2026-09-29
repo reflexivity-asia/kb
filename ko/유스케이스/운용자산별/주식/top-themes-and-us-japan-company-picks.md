@@ -26,7 +26,7 @@ publication_mode: faithful-source-preserving
 
 > 이 후보 목록은 리서치 유니버스의 출발점이며 투자 추천 목록이 아닙니다.
 
-![선별 테마와 관련된 미국·일본 기업](../../../이미지/유스케이스/quick/RX-USECASE-0047/source-visuals.webp)
+![선별 테마와 관련된 미국·일본 기업](../../../../assets/usecases/quick/RX-USECASE-0047/source-visuals.webp)
 
 ## 이런 워크플로가 유용한 경우
 

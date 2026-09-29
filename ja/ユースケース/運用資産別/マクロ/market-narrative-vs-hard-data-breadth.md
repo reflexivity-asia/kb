@@ -63,7 +63,7 @@ publication_mode: faithful-source-preserving
 指数は高値圏でも市場内部の広がりが伴っていないという読みです。
 ニュースの語り口と、実際の経済指標・テーマ別リターンを横に並べると、どこまで同じ方向を向いているかが見えやすくなります。
 
-![市場ナラティブとハードデータの主要図表](../../../画像/ユースケース/reflexivity/RX-USECASE-0036/source-figures.webp)
+![市場ナラティブとハードデータの主要図表](../../../../assets/usecases/reflexivity/RX-USECASE-0036/source-figures.webp)
 
 *経済指標の実績対コンセンサスと、テーマ別の1カ月リターンを比較した元の調査の図表。*
 

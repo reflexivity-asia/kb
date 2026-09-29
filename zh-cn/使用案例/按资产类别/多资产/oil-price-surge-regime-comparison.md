@@ -29,7 +29,7 @@ publication_mode: faithful-source-preserving
 
 3 月美国—伊朗冲突后油价上涨的驱动因素，与 8 月以来的上涨有何不同？高油价又影响了哪些行业和主要公司？
 
-![油价环境与受影响行业比较](../../../图片/使用案例/quick/RX-USECASE-0045/source-visuals.webp)
+![油价环境与受影响行业比较](../../../../assets/usecases/quick/RX-USECASE-0045/source-visuals.webp)
 
 ## 研究想确认什么
 

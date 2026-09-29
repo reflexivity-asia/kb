@@ -59,7 +59,7 @@ publication_mode: faithful-source-preserving
 | 2007年6月 | 5.29% | GFC前、逆イールド後に景気後退 |
 | 2006年4〜7月 | 5.25% | Fed引き締め、住宅市場ピーク |
 
-![米10年債利回りと5%ライン（2006-2026）](../../../画像/ユースケース/quick/RX-USECASE-0063/01-us-10y-yield-5-percent.webp)
+![米10年債利回りと5%ライン（2006-2026）](../../../../assets/usecases/quick/RX-USECASE-0063/01-us-10y-yield-5-percent.webp)
 
 ### 提供日時点の派生統計
 

@@ -51,7 +51,7 @@ publication_mode: faithful-source-preserving
 - 米ドル指数: 97.74（前年比 -9.1%）
 - VIX恐怖指数: 19.76（中程度のボラティリティ）
 
-![主要資産の過去1年間の正規化推移](../../../画像/ユースケース/quick/RX-USECASE-0059/01-normalized-asset-paths.webp)
+![主要資産の過去1年間の正規化推移](../../../../assets/usecases/quick/RX-USECASE-0059/01-normalized-asset-paths.webp)
 
 **重要な地政学的背景：**
 - 米政権が中東への軍事力展開を増強中
@@ -71,7 +71,7 @@ publication_mode: faithful-source-preserving
 | 株式市場 (S&P 500) | 6,908.86 | -5%～-15% | 5,872～6,563 | -3%～-10% | 6,218～6,702 |
 | 米ドル指数 (DXY) | 97.74 | +2%～+5% | 99.7～102.6 | +1%～+4% | 98.7～101.6 |
 
-![短期・中期の資産別シナリオレンジ](../../../画像/ユースケース/quick/RX-USECASE-0059/02-scenario-ranges.webp)
+![短期・中期の資産別シナリオレンジ](../../../../assets/usecases/quick/RX-USECASE-0059/02-scenario-ranges.webp)
 
 ### 1. 原油価格
 
@@ -135,7 +135,7 @@ publication_mode: faithful-source-preserving
 3. **株式:** 短期的には下落リスク、中長期では押し目買い機会
 4. **ドル:** 安定的な安全通貨、ポートフォリオ防衛に有効
 
-![資産別のリスク・リターン整理](../../../画像/ユースケース/quick/RX-USECASE-0059/03-risk-return-map.webp)
+![資産別のリスク・リターン整理](../../../../assets/usecases/quick/RX-USECASE-0059/03-risk-return-map.webp)
 
 ## 運用上の読み方
 

@@ -32,7 +32,7 @@ publication_mode: faithful-source-preserving
 
 **今年3月に米国とイランの戦争が始まった際の原油価格の上昇と、8月以降の原油価格の上昇の背景の違いを教えてください。また原油価格の上昇によって影響を受けた業種と主な企業についても分析して下さい。**
 
-![原油高の原因を局面別に比較し、影響業種までたどる - 元資料の図表・画面](../../../画像/ユースケース/quick/RX-USECASE-0045/source-visuals.webp)
+![原油高の原因を局面別に比較し、影響業種までたどる - 元資料の図表・画面](../../../../assets/usecases/quick/RX-USECASE-0045/source-visuals.webp)
 
 ## この調査で確かめたいこと
 

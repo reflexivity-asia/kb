@@ -49,7 +49,7 @@ publication_mode: faithful-source-preserving
 
 了解事件後，接着看市場多快把資訊反映進價格。一項戰略上很重要的公告，如果 valuation、交易成本或整合風險抵銷戰略邏輯，股價反應仍可能平淡甚至負面。
 
-![NVIDIA catalyst 的市場反應](../../../圖片/使用案例/quick/RX-USECASE-0057/02-nvidia-market-reaction.webp)
+![NVIDIA catalyst 的市場反應](../../../../assets/usecases/quick/RX-USECASE-0057/02-nvidia-market-reaction.webp)
 
 ## 閱讀管理層的解釋
 

@@ -6,19 +6,19 @@ Reflexivity의 사례를 **페르소나별**, **인사이트 유형별**, 또는
 
 ## 페르소나별
 
-- [Wealth Management / RIA](웰스매니지먼트RIA/)
-- [헤지펀드](헤지펀드/) — Tier 1 / 2 / 3은 대상 사용자 분류로 표시
-- [Long-only Asset Manager](롱온리자산운용사/)
+- [Wealth Management / RIA](운용자별/웰스매니지먼트RIA/)
+- [헤지펀드](운용자별/헤지펀드/) — Tier 1 / 2 / 3은 대상 사용자 분류로 표시
+- [Long-only Asset Manager](운용자별/롱온리자산운용사/)
 
 페르소나 페이지에는 기존 proof 사례와 검토된 파트너 제공 리서치 사례가 함께 표시됩니다. 페르소나와 Tier는 탐색을 위한 분류이며, 각 리서치 본문은 한 곳에만 두고 관련 탐색 페이지에서 링크합니다.
 
 ## 인사이트 유형별
 
-- [Market Catalyst](카테고리별/market-catalyst.md) — 9건
-- [Geopolitical Catalyst](카테고리별/geopolitical-catalyst.md) — 1건
-- [Company Catalyst](카테고리별/company-catalyst.md) — 8건
-- [Earnings Catalyst](카테고리별/earnings-catalyst.md) — 7건
-- [Scenario Insight](카테고리별/scenario-insight.md) — 3건
+- [Market Catalyst](인사이트유형별/market-catalyst.md) — 9건
+- [Geopolitical Catalyst](인사이트유형별/geopolitical-catalyst.md) — 1건
+- [Company Catalyst](인사이트유형별/company-catalyst.md) — 8건
+- [Earnings Catalyst](인사이트유형별/earnings-catalyst.md) — 7건
+- [Scenario Insight](인사이트유형별/scenario-insight.md) — 3건
 
 ## 운용자산별
 

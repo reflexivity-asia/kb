@@ -51,9 +51,9 @@ publication_mode: faithful-source-preserving
 | Meta | 81.6 | 61.3 | 20.3 | 0.28 | 87x | 34.7% | 46.1 | 29.9 |
 | Apple | 54.7 | 100.8 | -46.1 | 1.37 | net income* | 3.1% | 98.8 | 4.5 |
 
-![流動性・負債・ネットキャッシュの比較](../../../画像/ユースケース/quick/RX-USECASE-0064/01-liquidity-debt-net-cash.webp)
+![流動性・負債・ネットキャッシュの比較](../../../../assets/usecases/quick/RX-USECASE-0064/01-liquidity-debt-net-cash.webp)
 
-![設備投資強度とフリーキャッシュフローの比較](../../../画像/ユースケース/quick/RX-USECASE-0064/02-capex-fcf.webp)
+![設備投資強度とフリーキャッシュフローの比較](../../../../assets/usecases/quick/RX-USECASE-0064/02-capex-fcf.webp)
 
 ## 比較から見える4つの違い
 

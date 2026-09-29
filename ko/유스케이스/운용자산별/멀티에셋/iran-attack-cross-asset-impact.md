@@ -55,7 +55,7 @@ publication_mode: faithful-source-preserving
 
 출발점을 먼저 정한 이유는 이미 크게 오른 자산과 아직 눌려 있는 자산에 같은 충격이 들어와도 추가 반응의 크기가 달라질 수 있기 때문입니다.
 
-![주요 자산의 정규화된 경로](../../../이미지/유스케이스/quick/RX-USECASE-0059/01-normalized-asset-paths.webp)
+![주요 자산의 정규화된 경로](../../../../assets/usecases/quick/RX-USECASE-0059/01-normalized-asset-paths.webp)
 
 ## 단기·중기 시나리오 범위
 
@@ -68,7 +68,7 @@ publication_mode: faithful-source-preserving
 
 이 범위는 원 자료가 제시한 **조건부 시나리오 출력**이며 관측된 결과나 발생확률이 아닙니다.
 
-![단기·중기 시나리오 범위](../../../이미지/유스케이스/quick/RX-USECASE-0059/02-scenario-ranges.webp)
+![단기·중기 시나리오 범위](../../../../assets/usecases/quick/RX-USECASE-0059/02-scenario-ranges.webp)
 
 ## 왜 단기와 중기를 분리하는가
 
@@ -113,7 +113,7 @@ publication_mode: faithful-source-preserving
 - 주식: 초기 하방위험과 이후 정상화 가능성을 분리
 - 달러: 방어적 수요와 중기 거시 상쇄요인을 함께 고려
 
-![크로스에셋 위험·수익 맵](../../../이미지/유스케이스/quick/RX-USECASE-0059/03-risk-return-map.webp)
+![크로스에셋 위험·수익 맵](../../../../assets/usecases/quick/RX-USECASE-0059/03-risk-return-map.webp)
 
 ## 결과를 쓰는 방법
 

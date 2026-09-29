@@ -28,7 +28,7 @@ publication_mode: faithful-source-preserving
 
 원 질문의 요지는 인플레이션, 유가 상승, 더 넓은 거시환경을 감안했을 때 이번 주 FOMC에서 의장이 추가 금리인상 가능성을 어떻게 설명할 수 있는지였습니다.
 
-![FOMC 금리인상 시나리오 분석](../../../이미지/유스케이스/quick/RX-USECASE-0041/source-visuals.webp)
+![FOMC 금리인상 시나리오 분석](../../../../assets/usecases/quick/RX-USECASE-0041/source-visuals.webp)
 
 ## 조사 목적
 

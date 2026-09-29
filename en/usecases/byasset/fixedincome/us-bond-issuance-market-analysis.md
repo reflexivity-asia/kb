@@ -50,7 +50,7 @@ The uses of proceeds are grouped into several categories:
 
 ## Yields rose, especially further out the curve
 
-![US Treasury yields and the effective fed funds rate](../../../assets/usecases/quick/RX-USECASE-0067/01-us-treasury-fed-funds.webp)
+![US Treasury yields and the effective fed funds rate](../../../../assets/usecases/quick/RX-USECASE-0067/01-us-treasury-fed-funds.webp)
 
 | Indicator | Latest (2026-09-23) | One year earlier | Change |
 | --- | ---: | ---: | ---: |
@@ -67,7 +67,7 @@ The source interprets falling short-term policy rates alongside higher long-term
 
 ## Credit spreads stayed tight despite heavy supply
 
-![Investment-grade and high-yield credit spreads](../../../assets/usecases/quick/RX-USECASE-0067/02-credit-spreads.webp)
+![Investment-grade and high-yield credit spreads](../../../../assets/usecases/quick/RX-USECASE-0067/02-credit-spreads.webp)
 
 Despite record supply, IG and HY spreads remained historically tight as of the source date.
 
@@ -75,7 +75,7 @@ That means the increase in issuance should not be read automatically as weak dem
 
 ## Approximate supply with growth in debt outstanding
 
-![Growth in bond supply](../../../assets/usecases/quick/RX-USECASE-0067/03-bond-supply.webp)
+![Growth in bond supply](../../../../assets/usecases/quick/RX-USECASE-0067/03-bond-supply.webp)
 
 Federal debt is described as having expanded to roughly $39 trillion, while nonfinancial corporate bonds outstanding reached roughly $16 trillion.
 
