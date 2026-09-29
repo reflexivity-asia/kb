@@ -15,8 +15,9 @@ resource: Reflexivity Documentation
 
 ## このセクション
 
+- [トラブルシューティング](troubleshooting/README.md)
 - [アクセスとプライバシー](access-and-privacy/README.md)
 
 ---
 
-← [カバレッジと情報源](../research/coverage-and-sources/README.md) · [アクセスとプライバシー](access-and-privacy/README.md) →
+← [カバレッジと情報源](../research/coverage-and-sources/README.md) · [リファレンス](../reference/README.md) →
