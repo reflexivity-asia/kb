@@ -13,6 +13,12 @@ source_route: alfred/microsoft-integration/integration-lifecycle
 -->
 # Integration lifecycle
 
+## In this section
+
+- [Connect a provider](connect-a-provider/README.md) — `POST`
+- [Get integration status](get-integration-status/README.md) — `GET`
+- [Disconnect a provider or a single service](disconnect-a-provider-or-a-single-service/README.md) — `DELETE`
+
 ---
 
-[← Documentation](../../../README.md)
+[← Microsoft integration](../README.md)
