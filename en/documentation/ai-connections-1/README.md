@@ -4,16 +4,17 @@ type: product
 language: en
 locale: en
 author: Reflexivity GTM Team
-source_id: 6aa9563250675fa0b9c98830
-resource: Reflexivity Documentation
 kb_imported: 2026-09-29
 status: published
 translation_status: canonical
-source_route: ai-connections-1
+resource: Reflexivity Documentation
 -->
 # AI Connections
 
+[Documentation](../README.md)
+
 ---
+
 Connect Reflexivity to your AI application to search published research and explore company relationships. Ask questions in your application and use Reflexivity’s Insights and Knowledge Graph in the answer.
 
 The connection is read-only. You can retrieve research and use your available saved watchlists and baskets, but you cannot change your Reflexivity account or lists through the connection.
@@ -48,7 +49,7 @@ You need your own full Reflexivity user account. If your organization manages yo
 
 Connecting for yourself? [Choose your application](connect/README.md), then follow its guide.
 
-Setting up access for a team? Start with [Set up your organization](connect/set-up-your-organization/README.md).
+Setting up access for a team? Start with Set up your organization.
 
 After signing in, return to your application and complete its connection check. A successful browser sign-in does not by itself confirm that the application can call Reflexivity’s tools.
 
@@ -56,12 +57,18 @@ After signing in, return to your application and complete its connection check. 
 
 ## Help and reference
 
-[Troubleshooting](https://app.theneo.io/reflexivity/developer-portal/ai-connections-1/help/troubleshooting)
-
 [Access and privacy](help/access-and-privacy/README.md)
 
 [MCP tool reference](reference/mcp-tool-reference/README.md)
 
+## In this section
+
+- [Connect](connect/README.md)
+- [Application Guides](application-guides/README.md)
+- [Research](research/README.md)
+- [Help](help/README.md)
+- [Reference](reference/README.md)
+
 ---
 
-[← Documentation](../README.md)
+← [Get market-close price](../price-history/get-market-close-price/README.md) · [Connect](connect/README.md) →

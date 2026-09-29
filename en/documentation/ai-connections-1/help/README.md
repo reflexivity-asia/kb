@@ -4,22 +4,19 @@ type: product
 language: en
 locale: en
 author: Reflexivity GTM Team
-source_id: 6aa95a2ae79f56483d1efdb2
-resource: Reflexivity Documentation
 kb_imported: 2026-09-29
 status: published
 translation_status: canonical
-source_route: ai-connections-1/help
+resource: Reflexivity Documentation
 -->
 # Help
 
-[← Documentation](../../README.md)
+[AI Connections](../README.md) · [Documentation](../../README.md)
 
-## Sections
+## In this section
 
-- [Troubleshooting](troubleshooting/README.md)
 - [Access and privacy](access-and-privacy/README.md)
 
 ---
 
-[← Documentation](../../README.md)
+← [Coverage and Sources](../research/coverage-and-sources/README.md) · [Access and privacy](access-and-privacy/README.md) →

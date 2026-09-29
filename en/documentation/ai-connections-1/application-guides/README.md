@@ -4,30 +4,30 @@ type: product
 language: en
 locale: en
 author: Reflexivity GTM Team
-source_id: 6aac3c8ae79f56483d41b5e0
-resource: Reflexivity Documentation
 kb_imported: 2026-09-29
 status: published
 translation_status: canonical
-source_route: ai-connections-1/application-guides
+resource: Reflexivity Documentation
 -->
 # Application Guides
 
+[AI Connections](../README.md) · [Documentation](../../README.md)
+
 Choose the application where you want to use Reflexivity. Each guide describes its connection route and any known setup limitations.
 
-[Claude web and desktop](claude/README.md)
+Claude web and desktop
 
-[Claude Code](claude-code/README.md)
+Claude Code
 
-[ChatGPT](chatgpt/README.md)
+ChatGPT
 
-[Codex CLI and desktop](codex/README.md)
+Codex CLI and desktop
 
-[Cursor](cursor/README.md)
+Cursor
 
-[Gemini](gemini/README.md)
+Gemini
 
-[GitHub Copilot in VS Code](github-copilot-in-vs-code/README.md)
+GitHub Copilot in VS Code
 
 [GitHub Copilot CLI](github-copilot-cli/README.md)
 
@@ -35,10 +35,15 @@ Choose the application where you want to use Reflexivity. Each guide describes i
 
 See [Connect](../connect/README.md) for current availability and testing status across applications.
 
-You need your own full Reflexivity user account. For a managed application, your administrator may need to [set up your organization](../connect/set-up-your-organization/README.md) before you can connect.
+You need your own full Reflexivity user account. For a managed application, your administrator may need to set up your organization before you can connect.
 
-Already installed but unable to use the tools? See [Troubleshooting](../help/troubleshooting/README.md).
+Already installed but unable to use the tools? See Troubleshooting.
+
+## In this section
+
+- [GitHub Copilot CLI](github-copilot-cli/README.md)
+- [Microsoft 365 Copilot](microsoft-365-copilot/README.md)
 
 ---
 
-[← Documentation](../../README.md)
+← [Connect](../connect/README.md) · [GitHub Copilot CLI](github-copilot-cli/README.md) →

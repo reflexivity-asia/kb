@@ -4,20 +4,20 @@ type: product
 language: en
 locale: en
 author: Reflexivity GTM Team
-source_id: 6aac3cd6e79f56483d41b706
-resource: Reflexivity Documentation
 kb_imported: 2026-09-29
 status: published
 translation_status: canonical
-source_route: ai-connections-1/application-guides/microsoft-365-copilot
+resource: Reflexivity Documentation
 -->
 # Microsoft 365 Copilot
+
+[Application Guides](../README.md) · [Documentation](../../../README.md)
 
 ---
 
 ## Connect with Microsoft 365 Copilot
 
-Draft: This setup path still needs connection testing.
+**Draft:** This setup path still needs connection testing.
 
 Microsoft 365 Copilot supports custom federated connectors that read from an MCP server. An administrator configures the connector and makes it available to selected users or groups.
 
@@ -37,8 +37,8 @@ Microsoft's OAuth route requires a registered client, authentication settings an
 
 Once the connector is available, users authenticate to the external service. The exact Reflexivity sign-in steps will follow validation.
 
-This guide concerns Microsoft 365 Copilot for work. Copilot Studio agents use a separate setup route
+This guide concerns Microsoft 365 Copilot for work. Copilot Studio agents use a separate setup route.
 
 ---
 
-[← Documentation](../../../README.md)
+← [GitHub Copilot CLI](../github-copilot-cli/README.md) · [Research](../../research/README.md) →
