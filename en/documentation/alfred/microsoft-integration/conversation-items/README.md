@@ -13,6 +13,11 @@ source_route: alfred/microsoft-integration/conversation-items
 -->
 # Conversation items
 
+## In this section
+
+- [Disconnect impact (alias)](disconnect-impact-alias/README.md) — `GET`
+- [Resolve an attached item into a browser URL](resolve-an-attached-item-into-a-browser-url/README.md) — `GET`
+
 ---
 
-[← Documentation](../../../README.md)
+[← Microsoft integration](../README.md)
