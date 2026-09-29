@@ -15,6 +15,7 @@ source_route: alfred/microsoft-integration/services
 
 ## このセクション
 
+- [接続可能なサービス一覧](list-connectable-services/README.md) — `GET`
 - [接続可能なサービス一覧（エイリアス）](list-connectable-services-alias/README.md) — `GET`
 
 ---
