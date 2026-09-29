@@ -17,9 +17,6 @@ source_route: price-history
 
 ## セクション
 
-- [価格履歴を取得](get-prices/README.md) — `GET`
-- [遅延価格を取得](get-delayed-prices/README.md) — `GET`
-- [最新の遅延価格を取得](get-latest-delayed-price/README.md) — `GET`
 - [市場終値を取得](get-market-close-price/README.md) — `GET`
 
 ---
