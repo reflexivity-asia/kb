@@ -8,6 +8,9 @@ This English repository is the canonical source for the Reflexivity public knowl
 
 _Product materials will be added here._
 
+## Documentation
+
+[Browse the Reflexivity developer and AI connection documentation →](documentation/README.md)
 ## Use Cases
 
 [Browse Reflexivity use cases →](usecases/README.md)
