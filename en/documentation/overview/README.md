@@ -4,14 +4,14 @@ type: product
 language: en
 locale: en
 author: Reflexivity GTM Team
-source_id: 6a1963a45bab9fa46f233528
-resource: Reflexivity Documentation
 kb_imported: 2026-09-29
 status: published
 translation_status: canonical
-source_route: overview
+resource: Reflexivity Documentation
 -->
 # Overview
+
+[← Documentation](../README.md) · [Knowledge Base](../../README.md)
 
 ---
 
@@ -87,39 +87,36 @@ Send a POST request to the authentication service’s /oauth/token endpoint with
 
 Production example:
 
-`curl --request POST '`[https://auth.reflexivity.com/oauth/token](https://auth.reflexivity.com/oauth/token)`' --header 'Content-Type: application/json' --data '{"client_id":"YOUR_ACCOUNT_ID","client_secret":"YOUR_ACCOUNT_SECRET"}'`
+`curl --request POST 'https://auth.reflexivity.com/oauth/token' --header 'Content-Type: application/json' --data '{"client_id":"YOUR_ACCOUNT_ID","client_secret":"YOUR_ACCOUNT_SECRET"}'`
 
-Replace `YOUR_ACCOUNT_ID and YOUR_ACCOUNT_SECRET`with your production credentials.
+Replace `YOUR_ACCOUNT_ID` and `YOUR_ACCOUNT_SECRET` with your production credentials.
 
-For staging, use [https://auth.staging.rflx.co.uk/oauth/token](https://auth.staging.rflx.co.uk/oauth/token) with your staging credentials.
+For staging, use <https://auth.staging.rflx.co.uk/oauth/token> with your staging credentials.
 
 A successful response includes:
 
-access_token: The token to use in subsequent API requests.
-
-token_type: The token type, returned as Bearer.
-
-expires_in: The token’s lifetime in seconds.
-
-scope: The permissions granted to the token.
+- `access_token`: The token to use in subsequent API requests.
+- `token_type`: The token type, returned as Bearer.
+- `expires_in`: The token’s lifetime in seconds.
+- `scope`: The permissions granted to the token.
 
 ### Authenticate your API requests
 
 Include the access token in the Authorization header of each request using this format:
 
-Authorization: Bearer `YOUR_ACCESS_TOKEN`
+`Authorization: Bearer YOUR_ACCESS_TOKEN`
 
 For a GET endpoint, the request takes this form:
 
-`curl --header 'Authorization: Bearer YOUR_ACCESS_TOKEN' '`[https://api.reflexivity.com/ENDPOINT](https://api.reflexivity.com/ENDPOINT)`'`
+`curl --header 'Authorization: Bearer YOUR_ACCESS_TOKEN' 'https://api.reflexivity.com/ENDPOINT'`
 
-Replace `YOUR_ACCESS_TOKEN` with the token returned by the authentication service. Replace ENDPOINT with the path from the endpoint documentation.
+Replace `YOUR_ACCESS_TOKEN` with the token returned by the authentication service. Replace `ENDPOINT` with the path from the endpoint documentation.
 
 Use the HTTP method, parameters, and request body specified for that endpoint.
 
 ### Obtain a new token when needed
 
-Use expires_in from the authentication response to determine when your token expires. Request a new access token when required.
+Use `expires_in` from the authentication response to determine when your token expires. Request a new access token when required.
 
 If a request returns an authentication error, check that your token is valid and that your credentials, authentication address, and API address belong to the same environment.
 
@@ -131,6 +128,19 @@ For an AI application connection, continue to [Application Guides](../ai-connect
 
 For a REST API integration, choose an endpoint from the navigation and review its required parameters, response fields, and examples before making your first request.
 
+## Documentation sections
+
+- [Alfred](../alfred/README.md)
+- [Calculator](../calculator/README.md)
+- [Catalyst Insights](../catalyst-insights/README.md)
+- [Earnings Insights](../earnings-insights/README.md)
+- [Entity](../entity/README.md)
+- [Entity Report](../entity-report/README.md)
+- [Knowledge Graph](../knowledge-graph/README.md)
+- [Scenario Insights](../scenario-insights/README.md)
+- [Price History](../price-history/README.md)
+- [AI Connections](../ai-connections-1/README.md)
+
 ---
 
-[← Documentation](../README.md)
+[Alfred](../alfred/README.md) →

@@ -4,17 +4,21 @@ type: product
 language: en
 locale: en
 author: Reflexivity GTM Team
-source_id: 6a269d5dd24bb0f7bf0c4bd5
-resource: Reflexivity Documentation
 kb_imported: 2026-09-29
 status: published
 translation_status: canonical
-source_route: price-history
+resource: Reflexivity Documentation
 -->
 # Price History
 
-Provides price candles for entities.
+[Documentation](../README.md)
+
+Select a page below to continue.
+
+## In this section
+
+- [Get market-close price](get-market-close-price/README.md) **GET**
 
 ---
 
-[← Documentation](../README.md)
+← [Get scenario insight predictions by ID](../scenario-insights/get-insight-predictions-based-on-requested-id/README.md) · [Get market-close price](get-market-close-price/README.md) →

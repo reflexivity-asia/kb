@@ -4,40 +4,66 @@ type: product
 language: en
 locale: en
 author: Reflexivity GTM Team
-source_id: 6a269df3361fc1a8957f8242
-resource: Reflexivity Documentation
 kb_imported: 2026-09-29
 status: published
 translation_status: canonical
-source_route: price-history/get-market-close-price
+resource: Reflexivity Documentation
 -->
 # Get market-close price
+
+[Price History](../README.md) · [Documentation](../../README.md)
+
+**Method:** `GET`
 
 MarketClose returns the close price according to the parameters. Only valid for 1min candles.
 
 #### Query Parameters
 
-ticker string Required The security ticker. Ticker must be upper case.
+`ticker` — `string` — **Required**
 
-datasource string Default value nasdaq Enum values: `nasdaq``cboe`
+The security ticker. Ticker must be upper case.
+
+`datasource` — `string`
+
 ### Response
 
-200 Object The price is returned successfully.
+**200** — Object: The price is returned successfully.
 
 #### Response Attributes
 
-time string (date-time) Required The timestamp of the candle.
+`time` — `string (date-time)` — **Required**
 
-close number Required The close price value.
+The timestamp of the candle.
 
-400 Object Missing parameter.
+`close` — `number` — **Required**
 
-401 Object User not authorized.
+The close price value.
 
-404 Object Market close price for the provided ticker not found.
+**400** — Object: Missing parameter.
 
-500 Object Internal Server Error.
+**401** — Object: User not authorized.
+
+**404** — Object: Market close price for the provided ticker not found.
+
+**500** — Object: Internal Server Error.
+
+**Endpoint:** `GET /price-history/v1/market-close?ticker=STLA&datasource=nasdaq`
+
+## Request example
+
+```bash
+curl --location 'https://api.reflexivity.com/price-history/v1/market-close?ticker=STLA&datasource=nasdaq' \
+```
+
+## Response example
+
+```json
+{
+  "time": "2001-08-14T00:00:00Z",
+  "close": 4.8002
+}
+```
 
 ---
 
-[← Documentation](../../README.md)
+← [Price History](../README.md) · [AI Connections](../../ai-connections-1/README.md) →
