@@ -4,14 +4,14 @@ type: product
 language: en
 locale: en
 author: Reflexivity GTM Team
-source_id: 6aa95a3a50675fa0b9c9cf3a
-resource: Reflexivity Documentation
 kb_imported: 2026-09-29
 status: published
 translation_status: canonical
-source_route: ai-connections-1/help/access-and-privacy
+resource: Reflexivity Documentation
 -->
 # Access and privacy
+
+[Help](../README.md) · [Documentation](../../../README.md)
 
 ---
 
@@ -69,4 +69,4 @@ For questions about access or permitted use, contact [support@reflexivity.com](m
 
 ---
 
-[← Documentation](../../../README.md)
+← [Help](../README.md) · [Reference](../../reference/README.md) →

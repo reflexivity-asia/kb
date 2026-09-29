@@ -4,21 +4,21 @@ type: product
 language: ja
 locale: ja-JP
 author: Reflexivity GTM Team
-source_id: 6aac3bc3eaa60270142471f1
-resource: Reflexivity Documentation
 kb_imported: 2026-09-29
 status: published
-translation_status: review-needed
-source_route: ai-connections-1/reference
+translation_status: current
+resource: Reflexivity Documentation
 -->
 # リファレンス
 
-[← ドキュメント](../../README.md)
+[AI連携](../README.md) · [ドキュメント](../../README.md)
 
-## セクション
+以下のページから参照してください。
+
+## このセクション
 
 - [MCPツールリファレンス](mcp-tool-reference/README.md)
 
 ---
 
-[← ドキュメント](../../README.md)
+← [アクセスとプライバシー](../help/access-and-privacy/README.md) · [MCPツールリファレンス](mcp-tool-reference/README.md) →
