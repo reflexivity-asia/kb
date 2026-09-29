@@ -13,15 +13,10 @@ source_route: alfred/conversation
 -->
 # Conversation
 
-[← Documentation](../../README.md)
+The Conversation Service v2 API powers the code-agent conversation experience.
+It manages conversations, tasks, state records, search, feedback, and per-user settings.
 
-## Sections
-
-- [Conversations](conversations/README.md)
-- [Tasks](tasks/README.md)
-- [Search](search/README.md)
-- [Feedback](feedback/README.md)
-- [Settings](settings/README.md)
+Authentication is required for all endpoints. Users must provide a valid bearer token.
 
 ---
 

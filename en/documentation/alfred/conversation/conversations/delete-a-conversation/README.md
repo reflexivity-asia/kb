@@ -13,11 +13,24 @@ source_route: alfred/conversation/conversations/delete-a-conversation
 -->
 # Delete a conversation
 
-[← Documentation](../../../../README.md)
+Permanently deletes the specified conversation.
 
-Detailed documentation for this page is temporarily unavailable in this GitHub mirror.
+#### Header Parameters
 
-For assistance, contact **gtm@reflexivity.com**.
+Authorization string
+#### Path Parameters
+
+id string Required Conversation ID.
+
+### Response
+
+204 Object Deleted successfully.
+
+401 Object Unauthorized.
+
+403 Object Forbidden.
+
+500 Object Internal server error.
 
 ---
 

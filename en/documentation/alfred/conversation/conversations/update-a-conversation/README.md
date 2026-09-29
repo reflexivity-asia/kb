@@ -13,11 +13,34 @@ source_route: alfred/conversation/conversations/update-a-conversation
 -->
 # Update a conversation
 
-[← Documentation](../../../../README.md)
+Updates the name and/or favourite status of a conversation. At least one field must be provided.
 
-Detailed documentation for this page is temporarily unavailable in this GitHub mirror.
+#### Header Parameters
 
-For assistance, contact **gtm@reflexivity.com**.
+Authorization string
+#### Path Parameters
+
+id string Required Conversation ID.
+
+#### Body Parameters
+
+name string New display name (1–1000 characters, leading/trailing whitespace is stripped).
+
+favourite boolean Set to `true` to mark as favourite, `false` to remove.
+
+### Response
+
+204 Object Updated successfully (or nothing to update).
+
+400 Object Bad request — invalid name (empty or exceeds 1000 characters).
+
+401 Object Unauthorized.
+
+403 Object Forbidden.
+
+404 Object Conversation not found.
+
+500 Object Internal server error.
 
 ---
 
