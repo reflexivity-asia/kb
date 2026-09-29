@@ -22,9 +22,13 @@ The persona pages combine the original proof examples with reviewed partner-prov
 
 ## Browse by Asset Class
 
-[Browse research and workflow examples by asset class →](byasset/README.md)
+- [FX](byasset/fx/)
+- [Fixed Income](byasset/fixedincome/)
+- [Macro](byasset/macro/)
+- [Equities](byasset/equities/)
+- [Multi-Asset](byasset/multiasset/)
 
-Browse research and workflow examples by asset class. Each article is maintained once and linked from the relevant browsing views rather than duplicated.
+Each article is maintained once and linked from the relevant browsing views rather than duplicated.
 
 ## Resources
 
