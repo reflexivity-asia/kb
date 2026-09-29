@@ -13,14 +13,7 @@ source_route: price-history
 -->
 # Price History
 
-[← Documentation](../README.md)
-
-## Sections
-
-- [Get prices](get-prices/README.md) — `GET`
-- [Get delayed prices](get-delayed-prices/README.md) — `GET`
-- [Get latest delayed price](get-latest-delayed-price/README.md) — `GET`
-- [Get market-close price](get-market-close-price/README.md) — `GET`
+Provides price candles for entities.
 
 ---
 

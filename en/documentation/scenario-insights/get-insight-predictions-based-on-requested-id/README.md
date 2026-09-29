@@ -13,11 +13,20 @@ source_route: scenario-insights/get-insight-predictions-based-on-requested-id
 -->
 # Get scenario insight predictions by ID
 
-[← Documentation](../../README.md)
+#### Path Parameters
 
-Detailed documentation for this page is temporarily unavailable in this GitHub mirror.
+id string Required
+### Response Expand all
 
-For assistance, contact **gtm@reflexivity.com**.
+200 Object Return predictions for the requested insight.
+
+#### Response Attributes
+
+relative_idx integer horizon string mean number median number count integer percentiles object Show child attributes
+
+high number low number std_dev number min number max number date string (date-time) 404 Object Not found.
+
+500 Object Internal server error.
 
 ---
 
