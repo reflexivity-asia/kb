@@ -13,6 +13,11 @@ resource: Reflexivity Documentation
 
 [AI連携](../README.md) · [ドキュメント](../../README.md)
 
+## このセクション
+
+- [アカウントを接続する](connect-your-account/README.md)
+- [組織を設定する](set-up-your-organization/README.md)
+
 ---
 
 ← [AI連携](../README.md) · [アプリケーション別ガイド](../application-guides/README.md) →
