@@ -18,8 +18,6 @@ source_route: entity-report
 ## Sections
 
 - [V2 Relevance](v2-relevance/README.md) — `GET`
-- [V1 Relevance](relevance/README.md) — `GET`
-- [V3 Key-value](v3-key-value/README.md) — `GET`
 - [V1 Key-value](key-value/README.md) — `GET`
 - [V2 Snake Values](v2-snake-values/README.md) — `GET`
 - [V1 Snake Values](snake-values/README.md) — `GET`
