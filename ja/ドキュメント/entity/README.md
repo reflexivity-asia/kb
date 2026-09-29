@@ -14,11 +14,3 @@ source_route: entity
 # Entity
 
 [← ドキュメント](../README.md)
-
-## セクション
-
-- [条件指定でEntityを取得](get-filtered-entities/README.md) — `POST`
-
----
-
-[← ドキュメント](../README.md)
