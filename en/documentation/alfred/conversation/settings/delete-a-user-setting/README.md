@@ -13,11 +13,24 @@ source_route: alfred/conversation/settings/delete-a-user-setting
 -->
 # Delete a user setting
 
-[← Documentation](../../../../README.md)
+Removes a named user setting, reverting it to its default value.
 
-Detailed documentation for this page is temporarily unavailable in this GitHub mirror.
+#### Header Parameters
 
-For assistance, contact **gtm@reflexivity.com**.
+Authorization string
+#### Path Parameters
+
+name string Required Setting name (e.g. `preferences.format`, `tools.websearch`).
+
+### Response
+
+204 Object Setting deleted successfully.
+
+401 Object Unauthorized.
+
+404 Object Setting not found.
+
+500 Object Internal server error.
 
 ---
 

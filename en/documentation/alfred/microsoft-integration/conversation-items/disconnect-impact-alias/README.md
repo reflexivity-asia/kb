@@ -13,11 +13,56 @@ source_route: alfred/microsoft-integration/conversation-items/disconnect-impact-
 -->
 # Disconnect impact (alias)
 
-[← Documentation](../../../../README.md)
+#### Header Parameters
 
-Detailed documentation for this page is temporarily unavailable in this GitHub mirror.
+Authorization-User-Id string
+#### Path Parameters
 
-For assistance, contact **gtm@reflexivity.com**.
+provider string Required Integration provider.
+
+Enum values: `microsoft` service string Required Provider-scoped service identifier.
+
+### Response Expand all
+
+200 Object Disconnect impact counts.
+
+#### Response Attributes
+
+documentCount integer Total pinned items for (user, provider, service). Equals the sum of `fileCount`.
+
+conversationCount integer Number of entries in `conversations`.
+
+conversations array Show child attributes
+
+400 Object Unsupported provider or invalid service.
+
+#### Response Attributes
+
+error string Required Machine-readable error code.
+
+message string Human-readable text (optional).
+
+details string Debug info (optional).
+
+401 Object Missing user id.
+
+#### Response Attributes
+
+error string Required Machine-readable error code.
+
+message string Human-readable text (optional).
+
+details string Debug info (optional).
+
+500 Object Internal error.
+
+#### Response Attributes
+
+error string Required Machine-readable error code.
+
+message string Human-readable text (optional).
+
+details string Debug info (optional).
 
 ---
 

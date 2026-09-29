@@ -13,11 +13,27 @@ source_route: alfred/conversation/settings/set-a-user-setting
 -->
 # Set a user setting
 
-[← Documentation](../../../../README.md)
+Creates or replaces a named user setting. The request body must be a valid JSON value matching the setting's schema.
 
-Detailed documentation for this page is temporarily unavailable in this GitHub mirror.
+#### Header Parameters
 
-For assistance, contact **gtm@reflexivity.com**.
+Authorization string
+#### Path Parameters
+
+name string Required Setting name (e.g. `preferences.format`, `tools.websearch`).
+
+#### Body Parameters
+
+prompt string
+### Response
+
+204 Object Setting saved successfully.
+
+400 Object Bad request — unrecognized setting or invalid value.
+
+401 Object Unauthorized.
+
+500 Object Internal server error.
 
 ---
 

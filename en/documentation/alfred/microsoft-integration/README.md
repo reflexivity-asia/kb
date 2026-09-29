@@ -13,14 +13,9 @@ source_route: alfred/microsoft-integration
 -->
 # Microsoft integration
 
-[← Documentation](../../README.md)
+Configure and manage your Microsoft integration to enable seamless authentication and access control within your applications. This section allows you to connect your services with Microsoft, streamline user management, and enhance interoperability across Microsoft platforms.
 
-## Sections
-
-- [Conversation items](conversation-items/README.md)
-- [Integration lifecycle](integration-lifecycle/README.md)
-- [Services](services/README.md)
-- [Health](health/README.md)
+Manage your Microsoft integration settings and streamline authentication processes within your applications. This section enables you to connect, configure, and control access to Microsoft services, enhancing seamless interoperability and user management.
 
 ---
 
