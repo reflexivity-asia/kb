@@ -17,8 +17,10 @@ Select a page below to continue.
 
 ## In this section
 
+- [Get filtered scenario insights](get-filtered-insights/README.md) **POST**
+- [Get scenario insight by ID](get-insight-based-on-requested-id/README.md) **GET**
 - [Get scenario insight predictions by ID](get-insight-predictions-based-on-requested-id/README.md) **GET**
 
 ---
 
-← [🧲 Company → Company (Proximity)](../knowledge-graph/legacy/company-company-proximity/README.md) · [Get scenario insight predictions by ID](get-insight-predictions-based-on-requested-id/README.md) →
+← [🧲 Company → Company (Proximity)](../knowledge-graph/legacy/company-company-proximity/README.md) · [Price History](../price-history/README.md) →
