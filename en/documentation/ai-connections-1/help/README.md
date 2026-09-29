@@ -15,8 +15,9 @@ resource: Reflexivity Documentation
 
 ## In this section
 
+- [Troubleshooting](troubleshooting/README.md)
 - [Access and privacy](access-and-privacy/README.md)
 
 ---
 
-← [Coverage and Sources](../research/coverage-and-sources/README.md) · [Access and privacy](access-and-privacy/README.md) →
+← [Coverage and Sources](../research/coverage-and-sources/README.md) · [Reference](../reference/README.md) →
