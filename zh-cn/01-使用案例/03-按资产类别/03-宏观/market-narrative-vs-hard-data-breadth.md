@@ -1,0 +1,108 @@
+<!--
+id: RX-USECASE-0036
+type: use-case
+language: zh
+locale: zh-CN
+author: Reflexivity Research
+published: 2026-09-15
+status: published
+translation_status: current
+original_language: en
+source_text_status: localized_from_en_canonical
+asset_class: Macro, Equities, Fixed Income, Cross-Asset
+roles: CIO, Macro PM, Multi-Asset PM, Strategist
+publication_mode: faithful-source-preserving
+-->
+
+# 检验市场叙事是否得到广泛硬数据支持
+
+<!-- locale-switcher:start -->
+**Languages:** [English](../../../../en/01-use-cases/03-asset-class/03-macro/market-narrative-vs-hard-data-breadth.md) · [日本語](../../../../ja/01-ユースケース/03-運用資産別/03-マクロ/market-narrative-vs-hard-data-breadth.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/03-매크로/market-narrative-vs-hard-data-breadth.md) · **简体中文** · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/03-總體/market-narrative-vs-hard-data-breadth.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/03-宏觀/market-narrative-vs-hard-data-breadth.md)
+<!-- locale-switcher:end -->
+
+[← 宏观使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
+
+**作者：** Reflexivity Research  
+**主要资产：** 宏观、股票、固定收益、跨资产  
+**适用用户：** CIO、宏观 PM、多资产 PM、策略师  
+**分析类型：** 叙事分析、跨资产分析、市场监测
+
+> 本页保留一份带明确日期的 Reflexivity 研究输出。目的不是依据 headline 接受市场叙事，而是展示如何用多组独立证据检验它。
+
+**[在 Reflexivity 中打开这个研究示例 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)**
+
+## 研究问题
+
+**“美国经济很强”这一叙事，是否得到广泛证据支持，还是主要由少数强势 headline 观察推动？**
+
+原研究把大约 60 天的宏观相关新闻、Fed 相关信息、预测市场定价、股票主题领导力和硬经济数据放进同一张证据表。
+
+## 结论
+
+原研究判断支持面**有限**。硬数据喜忧参半，预测市场更多反映通胀和额外紧缩风险，而不是清晰的增长故事；股票市场领导力也仍然集中。
+
+## 三个主要背离
+
+### 1. 就业：强 headline vs 较弱广度
+
+- 8 月非农：**162k**，市场预期 **56k**
+- ADP 私营就业：**38k**
+
+headline 看起来强劲，但更广泛的劳动力证据并没有同样支持这一信息。
+
+### 2. 政策前景：市场定价 vs 简单的通胀回落故事
+
+- 维持政策不变：**50.5%**
+- 加息 25 bp：**49.5%**
+- 降息：约 **0.5%**
+- 核心 PCE：**3.3%**
+
+如果主要叙事只是“强劲增长 + 顺畅的通胀回落”，市场可能会更强地定价宽松政策。但原研究发现，市场仍给额外紧缩分配了相当大的概率。
+
+### 3. 股票领导力：指数强势 vs 参与度狭窄
+
+- 1 个月最佳与最差主题收益率差：约 **48 个百分点**（+33.4% 至 -14.7%）
+- 研究集内有 **10 个主题**为负收益
+- S&P 500：**7,718.6**，接近 52 周高点 7,799
+
+指数接近高点，但内部主题表现高度分化。
+
+## 跨证据评分表
+
+| 证据类型 | 市场叙事 | 硬数据 / 市场检查 | 原研究判断 |
+|---|---|---|---|
+| 就业 | 非农 headline 强 | ADP 和更广指标偏弱 | 广度有限 |
+| Fed / 预测市场 | 宽松叙事 | 维持与加息几乎各半；核心 PCE 3.3% | 矛盾 |
+| 股票领导力 | 广泛上涨 | 48 个百分点分化；10 个主题下跌 | 广度有限 |
+| 新闻语调 | 经济强劲 | 通胀/加息风险 headline 明显更多 | 谨慎 |
+| 制造业 / 增长 | 扩张继续 | ISM 新订单 56.0 → 53.7；零售销售转弱 | 放缓 |
+| 年末增长状态 | 软着陆 | Soft Landing 55%；Overheating 42.5% | 观点仍分裂 |
+
+## 其他信号
+
+- 在 30 条宏观相关 headline 中，强调加息或通胀风险的新闻数量大约是强数据新闻的 **3.5 倍**。
+- ISM New Orders 从 **56.0 降至 53.7**。
+- 原研究引用的预测市场概率：Soft Landing **55%**，Overheating **42.5%**。
+- 首次申领失业救济 **206k**、失业率 **4.1%**，仍是支持经济韧性的证据。
+
+## 局限
+
+- 原研究无法获得该期间完整的 Fed 一手文件，因此部分使用经济日历和新闻材料作替代。
+- 股票主题名称被匿名化，因此市场广度通过收益率分散度衡量，而不是按命名行业分析。
+- 新闻语调是基于关键词的 headline 计数，并不是经过校准的 sentiment 模型。
+- 因数据覆盖限制，surprise 比较集中在最近可获得的发布数据。
+
+## 如何使用这套工作流
+
+关键纪律是：不要只从 newsflow 判断“市场叙事”。同一个问题应该与**宏观数据、利率、市场内部结构和预测市场定价**交叉核对。
+
+结果可能是确认、矛盾或仅有狭窄支持。目的不是把这些分歧压成一个故事，而是让它们保持可见。
+
+## 本使用案例说明了什么
+
+这个案例展示了如何在多个独立证据集之间衡量叙事广度，并识别 headline 很强、但市场内部或经济整体并未同样确认的环境。
+
+
+---
+
+[← 宏观使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)

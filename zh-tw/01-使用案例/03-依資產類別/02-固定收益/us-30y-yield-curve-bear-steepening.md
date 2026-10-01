@@ -1,0 +1,133 @@
+<!--
+id: RX-USECASE-0053
+type: use-case
+language: zh
+locale: zh-TW
+provider: QUICK Inc.
+provided: 2026-08-19
+status: published
+translation_status: current
+source_type: partner-provided-use-case
+asset_class: Fixed Income, Macro
+roles: Long-only Asset Manager, Hedge Fund Tier 1
+publication_mode: faithful-source-preserving
+-->
+
+# 從完整殖利率曲線解讀美國 30 年期收益率上升
+
+<!-- locale-switcher:start -->
+**Languages:** [English](../../../../en/01-use-cases/03-asset-class/02-fixed-income/us-30y-yield-curve-bear-steepening.md) · [日本語](../../../../ja/01-ユースケース/03-運用資産別/02-債券/us-30y-yield-curve-bear-steepening.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/02-채권/us-30y-yield-curve-bear-steepening.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/02-固定收益/us-30y-yield-curve-bear-steepening.md) · **繁體中文（台灣）** · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/02-固定收益/us-30y-yield-curve-bear-steepening.md)
+<!-- locale-switcher:end -->
+
+[← 固定收益使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
+**提供日期：** 2026-08-19  
+**主要資產：** 固定收益、總體  
+**適用使用者：** Long-only 資產管理人、對沖基金
+
+> 本案例保留原始問題、分析流程、證據與結論。數據與市場環境皆為提供日期時點的快照。
+
+> 美國 30 年期公債收益率正在上升。整體殖利率曲線正在如何改變？
+
+## 研究目的
+
+只看 30 年期收益率上升，無法判斷這是政策利率預期改變，還是長端特有因素所造成，例如財政風險、公債供給、通膨預期或 term premium。
+
+因此，分析先比較不同期限的收益率變化，確認**曲線的哪一段正在移動**，再看曲線形狀，最後與過去升息與降息 regime 比較，判斷目前走勢是否像傳統政策循環，或需要其他解釋。
+
+## 初步判讀：長端主導的賣壓
+
+原資料把最近一到三個月的短期比較描述為 **bear steepening**：長天期收益率上升幅度遠大於前端。
+
+- 30Y：**5.31%**，一個月 +25 bp
+- 20Y：**5.30%**，+23 bp
+- 10Y：**4.72%**，+17 bp
+- 2Y：**4.19%**，+1 bp
+- 3M：**3.87%**，+2 bp
+
+30Y-10Y 利差擴至約 **+0.59 個百分點**，整體曲線仍為正斜率，包括約 **+0.52 pp** 的 10Y-2Y 與 **+0.85 pp** 的 10Y-3M。
+
+原資料把長端壓力與財政赤字、債務供給、通膨及 term premium 疑慮連結，而不是政策控制較強的前端出現同幅度重新定價。
+
+## 各期限變化
+
+| 期限 | 目前收益率 | 1 個月變化 | 3 個月變化 |
+|---|---:|---:|---:|
+| 30Y | 5.31% | +25 bp | +17 bp |
+| 20Y | 5.30% | +23 bp | +16 bp |
+| 10Y | 4.72% | +17 bp | +11 bp |
+| 7Y | 4.54% | +14 bp | +11 bp |
+| 5Y | 4.38% | +10 bp | +11 bp |
+| 3Y | 4.25% | +4 bp | +11 bp |
+| 2Y | 4.19% | +1 bp | +12 bp |
+| 1Y | 4.00% | -1 bp | +19 bp |
+| 6M | 3.95% | -1 bp | +18 bp |
+| 3M | 3.87% | +2 bp | +19 bp |
+
+原資料以 **2026-08-17** 為參考日，使用 FRED 每日 constant-maturity 美國公債收益率。非營業日以最近前一個營業日數值填補，三個月比較則使用約 91 天前最接近的營業日。
+
+![美國公債各天期殖利率變化](../../../../assets/usecases/quick/RX-USECASE-0053/01-maturity-yield-changes.webp)
+
+![目前與三個月前的美國公債殖利率曲線](../../../../assets/usecases/quick/RX-USECASE-0053/02-yield-curve-current-vs-3m.webp)
+
+## 為什麼接著要與歷史政策 regime 比較？
+
+確認目前是長端主導後，下一個問題是：這種模式在升息或降息循環中是否正常？如果不正常，就需要把研究從政策利率延伸到財政、供給、通膨與 term premium。
+
+因此，原資料加入第二個問題：**目前曲線行為與過去升息、降息階段相比如何？**
+
+## 歷史政策 regime 比較
+
+原資料概括常見模式：
+
+- **升息循環：** 前端跟著政策利率上升，通常造成曲線趨平，甚至倒掛。
+- **降息循環：** 前端快速下降，常形成 bull steepening。
+
+原資料認為 2026 年這一段不同，因為有效聯邦基金利率大致維持在 **3.63%** 附近，但長端收益率上升。
+
+| Regime | 政策方向 | Fed funds 起點 → 終點 | 2s10s 變化 | 30Y 變化 | 原資料曲線標籤 |
+|---|---|---|---:|---:|---|
+| 2026 當前 | 維持 | 3.64% → 3.63% | -18 bp | +47 bp | Bear flattening |
+| 2024–25 | 降息 | 5.13% → 3.72% | +71 bp | +64 bp | Bear steepening |
+| 2022–23 | 升息 | 0.20% → 5.12% | -132 bp | +191 bp | Bear flattening |
+| 2019 | 降息 | 2.13% → 0.65% | +30 bp | -109 bp | Bull steepening |
+| 2015–18 | 升息 | 0.24% → 2.27% | -103 bp | +11 bp | Bear flattening |
+| 2007–08 | 降息 | 4.94% → 0.16% | +110 bp | -214 bp | Bull steepening |
+| 2004–06 | 升息 | 1.03% → 4.99% | -212 bp | -29 bp | Bull flattening |
+
+![歷史政策階段的 2s10s 利差與 Fed Funds](../../../../assets/usecases/quick/RX-USECASE-0053/03-2s10s-fed-funds-history.webp)
+
+## 為什麼 bear steepening 與 bear flattening 可以同時出現
+
+這兩個標籤指的是**不同時間窗口與不同曲線衡量方式**。
+
+前半部看最近一到三個月、整條期限曲線的變化，尤其是超長端上升幅度更大；後半部則以較長政策 regime 的 2s10s 利差做比較。因此，同一市場可以在某個局部區段 / 短視窗看起來是 bear steepener，卻在另一個期間與曲線定義下是 bear flattener。
+
+這個區分很重要，否則兩種描述看起來會互相矛盾，實際上只是衡量不同的東西。
+
+## 如何解讀結果
+
+目的不是把 30 年期收益率當成孤立數字，而是依序問：
+
+**哪些期限移動？ → 曲線形狀如何改變？ → 是否符合當前政策利率 regime？ → 如果不符合，下一步該調查哪些非政策變數？**
+
+當政策利率穩定、長端卻持續上升時，下一步應檢查財政政策、公債供給、通膨預期與 term premium。
+
+## 限制與資料基礎
+
+- 美國公債收益率為 constant-maturity 年化收益率；利差使用一致的收益率差。
+- 變化以每日收盤計算，未捕捉盤中變動。
+- 歷史 regime 邊界是依 fed-funds 資料定義的代表性期間，精確日期改變會影響結果。
+- 原研究引用 FRED 的 FEDFUNDS、DGS2、DGS10、DGS30、T10Y2Y、T10Y3M 與其他公債期限序列，並搭配相關新聞與 catalyst 資料。
+
+## 本使用案例說明了什麼
+
+這個案例展示如何把單一期限的 headline 變動擴展為完整曲線分析、區分測量窗口，再用歷史政策 regime 判斷什麼時候應該更關注財政、供給或 term premium 因素。
+
+---
+
+本內容由 QUICK 提供。
+
+依國家或地區、語言環境、使用產品、權限與資料涵蓋範圍不同，可能無法完全依照本文方式重現本案例。
+
+[← 固定收益使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

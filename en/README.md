@@ -8,12 +8,10 @@ This English repository is the canonical source for the Reflexivity public knowl
 
 _Product materials will be added here._
 
-## Documentation
 
-[Browse the Reflexivity developer and AI connection documentation →](documentation/README.md)
 ## Use Cases
 
-[Browse Reflexivity use cases →](use-cases/README.md)
+[Browse Reflexivity use cases →](01-use-cases/README.md)
 
 The library includes the original 28 dated proof examples across wealth management, hedge funds, and long-only asset management, plus additional reviewed research and partner-provided use cases as they are canonicalized. Use cases can be explored by persona, insight type, or asset class where available.
 
