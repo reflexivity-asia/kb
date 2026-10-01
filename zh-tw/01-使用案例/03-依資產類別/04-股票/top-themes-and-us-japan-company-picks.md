@@ -1,0 +1,139 @@
+<!--
+id: RX-USECASE-0047
+type: use-case
+language: zh
+locale: zh-TW
+provider: QUICK Inc.
+provided: 2025-12-26
+status: published
+translation_status: current
+source_type: partner-provided-use-case
+asset_class: Equities
+roles: Long-only Asset Manager, Hedge Fund Tier 2, Hedge Fund Tier 3
+publication_mode: faithful-source-preserving
+-->
+
+# 將強勢主題轉成美國與日本公司研究候選
+
+<!-- locale-switcher:start -->
+**Languages:** [English](../../../../en/02-use-cases/03-asset-class/04-equities/top-themes-and-us-japan-company-picks.md) · [日本語](../../../../ja/02-ユースケース/03-運用資産別/04-株式/top-themes-and-us-japan-company-picks.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/top-themes-and-us-japan-company-picks.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/top-themes-and-us-japan-company-picks.md) · **繁體中文（台灣）** · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/top-themes-and-us-japan-company-picks.md)
+<!-- locale-switcher:end -->
+
+[← 股票使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
+**提供日期：** 2025-12-26  
+**主要資產：** 股票  
+**適用使用者：** Long-only 資產管理人、對沖基金
+
+> 本案例保留原始問題、候選名單與篩選邏輯。這份名單是建立**研究 universe 的起點，不是投資推薦名單**。
+
+![所選主題與相關美國、日本公司](../../../../assets/usecases/quick/RX-USECASE-0047/source-visuals.webp)
+
+## 何時適合使用這個工作流程
+
+主題排行榜可以告訴投資人哪些領域表現強，但不會直接告訴你哪些公司值得進一步研究。
+
+原資料先從一個月表現最強的美國股票主題出發，再請 Alfred 找出相關的美國與日本組織。目的不是選出最終投資標的，而是建立一個**研究候選集合**。
+
+工作流程是：
+
+**強勢主題 → 相關公司候選 → 可投資性／財務條件篩選 → 深入公司研究。**
+
+原始 prompt 並未限制只列上市公司，也尚未套用財務品質篩選，因此像 JAXA 這類非上市機構也出現在原資料結果中。
+
+## 原始研究問題
+
+> 對 gene editing、satellite technology、space exploration、copper mining、gold production 這些主題，每個類別各列出三個相關的美國與日本組織。
+
+## 候選 universe
+
+### Gene editing
+
+**美國**
+- CRISPR Therapeutics — 使用 CRISPR-Cas9 的基因編輯治療
+- Intellia Therapeutics — CRISPR-based genome-editing medicines
+- Editas Medicine — 遺傳疾病的 gene-editing therapies
+
+**日本**
+- Takara Bio — 基因導入與分析技術、基因／再生醫療研究
+- SanBio — 再生醫療產品開發
+- Gene Techno Science — 原資料中涉及 gene-therapy development 與製造相關活動
+
+### Satellite technology
+
+**美國**
+- Maxar Technologies — Earth-observation imagery 與 geospatial services
+- Planet Labs — 小型衛星 constellation 與高頻率 Earth imaging
+- SpaceX — Starlink 衛星網路
+
+**日本**
+- Mitsubishi Electric — satellite bus 與 onboard equipment
+- NEC — 衛星通訊、地面系統與 onboard equipment
+- Canon Electronics — 小型衛星開發與製造
+
+### Space exploration
+
+**美國**
+- SpaceX — 可重複使用發射系統與太空運輸
+- Blue Origin — launch vehicles 與太空基礎設施
+- Lockheed Martin — 探索任務用 spacecraft 與系統
+
+**日本**
+- Mitsubishi Heavy Industries — 發射系統與 launch services
+- JAXA — 公共太空機構；因原始問題並未限定上市公司，因此被列入
+- IHI — rocket-engine 與太空開發曝險
+
+### Copper mining
+
+**原資料中的美國／北美導向候選**
+- Freeport-McMoRan
+- Southern Copper
+- Kennecott / Rio Tinto
+
+**日本**
+- Sumitomo Metal Mining
+- Mitsui Mining & Smelting
+- JX Advanced Metals
+
+日本候選通常不是依靠大型國內銅礦，而是透過海外資源開發、冶煉或相關材料事業取得曝險。
+
+### Gold production
+
+**原資料中的美國／北美導向候選**
+- Barrick Gold
+- Newmont
+- Kinross Gold
+
+**日本**
+- Sumitomo Metal Mining
+- TANAKA Precious Metals
+- Mitsubishi Materials
+
+原資料指出，日本的大型國內黃金或銅礦相對少，因此很多日本候選是透過海外開發、精煉、回收或貴金屬加工取得相關曝險。
+
+## 下一步應該檢查什麼
+
+這份候選清單只回答「哪些組織與主題相關？」原資料也明確指出，這一輪還沒有把範圍限制在上市公司，也沒有評估財務品質。
+
+實務上的下一階段可以再加入：
+
+- 僅上市公司；
+- 實際有多少營收或獲利暴露於該主題；
+- 市值與流動性；
+- 資產負債表品質與盈餘展望；
+- 評價；
+- 目標市場或地理區域。
+
+這樣可以避免把「強勢主題」直接轉換成「買進名單」。主題先擴大搜尋空間，再由投資限制與基本面條件把候選範圍縮小。
+
+## 本使用案例說明了什麼
+
+這個工作流程從市場領導主題出發，建立跨市場的研究 universe。它適合用來發現較不直觀的公司候選，再進一步套用可投資性、基本面與評價條件。
+
+---
+
+本內容由 QUICK 提供。
+
+依國家或地區、語言環境、使用產品、權限與資料涵蓋範圍不同，可能無法完全依照本文方式重現本案例。
+
+[← 股票使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

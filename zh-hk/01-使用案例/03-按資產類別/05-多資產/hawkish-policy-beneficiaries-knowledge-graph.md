@@ -1,0 +1,97 @@
+<!--
+id: RX-USECASE-0034
+type: use-case
+language: zh
+locale: zh-HK
+author: Reflexivity Research
+published: 2026-09-15
+status: published
+translation_status: current
+original_language: en
+source_text_status: localized_from_en_canonical
+publication_mode: faithful-source-preserving
+-->
+
+# 由宏觀渠道追蹤偏鷹政策下值得進一步研究的公司
+
+<!-- locale-switcher:start -->
+**Languages:** [English](../../../../en/02-use-cases/03-asset-class/05-multi-asset/hawkish-policy-beneficiaries-knowledge-graph.md) · [日本語](../../../../ja/02-ユースケース/03-運用資産別/05-マルチアセット/hawkish-policy-beneficiaries-knowledge-graph.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/05-멀티에셋/hawkish-policy-beneficiaries-knowledge-graph.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/05-多资产/hawkish-policy-beneficiaries-knowledge-graph.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/05-多資產/hawkish-policy-beneficiaries-knowledge-graph.md) · **繁體中文（香港）**
+<!-- locale-switcher:end -->
+
+[← 多資產使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
+**作者：** Reflexivity Research  
+**主要資產：** 股票、固定收益、FX、跨資產  
+**適用使用者：** Macro PM、Multi-Asset PM、Equity PM  
+**分析類型：** Knowledge Graph、主題分析、research-universe 建構
+
+> 本頁保留實際 Reflexivity 研究的結構及限制。Graph 上的連結並不代表直接盈利敏感度；重點是展示如何把宏觀觀點轉成可進一步研究的資產、行業及公司 universe。
+
+**[在 Reflexivity 中開啟這個研究示例 →](https://app.reflexivity.com/app/alfred?conversationId=9e6182f9-1853-4fdd-8ec4-f5b2a42fcfab&mode=research&activeHistorySidebarCategory=all)**
+
+## 研究問題
+
+研究沒有停在「偏鷹政策＝較高利率」，而是把觀點拆成三層：
+
+1. **第一層宏觀傳導渠道**
+2. **第二層行業**
+3. **第三層具名公司**
+
+目標是利用 Knowledge Graph，把政策論點轉成下一步值得查證的具體研究對象。
+
+## 第一層：傳導渠道
+
+來源把主要渠道分成三個主題：
+
+1. **Higher-for-longer yields**
+2. **能源 / 通脹**
+3. **地緣政治相關開支**
+
+## 第二層：行業
+
+- Higher-for-longer → 銀行及 diversified financials、保險、資產及 money manager
+- 能源 / 通脹 → 能源生產商
+- 地緣政治開支 → 航空航天及防務
+
+利率渠道帶出的候選最多，因為較高孳息率可影響銀行淨息差、保險公司的再投資收益、貨幣市場 economics 及現金收益。
+
+## 第三層：公司
+
+來源中 Knowledge Graph 排名較高的例子包括：
+
+- **金融：** CBOE、Charles Schwab、Morgan Stanley
+- **保險：** Chubb、Progressive、Swiss Re
+- **資產管理：** BlackRock、Franklin Resources、Invesco
+- **能源：** ConocoPhillips、SLB、Saudi Arabian Oil
+- **防務：** Lockheed Martin、Northrop Grumman、RTX
+
+來源亦在 consumer lending、utilities、commercial real estate、homebuilding、automakers、credit / lending 等領域找出其他候選。
+
+## 如何閱讀 Graph
+
+Graph 或 Sankey 的 link width **不是**現金流、盈利敏感度或預期回報的直接量度。
+
+在來源中，它只是解釋性 proxy：
+
+- Root → channel：該渠道與多少行業相連；
+- Sector → company：Knowledge Graph exposure rank。
+
+因此，Graph 上較顯眼的公司可以提示「下一步查甚麼」，但不能證明公司在經濟上一定受惠。
+
+## 分析限制
+
+- 第一／第二／第三層 hierarchy 是分析員 framing；Knowledge Graph 本身不證明因果；
+- Graph link 不直接量度公司盈利敏感度；
+- Higher-for-longer 可支持金融業 margin，但亦可能惡化信貸質素或貸款需求；
+- 同一行業內不同公司的實際敏感度可以差很遠。
+
+因此，輸出停在**research universe**，不是推薦清單。仍需檢查公司基本面、資產負債表 exposure、valuation 及 scenario sensitivity。
+
+## 本使用案例說明了甚麼
+
+這套流程展示如何把宏觀政策觀點拆成傳導渠道、行業及具名公司，再把候選交給更深入的基本面研究。
+
+
+---
+
+[← 多資產使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

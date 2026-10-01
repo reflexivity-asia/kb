@@ -1,0 +1,131 @@
+<!--
+id: RX-USECASE-0056
+type: use-case
+language: zh
+locale: zh-TW
+provider: QUICK Inc.
+provided: 2026-08-18
+status: published
+translation_status: current
+source_type: partner-provided-use-case
+asset_class: Equities
+roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 2, Hedge Fund Tier 3
+publication_mode: faithful-source-preserving
+-->
+
+# 圍繞美國零售業財報週建立研究工作流程
+
+<!-- locale-switcher:start -->
+**Languages:** [English](../../../../en/02-use-cases/03-asset-class/04-equities/us-retail-earnings-calendar-workflow.md) · [日本語](../../../../ja/02-ユースケース/03-運用資産別/04-株式/us-retail-earnings-calendar-workflow.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/us-retail-earnings-calendar-workflow.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/us-retail-earnings-calendar-workflow.md) · **繁體中文（台灣）** · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/us-retail-earnings-calendar-workflow.md)
+<!-- locale-switcher:end -->
+
+[← 股票使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
+**提供日期：** 2026-08-18  
+**主要資產：** 股票  
+**適用使用者：** 財富管理 / RIA、Long-only 資產管理人、對沖基金
+
+> 本案例保留原始工作流程與解讀。以下事件時間與公司日程均為原資料日期的快照。
+
+## 何時適合使用這個工作流程
+
+財報日曆可以只用來確認公司何時公布業績。但當多家大型零售商在幾天內密集公布財報時，這個群組也可以提供對**美國消費支出方向**的早期觀察。
+
+工作流程是：
+
+**財報日曆 → 財報前問題 → 實際結果／管理層評論 → 零售商之間的共同模式 → 總體與市場情緒含意。**
+
+先從 event screen 出發，用 preview 定義公布前真正重要的問題；公布後再用 review 比較結果，最後判斷多家零售商是否同時描述相同的消費行為變化。
+
+## 零售業財報日曆
+
+原資料列出該週以下日本時間事件：
+
+- Home Depot — 8 月 18 日 19:00 JST
+- Target — 8 月 19 日 19:30 JST
+- Walmart — 8 月 20 日 20:02 JST
+- Ross — 8 月 21 日 05:00 JST
+
+平台工作流程可從 **Events** 畫面查看每天有哪些公司公布財報。
+
+## 公布前後要改變問題
+
+### 財報前
+
+使用 earnings preview 找出：
+
+- 市場共識預期；
+- 重要 KPI；
+- 先前 guidance；
+- 最可能造成 surprise 的議題。
+
+### 財報後
+
+使用 earnings review 比較：
+
+- 實際結果與預期；
+- guidance 變化；
+- 管理層評論；
+- 市場即時反應。
+
+把事件前預期與事件後證據分開，有助回答**哪些內容市場本來就預期、哪些才是真正的新資訊**，而不是只把結果標成「好」或「壞」。
+
+## 下一個問題：零售財報能否提供更廣泛的市場訊號？
+
+QUICK 原資料接著請 Alfred 判斷，美國零售業財報是否能成為經濟情緒的觀察窗口，並影響更廣泛的股票市場。
+
+從單一公司日曆延伸到這個問題，是為了把**公司特有執行狀況**與更廣泛的家庭消費行為變化分開。
+
+## 為什麼把零售財報視為總體訊號
+
+### 消費支出是美國經濟的重要部分
+
+零售銷售、客流、平均客單價與管理層評論都能提供較即時的家庭需求資訊。原資料指出，這些公司層級觀察可以補充官方零售銷售數據。
+
+### 管理層評論增加行為細節
+
+對 trade-down、非必需品 vs 必需品、促銷、庫存與 guidance 的評論，可以揭露 headline revenue 看不到的變化。
+
+### 多家零售商可以形成跨公司訊號
+
+單一公司的弱勢可能來自庫存管理、商品組合或其他公司特有問題。如果多家零售商都回報客流下降、轉向較低價商品，或給出更保守展望，那麼「更廣泛消費趨勢」的證據就會更強。
+
+## 潛在市場傳導
+
+- **強勁財報與 guidance：** 可能強化「消費者仍具韌性」的解讀，並支持風險偏好。
+- **疲弱財報與保守 guidance：** 可能加深對消費放緩的擔憂，對 cyclical 曝險形成壓力。
+
+原資料也提醒，更廣泛的股票市場反應仍取決於貨幣政策、通膨、就業、地緣政治風險與其他總體因素。
+
+## 如何使用這個工作流程
+
+在零售財報週，可把公司並列比較：
+
+- sales；
+- traffic；
+- average ticket；
+- inventories；
+- promotions / discounting；
+- guidance；
+- 管理層如何描述消費者。
+
+目的不是只看個別股票反應，而是建立跨公司消費觀點，同時保留公司特有解釋。
+
+## 本使用案例說明了什麼
+
+這個例子把 event calendar 連到事件前準備、事件後檢討、跨公司模式辨識，最後再延伸到更廣泛的消費與市場情緒問題。
+
+---
+
+
+
+
+
+
+
+
+本內容由 QUICK 提供。
+
+依國家或地區、語言環境、使用產品、權限與資料涵蓋範圍不同，可能無法完全依照本文方式重現本案例。
+
+[← 股票使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
