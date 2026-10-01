@@ -9,4 +9,4 @@ Choose a language:
 - [繁體中文（台灣）](zh-tw/README.md)
 - [繁體中文（香港）](zh-hk/README.md)
 
-For general questions or more information, contact **gtm@reflexivity.com**.
+For general questions or more information, contact **jim@reflexivity.com**.
