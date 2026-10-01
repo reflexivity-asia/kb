@@ -1,0 +1,134 @@
+<!--
+id: RX-USECASE-0038
+type: use-case
+language: zh
+locale: zh-TW
+provider: QUICK Inc.
+source_created: 2026-05-15
+provided: 2026-05-15
+status: published
+translation_status: current
+source_type: partner-provided-use-case
+asset_class: Equities, Multi-Asset
+publication_mode: faithful-source-preserving
+-->
+
+# 比較美國與日本股市的領先主題
+
+<!-- locale-switcher:start -->
+**Languages:** [English](../../../../en/use-cases/asset-class/equities/us-japan-market-leading-themes.md) · [日本語](../../../../ja/ユースケース/運用資産別/株式/us-japan-market-leading-themes.md) · [한국어](../../../../ko/유스케이스/운용자산별/주식/us-japan-market-leading-themes.md) · [简体中文](../../../../zh-cn/使用案例/按资产类别/股票/us-japan-market-leading-themes.md) · **繁體中文（台灣）** · [繁體中文（香港）](../../../../zh-hk/使用案例/按資產類別/股票/us-japan-market-leading-themes.md)
+<!-- locale-switcher:end -->
+
+[← 股票使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
+**提供日期：** 2026-05-15  
+**主要資產：** 股票、多資產
+
+> 本案例保留原始問題、證據、分析順序與限制。數字與市場環境均為原資料期間的歷史快照。
+
+> 美國股市領先公司的主題，與日本股市領先公司的主題是否相似？如果不同，差異在哪裡？請分析過去三個月的表現。
+
+## 研究設計
+
+原資料比較約 **2026 年 2 月 14 日至 5 月 14 日**，先把美國與日本市場領先股放在同一個績效框架中。
+
+原資料的參考基準：
+
+- S&P 500：**+8.2%**
+- Nikkei 225：**+11.4%**
+- USD/JPY：**+2.8%**，表示期間內日圓貶值
+
+分析順序很重要：先用一致框架找出市場領先者與報酬驅動因素，再判斷兩個市場是否由相同主題帶動；如果主題相同，進一步確認真正領先的是不是同一段價值鏈。
+
+![美國與日本股市的領先主題](../../../../assets/usecases/quick/RX-USECASE-0038/email-02.webp)
+
+## 主題比較
+
+| 主題 | 美國代表性曝險 | 原資料美國報酬 | 日本代表性曝險 | 原資料日本報酬 | 原資料判讀 |
+|---|---|---:|---|---:|---|
+| AI 晶片 / 加速運算 | AMD、NVIDIA、Broadcom | +55.6% | SoftBank、Renesas | +25.5% | 高度相似 |
+| 半導體設備 | SMH / AMAT / LRCX / KLA | +40.5% | Tokyo Electron、Disco、Advantest | +9.8% | 高度相似 |
+| Cloud / AI 平台 | Amazon、Alphabet、Microsoft | +23.2% | 原資料中無直接對應 | N/A | 相似度低 |
+| 工業自動化 / 機器人 | Rockwell Automation、Cognex | +14.3% | Keyence、Yaskawa、Fanuc、Mitsubishi Electric | +25.0% | 主題相似，日本表現較強 |
+| AI 投資 / venture 曝險 | 內含於 Big Tech R&D | - | SoftBank Group | +28.2% | 市場表現形式不同 |
+| 汽車 / mobility | XLY proxy | +2.3% | Toyota | -19.8% | 表現相反 |
+| 金融 / 銀行 | XLF | -2.3% | MUFG、SMFG | +0.2% | 整體皆偏落後 |
+| 醫療 | XLV | -6.8% | 原資料中無主要指數領先股 | N/A | 不對稱 |
+
+## 主要公司觀察
+
+### 美國
+
+| 公司 / ETF | 3 個月報酬 | 主要原資料主題 |
+|---|---:|---|
+| AMD | +119.4% | AI 晶片、加速運算、資料中心 |
+| Amazon | +34.3% | Cloud、AI、電商 |
+| Alphabet | +33.3% | Cloud、搜尋、AI |
+| Broadcom | +25.3% | AI 晶片、半導體、網路 |
+| NVIDIA | +22.1% | AI GPU、加速運算、資料中心 |
+| SMH | +40.5% | 半導體 / AI 基礎建設 |
+| XLK | +26.8% | 科技 |
+
+### 日本
+
+| 公司 | 3 個月報酬 | 主要原資料主題 |
+|---|---:|---|
+| Keyence | +36.6% | 工業自動化、感測器 |
+| Yaskawa Electric | +28.8% | 自動化、機器人 |
+| SoftBank Group | +28.2% | AI 投資、晶片、機器人 |
+| Tokyo Electron | +24.1% | 半導體設備、AI 基礎建設 |
+| Renesas Electronics | +22.8% | 半導體、汽車、IoT |
+| Fanuc | +15.5% | 自動化、機器人、工業機械 |
+| Toyota | -19.8% | 汽車 / mobility |
+
+## 哪些部分相似
+
+### AI 與半導體都是共同領先主題
+
+原資料中最明顯的共同點是 AI 需求鏈。美國領先股更集中在晶片設計、Cloud 平台與資料中心變現；日本則更多透過半導體設備、硬體、投資曝險與自動化參與。
+
+### 半導體設備連結兩個市場
+
+原資料指出，美國可透過 SMH 看見強勁的半導體設備曝險，日本則由 Tokyo Electron 等公司代表。主題在兩個市場都存在，但報酬幅度差異明顯。
+
+## 哪些部分不同
+
+### 工業自動化在日本領先股中更重要
+
+Keyence、Yaskawa、Fanuc、Mitsubishi Electric 等公司在原資料的日本自動化籃子中占有重要位置。美國同類公司也上漲，但這個主題在美國廣泛指數層面的主導性較低。
+
+### Cloud / 數位平台主要是美國市場的表現形式
+
+原資料把 Amazon、Alphabet、Microsoft 視為大型全球 Cloud / AI 平台公司，在日本沒有同等規模與相同商業模式的直接對應。SoftBank 在原資料中的角色不同，偏向投資與 AI 曝險，而不是直接 Cloud 平台變現。
+
+### 汽車與全球製造業曝險出現分化
+
+Toyota 在原資料期間明顯落後。QUICK 的原始分析將部分弱勢歸因於關稅／成本壓力及中國 EV 競爭加劇，同時指出全球曝險較高的日本製造業可能更直接受到貿易、FX 與海外競爭環境影響。這些都是原資料期間的歸因，不是對該產業目前狀態的一般性結論。
+
+## 綜合判讀
+
+AI / 半導體的大方向在兩個市場都成立，但**真正捕捉報酬的經濟層不同**：
+
+- 美國領先：軟體、Cloud 平台、晶片設計、直接 AI 變現；
+- 日本領先：設備、感測器、工業自動化、硬體支援型企業。
+
+因此，原資料同時指出高層次主題的「共振」，以及價值鏈在公開市場代表方式上的結構性差異。
+
+## 限制
+
+- 日本股票報酬以 JPY 計算；原資料指出 USD/JPY 上升 2.8%，因此美元基礎報酬會不同。
+- 產業／主題分類採代表性公司，而不是正式 TOPIX 產業指數。
+- 部分公司層級因果解釋依賴原資料中的新聞與可得資料，而不是完整盈餘拆解。
+- 原資料也指出，部分日本自動化股的上漲可能反映未來 AI／景氣復甦預期，而非當期獲利強度。
+
+## 本使用案例說明了什麼
+
+這個工作流程在主題層級比較兩個股票市場，但不預設相同 headline 主題就代表相同的可投資曝險。分析從一致化績效開始，延伸到共同主題、價值鏈差異、公司層級證據，以及下一步基本面研究問題。
+
+---
+
+本內容由 QUICK 提供。
+
+依國家或地區、語言環境、使用產品、權限與資料涵蓋範圍不同，可能無法完全依照本文方式重現本案例。
+
+[← 股票使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

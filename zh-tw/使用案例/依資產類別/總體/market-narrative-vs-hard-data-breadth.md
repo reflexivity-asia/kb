@@ -1,0 +1,108 @@
+<!--
+id: RX-USECASE-0036
+type: use-case
+language: zh
+locale: zh-TW
+author: Reflexivity Research
+published: 2026-09-15
+status: published
+translation_status: current
+original_language: en
+source_text_status: canonicalized_from_platform_research_with_reviewed_editorial_clarification
+asset_class: Macro, Equities, Fixed Income, Cross-Asset
+roles: CIO, Macro PM, Multi-Asset PM, Strategist
+publication_mode: faithful-source-preserving
+-->
+
+# 檢驗市場敘事是否獲得廣泛硬數據支持
+
+<!-- locale-switcher:start -->
+**Languages:** [English](../../../../en/use-cases/asset-class/macro/market-narrative-vs-hard-data-breadth.md) · [日本語](../../../../ja/ユースケース/運用資産別/マクロ/market-narrative-vs-hard-data-breadth.md) · [한국어](../../../../ko/유스케이스/운용자산별/매크로/market-narrative-vs-hard-data-breadth.md) · [简体中文](../../../../zh-cn/使用案例/按资产类别/宏观/market-narrative-vs-hard-data-breadth.md) · **繁體中文（台灣）** · [繁體中文（香港）](../../../../zh-hk/使用案例/按資產類別/宏觀/market-narrative-vs-hard-data-breadth.md)
+<!-- locale-switcher:end -->
+
+[← 總體使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
+**作者：** Reflexivity Research  
+**主要資產：** 總體、股票、固定收益、跨資產  
+**適用使用者：** CIO、Macro PM、多資產 PM、策略師  
+**分析類型：** 敘事分析、跨資產分析、市場監控
+
+> 本頁保留一份有明確日期的 Reflexivity 研究輸出。目的在展示如何用多組獨立證據檢驗市場敘事，而不是只因 headline 很強就接受它。
+
+**[在 Reflexivity 中開啟這個研究範例 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)**
+
+## 研究問題
+
+**「美國經濟強勁」這個敘事是否獲得廣泛證據支持，還是主要由少數強勁 headline 撐起來？**
+
+原資料把約 60 天的總體新聞、Fed 相關資訊、預測市場定價、股票主題領導力與硬經濟數據整合在同一張證據表中。
+
+## 原始研究結論
+
+原資料認為支持這個敘事的廣度**有限**。硬數據互有矛盾，預測市場反映通膨與進一步緊縮風險，而不是乾淨的成長故事；股票市場領導力也仍高度集中。
+
+## 三個主要分歧
+
+### 1. 就業：headline 強勁 vs 廣度
+
+- 8 月非農就業：**162k**，市場預期 **56k**
+- ADP 私人就業：**38k**
+
+headline 看起來很強，但更廣泛的勞動市場證據沒有同樣一致地支持這個訊息。
+
+### 2. 政策展望：市場定價 vs 簡單的通膨降溫敘事
+
+- 政策維持不變：**50.5%**
+- 升息 25 bp：**49.5%**
+- 降息：約 **0.5%**
+- Core PCE：**3.3%**
+
+如果主導敘事真的是「強勁成長加上乾淨的通膨降溫」，理論上更寬鬆政策的定價可能會上升。但原資料發現，市場仍對進一步緊縮給予相當高的機率。
+
+### 3. 股票領導力：指數強勢 vs 參與狹窄
+
+- 一個月內最佳與最差主題的報酬差：約 **48 個百分點**（+33.4% 至 -14.7%）
+- 研究集合中有 **10 個主題**為負報酬
+- S&P 500：**7,718.6**，接近 52 週高點 7,799
+
+指數接近高點，但內部主題績效仍高度分散。
+
+## 跨證據評分表
+
+| 證據類型 | 市場敘事 | 硬數據 / 市場檢查 | 原資料評估 |
+|---|---|---|---|
+| 就業 | 非農 headline 強 | ADP 與更廣泛指標較弱 | 廣度有限 |
+| Fed / 預測市場 | 寬鬆敘事 | 維持與升息幾乎各半；Core PCE 3.3% | 矛盾 |
+| 股票領導力 | 廣泛上漲 | 48 點分散；10 個主題為負 | 廣度有限 |
+| 新聞語氣 | 經濟強勁 | 通膨 / 升息風險 headline 明顯更多 | 謹慎 |
+| 製造 / 成長 | 持續擴張 | ISM New Orders 56.0 → 53.7；零售銷售較弱 | 放慢 |
+| 年底成長 regime | 軟著陸 | 軟著陸 55%；過熱 42.5% | 觀點仍分歧 |
+
+## 其他訊號
+
+- 在 30 則總體 headline 中，強調升息或通膨風險的新聞，約為強勁數據 headline 的 **3.5 倍**。
+- ISM New Orders 從 **56.0 降至 53.7**。
+- 原資料引用的預測市場機率：Soft Landing **55%**、Overheating **42.5%**。
+- 初領失業救濟 **206k**、失業率 **4.1%**，仍是支持經濟韌性的證據。
+
+## 限制
+
+- 原資料無法取得該期間完整的一手 Fed 文件，因此部分使用經濟日曆與新聞作為代理。
+- 股票主題名稱經匿名化，因此廣度透過報酬分散度衡量，而不是以具名產業衡量。
+- 新聞語氣計數是依 headline 關鍵字，而不是經校準的情緒模型。
+- 因資料覆蓋限制，surprise 比較集中在最近可取得的發布數據。
+
+## 如何使用這個工作流程
+
+核心紀律是不要只靠 newsflow 判斷「市場敘事」。同一問題應同時用**總體數據、利率、市場內部結構與預測市場定價**檢查。
+
+結果可能是確認、矛盾，或只有狹窄支持。目標是把這些分歧直接呈現出來，而不是壓成單一故事。
+
+## 本使用案例說明了什麼
+
+這個例子展示如何跨獨立證據集合衡量敘事廣度，並找出 headline 環境看起來強勢、但市場與經濟證據沒有同樣廣泛確認的情況。
+
+
+---
+
+[← 總體使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

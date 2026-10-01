@@ -1,0 +1,108 @@
+<!--
+id: RX-USECASE-0037
+type: use-case
+language: zh
+locale: zh-CN
+author: Reflexivity Research
+status: published
+translation_status: current
+original_language: en
+source_text_status: localized_from_en_canonical
+asset_class: FX (EUR/USD)
+roles: FX PM, Quant, Systematic Investor
+publication_mode: faithful-source-preserving
+-->
+
+# 用多组参数和样本外测试检验 EUR/USD RSI 策略
+
+<!-- locale-switcher:start -->
+**Languages:** [English](../../../../en/use-cases/asset-class/FX/eurusd-rsi-walk-forward-backtest.md) · [日本語](../../../../ja/ユースケース/運用資産別/FX/eurusd-rsi-walk-forward-backtest.md) · [한국어](../../../../ko/유스케이스/운용자산별/FX/eurusd-rsi-walk-forward-backtest.md) · **简体中文** · [繁體中文（台灣）](../../../../zh-tw/使用案例/依資產類別/FX/eurusd-rsi-walk-forward-backtest.md) · [繁體中文（香港）](../../../../zh-hk/使用案例/按資產類別/FX/eurusd-rsi-walk-forward-backtest.md)
+<!-- locale-switcher:end -->
+
+[← FX 使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
+
+**作者：** Reflexivity Research  
+**主要资产：** FX（EUR/USD）  
+**适用用户：** FX PM、量化研究员、系统化投资者  
+**分析类型：** 回测、walk-forward 分析、稳健性检验
+
+> 本案例保留底层 Reflexivity 研究和经日文版审阅确认的推理衔接。数字和市场环境均为原研究时点的历史快照，不构成当前投资建议。
+
+**[在 Reflexivity 中打开这个研究示例 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)**
+
+## 研究目标
+
+如果在看过历史数据之后才挑选某个 RSI 周期或阈值，策略很容易显得格外漂亮。因此，一个“最佳参数”并不能说明策略具备可重复的优势，也可能只是对样本过拟合。
+
+研究先在相同假设下比较多种回看周期、阈值和交易规则，观察小幅调整参数后表现是否仍然成立；再把样本拆成校准期和样本外期，检验第一阶段表现最好的组合在第二阶段是否仍然有效。
+
+因此，目标不是寻找最漂亮的回测，而是测量**参数敏感度、稳健性以及过拟合程度**。
+
+## 回测设计
+
+研究在 EUR/USD 现货上测试两年的 RSI 均值回归策略，RSI 是唯一信号。
+
+- RSI 回看期：**7 / 14 / 21**
+- 阈值组合：**30/70、25/75、20/80**
+- 交易规则：**Touch / Crossback**
+- 总组合数：**18**
+- 交易成本：**往返 1 pip**
+- Walk-forward：第一年校准，第二年样本外验证
+
+## 重要数据限制
+
+原请求还要求使用 4 小时线，但当时只有 EUR/USD 日线数据可用。研究明确**没有合成或虚构 4 小时数据**，仅使用日线运行测试。
+
+## 主要发现
+
+1. **中等回看期最稳定。** 短周期换手率更高、噪声更大；长周期则交易次数偏少。
+2. **Walk-forward 暴露了过拟合。** 校准期最佳 Sharpe **2.47**，到样本外降至 **0.57**，下降 **1.90**。
+3. 由于样本期 EUR/USD 点差较窄，交易成本平均只让 CAGR 降低约 **0.11 个百分点**。更大的问题是策略边际本身较弱，而不是交易成本。
+4. 即使全样本表现最好的组合，净 CAGR 也只是低个位数，因此绝对优势并不大。
+
+所以，全样本“最佳组合”必须和买入持有比较一起看，更重要的是看它在样本外下降了多少。
+
+## 代表性的 walk-forward 结果
+
+只看全样本表现无法排除参数刚好拟合这一段历史的可能。因此下一步必须把校准结果与随后一年的样本外结果比较，并测量 Sharpe 和 CAGR 的恶化幅度。
+
+| 组合 | Y1 校准 Sharpe | 校准净 CAGR | Y2 样本外 Sharpe | 样本外净 CAGR | Sharpe 下降 |
+|---|---:|---:|---:|---:|---:|
+| RSI-14 20/80 crossback | 2.47 | 3.5% | 0.57 | 1.4% | 1.90 |
+| RSI-14 30/70 crossback | 1.66 | 6.3% | 0.61 | 1.8% | 1.05 |
+| RSI-14 25/75 crossback | 1.47 | 4.5% | 0.67 | 2.2% | 0.80 |
+| RSI-14 25/75 touch | 1.38 | 2.5% | 0.71 | 1.3% | 0.67 |
+| RSI-21 20/80 touch | 1.37 | 0.6% | 0.33 | 0.4% | 1.04 |
+| RSI-21 25/75 touch | 1.20 | 1.0% | -0.64 | -0.9% | 1.84 |
+
+## 方法
+
+- 样本：**520 个日度观测值**，2024-09-09 至 2026-09-04
+- Walk-forward 切分日：**2025-09-07**
+- RSI 计算：Wilder smoothing
+- Touch：RSI 触及或低于超卖阈值时做多，触及或高于超买阈值时做空
+- Crossback：RSI 重新穿越阈值时入场，在中性线退出
+- 为避免前视偏差，交易在下一根 bar 执行
+
+## 局限
+
+- 只有日线，没有 4 小时验证
+- 两年样本对于穷举参数而言较短
+- 部分参数组合信号很少，胜率和平均 P&L 的观测数有限
+- 未计入滑点、融资成本和仓位调整
+- 在实际交易成本更高的市场，短周期和高换手版本会更快恶化
+
+## 如何解读结果
+
+这项研究的故事不是“找到最好的回测”，而是**利用参数敏感度和样本外恶化，找出策略最薄弱的地方**。
+
+校准期的最佳设置本身并不重要。更重要的是换一个时期后结果能否维持，以及规则只做小幅改变时结论是否相似。这些才是在把策略当作可持续信号之前需要继续检验的内容。
+
+## 本使用案例说明了什么
+
+这里保留了一个可复用的研究流程：问题、测试设计、参数扫描、样本外挑战、限制条件，以及对哪些部分没有经受住检验的解释。
+
+
+---
+
+[← FX 使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
