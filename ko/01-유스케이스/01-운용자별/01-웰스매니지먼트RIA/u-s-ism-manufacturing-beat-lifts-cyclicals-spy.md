@@ -56,4 +56,4 @@ ISM Manufacturing은 컨센서스 52.8 대비 53.3을 기록했고 신규주문�
 
 [← Wealth Management / RIA](README.md) · [전체 유스케이스](../../README.md)
 
-문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.
+문의 사항이나 추가 정보가 필요하면 **jim@reflexivity.com**으로 연락해 주세요.

@@ -56,4 +56,4 @@ Long-only PM 可以直接判断管理层是重新承诺该交易还是继续争�
 
 [← Long-only 资产管理人使用案例](README.md) · [全部使用案例](../../README.md)
 
-如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。
+如有问题或需要更多信息，请联系 **jim@reflexivity.com**。

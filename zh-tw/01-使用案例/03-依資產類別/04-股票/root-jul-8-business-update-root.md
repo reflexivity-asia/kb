@@ -56,4 +56,4 @@ PM 會被引導避免追逐未經確認的上漲。平台將其視為需要後�
 
 [← 股票使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
 
-如有問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。
+如有問題或需要更多資訊，請聯絡 **jim@reflexivity.com**。

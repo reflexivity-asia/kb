@@ -63,4 +63,4 @@ Provider/source chronology is shown explicitly. Tier labels remain audience filt
 
 [← All Use Cases](../../README.md)
 
-Questions or need more information? Contact **gtm@reflexivity.com**.
+Questions or need more information? Contact **jim@reflexivity.com**.

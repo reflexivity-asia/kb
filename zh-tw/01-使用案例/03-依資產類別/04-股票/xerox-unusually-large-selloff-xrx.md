@@ -56,4 +56,4 @@ PM 可以快速、基於證據了解這種設定歷史上如何演化，並將�
 
 [← 股票使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
 
-如有問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。
+如有問題或需要更多資訊，請聯絡 **jim@reflexivity.com**。

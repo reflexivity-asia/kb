@@ -55,4 +55,4 @@ PM 可据此判断是在预测下调时逆势操作还是做空，同时跟踪�
 
 [← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
 
-如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。
+如有问题或需要更多信息，请联系 **jim@reflexivity.com**。

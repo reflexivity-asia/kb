@@ -56,4 +56,4 @@ Reflexivity 將其解讀為住房相關週期股——住宅建商、供應商�
 
 [← 財富管理 / RIA 使用案例](README.md) · [全部使用案例](../../README.md)
 
-如有問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。
+如有問題或需要更多資訊，請聯絡 **jim@reflexivity.com**。

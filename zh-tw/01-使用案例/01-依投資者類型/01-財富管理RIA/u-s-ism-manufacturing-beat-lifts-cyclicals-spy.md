@@ -56,4 +56,4 @@ ISM Manufacturing 為 53.3，高於 52.8 的市場共識，新訂單為 56.7；�
 
 [← 財富管理 / RIA 使用案例](README.md) · [全部使用案例](../../README.md)
 
-如有問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。
+如有問題或需要更多資訊，請聯絡 **jim@reflexivity.com**。

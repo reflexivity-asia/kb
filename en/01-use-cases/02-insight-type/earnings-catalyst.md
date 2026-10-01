@@ -19,4 +19,4 @@ These examples are dated platform outputs. Check them against current market dat
 
 [← All Use Cases](../README.md)
 
-Questions or need more information? Contact **gtm@reflexivity.com**.
+Questions or need more information? Contact **jim@reflexivity.com**.

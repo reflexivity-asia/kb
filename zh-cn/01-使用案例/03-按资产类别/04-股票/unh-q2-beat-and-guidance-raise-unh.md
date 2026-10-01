@@ -56,4 +56,4 @@ PM 可直接获得可执行数字：Q2 EPS $6.38 vs $4.85 预期，收入 $112.0
 
 [← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
 
-如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。
+如有问题或需要更多信息，请联系 **jim@reflexivity.com**。

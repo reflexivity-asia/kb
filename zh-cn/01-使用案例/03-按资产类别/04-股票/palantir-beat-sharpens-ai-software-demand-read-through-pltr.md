@@ -56,4 +56,4 @@ PM 可立即看到 AI 软件同业的门槛已经提高，并决定在后续软�
 
 [← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
 
-如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。
+如有问题或需要更多信息，请联系 **jim@reflexivity.com**。

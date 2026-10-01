@@ -56,4 +56,4 @@ PM 可在一個頁面看到交易細節：目標公司 Arpalus、貨架智慧應
 
 [← 股票使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
 
-如有問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。
+如有問題或需要更多資訊，請聯絡 **jim@reflexivity.com**。

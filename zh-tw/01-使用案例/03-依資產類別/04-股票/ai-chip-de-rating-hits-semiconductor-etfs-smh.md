@@ -56,4 +56,4 @@ Reflexivity 將其解讀為估值壓縮 / 需求持續性爭論，而不是營�
 
 [← 股票使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
 
-如有問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。
+如有問題或需要更多資訊，請聯絡 **jim@reflexivity.com**。

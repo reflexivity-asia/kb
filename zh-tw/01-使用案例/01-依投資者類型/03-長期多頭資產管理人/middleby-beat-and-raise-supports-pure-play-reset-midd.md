@@ -56,4 +56,4 @@ Long-only PM 可以把回檔視為資本配置品質檢查，在決定持有或�
 
 [← Long-only 資產管理人使用案例](README.md) · [全部使用案例](../../README.md)
 
-如有問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。
+如有問題或需要更多資訊，請聯絡 **jim@reflexivity.com**。

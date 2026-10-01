@@ -56,4 +56,4 @@ Long-only PM은 이 하락을 자본배분 품질 점검으로 보고 pure-play 
 
 [← Long-only Asset Manager](README.md) · [전체 유스케이스](../../README.md)
 
-문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.
+문의 사항이나 추가 정보가 필요하면 **jim@reflexivity.com**으로 연락해 주세요.

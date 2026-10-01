@@ -56,4 +56,4 @@ PM 可在业绩发布后股价上涨 7.6% 的背景下据上调幅度调整仓�
 
 [← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
 
-如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。
+如有问题或需要更多信息，请联系 **jim@reflexivity.com**。

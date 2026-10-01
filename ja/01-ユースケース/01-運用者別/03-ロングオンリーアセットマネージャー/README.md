@@ -16,4 +16,4 @@
 ---
 
 [← 運用者別](../README.md) · [ユースケース一覧](../../README.md)
-ご質問や詳細については **gtm@reflexivity.com** までお問い合わせください。
+ご質問や詳細については **jim@reflexivity.com** までお問い合わせください。

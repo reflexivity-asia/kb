@@ -56,4 +56,4 @@ Reflexivity 将其解释为住房相关周期股——住宅建筑商、供应�
 
 [← 财富管理 / RIA 使用案例](README.md) · [全部使用案例](../../README.md)
 
-如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。
+如有问题或需要更多信息，请联系 **jim@reflexivity.com**。

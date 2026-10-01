@@ -56,4 +56,4 @@ PM 可立即看出这不是个别公司现象，并决定在哪里集中或对�
 
 [← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
 
-如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。
+如有问题或需要更多信息，请联系 **jim@reflexivity.com**。

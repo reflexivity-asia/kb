@@ -63,4 +63,4 @@
 
 [← 全部使用案例](../../README.md)
 
-如有一般問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。
+如有一般問題或需要更多資訊，請聯絡 **jim@reflexivity.com**。

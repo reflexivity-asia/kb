@@ -56,4 +56,4 @@ Bab el-Mandeb 的致命襲擊重新引發紅海咽喉風險，推高能源、運
 
 [← 財富管理 / RIA 使用案例](README.md) · [全部使用案例](../../README.md)
 
-如有問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。
+如有問題或需要更多資訊，請聯絡 **jim@reflexivity.com**。

@@ -10,4 +10,4 @@
 
 [← All Use Cases](../README.md)
 
-Questions or need more information? Contact **gtm@reflexivity.com**.
+Questions or need more information? Contact **jim@reflexivity.com**.

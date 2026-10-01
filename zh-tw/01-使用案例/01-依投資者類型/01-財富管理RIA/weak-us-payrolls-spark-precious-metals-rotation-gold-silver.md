@@ -56,4 +56,4 @@ Reflexivity 展示完整傳導鏈：7 月就業人數減少 2.3 萬，10 年期�
 
 [← 財富管理 / RIA 使用案例](README.md) · [全部使用案例](../../README.md)
 
-如有問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。
+如有問題或需要更多資訊，請聯絡 **jim@reflexivity.com**。

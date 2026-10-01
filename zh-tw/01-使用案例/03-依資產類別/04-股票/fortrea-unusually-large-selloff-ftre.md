@@ -56,4 +56,4 @@ PM 可在幾分鐘內完成投資邏輯檢查。歷史分布明顯偏負面：6 
 
 [← 股票使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
 
-如有問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。
+如有問題或需要更多資訊，請聯絡 **jim@reflexivity.com**。

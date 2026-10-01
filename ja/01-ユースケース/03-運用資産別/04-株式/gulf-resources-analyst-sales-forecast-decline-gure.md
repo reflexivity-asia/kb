@@ -51,4 +51,4 @@ Reflexivityはこの局面について、過去16回の類似パターンを比�
 
 [← 株式ユースケース](README.md) · [ユースケース一覧](../../README.md)
 
-ご質問や詳細については **gtm@reflexivity.com** までお問い合わせください。
+ご質問や詳細については **jim@reflexivity.com** までお問い合わせください。

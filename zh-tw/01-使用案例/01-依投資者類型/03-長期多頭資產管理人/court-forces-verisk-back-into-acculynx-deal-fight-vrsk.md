@@ -56,4 +56,4 @@ Long-only PM 可以直接判斷管理層是重新承諾該交易還是繼續爭�
 
 [← Long-only 資產管理人使用案例](README.md) · [全部使用案例](../../README.md)
 
-如有問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。
+如有問題或需要更多資訊，請聯絡 **jim@reflexivity.com**。

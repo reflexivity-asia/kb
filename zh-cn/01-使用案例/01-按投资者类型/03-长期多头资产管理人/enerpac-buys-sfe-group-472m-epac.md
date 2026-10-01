@@ -56,4 +56,4 @@ Reflexivity 将其描述为资产负债表与可信度事件，而不是短期�
 
 [← Long-only 资产管理人使用案例](README.md) · [全部使用案例](../../README.md)
 
-如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。
+如有问题或需要更多信息，请联系 **jim@reflexivity.com**。

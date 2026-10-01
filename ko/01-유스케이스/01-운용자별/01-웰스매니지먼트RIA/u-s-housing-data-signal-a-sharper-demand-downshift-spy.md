@@ -56,4 +56,4 @@ Reflexivity는 이를 단일 데이터 포인트가 아니라 주택 관련 경�
 
 [← Wealth Management / RIA](README.md) · [전체 유스케이스](../../README.md)
 
-문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.
+문의 사항이나 추가 정보가 필요하면 **jim@reflexivity.com**으로 연락해 주세요.

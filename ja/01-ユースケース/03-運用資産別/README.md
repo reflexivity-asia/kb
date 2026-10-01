@@ -22,4 +22,4 @@ Reflexivityの調査・分析例を、実際の運用で扱う資産や市場か
 
 [← ユースケース一覧](../README.md)
 
-ご質問や詳細については **gtm@reflexivity.com** までお問い合わせください。
+ご質問や詳細については **jim@reflexivity.com** までお問い合わせください。

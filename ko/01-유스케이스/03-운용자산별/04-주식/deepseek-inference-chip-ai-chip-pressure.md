@@ -56,4 +56,4 @@ PM은 대체 위험이 고멀티플 merchant GPU에 집중되는 반면, 다각�
 
 [← 주식 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
 
-문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.
+문의 사항이나 추가 정보가 필요하면 **jim@reflexivity.com**으로 연락해 주세요.

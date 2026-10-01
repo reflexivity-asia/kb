@@ -56,4 +56,4 @@ PM 可以直接看到资本配置状态，包括 $2.1B 自由现金流、2.7x �
 
 [← Long-only 资产管理人使用案例](README.md) · [全部使用案例](../../README.md)
 
-如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。
+如有问题或需要更多信息，请联系 **jim@reflexivity.com**。

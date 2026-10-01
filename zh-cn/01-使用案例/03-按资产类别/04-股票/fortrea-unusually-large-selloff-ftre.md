@@ -55,4 +55,4 @@ PM 可在几分钟内完成投资逻辑检查。历史分布明显偏负面：6 
 
 [← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
 
-如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。
+如有问题或需要更多信息，请联系 **jim@reflexivity.com**。

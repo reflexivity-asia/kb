@@ -56,4 +56,4 @@ Cardinal Health 的 EPS 为 $2.91，比一致预期高 20.25%，FY2027 指引也
 
 [← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
 
-如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。
+如有问题或需要更多信息，请联系 **jim@reflexivity.com**。

@@ -56,4 +56,4 @@ Reflexivity 將言辭與政策分開，把它定義為 headline risk，而非已
 
 [← 財富管理 / RIA 使用案例](README.md) · [全部使用案例](../../README.md)
 
-如有問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。
+如有問題或需要更多資訊，請聯絡 **jim@reflexivity.com**。

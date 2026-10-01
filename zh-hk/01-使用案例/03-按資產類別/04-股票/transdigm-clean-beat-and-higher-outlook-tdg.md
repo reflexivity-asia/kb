@@ -56,4 +56,4 @@ PM 可在業績發佈後股價上漲 7.6% 的背景下，依上調幅度調整�
 
 [← 股票使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
 
-如有問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。
+如有問題或需要更多資訊，請聯絡 **jim@reflexivity.com**。

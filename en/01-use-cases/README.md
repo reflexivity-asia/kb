@@ -38,4 +38,4 @@ Each substantive page identifies its source basis or publication context. For qu
 
 ---
 
-For general questions or more information, contact **gtm@reflexivity.com**.
+For general questions or more information, contact **jim@reflexivity.com**.

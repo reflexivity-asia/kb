@@ -56,4 +56,4 @@ PM 可快速了解资本配置姿态：股息从 $0.71 提高至 $0.74，经董�
 
 [← Long-only 资产管理人使用案例](README.md) · [全部使用案例](../../README.md)
 
-如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。
+如有问题或需要更多信息，请联系 **jim@reflexivity.com**。

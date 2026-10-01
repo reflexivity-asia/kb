@@ -56,4 +56,4 @@ ISM Manufacturing 为 53.3，高于 52.8 的一致预期，新订单为 56.7；�
 
 [← 财富管理 / RIA 使用案例](README.md) · [全部使用案例](../../README.md)
 
-如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。
+如有问题或需要更多信息，请联系 **jim@reflexivity.com**。

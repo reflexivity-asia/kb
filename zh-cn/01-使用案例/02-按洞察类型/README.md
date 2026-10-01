@@ -10,4 +10,4 @@
 
 [← 返回全部使用案例](../README.md)
 
-如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。
+如有问题或需要更多信息，请联系 **jim@reflexivity.com**。

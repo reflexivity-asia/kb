@@ -56,4 +56,4 @@ Pod 可以在半導體、電力、數據中心公司中廣泛表達該主題，�
 
 [← 股票使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
 
-如有問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。
+如有問題或需要更多資訊，請聯絡 **jim@reflexivity.com**。
