@@ -15,7 +15,7 @@
 GitHub上のドキュメントをAIに参照させ、該当ページの検索、要約、比較、リンク取得などを行えます。
 
 - **GitHub Copilot** — [reflexivity-kb/docs](https://github.com/reflexivity-kb/docs) を開き、リポジトリについてCopilotに質問するか、リポジトリをCopilotのコンテキストに追加します。[GitHubの手順](https://docs.github.com/en/copilot/tutorials/explore-a-codebase)
-- **ChatGPT** — ChatGPTでGitHubを接続し、**reflexivity-kb/docs** と、アクセス権がある場合は **reflexivity-kb/client-resources** を許可して、リポジトリ内の資料について質問します。[OpenAIの手順](https://help.openai.com/ja-jp/articles/11145903-connecting-github-to-chatgpt)
+- **ChatGPT** — ChatGPTでGitHubを接続し、**reflexivity-kb/docs** と、アクセス権がある場合は **reflexivity-kb/platform** を許可して、リポジトリ内の資料について質問します。[OpenAIの手順](https://help.openai.com/ja-jp/articles/11145903-connecting-github-to-chatgpt)
 - **Claude** — チャットの **Add from GitHub**、またはProject knowledgeのGitHub連携から必要なファイルやフォルダを追加します。[Claudeの手順](https://support.claude.com/en/articles/10167454-use-the-github-integration)
 
 質問する言語は、利用するAIアシスタントが対応している言語であれば制限されません。ドキュメント原文は現在6つのロケールで公開されています。
