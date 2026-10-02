@@ -10,6 +10,7 @@ translation_status: current
 source_type: partner-provided-use-case
 asset_class: equities, macro, multi-asset
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 
 # 使用 Market Catalyst 把新闻连接到主题、国家和公司
@@ -24,6 +25,10 @@ publication_mode: faithful-source-preserving
 **主要资产类别：** 股票、宏观、多资产
 
 > 本案例
+
+## 使用的提示词
+
+提供资料中未注明实际使用的提示词全文。
 
 ## 什么时候适合使用这个工作流
 

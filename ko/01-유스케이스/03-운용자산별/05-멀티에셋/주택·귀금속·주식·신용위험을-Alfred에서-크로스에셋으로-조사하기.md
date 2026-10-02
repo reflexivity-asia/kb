@@ -10,6 +10,7 @@ translation_status: current
 source_type: partner-provided-use-case
 asset_class: equities, fixed income, commodities, crypto, macro, multi-asset
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # 주택·귀금속·주식·신용위험을 Alfred에서 크로스에셋으로 조사하기
 
@@ -23,6 +24,16 @@ publication_mode: faithful-source-preserving
 **주요 운용자산:** 주식, 채권, 원자재, 암호자산, 매크로, 멀티에셋
 
 > 이 예시는 Alfred에서 조사할 수 있는 질문의 폭을 보여줍니다. 수치 결과는 제공일 당시의 스냅샷입니다.
+
+## 사용한 프롬프트
+
+> 모기지 금리가 하락하고 있는데, 올해 주택시장이 미국 경제성장에 긍정적으로 기여할 수 있는가? 주식시장에는 어떤 의미가 있는가?
+
+> 귀금속 가격과 Bitcoin의 관계를 분석해 주세요.
+
+> Caterpillar(CAT)가 왜 오르고 있는가? 어떤 테마와 연결되며, 비슷한 동인에 노출된 일본 기업은 어디인가?
+
+> 미국 사모부채 디폴트 우려가 나타나고 있다. 이것이 미국과 일본의 금리·주식시장에 어떤 영향을 줄 수 있는가?
 
 ## 1. 미국 주택시장과 주식시장으로의 연결
 

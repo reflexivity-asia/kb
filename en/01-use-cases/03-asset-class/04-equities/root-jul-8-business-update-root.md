@@ -14,6 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=0f64c0ff-bc65-4ff1
 canonical_path: "usecases/byasset/equities/root-jul-8-business-update-root.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
+prompt_status: not_provided
 -->
 
 # Root Jul. 8 business update (ROOT)
@@ -32,6 +33,10 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=0f64c0ff-bc65-4ff1-a313-fca5ad8e916b)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Relevant
 

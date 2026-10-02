@@ -16,6 +16,7 @@ canonical_path: usecases/byasset/equities/gulf-resources-analyst-sales-forecast-
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=gure_nasd&activeInsight=1d6ec2d3-63bf-438b-b8bd-1b214f8f19af
+prompt_status: not_provided
 -->
 
 # Gulf Resources: 애널리스트 매출 전망 하향 (GURE) — 약세 시그널
@@ -34,6 +35,10 @@ source_url: https://reflexivity.com/app/stream/focus?activeDrawer=insights&entit
 > 이 예시는 특정 시점의 플랫폼 출력입니다. 현재 투자 판단에 사용하기 전에는 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=gure_nasd&activeInsight=1d6ec2d3-63bf-438b-b8bd-1b214f8f19af)**
+
+## 사용한 프롬프트
+
+제공 자료에서는 사용한 프롬프트의 정확한 문구를 확인할 수 없습니다.
 
 ## 관련성
 

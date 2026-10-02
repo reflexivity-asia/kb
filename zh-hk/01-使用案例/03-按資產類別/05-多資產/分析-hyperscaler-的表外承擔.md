@@ -10,6 +10,7 @@ translation_status: current
 source_type: partner-provided-use-case
 asset_class: equities, fixed income, multi-asset
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # 分析 hyperscaler 的表外承擔
@@ -24,6 +25,10 @@ publication_mode: faithful-source-preserving
 **主要資產：** 股票、固定收益、多資產
 
 > 原始材料只提供私人 Research 連結。本公開頁面**不會重建或猜測不可存取的研究結果**；它只保留原始問題，以及該問題本身所要求的研究框架。
+
+## 使用的提示詞
+
+> 總結美國hyperscaler的表外債務。
 
 ## 問題
 

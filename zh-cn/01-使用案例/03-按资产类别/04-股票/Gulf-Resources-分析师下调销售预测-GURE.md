@@ -16,6 +16,7 @@ canonical_path: usecases/byasset/equities/gulf-resources-analyst-sales-forecast-
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=gure_nasd&activeInsight=1d6ec2d3-63bf-438b-b8bd-1b214f8f19af
+prompt_status: not_provided
 -->
 
 # Gulf Resources：分析师下调销售预测 (GURE)
@@ -33,6 +34,10 @@ source_url: https://reflexivity.com/app/stream/focus?activeDrawer=insights&entit
 > 本案例是特定时点的平台输出。用于当前投资判断前，请先与最新市场数据核对；否则应仅作为说明性案例使用。
 
 **[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=gure_nasd&activeInsight=1d6ec2d3-63bf-438b-b8bd-1b214f8f19af)**
+
+## 使用的提示词
+
+提供资料中未注明实际使用的提示词全文。
 
 ## 相关性
 

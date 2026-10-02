@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Equities
 roles: Long-only Asset Manager, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # S&P 500과 Russell 2000을 비교하고 소형주 주도주를 찾기
 
@@ -26,8 +27,7 @@ publication_mode: faithful-source-preserving
 
 > Research 결과가 제공되었지만 여기에는 공개하지 않습니다. 따라서 이 페이지는 결과 수치보다 재사용 가능한 리서치 워크플로에 초점을 맞춥니다.
 
-## 질문
-
+## 사용한 프롬프트
 > 2026년 1월부터 현재까지 S&P 500과 Russell 2000의 성과를 비교·분석해 주세요. 그 다음 Russell 2000 구성종목 중 성과가 가장 좋은 5개를 찾고, 주가가 오른 이유를 설명해 주세요.
 
 ## 조사 목적

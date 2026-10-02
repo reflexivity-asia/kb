@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Equities
 roles: Long-only Asset Manager, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # Find the Common Drivers Behind Last Week's Strongest Equity Themes
 
@@ -26,8 +27,7 @@ publication_mode: faithful-source-preserving
 
 > Figures and market conditions in this example reflect the provided date.
 
-## Question
-
+## Prompt used
 > Do the equity themes that rose over the past week share any common characteristics?
 
 ## Research objective

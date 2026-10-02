@@ -8,6 +8,7 @@ status: published
 translation_status: canonical
 resource: Reflexivity Research conversation approved by content owner
 source_text_status: canonicalized_from_reviewed_ja_rendering
+prompt_status: present
 -->
 
 # Turn today's newsflow into five investment ideas to study
@@ -25,6 +26,8 @@ source_text_status: canonicalized_from_reviewed_ja_rendering
 ## Research question
 
 Read the day's news and reduce the flow to five investment ideas that are worth studying further.
+
+## Prompt used
 
 Original prompt:
 

@@ -16,6 +16,7 @@ canonical_path: usecases/byasset/equities/acv-rolls-out-viper-nationwide-for-dea
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=f045e1af-ddc4-4f13-8d2c-6ccf806a49f1
+prompt_status: not_provided
 -->
 
 # ACV：VIPER 全國推出，擴大經銷商車源取得 (ACVA)
@@ -34,6 +35,10 @@ source_url: https://reflexivity.com/app/kg-insight?insightId=f045e1af-ddc4-4f13-
 > 本案例是特定日期的平台輸出。用於目前投資判斷前，請先與最新市場數據核對；否則僅應作為說明性案例使用。
 
 **[在 Reflexivity 開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=f045e1af-ddc4-4f13-8d2c-6ccf806a49f1)**
+
+## 使用的提示詞
+
+提供資料中未列明實際使用的提示詞全文。
 
 ## 相關性
 

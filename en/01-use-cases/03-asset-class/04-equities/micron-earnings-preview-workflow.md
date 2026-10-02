@@ -13,6 +13,7 @@ source_manifest: RX-USECASE-0071
 asset_class: Equities
 insight_type: Earnings Catalyst
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 # Prepare for Micron Earnings with the Earnings Preview Workflow
 
@@ -30,6 +31,10 @@ publication_mode: faithful-source-preserving
 QUICK's example shows how to prepare for Micron Technology's earnings before the announcement rather than waiting for the post-release review.
 
 > ### [Open this insight in Reflexivity →](https://app.reflexivity.com/kg-insight?insightId=b6a73f02-a2ab-401e-a1c0-4e222a9f99cd)
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Before the release
 

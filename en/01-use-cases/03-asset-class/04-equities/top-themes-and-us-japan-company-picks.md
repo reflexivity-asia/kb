@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Equities
 roles: Long-only Asset Manager, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # Turn Strong Themes into US and Japanese Company Candidates
 
@@ -40,8 +41,7 @@ The workflow is:
 
 The original prompt did not require listed companies only and did not yet apply financial-quality filters, which is why a non-listed institution such as JAXA appears in the source output.
 
-## Research prompt
-
+## Prompt used
 > For the themes gene editing, satellite technology, space exploration, copper mining, and gold production, list three related organizations in the US and three in Japan for each category.
 
 ## Candidate universe

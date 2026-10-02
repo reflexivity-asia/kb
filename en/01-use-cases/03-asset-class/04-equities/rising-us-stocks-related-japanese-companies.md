@@ -14,6 +14,7 @@ editorial_reviewed: 2026-09-27
 source_type: partner-provided-use-case
 asset_class: Equities
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # Find Japanese Companies Related to Rising US Stocks
 
@@ -30,9 +31,8 @@ publication_mode: faithful-source-preserving
 
 > ### [Open this research example in Reflexivity →](https://app.reflexivity.com/alfred?mode=research&conversationId=8d4011b7-597b-4361-ad87-501046a67b28&scrollTo=top)
 
-## Question
-
-**Between the beginning of September and yesterday, identify the US industries and major stocks that have risen, then list Japanese companies related to those firms.**
+## Prompt used
+> Between the beginning of September and yesterday, identify the US industries and major stocks that have risen, then list Japanese companies related to those firms.
 
 ## Start by narrowing the US market leaders
 

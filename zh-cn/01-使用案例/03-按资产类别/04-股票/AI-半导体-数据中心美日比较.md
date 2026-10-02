@@ -13,6 +13,7 @@ source_manifest: RX-USECASE-0072
 asset_class: Equities, Multi-Asset
 insight_type: Scenario Insight
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # 比较美国与日本的 AI、半导体和数据中心主题
 
@@ -31,6 +32,10 @@ publication_mode: faithful-source-preserving
 > 比较美国和日本 AI、半导体、数据中心相关主要股票过去三个月的表现，并构建后续情景。
 
 > ### [在 Reflexivity 中打开此研究示例 →](https://app.reflexivity.com/alfred?mode=research&conversationId=944136af-a0bf-411f-959c-8dd2368b16a8&scrollTo=top)
+
+## 使用的提示词
+
+> 比较过去三个月美国和日本主要AI、半导体和数据中心相关股票的表现，并构建后续可能的情景。
 
 ## 美国
 

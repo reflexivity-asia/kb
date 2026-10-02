@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Equities
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # 檢驗 iPhone 發布前後 AAPL 的股價模式
@@ -24,6 +25,8 @@ publication_mode: faithful-source-preserving
 **提供日期：** 2026-09-11  
 **主要資產：** 股票  
 **適用使用者：** 財富管理 / RIA、Long-only Asset Manager、對沖基金
+
+## 使用的提示詞
 
 > 本頁根據 QUICK Inc. 提供的使用案例整理，保留原始問題、歷史比較、反證及下一步研究邏輯。產品資料及市場數字均為來源日期快照。
 

@@ -14,6 +14,7 @@ source_url: "https://reflexivity.com/app/stream/focus?activeDrawer=insights&enti
 canonical_path: "usecases/byasset/equities/xerox-unusually-large-selloff-xrx.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
+prompt_status: not_provided
 -->
 
 # Xerox unusually large selloff (XRX)
@@ -32,6 +33,10 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=xrx_nasd&activeInsight=e01d491b-c454-4e05-81be-bcaa9947735c)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Relevant
 

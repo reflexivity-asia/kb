@@ -13,6 +13,7 @@ source_manifest: RX-USECASE-0072
 asset_class: Equities, Multi-Asset
 insight_type: Scenario Insight
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # Compare AI, Semiconductor and Data-Center Themes in the US and Japan
 
@@ -27,6 +28,8 @@ publication_mode: faithful-source-preserving
 **Analysis period:** 2026-07-01 to 2026-09-30
 
 > Returns are local-currency price returns from the supplied analysis and exclude dividends.
+
+## Prompt used
 
 > Compare major US and Japanese stocks exposed to AI, semiconductors and data centers over the past three months, then build scenarios for what could come next.
 

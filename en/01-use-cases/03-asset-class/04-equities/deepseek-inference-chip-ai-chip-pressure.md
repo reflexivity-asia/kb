@@ -14,6 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=a1e9e6f4-4865-499f
 canonical_path: "usecases/byasset/equities/deepseek-inference-chip-ai-chip-pressure.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
+prompt_status: not_provided
 -->
 
 # DeepSeek inference chip / AI-chip pressure
@@ -32,6 +33,10 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=a1e9e6f4-4865-499f-bdba-4afbf73fe75e)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Relevant
 

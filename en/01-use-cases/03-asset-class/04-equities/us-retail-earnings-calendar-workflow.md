@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Equities
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 # Build a Research Workflow Around US Retail Earnings Week
 
@@ -25,6 +26,10 @@ publication_mode: faithful-source-preserving
 **Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Funds
 
 > Event times and company schedules in this example reflect the provided date.
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## When this workflow is useful
 

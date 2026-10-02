@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: FX, Fixed Income, Macro
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 1
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # Analyze the Drivers of a Rapid Yen Rally and Whether It Extends Across FX
 
@@ -27,6 +28,8 @@ publication_mode: faithful-source-preserving
 > Figures and market conditions in this example reflect the provided date.
 
 QUICK used Alfred to investigate the background to the yen's rapid appreciation.
+
+## Prompt used
 
 > USD/JPY has moved sharply in favor of the yen. Analyze the background to this move and how other currencies are behaving. Also analyze how the market is thinking about the outlook from here.
 

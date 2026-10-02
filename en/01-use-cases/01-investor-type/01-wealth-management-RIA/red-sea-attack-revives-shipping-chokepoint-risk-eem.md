@@ -14,6 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=887570bf-d204-467d
 canonical_path: "use-cases/wealth-management-ria/red-sea-attack-revives-shipping-chokepoint-risk-eem.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
+prompt_status: not_provided
 -->
 
 # Red Sea attack revives shipping chokepoint risk (EEM)
@@ -31,6 +32,10 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=887570bf-d204-467d-a72e-050fd3e96dce)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Relevant
 

@@ -16,6 +16,7 @@ canonical_path: usecases/byasset/equities/transdigm-clean-beat-and-higher-outloo
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=601e0300-50c3-4ed9-900c-82627746f1ec
+prompt_status: not_provided
 -->
 
 # TransDigm：业绩超预期并上调展望 (TDG)
@@ -34,6 +35,10 @@ source_url: https://reflexivity.com/app/kg-insight?insightId=601e0300-50c3-4ed9-
 > 本案例是特定时点的平台输出。用于当前投资判断前，请先与最新市场数据核对；否则应仅作为说明性案例使用。
 
 **[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=601e0300-50c3-4ed9-900c-82627746f1ec)**
+
+## 使用的提示词
+
+提供资料中未注明实际使用的提示词全文。
 
 ## 相关性
 

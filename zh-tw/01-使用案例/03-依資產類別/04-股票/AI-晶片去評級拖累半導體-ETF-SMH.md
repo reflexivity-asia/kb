@@ -16,6 +16,7 @@ canonical_path: usecases/byasset/equities/ai-chip-de-rating-hits-semiconductor-e
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=0474081c-861c-4cde-b075-59834514aba0
+prompt_status: not_provided
 -->
 
 # AI 晶片去評級拖累半導體 ETF (SMH)
@@ -34,6 +35,10 @@ source_url: https://reflexivity.com/app/kg-insight?insightId=0474081c-861c-4cde-
 > 本案例是特定時點的平台輸出。用於目前投資判斷前，請先與最新市場資料核對；否則僅應作為說明性案例使用。
 
 **[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=0474081c-861c-4cde-b075-59834514aba0)**
+
+## 使用的提示詞
+
+提供資料中未載明實際使用的提示詞全文。
 
 ## 相關性
 

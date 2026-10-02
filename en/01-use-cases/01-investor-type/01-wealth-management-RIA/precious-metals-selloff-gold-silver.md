@@ -14,6 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=5999b612-16b0-4475
 canonical_path: "use-cases/wealth-management-ria/precious-metals-selloff-gold-silver.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
+prompt_status: not_provided
 -->
 
 # Precious Metals selloff (gold, silver)
@@ -31,6 +32,10 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=5999b612-16b0-4475-ad47-8cf24a5ac845)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Relevant
 

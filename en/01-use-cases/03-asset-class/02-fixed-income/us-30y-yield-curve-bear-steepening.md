@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Fixed Income, Macro
 roles: Long-only Asset Manager, Hedge Fund Tier 1
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # Read a Rise in the US 30-Year Yield Through the Full Yield Curve
 
@@ -25,6 +26,8 @@ publication_mode: faithful-source-preserving
 **Intended users:** Long-only Asset Managers, Hedge Funds
 
 > Figures and market conditions in this example reflect the provided date.
+
+## Prompt used
 
 > The US 30-year Treasury yield is rising. How is the overall yield curve changing?
 

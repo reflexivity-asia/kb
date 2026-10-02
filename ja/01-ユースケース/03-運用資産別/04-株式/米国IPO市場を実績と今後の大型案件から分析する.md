@@ -13,6 +13,7 @@ source_type: partner-provided-use-case
 asset_class: 株式、マクロ
 roles: ロングオンリー・アセットマネージャー、ヘッジファンド Tier 1、ヘッジファンド Tier 2、ヘッジファンド Tier 3
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # 米国IPO市場を実績と今後の大型案件から分析する
@@ -28,9 +29,8 @@ publication_mode: faithful-source-preserving
 **対象ユーザー:** ロングオンリー・アセットマネージャー、ヘッジファンド Tier 1、ヘッジファンド Tier 2、ヘッジファンド Tier 3
 > 本ページは株式会社QUICKから提供されたユースケースを、顧客名・宛先・メールアドレス・署名・非公開URL等を除き、質問から分析・結論へ進む元のストーリーを可能な限り保持して掲載しています。数値・市場環境は提供日時点のものです。
 
-## 質問
-
-**米国市場で今期実施された主なIPOをリストアップして、市場への影響を分析してください。また、今年の年末までに予定されている大型のIPOについても同様の分析をしてください。**
+## 使用したプロンプト
+> 米国市場で今期実施された主なIPOをリストアップして、市場への影響を分析してください。また、今年の年末までに予定されている大型のIPOについても同様の分析をしてください。
 
 ![米国IPO市場を実績と今後の大型案件から分析する - 元資料の図表・画面](../../../../assets/usecases/quick/RX-USECASE-0048/source-visuals.webp)
 

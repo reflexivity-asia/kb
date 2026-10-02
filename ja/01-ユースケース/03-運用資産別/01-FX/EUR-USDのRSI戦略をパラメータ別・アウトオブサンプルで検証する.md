@@ -12,6 +12,7 @@ translation_status: local-only
 original_language: en
 source_text_status: faithful_japanese_rendering_from_platform_research
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 
 # EUR/USDのRSI戦略をパラメータ別・アウトオブサンプルで検証する
@@ -29,6 +30,10 @@ publication_mode: faithful-source-preserving
 > 本ページは、Reflexivity上で実際に生成された調査結果を日本語で読みやすくしたものです。結論だけに要約せず、問い、データ、途中の判断、反証、前提・留意点、最終的な読みまで元のストーリーをできる限り保持しています。数値・市場環境は元の調査を実行した時点のものです。
 
 **[Reflexivityでこの調査例を開く →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)**
+
+## 使用したプロンプト
+
+提供資料では、使用したプロンプトの全文は確認できません。
 
 ## この調査で確かめたいこと
 

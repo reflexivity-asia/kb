@@ -14,6 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=37ec34a5-3c1d-40cc
 canonical_path: "usecases/byasset/equities/nvidia-launches-500b-ai-infrastructure-funding-push-nvda.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
+prompt_status: not_provided
 -->
 
 # Nvidia launches $500B AI infrastructure funding push (NVDA)
@@ -32,6 +33,10 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=37ec34a5-3c1d-40cc-b7de-76ea7f842999)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Relevant
 

@@ -12,6 +12,7 @@ source_text_status: canonicalized_from_platform_research_with_reviewed_editorial
 asset_class: FX (EUR/USD)
 roles: FX PM, Macro PM, Multi-Asset Investor
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 
 # 將 EUR/USD 投資觀點轉化為系統化檢查清單
@@ -30,6 +31,10 @@ publication_mode: faithful-source-preserving
 > 本頁保留原始研究的分析邏輯與當時市場觀察，並納入經日文審閱版本確認的推理銜接。數據與市場環境皆為原始研究時點的歷史快照，不是目前的投資建議。
 
 **[在 Reflexivity 中開啟這個研究範例 →](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)**
+
+## 使用的提示詞
+
+提供資料中未載明實際使用的提示詞全文。
 
 ## 研究目的
 

@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Macro, Fixed Income, FX, Multi-Asset
 roles: Long-only Asset Manager, Hedge Fund Tier 1, Wealth Management / RIA
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # FOMC 회의 전에 금리인상 시나리오를 구조화하기
 
@@ -29,6 +30,10 @@ publication_mode: faithful-source-preserving
 원 질문의 요지는 인플레이션, 유가 상승, 더 넓은 거시환경을 감안했을 때 이번 주 FOMC에서 의장이 추가 금리인상 가능성을 어떻게 설명할 수 있는지였습니다.
 
 ![FOMC 금리인상 시나리오 분석](../../../../assets/usecases/quick/RX-USECASE-0041/source-visuals.webp)
+
+## 사용한 프롬프트
+
+> 인플레이션, 유가 상승, 전반적인 거시 환경을 고려할 때 이번 주 FOMC에서 Kevin Warsh 의장은 금리 인상 가능성에 대해 어떤 발언을 할 수 있을까요?
 
 ## 조사 목적
 

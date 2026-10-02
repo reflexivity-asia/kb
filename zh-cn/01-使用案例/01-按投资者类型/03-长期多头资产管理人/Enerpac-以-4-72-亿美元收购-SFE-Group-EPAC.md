@@ -16,6 +16,7 @@ canonical_path: use-cases/long-only-asset-manager/enerpac-buys-sfe-group-472m-ep
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=b399a5e0-60b3-4bec-ab37-75b77577727a
+prompt_status: not_provided
 -->
 
 # Enerpac：以 4.72 亿美元收购 SFE Group (EPAC)
@@ -34,6 +35,10 @@ source_url: https://reflexivity.com/app/kg-insight?insightId=b399a5e0-60b3-4bec-
 > 本案例是特定时点的平台输出。用于当前投资判断前，请先与最新市场数据核对；否则应仅作为说明性案例使用。
 
 **[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=b399a5e0-60b3-4bec-ab37-75b77577727a)**
+
+## 使用的提示词
+
+提供资料中未注明实际使用的提示词全文。
 
 ## 相关性
 

@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Equities
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 1, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 
 # 使用 Company Catalyst 追踪 NVIDIA 相关新闻的市场影响
@@ -28,6 +29,10 @@ publication_mode: faithful-source-preserving
 > 本案例保留原研究顺序和原资料时点的市场背景。
 
 原资料示例从一条与 NVIDIA 收购 Hugging Face 有关的 Company Catalyst 项目开始。
+
+## 使用的提示词
+
+提供资料中未注明实际使用的提示词全文。
 
 ## 什么时候适合使用这个工作流
 

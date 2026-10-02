@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Macro, Fixed Income, Equities, FX
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 1
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # Jackson Hole 연설 시나리오와 시장 반응을 사전에 구조화하기
 
@@ -23,6 +24,8 @@ publication_mode: faithful-source-preserving
 **제공일:** 2026-08-21
 **주요 운용자산:** 매크로, 채권, 주식, FX  
 **예상 이용자:** 웰스매니지먼트 / RIA, 롱온리 자산운용사, 헤지펀드
+
+## 사용한 프롬프트
 
 > 이 예시는 2026년 8월 27~29일 Jackson Hole 심포지엄 전에 제공된 **사전 이벤트 시나리오 분석**입니다. 현재 전망이나 사후적으로 결과를 맞춘 재구성이 아니라 이벤트 준비 사례로 읽어야 합니다.
 

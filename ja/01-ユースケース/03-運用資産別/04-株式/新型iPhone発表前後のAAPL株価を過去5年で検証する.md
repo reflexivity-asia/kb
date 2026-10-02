@@ -13,6 +13,7 @@ source_type: partner-provided-use-case
 asset_class: 株式
 roles: ウェルスマネジメント / RIA、ロングオンリー・アセットマネージャー、ヘッジファンド Tier 2、ヘッジファンド Tier 3
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # 新型iPhone発表前後のAAPL株価を過去5年で検証する
@@ -28,9 +29,8 @@ publication_mode: faithful-source-preserving
 **対象ユーザー:** ウェルスマネジメント / RIA、ロングオンリー・アセットマネージャー、ヘッジファンド Tier 2、ヘッジファンド Tier 3
 > 本ページは株式会社QUICKから提供されたユースケースを、顧客名・宛先・メールアドレス・署名・非公開URL等を除き、質問から分析・結論へ進む元のストーリーを可能な限り保持して掲載しています。数値・市場環境は提供日時点のものです。
 
-## 質問
-
-**AAPL:NASD の新型iPhone発表のタイミングと株価の関係について、過去5年間の傾向を分析してください。また、今回のDuoの発表についての市場の反応も分析してください。**
+## 使用したプロンプト
+> AAPL:NASD の新型iPhone発表のタイミングと株価の関係について、過去5年間の傾向を分析してください。また、今回のDuoの発表についての市場の反応も分析してください。
 
 ![新型iPhone発表前後のAAPL株価を過去5年で検証する - 元資料の図表・画面](../../../../assets/usecases/quick/RX-USECASE-0046/source-visuals.webp)
 

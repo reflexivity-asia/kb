@@ -11,6 +11,7 @@ source_text_status: canonicalized_from_platform_research_with_reviewed_editorial
 asset_class: FX (EUR/USD)
 roles: FX PM, Quant, Systematic Investor
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 
 # 用多組參數及樣本外測試檢驗 EUR/USD RSI 策略
@@ -29,6 +30,10 @@ publication_mode: faithful-source-preserving
 > 本頁保留 Reflexivity 原始研究，並納入經審閱版本已確認的解釋橋樑。數字及市場狀況均為原始研究的歷史快照，不是現時投資建議。
 
 **[在 Reflexivity 中開啟這個研究示例 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)**
+
+## 使用的提示詞
+
+提供資料中未列明實際使用的提示詞全文。
 
 ## 研究目標
 

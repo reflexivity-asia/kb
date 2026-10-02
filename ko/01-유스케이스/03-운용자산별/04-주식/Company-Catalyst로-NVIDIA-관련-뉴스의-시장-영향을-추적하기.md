@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Equities
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 1, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 # Company Catalyst로 NVIDIA 관련 뉴스의 시장 영향을 추적하기
 
@@ -27,6 +28,10 @@ publication_mode: faithful-source-preserving
 > 이 예시의 시장 맥락은 제공일 당시의 스냅샷입니다.
 
 원 자료의 사례는 NVIDIA가 Hugging Face를 인수한다는 Company Catalyst 항목을 따라갑니다.
+
+## 사용한 프롬프트
+
+제공 자료에서는 사용한 프롬프트의 정확한 문구를 확인할 수 없습니다.
 
 ## 이런 워크플로가 유용한 경우
 

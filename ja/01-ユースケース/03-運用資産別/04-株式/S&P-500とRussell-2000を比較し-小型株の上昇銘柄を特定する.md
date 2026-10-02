@@ -13,6 +13,7 @@ source_type: partner-provided-use-case
 asset_class: 株式
 roles: ロングオンリー・アセットマネージャー、ヘッジファンド Tier 2、ヘッジファンド Tier 3
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # S&P 500とRussell 2000を比較し、小型株の上昇銘柄を特定する
@@ -30,8 +31,7 @@ publication_mode: faithful-source-preserving
 
 > なお、元資料には画像は含まれていません。調査結果へのリンクは提供されていましたが、非公開のConversation URLのため本ページには掲載していません。あらかじめご了承ください。
 
-## 質問
-
+## 使用したプロンプト
 > 2026年1月から今日までのS&P 500とRussell 2000のパフォーマンスを比較、分析してください。Russell 2000採用銘柄のうち、最もパフォーマンスのいい銘柄5銘柄についてもピックアップして、株価上昇の理由を解説してください。
 
 元資料では、この質問に対する調査結果へのリンクが提供されていました。公開ページでは非公開のConversation URLを掲載していません。そのため、ここでは元の結果を推測して再構成せず、**この質問をどの順番で調べるか**を説明します。

@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Macro, Fixed Income, FX, Multi-Asset
 roles: Long-only Asset Manager, Hedge Fund Tier 1, Wealth Management / RIA
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # 在 FOMC 会议前建立加息情景框架
@@ -30,6 +31,10 @@ publication_mode: faithful-source-preserving
 原问题可概括为：考虑通胀、油价上涨和更广泛的宏观背景，FOMC 本周会议上，主席可能如何讨论潜在加息？
 
 ![FOMC 加息情景分析](../../../../assets/usecases/quick/RX-USECASE-0041/source-visuals.webp)
+
+## 使用的提示词
+
+> 在通胀、油价上涨以及更广泛的宏观背景下，本周FOMC会议上，主席Kevin Warsh可能会如何谈及加息的可能性？
 
 ## 研究目标
 

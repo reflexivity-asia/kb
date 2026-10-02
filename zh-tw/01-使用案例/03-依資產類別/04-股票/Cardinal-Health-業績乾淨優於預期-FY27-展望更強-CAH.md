@@ -16,6 +16,7 @@ canonical_path: usecases/byasset/equities/cardinal-health-clean-beat-stronger-fy
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=f8a6a84d-9e28-4a75-9a66-b6c151be8bf7
+prompt_status: not_provided
 -->
 
 # Cardinal Health：業績乾淨優於預期，FY27 展望更強 (CAH)
@@ -34,6 +35,10 @@ source_url: https://reflexivity.com/app/kg-insight?insightId=f8a6a84d-9e28-4a75-
 > 本案例是特定時點的平台輸出。用於目前投資判斷前，請先與最新市場資料核對；否則僅應作為說明性案例使用。
 
 **[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=f8a6a84d-9e28-4a75-9a66-b6c151be8bf7)**
+
+## 使用的提示詞
+
+提供資料中未載明實際使用的提示詞全文。
 
 ## 相關性
 

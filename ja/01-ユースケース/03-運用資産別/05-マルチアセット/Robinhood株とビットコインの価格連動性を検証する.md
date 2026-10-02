@@ -13,6 +13,7 @@ source_type: partner-provided-use-case
 asset_class: 株式、暗号資産、マルチアセット
 roles: ヘッジファンド Tier 1、ヘッジファンド Tier 2、マルチアセット運用
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # Robinhood株とビットコインの価格連動性を検証する
@@ -28,9 +29,8 @@ publication_mode: faithful-source-preserving
 **対象ユーザー:** ヘッジファンド Tier 1、ヘッジファンド Tier 2、マルチアセット運用
 > 本ページは株式会社QUICKから提供されたユースケースを、顧客名・宛先・メールアドレス・署名・非公開URL等を除き、質問から分析・結論へ進む元のストーリーを可能な限り保持して掲載しています。数値・市場環境は提供日時点のものです。
 
-## 質問
-
-**@HOODとビットコインの価格との相関を分析してください。**
+## 使用したプロンプト
+> @HOODとビットコインの価格との相関を分析してください。
 
 「@」の後にティッカーを入れて指定することもできます。「ロビンフッド」と企業名で入力する方法もありますが、似た名称の銘柄がある場合はティッカーを指定すると対象を特定しやすくなります。
 

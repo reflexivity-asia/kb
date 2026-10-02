@@ -16,6 +16,7 @@ canonical_path: usecases/byasset/equities/mastec-1-65b-superior-data-center-deal
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=f2915fc1-f1a7-452d-a550-b043d4be1b8b
+prompt_status: not_provided
 -->
 
 # MasTec：16.5 億美元 Superior / 數據中心交易 (MTZ)
@@ -34,6 +35,10 @@ source_url: https://reflexivity.com/app/kg-insight?insightId=f2915fc1-f1a7-452d-
 > 本案例是特定日期的平台輸出。用於目前投資判斷前，請先與最新市場數據核對；否則僅應作為說明性案例使用。
 
 **[在 Reflexivity 開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=f2915fc1-f1a7-452d-a550-b043d4be1b8b)**
+
+## 使用的提示詞
+
+提供資料中未列明實際使用的提示詞全文。
 
 ## 相關性
 

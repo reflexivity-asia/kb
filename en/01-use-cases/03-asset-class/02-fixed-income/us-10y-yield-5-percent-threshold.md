@@ -14,6 +14,7 @@ editorial_reviewed: 2026-09-27
 source_type: partner-provided-use-case
 asset_class: Fixed Income, Macro, Equities
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # Compare the 5% US 10-Year Treasury Threshold with the Past 20 Years
 
@@ -30,9 +31,8 @@ publication_mode: faithful-source-preserving
 
 > The source included one image but no Reflexivity Research link. The article and the provided image are reproduced here.
 
-## Question
-
-**How does the economic and financial-market impact change depending on whether US Treasury yields move above 5%? Analyze the current market using examples from the past 20 years.**
+## Prompt used
+> How does the economic and financial-market impact change depending on whether US Treasury yields move above 5%? Analyze the current market using examples from the past 20 years.
 
 ## What does 5% mean in this context?
 

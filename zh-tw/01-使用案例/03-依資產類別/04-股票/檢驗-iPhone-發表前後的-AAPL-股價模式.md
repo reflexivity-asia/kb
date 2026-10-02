@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Equities
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # 檢驗 iPhone 發表前後的 AAPL 股價模式
@@ -30,6 +31,12 @@ publication_mode: faithful-source-preserving
 > 分析過去五年新 iPhone 發表與 AAPL 股價之間的關係，也分析最新 Duo 發表後的市場反應。
 
 ![iPhone 發表前後的 AAPL 股價走勢](../../../../assets/usecases/quick/RX-USECASE-0046/source-visuals.webp)
+
+## 使用的提示詞
+
+> 本案例保留原始問題、歷史比較、反證與下一步邏輯。產品細節與市場數字均為原資料日期的快照。
+
+> 分析過去五年新 iPhone 發表與 AAPL 股價之間的關係，也分析最新 Duo 發表後的市場反應。
 
 ## 研究目標
 

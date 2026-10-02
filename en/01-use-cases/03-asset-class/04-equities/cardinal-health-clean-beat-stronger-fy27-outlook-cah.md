@@ -14,6 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=f8a6a84d-9e28-4a75
 canonical_path: "usecases/byasset/equities/cardinal-health-clean-beat-stronger-fy27-outlook-cah.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
+prompt_status: not_provided
 -->
 
 # Cardinal Health clean beat, stronger FY27 outlook (CAH)
@@ -32,6 +33,10 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=f8a6a84d-9e28-4a75-9a66-b6c151be8bf7)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Relevant
 

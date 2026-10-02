@@ -14,6 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=0b72cda9-18ac-423b
 canonical_path: "usecases/byasset/equities/instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
+prompt_status: not_provided
 -->
 
 # Instacart buys Arpalus to deepen shelf-intelligence stack (CART)
@@ -32,6 +33,10 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=0b72cda9-18ac-423b-86d4-8b04b7fe2394)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Relevant
 

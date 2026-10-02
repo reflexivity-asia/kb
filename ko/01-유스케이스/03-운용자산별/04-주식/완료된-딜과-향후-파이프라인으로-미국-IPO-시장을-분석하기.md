@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Equities, Macro
 roles: Long-only Asset Manager, Hedge Fund Tier 1, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # 완료된 딜과 향후 파이프라인으로 미국 IPO 시장을 분석하기
 
@@ -25,6 +26,8 @@ publication_mode: faithful-source-preserving
 **예상 이용자:** 롱온리 자산운용사, 헤지펀드, Tier 2, Tier 3
 
 > 거래규모, 상장 후 수익률, 향후 IPO 후보는 2026-09-10 당시의 관측 또는 보도상 기대이며 현재 확인값이 아닙니다.
+
+## 사용한 프롬프트
 
 > 올해 완료된 주요 미국 IPO를 정리하고 시장 영향을 분석해 주세요. 연말까지 보도되거나 예상되는 대형 IPO도 분석해 주세요.
 

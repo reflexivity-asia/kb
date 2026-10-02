@@ -14,6 +14,7 @@ source_url: "https://reflexivity.com/app/stream/focus?activeDrawer=insights&enti
 canonical_path: "usecases/byasset/equities/gulf-resources-analyst-sales-forecast-decline-gure.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
+prompt_status: not_provided
 -->
 
 # Gulf Resources analyst sales forecast decline (GURE)
@@ -32,6 +33,10 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=gure_nasd&activeInsight=1d6ec2d3-63bf-438b-b8bd-1b214f8f19af)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Relevant
 

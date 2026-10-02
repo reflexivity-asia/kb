@@ -12,6 +12,7 @@ source_text_status: canonicalized_from_platform_research_with_reviewed_editorial
 asset_class: Fixed Income (US Rates)
 roles: Fixed Income PM, Rates Investor, Relative-Value Investor
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 
 # 篩選美國殖利率曲線中的 Steepener 與 Flattener 候選
@@ -30,6 +31,10 @@ publication_mode: faithful-source-preserving
 > 這份來源是更正後的追蹤研究，而不是完整的原始研究包。本頁保留實際提供的更正篩選表與決策邏輯，不重建缺失的早期輸出。
 
 **[在 Reflexivity 中開啟這個研究範例 →](https://app.reflexivity.com/app/alfred?conversationId=7a3cccb2-8503-4530-b85b-34386f208480&mode=research&activeHistorySidebarCategory=all)**
+
+## 使用的提示詞
+
+提供資料中未載明實際使用的提示詞全文。
 
 ## 這份來源更正了什麼
 

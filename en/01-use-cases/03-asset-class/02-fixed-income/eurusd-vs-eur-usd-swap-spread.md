@@ -9,6 +9,7 @@ translation_status: canonical
 resource: Reflexivity Research conversation approved by content owner
 asset_class: Fixed Income, Rates, FX, Multi-Asset
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # Compare EUR/USD Moves with the EUR-vs-USD Swap Spread
@@ -26,6 +27,8 @@ publication_mode: faithful-source-preserving
 ## Research question
 
 Compare the movement in EUR/USD with the movement in the spread between EUR swaps and USD swaps, and examine how changes in FX correspond to changes in relative rates pricing.
+
+## Prompt used
 
 **Question:**
 

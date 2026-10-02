@@ -16,6 +16,7 @@ canonical_path: usecases/byasset/equities/arteris-ic-link-ai-chip-design-aip.md
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=c91f4ed8-e44b-4520-87d4-596f49b66cfe
+prompt_status: not_provided
 -->
 
 # Arteris / IC-Link：AI 芯片设计 (AIP)
@@ -34,6 +35,10 @@ source_url: https://reflexivity.com/app/kg-insight?insightId=c91f4ed8-e44b-4520-
 > 本案例是特定时点的平台输出。用于当前投资判断前，请先与最新市场数据核对；否则应仅作为说明性案例使用。
 
 **[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=c91f4ed8-e44b-4520-87d4-596f49b66cfe)**
+
+## 使用的提示词
+
+提供资料中未注明实际使用的提示词全文。
 
 ## 相关性
 

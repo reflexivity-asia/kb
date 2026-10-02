@@ -14,6 +14,7 @@ editorial_reviewed: 2026-09-27
 source_type: partner-provided-use-case
 asset_class: Equities, Fixed Income
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # Compare the Magnificent Seven's Financial Capacity and Rate Resilience
 
@@ -30,9 +31,8 @@ publication_mode: faithful-source-preserving
 
 > ### [Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=21bf31be-608b-4468-9697-9408b296d4dc&scrollTo=top)
 
-## Question
-
-**Compare the financial condition of the Magnificent Seven. Focus especially on funding and investment, and assess their resilience to changes in interest rates.**
+## Prompt used
+> Compare the financial condition of the Magnificent Seven. Focus especially on funding and investment, and assess their resilience to changes in interest rates.
 
 ## Where does their financial capacity differ?
 

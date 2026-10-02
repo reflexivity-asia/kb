@@ -16,6 +16,7 @@ canonical_path: use-cases/long-only-asset-manager/middleby-beat-and-raise-suppor
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=2eec06f6-3e35-4c79-b5ac-06c25801084b
+prompt_status: not_provided
 -->
 
 # Middleby：业绩超预期并上调指引，支持 pure-play 重置 (MIDD)
@@ -34,6 +35,10 @@ source_url: https://reflexivity.com/app/kg-insight?insightId=2eec06f6-3e35-4c79-
 > 本案例是特定时点的平台输出。用于当前投资判断前，请先与最新市场数据核对；否则应仅作为说明性案例使用。
 
 **[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=2eec06f6-3e35-4c79-b5ac-06c25801084b)**
+
+## 使用的提示词
+
+提供资料中未注明实际使用的提示词全文。
 
 ## 相关性
 

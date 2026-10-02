@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Macro, Fixed Income, Equities, FX
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 1
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # 建立 Jackson Hole 講話情境與可能市場反應
@@ -28,6 +29,10 @@ publication_mode: faithful-source-preserving
 > 本頁保留的是 **2026 年 8 月 27–29 日 Jackson Hole symposium 舉行前**所提供的情境分析。它應被視為事件前準備的案例，而不是目前預測，也不是事後依結果重建的分析。
 
 原始問題可概括為：在即將到來的 Jackson Hole symposium，投資人應重點關注誰的發言、有哪些合理情境，以及對股票與金融市場的影響可能有多大？
+
+## 使用的提示詞
+
+> 在即將舉行的Jackson Hole研討會上，投資人應重點關注誰的發言？可能有哪些情境？對股票及金融市場的影響可能有多大？
 
 ## 研究目標
 

@@ -14,6 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=2eec06f6-3e35-4c79
 canonical_path: "use-cases/long-only-asset-manager/middleby-beat-and-raise-supports-pure-play-reset-midd.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
+prompt_status: not_provided
 -->
 
 # Middleby beat and raise supports pure-play reset (MIDD)
@@ -31,6 +32,10 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=2eec06f6-3e35-4c79-b5ac-06c25801084b)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Relevant
 

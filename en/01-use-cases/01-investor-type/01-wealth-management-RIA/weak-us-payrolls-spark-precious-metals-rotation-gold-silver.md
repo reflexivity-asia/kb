@@ -14,6 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=c60cffb0-8926-444e
 canonical_path: "use-cases/wealth-management-ria/weak-us-payrolls-spark-precious-metals-rotation-gold-silver.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
+prompt_status: not_provided
 -->
 
 # Weak US payrolls spark precious-metals rotation (gold, silver)
@@ -31,6 +32,10 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=c60cffb0-8926-444e-bedd-088ede75e998)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Relevant
 

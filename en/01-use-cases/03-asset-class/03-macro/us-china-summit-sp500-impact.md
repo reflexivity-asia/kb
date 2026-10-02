@@ -14,6 +14,7 @@ editorial_reviewed: 2026-09-27
 source_type: partner-provided-use-case
 asset_class: Macro, Equities
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # Examine How the S&P 500 Moved Around US-China Summits
 
@@ -30,9 +31,8 @@ publication_mode: faithful-source-preserving
 
 > ### [Open this research example in Reflexivity →](https://app.reflexivity.com/alfred?mode=research&conversationId=299bed89-f45c-4b78-a9f9-68f7a6c63609&scrollTo=top)
 
-## Question
-
-**After US-China summits, did the US equity market move in response? Analyze the past 10 years.**
+## Prompt used
+> After US-China summits, did the US equity market move in response? Analyze the past 10 years.
 
 ## Over the past decade, the content of the meeting mattered more than the meeting itself
 

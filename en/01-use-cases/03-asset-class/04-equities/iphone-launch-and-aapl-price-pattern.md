@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Equities
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # Test AAPL's Price Pattern Around iPhone Launches
 
@@ -25,6 +26,8 @@ publication_mode: faithful-source-preserving
 **Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Funds
 
 > Product details and market figures in this example reflect the provided date.
+
+## Prompt used
 
 > Analyze the relationship between new iPhone announcements and AAPL's share price over the past five years. Also analyze the market reaction to the latest Duo announcement.
 

@@ -13,6 +13,7 @@ source_manifest: RX-USECASE-0069
 asset_class: Equities
 insight_type: Company Catalyst
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # 分析 NVIDIA 增加 1,500 億美元庫藏股授權的影響
 
@@ -26,6 +27,8 @@ publication_mode: faithful-source-preserving
 **主要資產：** 股票
 
 > 數字與市場環境均為來源資料當時的歷史快照。
+
+## 使用的提示詞
 
 > NVIDIA 新增 1,500 億美元庫藏股授權，這個規模代表什麼？與其他大型回購公告後的股價表現相比如何？
 

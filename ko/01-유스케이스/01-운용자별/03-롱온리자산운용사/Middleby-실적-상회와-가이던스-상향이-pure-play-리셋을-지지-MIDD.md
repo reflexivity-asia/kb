@@ -16,6 +16,7 @@ canonical_path: use-cases/long-only-asset-manager/middleby-beat-and-raise-suppor
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=2eec06f6-3e35-4c79-b5ac-06c25801084b
+prompt_status: not_provided
 -->
 
 # Middleby: 실적 상회와 가이던스 상향이 pure-play 리셋을 지지 (MIDD)
@@ -34,6 +35,10 @@ source_url: https://reflexivity.com/app/kg-insight?insightId=2eec06f6-3e35-4c79-
 > 이 예시는 특정 시점의 플랫폼 출력입니다. 현재 투자 판단에 사용하기 전에는 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=2eec06f6-3e35-4c79-b5ac-06c25801084b)**
+
+## 사용한 프롬프트
+
+제공 자료에서는 사용한 프롬프트의 정확한 문구를 확인할 수 없습니다.
 
 ## 관련성
 

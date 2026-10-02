@@ -16,6 +16,7 @@ canonical_path: use-cases/long-only-asset-manager/court-forces-verisk-back-into-
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=26e90af4-a5f3-4b3e-944b-588507c022a1
+prompt_status: not_provided
 -->
 
 # Verisk：法院要求其重新面對 AccuLynx 交易爭議 (VRSK)
@@ -34,6 +35,10 @@ source_url: https://reflexivity.com/app/kg-insight?insightId=26e90af4-a5f3-4b3e-
 > 本案例是特定日期的平台輸出。用於目前投資判斷前，請先與最新市場數據核對；否則僅應作為說明性案例使用。
 
 **[在 Reflexivity 開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=26e90af4-a5f3-4b3e-944b-588507c022a1)**
+
+## 使用的提示詞
+
+提供資料中未列明實際使用的提示詞全文。
 
 ## 相關性
 

@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Macro, Fixed Income, Equities, FX
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 1
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # Frame Jackson Hole Speech Scenarios and Possible Market Reactions
 
@@ -26,9 +27,8 @@ publication_mode: faithful-source-preserving
 
 > This page preserves a **pre-event** scenario analysis provided before the August 27–29, 2026 Jackson Hole symposium. It should be read as an example of event preparation, not as a current forecast or a hindsight reconstruction of what later occurred.
 
-## Question
-
-Whose remarks should investors focus on at the upcoming Jackson Hole symposium, what scenarios are plausible, and how large could the impact on equities and financial markets be?
+## Prompt used
+> Whose remarks should investors focus on at the upcoming Jackson Hole symposium, what scenarios are plausible, and how large could the impact on equities and financial markets be?
 
 ## Research objective
 

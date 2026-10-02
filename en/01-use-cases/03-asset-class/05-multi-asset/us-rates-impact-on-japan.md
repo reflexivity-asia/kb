@@ -10,6 +10,7 @@ translation_status: canonical
 source_type: partner-provided-use-case
 asset_class: fixed income, equities, FX, macro, multi-asset
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # Trace how higher US long-term rates transmit into Japanese markets
 
@@ -24,9 +25,8 @@ publication_mode: faithful-source-preserving
 
 > Market levels and interpretations in this example reflect the provided date.
 
-## Question
-
-US long-term interest rates have been rising. How could that affect Japanese monetary policy and the Japanese economy, and what does it imply for themes such as banks, real estate, and exporters?
+## Prompt used
+> US long-term interest rates have been rising. How could that affect Japanese monetary policy and the Japanese economy, and what does it imply for themes such as banks, real estate, and exporters?
 
 ## What the research is trying to establish
 

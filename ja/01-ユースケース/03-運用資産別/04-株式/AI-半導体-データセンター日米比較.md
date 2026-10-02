@@ -14,6 +14,7 @@ source_manifest: RX-USECASE-0072
 asset_class: 株式、マルチアセット
 insight_type: Scenario Insight
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # AI・半導体・データセンターの足元を日米で比較する
 
@@ -28,6 +29,8 @@ publication_mode: faithful-source-preserving
 **分析期間:** 2026-07-01〜2026-09-30
 
 > リターンは提供資料に記載された現地通貨ベースの価格騰落率で、配当は含みません。
+
+## 使用したプロンプト
 
 > AI、半導体、データセンターの関連株について、米国と日本それぞれの主要銘柄の過去3か月パフォーマンスを分析し、今後のシナリオを作成してください。
 

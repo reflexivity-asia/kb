@@ -13,6 +13,7 @@ source_manifest: RX-USECASE-0070
 asset_class: Fixed Income, FX, Macro
 insight_type: Scenario Insight
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # Analyze the Global Rates Outlook and the Implications for USD/JPY
 
@@ -26,6 +27,8 @@ publication_mode: faithful-source-preserving
 **Primary assets:** Fixed Income, FX, Macro
 
 > Figures and market conditions are historical snapshots from the supplied analysis, not current forecasts.
+
+## Prompt used
 
 > With US and European rates back near pre-financial-crisis levels and inflation still elevated, how might rates evolve? Use 30 years of history and examine the implications for rate differentials and USD/JPY.
 

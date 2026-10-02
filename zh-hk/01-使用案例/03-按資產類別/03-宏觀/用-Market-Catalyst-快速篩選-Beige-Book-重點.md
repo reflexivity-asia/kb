@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Macro, Equities, Fixed Income
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 1
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 
 # 用 Market Catalyst 快速篩選 Beige Book 重點
@@ -28,6 +29,10 @@ publication_mode: faithful-source-preserving
 > 本案例保留來源的工作流程及解說次序。
 
 來源以聯儲局 Beige Book 為例，展示如何利用 Market Catalyst 檢視重大新聞分析。
+
+## 使用的提示詞
+
+提供資料中未列明實際使用的提示詞全文。
 
 ## 甚麼時候適合使用
 

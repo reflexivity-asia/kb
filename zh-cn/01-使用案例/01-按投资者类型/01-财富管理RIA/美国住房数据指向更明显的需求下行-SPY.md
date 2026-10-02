@@ -16,6 +16,7 @@ canonical_path: use-cases/wealth-management-ria/u-s-housing-data-signal-a-sharpe
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd-bce3-3be908a48401
+prompt_status: not_provided
 -->
 
 # 美国住房数据指向更明显的需求下行 (SPY)
@@ -34,6 +35,10 @@ source_url: https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd-
 > 本案例是特定时点的平台输出。用于当前投资判断前，请先与最新市场数据核对；否则应仅作为说明性案例使用。
 
 **[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd-bce3-3be908a48401)**
+
+## 使用的提示词
+
+提供资料中未注明实际使用的提示词全文。
 
 ## 相关性
 

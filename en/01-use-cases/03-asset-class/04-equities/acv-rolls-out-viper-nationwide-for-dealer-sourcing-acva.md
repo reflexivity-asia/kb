@@ -14,6 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=f045e1af-ddc4-4f13
 canonical_path: "usecases/byasset/equities/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
+prompt_status: not_provided
 -->
 
 # ACV rolls out VIPER nationwide for dealer sourcing (ACVA)
@@ -32,6 +33,10 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=f045e1af-ddc4-4f13-8d2c-6ccf806a49f1)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Relevant
 

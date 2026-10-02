@@ -16,6 +16,7 @@ canonical_path: usecases/byasset/equities/xerox-unusually-large-selloff-xrx.md
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=xrx_nasd&activeInsight=e01d491b-c454-4e05-81be-bcaa9947735c
+prompt_status: not_provided
 -->
 
 # Xerox: 이례적으로 큰 폭의 매도 (XRX) — 강세 시그널
@@ -34,6 +35,10 @@ source_url: https://reflexivity.com/app/stream/focus?activeDrawer=insights&entit
 > 이 예시는 특정 시점의 플랫폼 출력입니다. 현재 투자 판단에 사용하기 전에는 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=xrx_nasd&activeInsight=e01d491b-c454-4e05-81be-bcaa9947735c)**
+
+## 사용한 프롬프트
+
+제공 자료에서는 사용한 프롬프트의 정확한 문구를 확인할 수 없습니다.
 
 ## 관련성
 

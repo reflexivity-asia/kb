@@ -12,6 +12,7 @@ source_text_status: canonicalized_from_platform_research_with_reviewed_editorial
 asset_class: Macro, Cross-Asset
 roles: CIO, Macro PM, Multi-Asset PM, Strategist
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 
 # Challenge a Strong-US-Economy Thesis from the Disconfirming Side
@@ -29,6 +30,10 @@ publication_mode: faithful-source-preserving
 > This page preserves the underlying Reflexivity research and its dated observations. It is a worked example of testing an investment thesis rather than a current macro forecast.
 
 **[Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=4fa62dde-58f4-4b3b-b433-837634dc84fb&scrollTo=top)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Starting question
 

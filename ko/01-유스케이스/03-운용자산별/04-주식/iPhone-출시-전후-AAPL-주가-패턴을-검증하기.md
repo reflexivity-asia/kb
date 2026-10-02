@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Equities
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # iPhone 출시 전후 AAPL 주가 패턴을 검증하기
 
@@ -25,6 +26,8 @@ publication_mode: faithful-source-preserving
 **예상 이용자:** 웰스매니지먼트 / RIA, 롱온리 자산운용사, 헤지펀드
 
 > 이 예시의 제품 정보와 시장 수치는 제공일 당시의 스냅샷입니다.
+
+## 사용한 프롬프트
 
 > 최근 5년간 신형 iPhone 발표와 AAPL 주가의 관계를 분석하고, 최신 Duo 발표에 대한 시장 반응도 분석해 주세요.
 

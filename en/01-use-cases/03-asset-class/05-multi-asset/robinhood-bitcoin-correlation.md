@@ -10,6 +10,7 @@ translation_status: canonical
 source_type: partner-provided-use-case
 asset_class: equities, crypto, multi-asset
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # Test the price relationship between Robinhood and Bitcoin
 
@@ -24,8 +25,7 @@ publication_mode: faithful-source-preserving
 
 > Figures and market observations in this example reflect the provided date.
 
-## Question
-
+## Prompt used
 > Analyze the correlation between @HOOD and the price of Bitcoin.
 
 Using a ticker after `@` can make entity resolution more precise when similar company names exist.

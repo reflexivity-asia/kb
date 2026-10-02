@@ -14,6 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=a78d51aa-a1b4-45bf
 canonical_path: "usecases/byasset/equities/us-ai-chip-export-curb-hits-semis-smh.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
+prompt_status: not_provided
 -->
 
 # US AI chip export curb hits semis (SMH)
@@ -32,6 +33,10 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=a78d51aa-a1b4-45bf-8174-a0e1e59963ca)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Relevant
 

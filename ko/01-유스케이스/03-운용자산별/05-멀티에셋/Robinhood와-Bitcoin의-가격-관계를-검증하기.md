@@ -10,6 +10,7 @@ translation_status: current
 source_type: partner-provided-use-case
 asset_class: equities, crypto, multi-asset
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # Robinhood와 Bitcoin의 가격 관계를 검증하기
 
@@ -24,8 +25,7 @@ publication_mode: faithful-source-preserving
 
 > 이 예시의 수치와 시장 관측은 제공일 당시의 스냅샷입니다.
 
-## 질문
-
+## 사용한 프롬프트
 > @HOOD와 Bitcoin 가격의 상관관계를 분석해 주세요.
 
 비슷한 기업명이 있을 때 `@` 뒤에 티커를 쓰면 엔티티 식별을 더 정확하게 만들 수 있습니다.

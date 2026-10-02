@@ -13,6 +13,7 @@ source_manifest: RX-USECASE-0068
 asset_class: Multi-Asset, Equities, Fixed Income
 insight_type: Market Catalyst
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 # Use the Market Leading Indicator to Compare Signals with Actual Market Moves
 
@@ -32,6 +33,10 @@ QUICK's example starts from the **Market Leading Indicator** shown at the upper-
 > The provided material did not include a direct Reflexivity link for this example.
 
 ![Market Leading Indicator dashboard overview](../../../../assets/use-cases/RX-USECASE-0068/01-market-leading-indicator-overview.webp)
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Workflow
 

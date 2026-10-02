@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Equities
 roles: Long-only Asset Manager, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # 比较 S&P 500 与 Russell 2000，并找出小盘股领涨者
@@ -27,8 +28,7 @@ publication_mode: faithful-source-preserving
 
 > QUICK 原资料提供了研究问题和一个私有 Research 结果链接。该私有结果并未公开。下文对工作流的说明属于**对原问题研究逻辑的编辑性澄清，并不是对不可访问 Research 输出的重构**。
 
-## 问题
-
+## 使用的提示词
 > 比较并分析从 2026 年 1 月至今 S&P 500 和 Russell 2000 的表现。然后找出 Russell 2000 中表现最好的五只成分股，并解释它们股价上涨的原因。
 
 ## 研究目标

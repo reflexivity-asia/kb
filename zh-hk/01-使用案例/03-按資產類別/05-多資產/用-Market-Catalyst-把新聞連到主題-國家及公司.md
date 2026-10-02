@@ -10,6 +10,7 @@ translation_status: current
 source_type: partner-provided-use-case
 asset_class: equities, macro, multi-asset
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 
 # 用 Market Catalyst 把新聞連到主題、國家及公司
@@ -24,6 +25,10 @@ publication_mode: faithful-source-preserving
 **主要資產：** 股票、宏觀、多資產
 
 > 本案例並移除客戶、收件人、簽名及私人連結資料。
+
+## 使用的提示詞
+
+提供資料中未列明實際使用的提示詞全文。
 
 ## 甚麼時候適合使用
 

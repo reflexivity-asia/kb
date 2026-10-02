@@ -16,6 +16,7 @@ canonical_path: use-cases/long-only-asset-manager/ppg-raises-quarterly-dividend-
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=244bc038-44f5-4292-93b3-def717033967
+prompt_status: not_provided
 -->
 
 # PPG：季度股息提高至 $0.74 (PPG)
@@ -34,6 +35,10 @@ source_url: https://reflexivity.com/app/kg-insight?insightId=244bc038-44f5-4292-
 > 本案例是特定日期的平台輸出。用於目前投資判斷前，請先與最新市場數據核對；否則僅應作為說明性案例使用。
 
 **[在 Reflexivity 開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=244bc038-44f5-4292-93b3-def717033967)**
+
+## 使用的提示詞
+
+提供資料中未列明實際使用的提示詞全文。
 
 ## 相關性
 

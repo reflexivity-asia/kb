@@ -10,6 +10,7 @@ translation_status: current
 source_type: partner-provided-use-case
 asset_class: equities, fixed income, multi-asset
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # 分析 hyperscaler 的表外義務
@@ -25,8 +26,7 @@ publication_mode: faithful-source-preserving
 
 > 原始資料提供的是私有 Research 連結。本公開頁面**不重建、不猜測**該私有結果，而是保留原始問題，並說明該問題所隱含的研究框架。
 
-## 問題
-
+## 使用的提示詞
 > 整理美國 hyperscaler 的表外債務。
 
 ## 研究需要先確認什麼

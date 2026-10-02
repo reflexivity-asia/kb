@@ -15,6 +15,7 @@ canonical_path: "usecases/byasset/equities/fortrea-unusually-large-selloff-ftre.
 translation_status: review-needed
 editorial_reviewed: 2026-09-27
 resource: "Reflexivity Insights Proof Set — Sales Enablement.docx"
+prompt_status: not_provided
 -->
 
 # Fortrea：異例の大幅下落 (FTRE) - 弱気シグナル
@@ -41,6 +42,10 @@ Reflexivityは過去14回の類似局面を抽出し、パターン品質を5/8�
 PMはこの分布を見たうえで、すぐに逆張りするのか、底固めや新たなファンダメンタル材料を待つのかを判断できます。単一の値動きをストーリーに変えるのではなく、履歴上の位置づけを先に確認することがこのユースケースのポイントです。
 
 **[Reflexivityでこの調査例を開く →](https://reflexivity.com/app/kg-insight?insightId=a5e0b764-a45f-4f90-a3be-ad2c9109f241)**
+
+## 使用したプロンプト
+
+提供資料では、使用したプロンプトの全文は確認できません。
 
 ## Reflexivityで確認する
 

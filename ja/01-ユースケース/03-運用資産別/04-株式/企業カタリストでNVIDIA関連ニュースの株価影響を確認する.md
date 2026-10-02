@@ -13,6 +13,7 @@ source_type: partner-provided-use-case
 asset_class: 株式
 roles: ウェルスマネジメント / RIA、ロングオンリー・アセットマネージャー、ヘッジファンド Tier 1、ヘッジファンド Tier 2、ヘッジファンド Tier 3
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 
 # 企業カタリストでNVIDIA関連ニュースの株価影響を確認する
@@ -31,6 +32,10 @@ publication_mode: faithful-source-preserving
 Company Catalystでは、ニュースの要点から市場への波及まで順番に確認できます。
 
 ### NVIDIA、129億ドルでHugging Faceを買収
+
+## 使用したプロンプト
+
+提供資料では、使用したプロンプトの全文は確認できません。
 
 ## この機能を使う場面
 

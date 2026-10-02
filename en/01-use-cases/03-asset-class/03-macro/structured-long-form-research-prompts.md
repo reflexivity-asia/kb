@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Macro, Equities, Multi-Asset
 roles: Long-only Asset Manager, Hedge Fund Tier 1, Hedge Fund Tier 2
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 # Structure Complex Research with Long-Form Instructions
 
@@ -25,6 +26,10 @@ publication_mode: faithful-source-preserving
 **Intended users:** Long-only Asset Managers, Hedge Funds
 
 > These examples focus on reusable long-form research prompt patterns.
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## When this approach is useful
 

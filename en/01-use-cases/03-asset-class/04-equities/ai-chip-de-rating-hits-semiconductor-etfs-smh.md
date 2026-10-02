@@ -14,6 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=0474081c-861c-4cde
 canonical_path: "usecases/byasset/equities/ai-chip-de-rating-hits-semiconductor-etfs-smh.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
+prompt_status: not_provided
 -->
 
 # AI-chip de-rating hits semiconductor ETFs (SMH)
@@ -32,6 +33,10 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=0474081c-861c-4cde-b075-59834514aba0)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Relevant
 

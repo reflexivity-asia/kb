@@ -12,6 +12,7 @@ source_text_status: canonicalized_from_platform_research_with_reviewed_editorial
 asset_class: Fixed Income (US Rates)
 roles: Fixed Income PM, Rates Investor, Relative-Value Investor
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 
 # Screen the US Yield Curve for Steepener and Flattener Candidates
@@ -29,6 +30,10 @@ publication_mode: faithful-source-preserving
 > This source is a correction follow-up, not the complete original research package. The page preserves the corrected screening table and decision logic that were actually provided rather than reconstructing missing earlier output.
 
 **[Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?conversationId=7a3cccb2-8503-4530-b85b-34386f208480&mode=research&activeHistorySidebarCategory=all)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## What this follow-up corrects
 

@@ -16,6 +16,7 @@ canonical_path: use-cases/long-only-asset-manager/sysco-beats-and-lifts-the-fy27
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=5f4fe1ef-07db-480b-955d-7f145a8cf723
+prompt_status: not_provided
 -->
 
 # Sysco：业绩超预期并改善 FY27 预期 (SYY)
@@ -34,6 +35,10 @@ source_url: https://reflexivity.com/app/kg-insight?insightId=5f4fe1ef-07db-480b-
 > 本案例是特定时点的平台输出。用于当前投资判断前，请先与最新市场数据核对；否则应仅作为说明性案例使用。
 
 **[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=5f4fe1ef-07db-480b-955d-7f145a8cf723)**
+
+## 使用的提示词
+
+提供资料中未注明实际使用的提示词全文。
 
 ## 相关性
 

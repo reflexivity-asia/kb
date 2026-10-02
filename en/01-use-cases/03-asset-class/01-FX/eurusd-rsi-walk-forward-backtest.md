@@ -11,6 +11,7 @@ source_text_status: canonicalized_from_platform_research_with_reviewed_editorial
 asset_class: FX (EUR/USD)
 roles: FX PM, Quant, Systematic Investor
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 
 # Test a EUR/USD RSI Strategy Across Parameters and Out of Sample
@@ -28,6 +29,10 @@ publication_mode: faithful-source-preserving
 > This page preserves the underlying Reflexivity research while incorporating the reasoning bridges validated in the reviewed Japanese edition. Figures and market conditions are historical snapshots from the original research, not current investment advice.
 
 **[Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Research objective
 

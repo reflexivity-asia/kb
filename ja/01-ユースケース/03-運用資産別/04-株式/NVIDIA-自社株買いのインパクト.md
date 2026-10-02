@@ -14,6 +14,7 @@ source_manifest: RX-USECASE-0069
 asset_class: 株式
 insight_type: Company Catalyst
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # NVIDIAの1500億ドル自社株買い増額のインパクトを分析する
 
@@ -27,6 +28,8 @@ publication_mode: faithful-source-preserving
 **主な運用資産・領域:** 株式
 
 > 数値や市場環境は提供日時点のものです。
+
+## 使用したプロンプト
 
 > NVIDIAが1500億ドルの自社株買いを発表しましたが、このインパクトについて分析してください。他にも大規模な自社株買いの例があれば、その後の株価の動きなどを踏まえて解説してください。
 

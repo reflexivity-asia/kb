@@ -13,6 +13,7 @@ source_manifest: RX-USECASE-0069
 asset_class: Equities
 insight_type: Company Catalyst
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # 分析 NVIDIA 增加 1500 亿美元股票回购授权的影响
 
@@ -26,6 +27,8 @@ publication_mode: faithful-source-preserving
 **主要资产：** 股票
 
 > 数字与市场环境均为原资料时点的历史快照。
+
+## 使用的提示词
 
 > NVIDIA 新增 1500 亿美元股票回购授权，这一规模意味着什么？与其他大型回购公告后的股价表现相比如何？
 

@@ -10,6 +10,7 @@ translation_status: current
 source_type: partner-provided-use-case
 asset_class: equities, macro, multi-asset
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 # Market Catalyst로 뉴스를 테마·국가·기업까지 연결하기
 
@@ -23,6 +24,10 @@ publication_mode: faithful-source-preserving
 **주요 운용자산:** 주식, 매크로, 멀티에셋
 
 > 이 페이지는 제공일 당시의 워크플로 예시입니다.
+
+## 사용한 프롬프트
+
+제공 자료에서는 사용한 프롬프트의 정확한 문구를 확인할 수 없습니다.
 
 ## 언제 쓰는가
 

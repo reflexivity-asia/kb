@@ -16,6 +16,7 @@ canonical_path: usecases/byasset/equities/unh-q2-beat-and-guidance-raise-unh.md
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=281b5785-16b7-4f17-a5ae-621b8b3ec534
+prompt_status: not_provided
 -->
 
 # UNH：Q2 超预期并上调指引 (UNH)
@@ -34,6 +35,10 @@ source_url: https://reflexivity.com/app/kg-insight?insightId=281b5785-16b7-4f17-
 > 本案例是特定时点的平台输出。用于当前投资判断前，请先与最新市场数据核对；否则应仅作为说明性案例使用。
 
 **[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=281b5785-16b7-4f17-a5ae-621b8b3ec534)**
+
+## 使用的提示词
+
+提供资料中未注明实际使用的提示词全文。
 
 ## 相关性
 

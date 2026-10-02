@@ -14,6 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=26e90af4-a5f3-4b3e
 canonical_path: "use-cases/long-only-asset-manager/court-forces-verisk-back-into-acculynx-deal-fight-vrsk.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
+prompt_status: not_provided
 -->
 
 # Court forces Verisk back into AccuLynx deal fight (VRSK)
@@ -31,6 +32,10 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=26e90af4-a5f3-4b3e-944b-588507c022a1)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Relevant
 

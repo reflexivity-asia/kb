@@ -16,6 +16,7 @@ canonical_path: usecases/byasset/equities/xerox-unusually-large-selloff-xrx.md
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=xrx_nasd&activeInsight=e01d491b-c454-4e05-81be-bcaa9947735c
+prompt_status: not_provided
 -->
 
 # Xerox：異常大幅拋售 (XRX)
@@ -34,6 +35,10 @@ source_url: https://reflexivity.com/app/stream/focus?activeDrawer=insights&entit
 > 本案例是特定時點的平台輸出。用於目前投資判斷前，請先與最新市場資料核對；否則僅應作為說明性案例使用。
 
 **[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=xrx_nasd&activeInsight=e01d491b-c454-4e05-81be-bcaa9947735c)**
+
+## 使用的提示詞
+
+提供資料中未載明實際使用的提示詞全文。
 
 ## 相關性
 

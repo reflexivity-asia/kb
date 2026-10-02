@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Macro, Fixed Income, FX, Multi-Asset
 roles: Long-only Asset Manager, Hedge Fund Tier 1, Wealth Management / RIA
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # 在 FOMC 會議前建立加息情景
@@ -24,6 +25,8 @@ publication_mode: faithful-source-preserving
 **提供日期：** 2026-09-15  
 **主要資產：** 宏觀、固定收益、FX、多資產  
 **適用使用者：** Long-only Asset Manager、對沖基金、財富管理 / RIA
+
+## 使用的提示詞
 
 > 本頁保留的是 **2026 年 9 月 15–16 日 FOMC 會議前**的有日期情景分析，而不是當前預測。來源中的概率及宏觀讀數均是當時的快照。
 

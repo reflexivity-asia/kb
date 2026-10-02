@@ -9,6 +9,7 @@ translation_status: current
 resource: Reflexivity Research conversation approved by content owner
 asset_class: Fixed Income, Rates, FX, Multi-Asset
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # 比较 EUR/USD 与欧元—美元掉期利差的变化
@@ -24,9 +25,8 @@ publication_mode: faithful-source-preserving
 
 **[在 Reflexivity 中打开这个研究示例 →](https://app.reflexivity.com/app/alfred?conversationId=13b510d0-1f45-45bd-bbbf-c2c978fd3b9a&mode=research&activeHistorySidebarCategory=all)**
 
-## 研究问题
-
-比较 EUR/USD 的变化与欧元掉期和美元掉期之间利差的变化，观察汇率变化如何对应相对利率定价的变化。
+## 使用的提示词
+> 比较 EUR/USD 的变化与欧元掉期和美元掉期之间利差的变化，观察汇率变化如何对应相对利率定价的变化。
 
 原问题：
 

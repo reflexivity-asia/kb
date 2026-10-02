@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Equities
 roles: Long-only Asset Manager, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # 比較 S&P 500 與 Russell 2000，並找出小型股領先者
@@ -27,9 +28,8 @@ publication_mode: faithful-source-preserving
 
 > QUICK 原始材料只提供研究問題及一個私人 Research 結果連結。該結果並非公開可存取。以下內容是**對原問題研究邏輯的公開編輯說明，不是對不可存取 Research 輸出的重建或猜測**。
 
-## 問題
-
-比較並分析 2026 年 1 月至當時 S&P 500 與 Russell 2000 的表現，再找出 Russell 2000 中表現最好的五隻成分股，並解釋其股價上升原因。
+## 使用的提示詞
+> 比較並分析 2026 年 1 月至當時 S&P 500 與 Russell 2000 的表現，再找出 Russell 2000 中表現最好的五隻成分股，並解釋其股價上升原因。
 
 ## 研究目標
 

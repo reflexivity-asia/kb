@@ -14,6 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=0095138f-af96-497a
 canonical_path: "use-cases/wealth-management-ria/trump-threatens-spain-trade-ties-ewp.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
+prompt_status: not_provided
 -->
 
 # Trump Threatens Spain Trade Ties (EWP)
@@ -31,6 +32,10 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=0095138f-af96-497a-aea3-d463433a76b2)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Relevant
 

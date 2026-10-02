@@ -15,6 +15,7 @@ canonical_path: "usecases/byasset/equities/acv-rolls-out-viper-nationwide-for-de
 translation_status: review-needed
 editorial_reviewed: 2026-09-27
 resource: "Reflexivity Insights Proof Set — Sales Enablement.docx"
+prompt_status: not_provided
 -->
 
 # ACV：VIPERを全国展開し、ディーラー仕入れを強化 (ACVA) - 中立
@@ -41,6 +42,10 @@ VIPERは、設置時に大がかりなスペース変更を必要とせず、60�
 今後見るべきポイントは、ディーラーグループへの導入状況、設置台数、そしてサービスレーンからの車両仕入れがACVのマーケットプレイス取引量にどの程度つながるかです。株価下落にすぐ逆張りするかどうかよりも、製品展開が実際のKPIに変わる過程を追うことがこのユースケースの中心です。
 
 **[Reflexivityでこの調査例を開く →](https://reflexivity.com/app/kg-insight?insightId=f045e1af-ddc4-4f13-8d2c-6ccf806a49f1)**
+
+## 使用したプロンプト
+
+提供資料では、使用したプロンプトの全文は確認できません。
 
 ## Reflexivityで確認する
 

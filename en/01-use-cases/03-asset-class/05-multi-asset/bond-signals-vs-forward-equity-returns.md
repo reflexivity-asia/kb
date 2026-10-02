@@ -10,6 +10,7 @@ translation_status: canonical
 original_language: en
 source_text_status: canonicalized_from_reviewed_ja_rendering
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 
 # Test whether bond-market signals relate to forward equity returns
@@ -27,6 +28,10 @@ publication_mode: faithful-source-preserving
 > This page preserves the logic of an actual Reflexivity research output rather than reducing it to a conclusion. The figures and market observations are tied to the original research date.
 
 **[Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?conversationId=1ae89f55-bd78-4dfe-a303-65f8d4843d05&mode=research&activeHistorySidebarCategory=all)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## What the research tested
 

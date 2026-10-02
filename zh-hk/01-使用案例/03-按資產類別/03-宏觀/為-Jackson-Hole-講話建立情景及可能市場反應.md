@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Macro, Fixed Income, Equities, FX
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 1
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # 為 Jackson Hole 講話建立情景及可能市場反應
@@ -24,6 +25,8 @@ publication_mode: faithful-source-preserving
 **提供日期：** 2026-08-21  
 **主要資產：** 宏觀、固定收益、股票、FX  
 **適用使用者：** 財富管理 / RIA、Long-only Asset Manager、對沖基金
+
+## 使用的提示詞
 
 > 本頁保留的是 **2026 年 8 月 27–29 日 Jackson Hole symposium 舉行前**提供的情景分析。應把它視為事件前準備案例，而不是當前預測，也不是事後按結果重建的分析。
 

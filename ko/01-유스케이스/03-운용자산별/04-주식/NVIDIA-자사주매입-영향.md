@@ -13,6 +13,7 @@ source_manifest: RX-USECASE-0069
 asset_class: Equities
 insight_type: Company Catalyst
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # NVIDIA의 1,500억 달러 자사주 매입 확대 영향을 분석하기
 
@@ -26,6 +27,8 @@ publication_mode: faithful-source-preserving
 **주요 자산:** 주식
 
 > 수치와 시장 환경은 제공 당시의 과거 스냅샷입니다.
+
+## 사용한 프롬프트
 
 > NVIDIA가 1,500억 달러의 자사주 매입 한도를 추가로 발표했다. 그 영향은 무엇이며, 다른 대규모 자사주 매입 발표 이후의 주가 반응과 비교하면 어떤가?
 

@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Equities, Macro
 roles: Long-only Asset Manager, Hedge Fund Tier 1, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # Analyze the US IPO Market Through Completed Deals and the Forward Pipeline
 
@@ -25,6 +26,8 @@ publication_mode: faithful-source-preserving
 **Intended users:** Long-only Asset Managers, Hedge Funds
 
 > Deal sizes, post-IPO returns, and future IPO candidates are observations or reported expectations from September 10, 2026, not current confirmations.
+
+## Prompt used
 
 > List the major US IPOs completed this year and analyze their market impact. Also analyze the large IPOs reported or expected before year-end.
 

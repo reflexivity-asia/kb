@@ -12,6 +12,7 @@ source_text_status: canonicalized_from_platform_research_with_reviewed_editorial
 asset_class: Fixed Income (US Rates), Macro
 roles: Fixed Income PM, Macro Strategist, Asset Allocator
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # Test Whether the US 2s10s Curve Historically Predicted Recessions
@@ -30,9 +31,8 @@ publication_mode: faithful-source-preserving
 
 **[Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?conversationId=5c412f9a-ea78-4c81-8911-f0419ddeefd8&mode=research&activeHistorySidebarCategory=all)**
 
-## Research question
-
-**Has an inversion of the US 2-year / 10-year Treasury spread historically predicted a recession nine to twelve months later?**
+## Prompt used
+> Has an inversion of the US 2-year / 10-year Treasury spread historically predicted a recession nine to twelve months later?
 
 The source examines 1976–2025 and tests the familiar yield-curve rule across several lead windows. The broader purpose is to ask whether a widely repeated market heuristic survives an explicit data test — including false positives and missed recessions.
 

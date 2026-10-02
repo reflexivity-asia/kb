@@ -9,6 +9,7 @@ translation_status: current
 resource: Reflexivity Research conversation approved by content owner
 asset_class: Fixed Income, Rates, FX, Multi-Asset
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # 比較 EUR/USD 走勢與 EUR／USD Swap Spread
@@ -24,9 +25,8 @@ publication_mode: faithful-source-preserving
 
 **[在 Reflexivity 中開啟這個研究示例 →](https://app.reflexivity.com/app/alfred?conversationId=13b510d0-1f45-45bd-bbbf-c2c978fd3b9a&mode=research&activeHistorySidebarCategory=all)**
 
-## 研究問題
-
-比較 EUR/USD 的變動，與 EUR swaps 和 USD swaps 之間 spread 的變動，並檢視外匯變化如何對應相對利率定價的變化。
+## 使用的提示詞
+> 比較 EUR/USD 的變動，與 EUR swaps 和 USD swaps 之間 spread 的變動，並檢視外匯變化如何對應相對利率定價的變化。
 
 原始問題：
 

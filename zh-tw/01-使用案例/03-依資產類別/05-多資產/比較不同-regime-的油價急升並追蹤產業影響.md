@@ -10,6 +10,7 @@ translation_status: current
 source_type: partner-provided-use-case
 asset_class: commodities, equities, macro, multi-asset
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # 比較不同 regime 的油價急升並追蹤產業影響
@@ -25,9 +26,8 @@ publication_mode: faithful-source-preserving
 
 > 本案例同時移除客戶、收件人、簽名與私有連結資訊。市場水準與解讀均為原資料日期的快照，不是目前預測。
 
-## 問題
-
-3 月美伊衝突後的油價上漲，與 8 月以來的上漲在驅動因素上有何不同？油價上升又影響了哪些產業與主要公司？
+## 使用的提示詞
+> 3 月美伊衝突後的油價上漲，與 8 月以來的上漲在驅動因素上有何不同？油價上升又影響了哪些產業與主要公司？
 
 ![油價環境與受影響產業比較](../../../../assets/usecases/quick/RX-USECASE-0045/source-visuals.webp)
 

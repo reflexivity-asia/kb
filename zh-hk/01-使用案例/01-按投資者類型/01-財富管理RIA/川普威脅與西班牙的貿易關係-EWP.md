@@ -16,6 +16,7 @@ canonical_path: use-cases/wealth-management-ria/trump-threatens-spain-trade-ties
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=0095138f-af96-497a-aea3-d463433a76b2
+prompt_status: not_provided
 -->
 
 # 川普威脅與西班牙的貿易關係 (EWP)
@@ -34,6 +35,10 @@ source_url: https://reflexivity.com/app/kg-insight?insightId=0095138f-af96-497a-
 > 本案例是特定日期的平台輸出。用於目前投資判斷前，請先與最新市場數據核對；否則僅應作為說明性案例使用。
 
 **[在 Reflexivity 開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=0095138f-af96-497a-aea3-d463433a76b2)**
+
+## 使用的提示詞
+
+提供資料中未列明實際使用的提示詞全文。
 
 ## 相關性
 

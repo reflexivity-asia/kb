@@ -13,6 +13,7 @@ source_manifest: RX-USECASE-0072
 asset_class: Equities, Multi-Asset
 insight_type: Scenario Insight
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # 比較美國與日本的 AI、半導體與資料中心主題
 
@@ -27,6 +28,8 @@ publication_mode: faithful-source-preserving
 **分析期間：** 2026-07-01 至 2026-09-30
 
 > 報酬率為來源中的本幣價格報酬，不含股息。
+
+## 使用的提示詞
 
 > 比較美國與日本 AI、半導體、資料中心相關主要股票過去三個月的表現，並建立後續情境。
 

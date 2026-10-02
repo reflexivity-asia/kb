@@ -10,6 +10,7 @@ translation_status: canonical
 original_language: en
 source_text_status: canonicalized_from_reviewed_ja_rendering
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 
 # Trace hawkish-policy beneficiaries from macro channels to companies
@@ -27,6 +28,10 @@ publication_mode: faithful-source-preserving
 > This page preserves the structure and limitations of an actual Reflexivity research output. The point is not to claim that every graph link implies direct earnings sensitivity, but to show how a macro view can be translated into a research universe.
 
 **[Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?conversationId=9e6182f9-1853-4fdd-8ec4-f5b2a42fcfab&mode=research&activeHistorySidebarCategory=all)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Research question
 

@@ -10,6 +10,7 @@ translation_status: canonical
 source_type: partner-provided-use-case
 asset_class: equities, fixed income, multi-asset
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # Analyze hyperscaler off-balance-sheet obligations
 
@@ -24,8 +25,7 @@ publication_mode: faithful-source-preserving
 
 > A Research result was provided but is not published here. This page therefore focuses on the research framework rather than result-level findings.
 
-## Question
-
+## Prompt used
 > Summarize the off-balance-sheet debt of US hyperscalers.
 
 ## What the research needs to establish

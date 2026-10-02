@@ -11,6 +11,7 @@ source_text_status: localized_from_en_canonical
 asset_class: FX (EUR/USD)
 roles: FX PM, Quant, Systematic Investor
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 
 # EUR/USD RSI 전략을 파라미터와 아웃오브샘플로 검증하기
@@ -29,6 +30,10 @@ publication_mode: faithful-source-preserving
 > 이 사례의 수치와 시장 환경은 원 리서치 당시의 과거 스냅샷이며 현재 투자 조언이 아닙니다.
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)**
+
+## 사용한 프롬프트
+
+제공 자료에서는 사용한 프롬프트의 정확한 문구를 확인할 수 없습니다.
 
 ## 조사 목적
 

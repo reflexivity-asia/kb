@@ -14,6 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=a5e0b764-a45f-4f90
 canonical_path: "usecases/byasset/equities/fortrea-unusually-large-selloff-ftre.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
+prompt_status: not_provided
 -->
 
 # Fortrea unusually large selloff (FTRE)
@@ -32,6 +33,10 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=a5e0b764-a45f-4f90-a3be-ad2c9109f241)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Relevant
 

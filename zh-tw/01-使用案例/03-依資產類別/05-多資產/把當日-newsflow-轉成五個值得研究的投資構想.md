@@ -8,6 +8,7 @@ status: published
 translation_status: current
 resource: Reflexivity Research conversation approved by content owner
 source_text_status: canonicalized_from_reviewed_ja_rendering
+prompt_status: present
 -->
 
 # 把當日 newsflow 轉成五個值得研究的投資構想
@@ -23,9 +24,8 @@ source_text_status: canonicalized_from_reviewed_ja_rendering
 
 **[在 Reflexivity 中開啟這個研究範例 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=98829b32-be9b-4e02-8064-0901c5b6d28b&scrollTo=top)**
 
-## 研究問題
-
-閱讀當日新聞，將大量資訊收斂成五個值得進一步研究的投資構想。
+## 使用的提示詞
+> 閱讀當日新聞，將大量資訊收斂成五個值得進一步研究的投資構想。
 
 原始 prompt：
 

@@ -14,6 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=b399a5e0-60b3-4bec
 canonical_path: "use-cases/long-only-asset-manager/enerpac-buys-sfe-group-472m-epac.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
+prompt_status: not_provided
 -->
 
 # Enerpac buys SFE Group $472M (EPAC)
@@ -31,6 +32,10 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=b399a5e0-60b3-4bec-ab37-75b77577727a)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Relevant
 

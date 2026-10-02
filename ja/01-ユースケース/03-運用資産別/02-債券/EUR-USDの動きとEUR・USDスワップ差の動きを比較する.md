@@ -10,6 +10,7 @@ translation_status: local-only
 revised: 2026-09-27
 editorial_reviewed: 2026-09-27
 resource: Reflexivity Research conversation approved by content owner
+prompt_status: present
 -->
 
 # EUR/USDの動きとEUR・USDスワップ差の動きを比較する
@@ -24,6 +25,10 @@ resource: Reflexivity Research conversation approved by content owner
 **主な運用資産:** 債券、金利、FX、マルチアセット
 
 **[Reflexivityでこの調査例を開く →](https://app.reflexivity.com/app/alfred?conversationId=13b510d0-1f45-45bd-bbbf-c2c978fd3b9a&mode=research&activeHistorySidebarCategory=all)**
+
+## 使用したプロンプト
+
+> EURUSDの動きと、EURスワップ対USDスワップのスプレッドの動きを比較してください。
 
 ## 調査の問い
 

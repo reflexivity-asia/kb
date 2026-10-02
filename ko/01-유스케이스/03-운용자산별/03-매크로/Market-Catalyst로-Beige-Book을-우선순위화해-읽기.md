@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Macro, Equities, Fixed Income
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 1
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 # Market Catalyst로 Beige Book을 우선순위화해 읽기
 
@@ -27,6 +28,10 @@ publication_mode: faithful-source-preserving
 > 이 페이지는 제공일 당시의 워크플로 예시입니다.
 
 원 자료는 Federal Reserve Beige Book을 예로 들어 Market Catalyst에서 주요 뉴스 분석을 확인하는 방법을 보여줍니다.
+
+## 사용한 프롬프트
+
+제공 자료에서는 사용한 프롬프트의 정확한 문구를 확인할 수 없습니다.
 
 ## 이런 워크플로가 유용한 경우
 

@@ -14,6 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd
 canonical_path: "use-cases/wealth-management-ria/u-s-housing-data-signal-a-sharper-demand-downshift-spy.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
+prompt_status: not_provided
 -->
 
 # U.S. housing data signal a sharper demand downshift (SPY)
@@ -31,6 +32,10 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd-bce3-3be908a48401)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Relevant
 

@@ -16,6 +16,7 @@ canonical_path: usecases/byasset/equities/palantir-beat-sharpens-ai-software-dem
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=2b32e10c-7ca1-49ee-b740-2bda079f6579
+prompt_status: not_provided
 -->
 
 # Palantir 실적 호조가 AI 소프트웨어 수요 리드스루 강화 (PLTR)
@@ -34,6 +35,10 @@ source_url: https://reflexivity.com/app/kg-insight?insightId=2b32e10c-7ca1-49ee-
 > 이 예시는 특정 시점의 플랫폼 출력입니다. 현재 투자 판단에 사용하기 전에는 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=2b32e10c-7ca1-49ee-b740-2bda079f6579)**
+
+## 사용한 프롬프트
+
+제공 자료에서는 사용한 프롬프트의 정확한 문구를 확인할 수 없습니다.
 
 ## 관련성
 

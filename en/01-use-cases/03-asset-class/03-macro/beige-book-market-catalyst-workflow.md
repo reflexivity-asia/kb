@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Macro, Equities, Fixed Income
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 1
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 # Use Market Catalyst to Triage the Beige Book
 
@@ -27,6 +28,10 @@ publication_mode: faithful-source-preserving
 > This is a dated workflow example.
 
 The source demonstrates using Market Catalyst to review major news analysis, with the Federal Reserve Beige Book as the example event.
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## When this workflow is useful
 

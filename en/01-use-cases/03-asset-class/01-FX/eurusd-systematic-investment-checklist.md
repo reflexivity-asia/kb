@@ -12,6 +12,7 @@ source_text_status: canonicalized_from_platform_research_with_reviewed_editorial
 asset_class: FX (EUR/USD)
 roles: FX PM, Macro PM, Multi-Asset Investor
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 
 # Turn a EUR/USD Investment View into a Systematic Checklist
@@ -29,6 +30,10 @@ publication_mode: faithful-source-preserving
 > This page preserves the research logic and dated market observations from the source while incorporating the reasoning bridges validated in the reviewed Japanese edition. Figures and market conditions are historical snapshots from the original research, not current investment advice.
 
 **[Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Research objective
 

@@ -14,6 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=281b5785-16b7-4f17
 canonical_path: "usecases/byasset/equities/unh-q2-beat-and-guidance-raise-unh.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
+prompt_status: not_provided
 -->
 
 # UNH Q2 beat and guidance raise (UNH)
@@ -32,6 +33,10 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=281b5785-16b7-4f17-a5ae-621b8b3ec534)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Relevant
 

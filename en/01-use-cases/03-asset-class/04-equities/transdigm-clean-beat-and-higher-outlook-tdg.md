@@ -14,6 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=601e0300-50c3-4ed9
 canonical_path: "usecases/byasset/equities/transdigm-clean-beat-and-higher-outlook-tdg.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
+prompt_status: not_provided
 -->
 
 # TransDigm clean beat and higher outlook (TDG)
@@ -32,6 +33,10 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=601e0300-50c3-4ed9-900c-82627746f1ec)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Relevant
 

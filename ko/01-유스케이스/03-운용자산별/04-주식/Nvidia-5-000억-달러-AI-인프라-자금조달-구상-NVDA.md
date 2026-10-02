@@ -16,6 +16,7 @@ canonical_path: usecases/byasset/equities/nvidia-launches-500b-ai-infrastructure
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=37ec34a5-3c1d-40cc-b7de-76ea7f842999
+prompt_status: not_provided
 -->
 
 # Nvidia: 5,000억 달러 AI 인프라 자금조달 구상 (NVDA)
@@ -34,6 +35,10 @@ source_url: https://reflexivity.com/app/kg-insight?insightId=37ec34a5-3c1d-40cc-
 > 이 예시는 특정 시점의 플랫폼 출력입니다. 현재 투자 판단에 사용하기 전에는 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=37ec34a5-3c1d-40cc-b7de-76ea7f842999)**
+
+## 사용한 프롬프트
+
+제공 자료에서는 사용한 프롬프트의 정확한 문구를 확인할 수 없습니다.
 
 ## 관련성
 

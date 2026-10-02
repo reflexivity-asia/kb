@@ -14,6 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=f2915fc1-f1a7-452d
 canonical_path: "usecases/byasset/equities/mastec-1-65b-superior-data-center-deal-mtz.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
+prompt_status: not_provided
 -->
 
 # MasTec $1.65B Superior / data-center deal (MTZ)
@@ -32,6 +33,10 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=f2915fc1-f1a7-452d-a550-b043d4be1b8b)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Relevancy
 

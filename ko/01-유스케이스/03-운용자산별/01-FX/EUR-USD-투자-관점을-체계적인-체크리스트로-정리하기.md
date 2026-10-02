@@ -12,6 +12,7 @@ source_text_status: localized_from_en_canonical
 asset_class: FX (EUR/USD)
 roles: FX PM, Macro PM, Multi-Asset Investor
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 
 # EUR/USD 투자 관점을 체계적인 체크리스트로 정리하기
@@ -30,6 +31,10 @@ publication_mode: faithful-source-preserving
 > 이 사례는 리서치 논리와 당시 시장 관측치를 보존합니다. 수치와 시장 환경은 원 리서치 당시의 스냅샷이며 현재 투자 조언이 아닙니다.
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)**
+
+## 사용한 프롬프트
+
+제공 자료에서는 사용한 프롬프트의 정확한 문구를 확인할 수 없습니다.
 
 ## 조사 목적
 

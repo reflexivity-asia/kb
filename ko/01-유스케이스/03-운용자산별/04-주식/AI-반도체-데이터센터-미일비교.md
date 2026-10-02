@@ -13,6 +13,7 @@ source_manifest: RX-USECASE-0072
 asset_class: Equities, Multi-Asset
 insight_type: Scenario Insight
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # 미국과 일본의 AI·반도체·데이터센터 테마를 비교하기
 
@@ -31,6 +32,10 @@ publication_mode: faithful-source-preserving
 > AI, 반도체, 데이터센터 관련 주요 종목의 최근 3개월 성과를 미국과 일본으로 나누어 보고, 이후 시나리오를 구성한다.
 
 > ### [Reflexivity에서 이 리서치 예시 열기 →](https://app.reflexivity.com/alfred?mode=research&conversationId=944136af-a0bf-411f-959c-8dd2368b16a8&scrollTo=top)
+
+## 사용한 프롬프트
+
+> AI, 반도체, 데이터센터에 노출된 미국과 일본 주요 종목의 최근 3개월 성과를 비교하고, 이후 가능한 시나리오를 구성해 주세요.
 
 ## 미국
 

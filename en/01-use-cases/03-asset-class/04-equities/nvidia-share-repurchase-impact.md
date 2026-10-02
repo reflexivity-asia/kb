@@ -13,6 +13,7 @@ source_manifest: RX-USECASE-0069
 asset_class: Equities
 insight_type: Company Catalyst
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # Analyze the Impact of NVIDIA's $150 Billion Share-Repurchase Increase
 
@@ -26,6 +27,8 @@ publication_mode: faithful-source-preserving
 **Primary asset:** Equities
 
 > Figures and market conditions are historical snapshots from the supplied analysis.
+
+## Prompt used
 
 > NVIDIA announced an additional $150 billion share-repurchase authorization. What is the likely impact, and how does the market reaction compare with other large buyback announcements?
 

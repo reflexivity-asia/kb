@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Equities, Macro
 roles: Long-only Asset Manager, Hedge Fund Tier 1, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # 從已完成交易與後續供給管線分析美國 IPO 市場
@@ -26,6 +27,8 @@ publication_mode: faithful-source-preserving
 **適用使用者：** Long-only 資產管理人、對沖基金
 
 > 本案例保留 2026 年 9 月 10 日的研究快照。以下交易規模、IPO 後報酬與未來 IPO 候選均為原資料日期的觀察或報導預期，不是目前確認資訊。
+
+## 使用的提示詞
 
 > 列出今年已完成的主要美國 IPO，分析其市場影響；並分析年底前被報導或預期可能進行的大型 IPO。
 

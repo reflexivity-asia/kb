@@ -16,6 +16,7 @@ canonical_path: usecases/byasset/equities/palantir-beat-sharpens-ai-software-dem
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=2b32e10c-7ca1-49ee-b740-2bda079f6579
+prompt_status: not_provided
 -->
 
 # Palantir 業績優於預期強化 AI 軟體需求映射 (PLTR)
@@ -34,6 +35,10 @@ source_url: https://reflexivity.com/app/kg-insight?insightId=2b32e10c-7ca1-49ee-
 > 本案例是特定時點的平台輸出。用於目前投資判斷前，請先與最新市場資料核對；否則僅應作為說明性案例使用。
 
 **[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=2b32e10c-7ca1-49ee-b740-2bda079f6579)**
+
+## 使用的提示詞
+
+提供資料中未載明實際使用的提示詞全文。
 
 ## 相關性
 

@@ -10,6 +10,7 @@ translation_status: canonical
 source_type: partner-provided-use-case
 asset_class: commodities, equities, macro, multi-asset
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # Compare oil-price surges by regime and trace the sector impact
 
@@ -24,9 +25,8 @@ publication_mode: faithful-source-preserving
 
 > Market levels and interpretations in this example are dated snapshots, not a current forecast.
 
-## Question
-
-How did the drivers of the oil-price rise after the March US-Iran conflict differ from the rise since August, and which industries and major companies were affected by higher oil prices?
+## Prompt used
+> How did the drivers of the oil-price rise after the March US-Iran conflict differ from the rise since August, and which industries and major companies were affected by higher oil prices?
 
 ![Oil-price regimes and affected sectors](../../../../assets/usecases/quick/RX-USECASE-0045/source-visuals.webp)
 

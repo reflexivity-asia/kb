@@ -14,6 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7
 canonical_path: "use-cases/wealth-management-ria/u-s-ism-manufacturing-beat-lifts-cyclicals-spy.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
+prompt_status: not_provided
 -->
 
 # U.S. ISM Manufacturing beat lifts cyclicals (SPY)
@@ -31,6 +32,10 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7-8915-37c6337f4488)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Relevant
 

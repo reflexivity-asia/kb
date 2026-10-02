@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Equities
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 1, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 # Use Company Catalyst to Trace the Market Impact of NVIDIA-Related News
 
@@ -27,6 +28,10 @@ publication_mode: faithful-source-preserving
 > Market context in this example reflects the provided date.
 
 The source example follows a Company Catalyst item concerning an NVIDIA acquisition of Hugging Face.
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## When this workflow is useful
 

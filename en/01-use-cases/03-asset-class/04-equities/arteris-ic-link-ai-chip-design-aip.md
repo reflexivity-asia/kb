@@ -14,6 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=c91f4ed8-e44b-4520
 canonical_path: "usecases/byasset/equities/arteris-ic-link-ai-chip-design-aip.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
+prompt_status: not_provided
 -->
 
 # Arteris / IC-Link AI chip design (AIP)
@@ -32,6 +33,10 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=c91f4ed8-e44b-4520-87d4-596f49b66cfe)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Relevant
 

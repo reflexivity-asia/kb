@@ -10,6 +10,7 @@ translation_status: canonical
 source_type: partner-provided-use-case
 asset_class: equities, macro, multi-asset
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 # Trace news into themes, countries, and companies with Market Catalyst
 
@@ -23,6 +24,10 @@ publication_mode: faithful-source-preserving
 **Primary asset classes:** Equities, macro, multi-asset
 
 > This is a dated workflow example.
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## When to use this workflow
 

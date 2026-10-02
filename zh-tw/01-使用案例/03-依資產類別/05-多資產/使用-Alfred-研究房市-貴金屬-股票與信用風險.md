@@ -10,6 +10,7 @@ translation_status: current
 source_type: partner-provided-use-case
 asset_class: equities, fixed income, commodities, crypto, macro, multi-asset
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # 使用 Alfred 研究房市、貴金屬、股票與信用風險
@@ -24,6 +25,16 @@ publication_mode: faithful-source-preserving
 **主要資產類別：** 股票、固定收益、商品、crypto、總體、多資產
 
 > 本案例同時移除客戶、收件人、簽名與私有 Conversation URL。這些例子展示可在 Alfred 中調查的問題廣度；以下數值結果均為原資料日期的輸出。
+
+## 使用的提示詞
+
+> 隨著房貸利率下降，今年房市能否對美國經濟成長帶來正面貢獻？這對股票市場可能意味著什麼？
+
+> 分析貴金屬價格與Bitcoin之間的關係。
+
+> Caterpillar（CAT）為什麼上漲？這波走勢與哪些主題相關？哪些日本公司受到類似驅動因素影響？
+
+> 市場開始擔心美國私人債務違約。這可能如何影響美國與日本的利率及股票市場？
 
 ## 1. 美國房市與股票市場傳導
 

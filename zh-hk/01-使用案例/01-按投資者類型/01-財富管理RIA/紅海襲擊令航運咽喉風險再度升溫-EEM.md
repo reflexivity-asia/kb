@@ -16,6 +16,7 @@ canonical_path: use-cases/wealth-management-ria/red-sea-attack-revives-shipping-
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=887570bf-d204-467d-a72e-050fd3e96dce
+prompt_status: not_provided
 -->
 
 # 紅海襲擊令航運咽喉風險再度升溫 (EEM)
@@ -34,6 +35,10 @@ source_url: https://reflexivity.com/app/kg-insight?insightId=887570bf-d204-467d-
 > 本案例是特定日期的平台輸出。用於目前投資判斷前，請先與最新市場數據核對；否則僅應作為說明性案例使用。
 
 **[在 Reflexivity 開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=887570bf-d204-467d-a72e-050fd3e96dce)**
+
+## 使用的提示詞
+
+提供資料中未列明實際使用的提示詞全文。
 
 ## 相關性
 

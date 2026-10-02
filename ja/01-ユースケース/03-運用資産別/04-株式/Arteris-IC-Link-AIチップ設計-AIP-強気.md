@@ -15,6 +15,7 @@ canonical_path: "usecases/byasset/equities/arteris-ic-link-ai-chip-design-aip.md
 translation_status: review-needed
 editorial_reviewed: 2026-09-27
 resource: "Reflexivity Insights Proof Set — Sales Enablement.docx"
+prompt_status: not_provided
 -->
 
 # Arteris / IC-Link：AIチップ設計 (AIP) - 強気
@@ -39,6 +40,10 @@ Arterisのようにアナリストカバレッジが薄い小型株では、AI�
 投資仮説を検証する際には、まず新規ライセンスの獲得が実際に増えるかを確認し、その後にロイヤルティ収入へつながるかを追います。**ニュースを即座に売上として扱わず、新規案件の獲得から収益化までを段階に分けて見る**ことが、このユースケースの中心です。
 
 **[Reflexivityでこの調査例を開く →](https://reflexivity.com/app/kg-insight?insightId=c91f4ed8-e44b-4520-87d4-596f49b66cfe)**
+
+## 使用したプロンプト
+
+提供資料では、使用したプロンプトの全文は確認できません。
 
 ## Reflexivityで確認する
 

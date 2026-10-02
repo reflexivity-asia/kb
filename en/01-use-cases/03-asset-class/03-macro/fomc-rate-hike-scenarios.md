@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Macro, Fixed Income, FX, Multi-Asset
 roles: Long-only Asset Manager, Hedge Fund Tier 1, Wealth Management / RIA
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # Frame FOMC Rate-Hike Scenarios Before the Meeting
 
@@ -26,9 +27,8 @@ publication_mode: faithful-source-preserving
 
 > This is a dated scenario analysis, not a current prediction. The Federal Reserve's official calendar confirms the September 15–16, 2026 FOMC meeting and Kevin Warsh as FOMC Chairman; probability estimates and macro readings below remain source-date snapshots.
 
-## Question
-
-What could Chairman Kevin Warsh say about a possible rate increase at this week's FOMC, given inflation, the oil-price rise, and the broader macro backdrop?
+## Prompt used
+> What could Chairman Kevin Warsh say about a possible rate increase at this week's FOMC, given inflation, the oil-price rise, and the broader macro backdrop?
 
 ![FOMC rate-hike scenario analysis](../../../../assets/usecases/quick/RX-USECASE-0041/source-visuals.webp)
 

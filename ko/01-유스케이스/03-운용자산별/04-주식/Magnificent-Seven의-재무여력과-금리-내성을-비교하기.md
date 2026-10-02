@@ -12,6 +12,7 @@ source_text_status: localized_from_en_canonical
 source_type: partner-provided-use-case
 asset_class: Equities, Fixed Income
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # Magnificent Seven의 재무여력과 금리 내성을 비교하기
 
@@ -28,9 +29,8 @@ publication_mode: faithful-source-preserving
 
 > ### [Reflexivity에서 이 리서치 예제를 열기 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=21bf31be-608b-4468-9697-9408b296d4dc&scrollTo=top)
 
-## 질문
-
-**Magnificent Seven의 재무상태를 비교해 주세요. 특히 자금조달과 투자를 중심으로 보고, 금리 변화에 대한 내성도 평가해 주세요.**
+## 사용한 프롬프트
+> Magnificent Seven의 재무상태를 비교해 주세요. 특히 자금조달과 투자를 중심으로 보고, 금리 변화에 대한 내성도 평가해 주세요.
 
 ## 재무여력은 어디에서 갈리는가
 

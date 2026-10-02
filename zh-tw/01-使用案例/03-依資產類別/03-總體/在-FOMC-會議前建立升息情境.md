@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Macro, Fixed Income, FX, Multi-Asset
 roles: Long-only Asset Manager, Hedge Fund Tier 1, Wealth Management / RIA
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # 在 FOMC 會議前建立升息情境
@@ -30,6 +31,10 @@ publication_mode: faithful-source-preserving
 原始問題可概括為：在通膨、油價上升與更廣泛總體背景下，FOMC 本週若討論升息，主席可能如何說明政策？
 
 ![FOMC 升息情境分析](../../../../assets/usecases/quick/RX-USECASE-0041/source-visuals.webp)
+
+## 使用的提示詞
+
+> 在通膨、油價上升及更廣泛的總體背景下，本週FOMC會議上，主席Kevin Warsh可能會如何談及升息的可能性？
 
 ## 研究目的
 

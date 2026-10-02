@@ -12,6 +12,7 @@ source_text_status: localized_from_en_canonical
 source_type: partner-provided-use-case
 asset_class: Equities, Fixed Income
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # 比較 Magnificent Seven 的財務狀況與利率韌性
@@ -29,9 +30,8 @@ publication_mode: faithful-source-preserving
 
 > ### [在 Reflexivity 開啟這個研究範例 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=21bf31be-608b-4468-9697-9408b296d4dc&scrollTo=top)
 
-## 問題
-
-**比較 Magnificent Seven 的財務狀況，特別聚焦融資與投資，並評估它們對利率變化的承受能力。**
+## 使用的提示詞
+> 比較 Magnificent Seven 的財務狀況，特別聚焦融資與投資，並評估它們對利率變化的承受能力。
 
 ## 財務狀況的差異在哪裡
 

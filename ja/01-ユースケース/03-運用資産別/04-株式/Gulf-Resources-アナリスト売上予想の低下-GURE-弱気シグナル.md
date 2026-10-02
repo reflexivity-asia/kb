@@ -15,6 +15,7 @@ canonical_path: "usecases/byasset/equities/gulf-resources-analyst-sales-forecast
 translation_status: review-needed
 editorial_reviewed: 2026-09-27
 resource: "Reflexivity Insights Proof Set — Sales Enablement.docx"
+prompt_status: not_provided
 -->
 
 # Gulf Resources：アナリスト売上予想の低下 (GURE) - 弱気シグナル
@@ -41,6 +42,10 @@ Reflexivityはこの局面について、過去16回の類似パターンを比�
 その後の検証材料としては、臭素価格と中国需要の変化を追えます。また、同じ化学品サイクルをより流動性の高い銘柄で確認する比較対象としてALBを使うこともできます。
 
 **[Reflexivityでこの調査例を開く →](https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=gure_nasd&activeInsight=1d6ec2d3-63bf-438b-b8bd-1b214f8f19af)**
+
+## 使用したプロンプト
+
+提供資料では、使用したプロンプトの全文は確認できません。
 
 ## Reflexivityで確認する
 

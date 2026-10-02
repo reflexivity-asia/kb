@@ -14,6 +14,7 @@ source_url: "https://reflexivity.com/app/kg-insight?insightId=2b32e10c-7ca1-49ee
 canonical_path: "usecases/byasset/equities/palantir-beat-sharpens-ai-software-demand-read-through-pltr.md"
 translation_status: canonical
 resource: "Reflexivity Insights Proof Set — Sales Enablement"
+prompt_status: not_provided
 -->
 
 # Palantir beat sharpens AI-software demand read-through (PLTR)
@@ -32,6 +33,10 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=2b32e10c-7ca1-49ee-b740-2bda079f6579)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Relevant
 

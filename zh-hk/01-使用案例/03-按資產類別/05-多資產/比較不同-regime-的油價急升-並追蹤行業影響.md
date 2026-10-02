@@ -10,6 +10,7 @@ translation_status: current
 source_type: partner-provided-use-case
 asset_class: commodities, equities, macro, multi-asset
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # 比較不同 regime 的油價急升，並追蹤行業影響
@@ -25,9 +26,8 @@ publication_mode: faithful-source-preserving
 
 > 本頁保留 QUICK 提供的使用案例。市場水平及解讀均是來源日期快照，不是當前市場預測。
 
-## 問題
-
-3 月美國—伊朗衝突後油價上升的驅動因素，與 8 月以來的上升有何不同？較高油價影響了哪些行業及主要公司？
+## 使用的提示詞
+> 3 月美國—伊朗衝突後油價上升的驅動因素，與 8 月以來的上升有何不同？較高油價影響了哪些行業及主要公司？
 
 ![油價環境與受影響行業比較](../../../../assets/usecases/quick/RX-USECASE-0045/source-visuals.webp)
 

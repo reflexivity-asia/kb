@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Fixed Income, Macro
 roles: Long-only Asset Manager, Hedge Fund Tier 1, Wealth Management / RIA
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # Compare 10-Year Government-Bond Yields Across Major Markets
 
@@ -25,6 +26,8 @@ publication_mode: faithful-source-preserving
 **Intended users:** Long-only Asset Managers, Hedge Funds, Wealth Management / RIA
 
 > Figures and market conditions in this example reflect the provided date.
+
+## Prompt used
 
 > Analyze how long-term government-bond yields, including Japan, have changed over the past year across major countries.
 

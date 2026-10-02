@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Macro, Equities, Fixed Income, FX
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 2
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # Prioritize the Week's US Market Events by Likely Impact
 
@@ -25,6 +26,8 @@ publication_mode: faithful-source-preserving
 **Intended users:** Wealth Management / RIA, Long-only Asset Managers, Hedge Funds
 
 > Figures, consensus estimates, and event timing are source-date snapshots. The value of the example is the prioritization workflow rather than the historical calendar itself.
+
+## Prompt used
 
 > List the US economic releases and other events this week that have the highest potential to affect markets.
 

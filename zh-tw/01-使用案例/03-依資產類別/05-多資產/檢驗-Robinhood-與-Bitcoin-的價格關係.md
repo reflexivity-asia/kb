@@ -10,6 +10,7 @@ translation_status: current
 source_type: partner-provided-use-case
 asset_class: equities, crypto, multi-asset
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # 檢驗 Robinhood 與 Bitcoin 的價格關係
@@ -25,8 +26,7 @@ publication_mode: faithful-source-preserving
 
 > 本案例同時移除客戶、收件人、簽名與私有連結資訊。數字與市場觀察均為原資料日期的快照。
 
-## 問題
-
+## 使用的提示詞
 > 分析 @HOOD 與 Bitcoin 價格的相關性。
 
 公司名稱容易混淆時，在 ticker 前使用 `@` 可以提高 entity resolution 的精確度。

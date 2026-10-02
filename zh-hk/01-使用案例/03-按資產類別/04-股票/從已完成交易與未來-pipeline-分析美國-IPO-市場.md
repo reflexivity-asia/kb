@@ -11,6 +11,7 @@ source_type: partner-provided-use-case
 asset_class: Equities, Macro
 roles: Long-only Asset Manager, Hedge Fund Tier 1, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # 從已完成交易與未來 pipeline 分析美國 IPO 市場
@@ -30,6 +31,10 @@ publication_mode: faithful-source-preserving
 原始問題：列出今年完成的主要美國 IPO 並分析其市場影響，同時分析年底前報道或預期的大型 IPO。
 
 ![美國 IPO 市場的已完成交易與後續供應 pipeline](../../../../assets/usecases/quick/RX-USECASE-0048/source-visuals.webp)
+
+## 使用的提示詞
+
+> 列出今年已完成的主要美國IPO，並分析其市場影響。亦請分析年底前已報道或預期進行的大型IPO。
 
 ## 研究目標
 

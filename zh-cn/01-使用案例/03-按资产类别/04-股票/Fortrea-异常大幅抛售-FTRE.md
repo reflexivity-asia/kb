@@ -16,6 +16,7 @@ canonical_path: usecases/byasset/equities/fortrea-unusually-large-selloff-ftre.m
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=a5e0b764-a45f-4f90-a3be-ad2c9109f241
+prompt_status: not_provided
 -->
 
 # Fortrea：异常大幅抛售 (FTRE)
@@ -33,6 +34,10 @@ source_url: https://reflexivity.com/app/kg-insight?insightId=a5e0b764-a45f-4f90-
 > 本案例是特定时点的平台输出。用于当前投资判断前，请先与最新市场数据核对；否则应仅作为说明性案例使用。
 
 **[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=a5e0b764-a45f-4f90-a3be-ad2c9109f241)**
+
+## 使用的提示词
+
+提供资料中未注明实际使用的提示词全文。
 
 ## 相关性
 

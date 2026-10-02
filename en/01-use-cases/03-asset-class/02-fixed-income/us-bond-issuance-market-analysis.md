@@ -14,6 +14,7 @@ editorial_reviewed: 2026-09-27
 source_type: partner-provided-use-case
 asset_class: Fixed Income, Macro
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 # Analyze the US Bond-Issuance Market by Issuer, Use of Proceeds, Supply-Demand, and Yield
 
@@ -30,9 +31,8 @@ publication_mode: faithful-source-preserving
 
 > ### [Open this research example in Reflexivity →](https://app.reflexivity.com/alfred?mode=research&conversationId=71c1788f-7e54-4620-a6b2-ab163bd6762f&scrollTo=top)
 
-## Question
-
-**Bond issuance in the United States has been increasing. Analyze the main issuers and their uses of proceeds, and also examine supply-demand conditions and changes in yields.**
+## Prompt used
+> Bond issuance in the United States has been increasing. Analyze the main issuers and their uses of proceeds, and also examine supply-demand conditions and changes in yields.
 
 ## Start with who is issuing and why
 

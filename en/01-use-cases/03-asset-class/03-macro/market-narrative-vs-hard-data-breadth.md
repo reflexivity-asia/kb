@@ -12,6 +12,7 @@ source_text_status: canonicalized_from_platform_research_with_reviewed_editorial
 asset_class: Macro, Equities, Fixed Income, Cross-Asset
 roles: CIO, Macro PM, Multi-Asset PM, Strategist
 publication_mode: faithful-source-preserving
+prompt_status: present
 -->
 
 # Test Whether a Market Narrative Is Supported by Broad Hard Data
@@ -30,9 +31,8 @@ publication_mode: faithful-source-preserving
 
 > ### [Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)
 
-## Research question
-
-**Is the narrative that “the US economy is strong” supported by broad evidence, or is it being carried by a smaller number of strong headline observations?**
+## Prompt used
+> Is the narrative that “the US economy is strong” supported by broad evidence, or is it being carried by a smaller number of strong headline observations?
 
 The source combines roughly 60 days of macro-related news, Fed-related information, prediction-market pricing, equity-theme leadership, and hard economic data into one evidence table.
 

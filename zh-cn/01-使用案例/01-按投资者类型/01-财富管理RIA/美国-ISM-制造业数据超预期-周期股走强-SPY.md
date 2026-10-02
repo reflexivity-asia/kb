@@ -16,6 +16,7 @@ canonical_path: use-cases/wealth-management-ria/u-s-ism-manufacturing-beat-lifts
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7-8915-37c6337f4488
+prompt_status: not_provided
 -->
 
 # 美国 ISM 制造业数据超预期，周期股走强 (SPY)
@@ -34,6 +35,10 @@ source_url: https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7-
 > 本案例是特定时点的平台输出。用于当前投资判断前，请先与最新市场数据核对；否则应仅作为说明性案例使用。
 
 **[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7-8915-37c6337f4488)**
+
+## 使用的提示词
+
+提供资料中未注明实际使用的提示词全文。
 
 ## 相关性
 

@@ -12,6 +12,7 @@ source_text_status: canonicalized_from_platform_research_with_reviewed_editorial
 asset_class: Fixed Income, FX, Cross-Asset
 roles: Fixed Income PM, Macro PM, Multi-Asset Investor
 publication_mode: faithful-source-preserving
+prompt_status: not_provided
 -->
 
 # Build Relative-Value Trades from French Sovereign-Credit Stress
@@ -29,6 +30,10 @@ publication_mode: faithful-source-preserving
 > This page preserves the underlying Reflexivity research and its dated market observations. The trades and levels below are historical research outputs, not current recommendations.
 
 **[Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)**
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 ## Starting point
 
