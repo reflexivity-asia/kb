@@ -31,10 +31,6 @@ prompt_status: not_provided
 
 **[在 Reflexivity 中開啟這個研究範例 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)**
 
-## 使用的提示詞
-
-提供資料中未載明實際使用的提示詞全文。
-
 ## 研究目的
 
 如果在看過歷史資料之後才挑選特定回看期或門檻，RSI 策略很容易顯得特別漂亮。因此，單一「最佳參數」無法告訴我們策略是否真的具有可重複的優勢，或只是過度貼合樣本。
