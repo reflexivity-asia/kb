@@ -30,10 +30,6 @@ prompt_status: not_provided
 
 **[Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)**
 
-## Prompt used
-
-The approved source does not specify the exact prompt used.
-
 ## Research objective
 
 An RSI strategy can look attractive if a particular lookback period or threshold is chosen after seeing the historical data. A single “best parameter” therefore does not tell us whether the strategy has a repeatable edge or is simply overfit to the sample.
