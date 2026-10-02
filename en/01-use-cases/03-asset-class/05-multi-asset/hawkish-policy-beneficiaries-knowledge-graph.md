@@ -29,10 +29,6 @@ prompt_status: not_provided
 
 **[Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?conversationId=9e6182f9-1853-4fdd-8ec4-f5b2a42fcfab&mode=research&activeHistorySidebarCategory=all)**
 
-## Prompt used
-
-The approved source does not specify the exact prompt used.
-
 ## Research question
 
 Instead of stopping at “hawkish policy means higher rates,” the research traced the idea through three levels:
