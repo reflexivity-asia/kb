@@ -1,5 +1,8 @@
 # Reflexivity Knowledge Base
 
+[← Reflexivity Documentation Home](https://github.com/reflexivity-kb)
+
+
 Choose the language you want to use. Each link opens that language's Knowledge Base landing page.
 
 - [**English**](https://github.com/reflexivity-kb/docs/blob/main/en/README.md) — Open the English Knowledge Base: ask an AI about the documentation, browse by topic, contact support, and find Reflexivity MCP setup guides.
