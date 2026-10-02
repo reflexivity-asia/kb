@@ -55,7 +55,7 @@ MCP 연결을 통해 AI 애플리케이션에서 문서화된 Reflexivity Insigh
 
 직접 둘러보고 싶다면 공개 KB는 여섯 개 컬렉션으로 구성되어 있습니다.
 
-1. **Reflexivity란?** — [Reflexivity가 왜 존재하고 리서치 방식을 어떻게 바꾸는지](01-Reflexivity란/README.md)
+1. **Reflexivity란?** — [접근 제한된 클라이언트 자료에서 전체 개요 보기](https://github.com/reflexivity-kb/client-resources/blob/main/ko/02-Reflexivity%EB%9E%80/README.md)
 2. **이용 가이드** — [사용 방법·온보딩·FAQ](02-이용가이드/README.md)
 3. **제품** — [제품 자료](03-제품/README.md)
 4. **릴리스** — [릴리스 노트](04-릴리스/README.md)
