@@ -1,6 +1,6 @@
 # Reflexivity 유스케이스
 
-[← Reflexivity 지식 베이스](../README.md)
+[← 한국어 문서 메뉴](https://github.com/reflexivity-kb/#ko)
 
 Reflexivity의 사례를 **페르소나별**, **인사이트 유형별**, 또는 **운용자산별**로 살펴볼 수 있습니다.
 
