@@ -20,6 +20,10 @@
 - [PPG：季度股息提高至 $0.74 (PPG)](../01-依投資者類型/03-長期多頭資產管理人/ppg-raises-quarterly-dividend-to-0-74-ppg.md)
 - [Enerpac：4.72 億美元收購 SFE Group (EPAC)](../01-依投資者類型/03-長期多頭資產管理人/enerpac-buys-sfe-group-472m-epac.md)
 
+## QUICK 提供
+
+- [分析 NVIDIA 增加 1,500 億美元庫藏股授權的影響](../03-依資產類別/04-股票/nvidia-share-repurchase-impact.md) — 2026-09-29
+
 ---
 
 [← 洞察類型列表](README.md) · [全部使用案例](../README.md)
