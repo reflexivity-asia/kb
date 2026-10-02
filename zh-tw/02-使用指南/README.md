@@ -1,8 +1,8 @@
 # 使用指南
 
-這裡彙整使用方式、入門指南與常見問題（FAQ）。
+[← 繁體中文（台灣）文件選單](https://github.com/reflexivity-kb/#zh-tw)
 
-[← Reflexivity 知識庫](../README.md)
+這裡彙整使用方式、入門指南與常見問題（FAQ）。
 
 ## Platform 資料（需要存取權限）
 
