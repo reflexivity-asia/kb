@@ -32,10 +32,6 @@ QUICK's example shows how to prepare for Micron Technology's earnings before the
 
 > ### [Open this insight in Reflexivity →](https://app.reflexivity.com/kg-insight?insightId=b6a73f02-a2ab-401e-a1c0-4e222a9f99cd)
 
-## Prompt used
-
-The approved source does not specify the exact prompt used.
-
 ## Before the release
 
 From **Other → Events**, the earnings calendar shows the scheduled event. Selecting **Earnings Preview** opens the pre-earnings view with consensus information, key metrics and the points to watch.
