@@ -1,8 +1,8 @@
 # 이용 가이드
 
-사용 방법, 온보딩 가이드와 자주 묻는 질문(FAQ)을 이곳에 함께 정리합니다.
+[← 한국어 문서 메뉴](https://github.com/reflexivity-kb/#ko)
 
-[← Reflexivity 지식 베이스](../README.md)
+사용 방법, 온보딩 가이드와 자주 묻는 질문(FAQ)을 이곳에 함께 정리합니다.
 
 ## Platform 자료 (접근 권한 필요)
 
