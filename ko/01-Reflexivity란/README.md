@@ -1,6 +1,6 @@
 # Reflexivity란?
 
-[← Reflexivity 지식 베이스](../README.md)
+[← 한국어 문서 메뉴](https://github.com/reflexivity-kb/#ko)
 
 전체 내용은 승인된 사용자를 위한 Reflexivity Platform에서 확인할 수 있습니다.
 
