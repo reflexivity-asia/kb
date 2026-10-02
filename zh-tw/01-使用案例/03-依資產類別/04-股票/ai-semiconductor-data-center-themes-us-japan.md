@@ -6,7 +6,6 @@ locale: zh-TW
 provider: QUICK Inc.
 source_created: 2026-10-01
 provided: 2026-10-01
-source_id: CAA_1-Y1NoHh7vg58fvUii3Nga-a1XOWvT08QPX+Wc1OW4s9rxQ@mail.gmail.com
 status: published
 translation_status: current
 source_type: partner-provided-use-case
