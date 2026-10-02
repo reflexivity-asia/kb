@@ -14,19 +14,19 @@ Reflexivity의 사례를 **페르소나별**, **인사이트 유형별**, 또는
 
 ## 인사이트 유형별
 
-- [Market Catalyst](02-인사이트유형별/market-catalyst.md) — 9건
+- [Market Catalyst](02-인사이트유형별/market-catalyst.md) — 10건
 - [Geopolitical Catalyst](02-인사이트유형별/geopolitical-catalyst.md) — 1건
-- [Company Catalyst](02-인사이트유형별/company-catalyst.md) — 8건
-- [Earnings Catalyst](02-인사이트유형별/earnings-catalyst.md) — 7건
-- [Scenario Insight](02-인사이트유형별/scenario-insight.md) — 3건
+- [Company Catalyst](02-인사이트유형별/company-catalyst.md) — 9건
+- [Earnings Catalyst](02-인사이트유형별/earnings-catalyst.md) — 8건
+- [Scenario Insight](02-인사이트유형별/scenario-insight.md) — 5건
 
 ## 운용자산별
 
 - [FX](03-운용자산별/01-FX) — 3개 사례
-- [채권](03-운용자산별/02-채권) — 8개 사례
+- [채권](03-운용자산별/02-채권) — 9개 사례
 - [매크로](03-운용자산별/03-매크로) — 8개 사례
-- [주식](03-운용자산별/04-주식) — 10개 사례
-- [멀티에셋](03-운용자산별/05-멀티에셋) — 10개 사례
+- [주식](03-운용자산별/04-주식) — 13개 사례
+- [멀티에셋](03-운용자산별/05-멀티에셋) — 11개 사례
 
 하나의 유스케이스가 여러 자산군이나 페르소나에 동시에 관련될 수 있습니다. 동일한 본문을 여러 곳에 복제하지 않고 관련 탐색 페이지에서 연결합니다.
 
