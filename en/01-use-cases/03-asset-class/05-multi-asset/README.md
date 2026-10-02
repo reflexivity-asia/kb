@@ -19,6 +19,8 @@ These pages preserve source attribution, dated observations, private-link bounda
 
 ## New QUICK Partner-Provided Use Case
 
+- [Compare oil and gold through inflation, rates, and forward scenarios](oil-gold-inflation-rates-scenarios.md) — QUICK | 2026-10-02
+
 - [Use the Market Leading Indicator to compare signals with actual market moves](market-leading-indicator-dashboard.md) — QUICK | 2026-09-28
 
 ---
