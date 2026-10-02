@@ -15,6 +15,10 @@ These examples are dated platform outputs. Check them against current market dat
 - [Middleby beat and raise supports pure-play reset (MIDD)](../01-investor-type/03-long-only-asset-manager/middleby-beat-and-raise-supports-pure-play-reset-midd.md) — August 11, 2026 — Bullish
 - [Sysco beats and lifts the FY27 setup (SYY)](../01-investor-type/03-long-only-asset-manager/sysco-beats-and-lifts-the-fy27-setup-syy.md) — August 4, 2026 — Bullish
 
+## QUICK Partner-Provided Use Case
+
+- [Prepare for Micron earnings with the Earnings Preview workflow](../03-asset-class/04-equities/micron-earnings-preview-workflow.md) — QUICK | 2026-09-30
+
 ---
 
 [← All Use Cases](../README.md)
