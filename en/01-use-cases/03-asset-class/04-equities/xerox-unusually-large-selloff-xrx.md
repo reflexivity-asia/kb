@@ -19,7 +19,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 # Xerox unusually large selloff (XRX)
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/xerox-unusually-large-selloff-xrx.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/xerox-unusually-large-selloff-xrx.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/xerox-unusually-large-selloff-xrx.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/xerox-unusually-large-selloff-xrx.md)
+**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/Xerox-이례적으로-큰-폭의-매도-XRX-강세-시그널.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/Xerox-异常大幅抛售-XRX.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/Xerox-異常大幅拋售-XRX.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/Xerox-異常大幅拋售-XRX.md)
 <!-- locale-switcher:end -->
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

@@ -18,7 +18,7 @@ publication_mode: faithful-source-preserving
 # Examine How the S&P 500 Moved Around US-China Summits
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/03-マクロ/us-china-summit-sp500-impact.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/03-매크로/us-china-summit-sp500-impact.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/03-宏观/us-china-summit-sp500-impact.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/03-總體/us-china-summit-sp500-impact.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/03-宏觀/us-china-summit-sp500-impact.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/03-マクロ/米中首脳会談の前後でS&P500がどう動いたか確認する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/03-매크로/미중-정상회담-전후-S&P-500-움직임을-살펴보기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/03-宏观/观察美中峰会前后-S&P-500-的走势.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/03-總體/觀察美中峰會前後-S&P-500-的走勢.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/03-宏觀/觀察美中峰會前後-S&P-500-的走勢.md)
 <!-- locale-switcher:end -->
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

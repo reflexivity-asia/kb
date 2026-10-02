@@ -19,7 +19,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 # Precious Metals selloff (gold, silver)
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/01-운용자별/01-웰스매니지먼트RIA/precious-metals-selloff-gold-silver.md) · [简体中文](../../../../zh-cn/01-使用案例/01-按投资者类型/01-财富管理RIA/precious-metals-selloff-gold-silver.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/01-依投資者類型/01-財富管理RIA/precious-metals-selloff-gold-silver.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/01-按投資者類型/01-財富管理RIA/precious-metals-selloff-gold-silver.md)
+**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/01-운용자별/01-웰스매니지먼트RIA/귀금속-매도세.md) · [简体中文](../../../../zh-cn/01-使用案例/01-按投资者类型/01-财富管理RIA/贵金属遭遇抛售.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/01-依投資者類型/01-財富管理RIA/貴金屬遭遇拋售.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/01-按投資者類型/01-財富管理RIA/貴金屬遭遇拋售.md)
 <!-- locale-switcher:end -->
 
 [← Wealth Management / RIA use cases](README.md) · [All use cases](../../README.md)

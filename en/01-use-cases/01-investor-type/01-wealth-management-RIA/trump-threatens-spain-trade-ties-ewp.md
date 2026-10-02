@@ -19,7 +19,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 # Trump Threatens Spain Trade Ties (EWP)
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/01-운용자별/01-웰스매니지먼트RIA/trump-threatens-spain-trade-ties-ewp.md) · [简体中文](../../../../zh-cn/01-使用案例/01-按投资者类型/01-财富管理RIA/trump-threatens-spain-trade-ties-ewp.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/01-依投資者類型/01-財富管理RIA/trump-threatens-spain-trade-ties-ewp.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/01-按投資者類型/01-財富管理RIA/trump-threatens-spain-trade-ties-ewp.md)
+**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/01-운용자별/01-웰스매니지먼트RIA/트럼프-스페인과의-무역-관계-위협-EWP.md) · [简体中文](../../../../zh-cn/01-使用案例/01-按投资者类型/01-财富管理RIA/特朗普威胁与西班牙的贸易关系-EWP.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/01-依投資者類型/01-財富管理RIA/川普威脅與西班牙的貿易關係-EWP.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/01-按投資者類型/01-財富管理RIA/川普威脅與西班牙的貿易關係-EWP.md)
 <!-- locale-switcher:end -->
 
 [← Wealth Management / RIA use cases](README.md) · [All use cases](../../README.md)

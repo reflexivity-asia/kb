@@ -18,7 +18,7 @@ publication_mode: faithful-source-preserving
 # Compare the 5% US 10-Year Treasury Threshold with the Past 20 Years
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/02-債券/us-10y-yield-5-percent-threshold.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/02-채권/us-10y-yield-5-percent-threshold.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/02-固定收益/us-10y-yield-5-percent-threshold.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/02-固定收益/us-10y-yield-5-percent-threshold.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/02-固定收益/us-10y-yield-5-percent-threshold.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/02-債券/米10年債利回り5%という節目を過去20年と比較する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/02-채권/미국-10년물-국채금리-5%-기준선을-지난-20년과-비교하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/02-固定收益/比较美国-10-年期国债收益率-5%-门槛与过去-20-年.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/02-固定收益/比較美國-10-年期公債殖利率-5%-門檻與過去-20-年.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/02-固定收益/比較美國-10-年期國債孳息-5%-門檻與過去-20-年.md)
 <!-- locale-switcher:end -->
 
 [← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

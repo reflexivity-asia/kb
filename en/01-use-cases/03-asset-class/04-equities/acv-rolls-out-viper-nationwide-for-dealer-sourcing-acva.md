@@ -19,7 +19,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 # ACV rolls out VIPER nationwide for dealer sourcing (ACVA)
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/ACV-VIPERを全国展開し-ディーラー仕入れを強化-ACVA-中立.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/ACV-VIPER-전국-출시로-딜러-소싱-확대-ACVA.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/ACV-VIPER-全国推出-扩大经销商车源获取-ACVA.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/ACV-VIPER-全國推出-擴大經銷商車源取得-ACVA.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/ACV-VIPER-全國推出-擴大經銷商車源取得-ACVA.md)
 <!-- locale-switcher:end -->
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

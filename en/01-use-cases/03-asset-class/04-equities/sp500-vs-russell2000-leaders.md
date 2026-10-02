@@ -15,7 +15,7 @@ publication_mode: faithful-source-preserving
 # Compare the S&P 500 with the Russell 2000 and Identify Small-Cap Leaders
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/sp500-vs-russell2000-leaders.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/sp500-vs-russell2000-leaders.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/sp500-vs-russell2000-leaders.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/sp500-vs-russell2000-leaders.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/sp500-vs-russell2000-leaders.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/S&P-500とRussell-2000を比較し-小型株の上昇銘柄を特定する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/S&P-500과-Russell-2000을-비교하고-소형주-주도주를-찾기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/比较-S&P-500-与-Russell-2000-并找出小盘股领涨者.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/比較-S&P-500-與-Russell-2000-並找出小型股領先者.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/比較-S&P-500-與-Russell-2000-並找出小型股領先者.md)
 <!-- locale-switcher:end -->
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

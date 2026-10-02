@@ -17,7 +17,7 @@ publication_mode: faithful-source-preserving
 # Test Whether a Market Narrative Is Supported by Broad Hard Data
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/03-マクロ/market-narrative-vs-hard-data-breadth.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/03-매크로/market-narrative-vs-hard-data-breadth.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/03-宏观/market-narrative-vs-hard-data-breadth.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/03-總體/market-narrative-vs-hard-data-breadth.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/03-宏觀/market-narrative-vs-hard-data-breadth.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/03-マクロ/市場の語りと実データの乖離を複数市場から検証する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/03-매크로/시장-내러티브가-폭넓은-실데이터로-지지되는지-검증하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/03-宏观/检验市场叙事是否得到广泛硬数据支持.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/03-總體/檢驗市場敘事是否獲得廣泛硬數據支持.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/03-宏觀/檢驗市場敘事是否獲廣泛硬數據支持.md)
 <!-- locale-switcher:end -->
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

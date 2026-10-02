@@ -15,7 +15,7 @@ publication_mode: faithful-source-preserving
 # Frame FOMC Rate-Hike Scenarios Before the Meeting
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/03-マクロ/fomc-rate-hike-scenarios.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/03-매크로/fomc-rate-hike-scenarios.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/03-宏观/fomc-rate-hike-scenarios.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/03-總體/fomc-rate-hike-scenarios.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/03-宏觀/fomc-rate-hike-scenarios.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/03-マクロ/FOMC前に利上げシナリオと市場への波及を整理する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/03-매크로/FOMC-회의-전에-금리인상-시나리오를-구조화하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/03-宏观/在-FOMC-会议前建立加息情景框架.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/03-總體/在-FOMC-會議前建立升息情境.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/03-宏觀/在-FOMC-會議前建立加息情景.md)
 <!-- locale-switcher:end -->
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

@@ -2,23 +2,23 @@
 
 ## 对冲基金 Tier 3
 
-- [ACV：VIPER 全国推出，扩大经销商车源获取 (ACVA)](../03-按资产类别/04-股票/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md)
-- [Instacart：收购 Arpalus，强化货架智能能力 (CART)](../03-按资产类别/04-股票/instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md)
-- [Arteris / IC-Link：AI 芯片设计 (AIP)](../03-按资产类别/04-股票/arteris-ic-link-ai-chip-design-aip.md)
+- [ACV：VIPER 全国推出，扩大经销商车源获取 (ACVA)](../03-按资产类别/04-股票/ACV-VIPER-全国推出-扩大经销商车源获取-ACVA.md)
+- [Instacart：收购 Arpalus，强化货架智能能力 (CART)](../03-按资产类别/04-股票/Instacart-收购-Arpalus-强化货架智能能力-CART.md)
+- [Arteris / IC-Link：AI 芯片设计 (AIP)](../03-按资产类别/04-股票/Arteris-IC-Link-AI-芯片设计-AIP.md)
 
 ## 对冲基金 Tier 2
 
-- [MasTec：16.5 亿美元 Superior / 数据中心交易 (MTZ)](../03-按资产类别/04-股票/mastec-1-65b-superior-data-center-deal-mtz.md)
+- [MasTec：16.5 亿美元 Superior / 数据中心交易 (MTZ)](../03-按资产类别/04-股票/MasTec-16-5-亿美元-Superior-数据中心交易-MTZ.md)
 
 ## 对冲基金 Tier 1
 
-- [Nvidia：5000 亿美元 AI 基础设施融资计划 (NVDA)](../03-按资产类别/04-股票/nvidia-launches-500b-ai-infrastructure-funding-push-nvda.md)
+- [Nvidia：5000 亿美元 AI 基础设施融资计划 (NVDA)](../03-按资产类别/04-股票/Nvidia-5000-亿美元-AI-基础设施融资计划-NVDA.md)
 
 ## Long-only 资产管理人
 
-- [Verisk：AccuLynx 交易争议 (VRSK)](../01-按投资者类型/03-长期多头资产管理人/court-forces-verisk-back-into-acculynx-deal-fight-vrsk.md)
-- [PPG：季度股息提高至 $0.74 (PPG)](../01-按投资者类型/03-长期多头资产管理人/ppg-raises-quarterly-dividend-to-0-74-ppg.md)
-- [Enerpac：4.72 亿美元收购 SFE Group (EPAC)](../01-按投资者类型/03-长期多头资产管理人/enerpac-buys-sfe-group-472m-epac.md)
+- [Verisk：AccuLynx 交易争议 (VRSK)](../01-按投资者类型/03-长期多头资产管理人/Verisk-法院要求其重新面对-AccuLynx-交易争议-VRSK.md)
+- [PPG：季度股息提高至 $0.74 (PPG)](../01-按投资者类型/03-长期多头资产管理人/PPG-季度股息提高至-$0-74-PPG.md)
+- [Enerpac：4.72 亿美元收购 SFE Group (EPAC)](../01-按投资者类型/03-长期多头资产管理人/Enerpac-以-4-72-亿美元收购-SFE-Group-EPAC.md)
 
 ## QUICK 提供
 

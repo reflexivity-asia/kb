@@ -15,7 +15,7 @@ publication_mode: faithful-source-preserving
 # Read a Rise in the US 30-Year Yield Through the Full Yield Curve
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/02-債券/us-30y-yield-curve-bear-steepening.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/02-채권/us-30y-yield-curve-bear-steepening.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/02-固定收益/us-30y-yield-curve-bear-steepening.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/02-固定收益/us-30y-yield-curve-bear-steepening.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/02-固定收益/us-30y-yield-curve-bear-steepening.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/02-債券/米30年金利上昇をイールドカーブ全体で読み解く.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/02-채권/미국-30년-금리-상승을-일드커브-전체로-읽기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/02-固定收益/从整条收益率曲线理解美国-30-年期收益率上升.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/02-固定收益/從完整殖利率曲線解讀美國-30-年期收益率上升.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/02-固定收益/從整條孳息曲線解讀美國-30-年期孳息上升.md)
 <!-- locale-switcher:end -->
 
 [← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

@@ -15,7 +15,7 @@ publication_mode: faithful-source-preserving
 # Structure Complex Research with Long-Form Instructions
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/03-マクロ/structured-long-form-research-prompts.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/03-매크로/structured-long-form-research-prompts.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/03-宏观/structured-long-form-research-prompts.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/03-總體/structured-long-form-research-prompts.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/03-宏觀/structured-long-form-research-prompts.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/03-マクロ/長い調査指示で複雑なテーマを構造化する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/03-매크로/장문-지시문으로-복잡한-리서치를-구조화하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/03-宏观/用长指令结构化复杂研究.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/03-總體/用長篇指令拆解複雜研究任務.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/03-宏觀/用長篇指示把複雜研究拆成可控制的步驟.md)
 <!-- locale-switcher:end -->
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

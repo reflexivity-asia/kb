@@ -14,7 +14,7 @@ publication_mode: faithful-source-preserving
 # Use Alfred across housing, precious metals, equities, and credit risk
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/05-マルチアセット/alfred-cross-asset-question-examples.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/05-멀티에셋/alfred-cross-asset-question-examples.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/05-多资产/alfred-cross-asset-question-examples.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/05-多資產/alfred-cross-asset-question-examples.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/05-多資產/alfred-cross-asset-question-examples.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/05-マルチアセット/住宅・貴金属・個別株・信用不安をAlfredで横断調査する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/05-멀티에셋/주택·귀금속·주식·신용위험을-Alfred에서-크로스에셋으로-조사하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/05-多资产/使用-Alfred-研究住房-贵金属-股票与信用风险.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/05-多資產/使用-Alfred-研究房市-貴金屬-股票與信用風險.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/05-多資產/用-Alfred-研究房屋-貴金屬-股票及信貸風險.md)
 <!-- locale-switcher:end -->
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

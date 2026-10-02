@@ -14,7 +14,7 @@ publication_mode: faithful-source-preserving
 # Analyze hyperscaler off-balance-sheet obligations
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/05-マルチアセット/hyperscaler-off-balance-sheet-debt.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/05-멀티에셋/hyperscaler-off-balance-sheet-debt.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/05-多资产/hyperscaler-off-balance-sheet-debt.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/05-多資產/hyperscaler-off-balance-sheet-debt.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/05-多資產/hyperscaler-off-balance-sheet-debt.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/05-マルチアセット/米国ハイパースケーラーの簿外債務を整理する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/05-멀티에셋/하이퍼스케일러의-부외-의무를-분석하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/05-多资产/分析-hyperscaler-的表外义务.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/05-多資產/分析-hyperscaler-的表外義務.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/05-多資產/分析-hyperscaler-的表外承擔.md)
 <!-- locale-switcher:end -->
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

@@ -4,9 +4,9 @@
 
 ## 使用案例
 
-- [把 EUR/USD 投资观点转化为系统化检查清单](eurusd-systematic-investment-checklist.md)
-- [用多组参数和样本外测试检验 EUR/USD RSI 策略](eurusd-rsi-walk-forward-backtest.md)
-- [分析日元快速升值的驱动因素及其是否扩散到其他货币](yen-strength-background-outlook.md)
+- [把 EUR/USD 投资观点转化为系统化检查清单](把-EUR-USD-投资观点转化为系统化检查清单.md)
+- [用多组参数和样本外测试检验 EUR/USD RSI 策略](用多组参数和样本外测试检验-EUR-USD-RSI-策略.md)
+- [分析日元快速升值的驱动因素及其是否扩散到其他货币](分析日元快速升值的驱动因素及其是否扩散到其他货币.md)
 
 ---
 

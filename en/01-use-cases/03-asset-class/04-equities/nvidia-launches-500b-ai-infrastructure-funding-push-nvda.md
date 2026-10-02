@@ -19,7 +19,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 # Nvidia launches $500B AI infrastructure funding push (NVDA)
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/nvidia-launches-500b-ai-infrastructure-funding-push-nvda.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/nvidia-launches-500b-ai-infrastructure-funding-push-nvda.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/nvidia-launches-500b-ai-infrastructure-funding-push-nvda.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/nvidia-launches-500b-ai-infrastructure-funding-push-nvda.md)
+**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/Nvidia-5-000억-달러-AI-인프라-자금조달-구상-NVDA.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/Nvidia-5000-亿美元-AI-基础设施融资计划-NVDA.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/Nvidia-5000-億美元-AI-基礎設施融資計畫-NVDA.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/Nvidia-5000-億美元-AI-基礎設施融資計畫-NVDA.md)
 <!-- locale-switcher:end -->
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

@@ -14,7 +14,7 @@ publication_mode: faithful-source-preserving
 # Test the price relationship between Robinhood and Bitcoin
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/05-マルチアセット/robinhood-bitcoin-correlation.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/05-멀티에셋/robinhood-bitcoin-correlation.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/05-多资产/robinhood-bitcoin-correlation.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/05-多資產/robinhood-bitcoin-correlation.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/05-多資產/robinhood-bitcoin-correlation.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/05-マルチアセット/Robinhood株とビットコインの価格連動性を検証する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/05-멀티에셋/Robinhood와-Bitcoin의-가격-관계를-검증하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/05-多资产/检验-Robinhood-与-Bitcoin-的价格关系.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/05-多資產/檢驗-Robinhood-與-Bitcoin-的價格關係.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/05-多資產/測試-Robinhood-與-Bitcoin-的價格關係.md)
 <!-- locale-switcher:end -->
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

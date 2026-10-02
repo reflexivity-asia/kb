@@ -15,7 +15,7 @@ publication_mode: faithful-source-preserving
 # Prioritize the Week's US Market Events by Likely Impact
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/03-マクロ/weekly-us-market-events.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/03-매크로/weekly-us-market-events.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/03-宏观/weekly-us-market-events.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/03-總體/weekly-us-market-events.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/03-宏觀/weekly-us-market-events.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/03-マクロ/今週の米国市場イベントを重要度順に整理する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/03-매크로/이번-주-미국-시장-이벤트를-영향도-순으로-우선순위화하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/03-宏观/按潜在市场影响给本周美国事件排序.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/03-總體/依可能市場影響排序本週美國重要事件.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/03-宏觀/按潛在市場影響排列一周美國重要事件.md)
 <!-- locale-switcher:end -->
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

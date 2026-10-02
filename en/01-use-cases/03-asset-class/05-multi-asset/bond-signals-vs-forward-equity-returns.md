@@ -15,7 +15,7 @@ publication_mode: faithful-source-preserving
 # Test whether bond-market signals relate to forward equity returns
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/05-マルチアセット/bond-signals-vs-forward-equity-returns.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/05-멀티에셋/bond-signals-vs-forward-equity-returns.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/05-多资产/bond-signals-vs-forward-equity-returns.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/05-多資產/bond-signals-vs-forward-equity-returns.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/05-多資產/bond-signals-vs-forward-equity-returns.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/05-マルチアセット/債券市場の動きが株式の先行リターンと関係するか検証する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/05-멀티에셋/채권시장-신호가-이후-주식-수익률과-관계있는지-검증하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/05-多资产/检验债券市场信号是否与未来股票收益有关.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/05-多資產/檢驗債券市場訊號是否與未來股票報酬相關.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/05-多資產/測試債券市場指標與未來股票回報是否有關.md)
 <!-- locale-switcher:end -->
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

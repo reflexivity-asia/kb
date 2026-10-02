@@ -19,7 +19,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 # PPG raises quarterly dividend to $0.74 (PPG)
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/01-운용자별/03-롱온리자산운용사/ppg-raises-quarterly-dividend-to-0-74-ppg.md) · [简体中文](../../../../zh-cn/01-使用案例/01-按投资者类型/03-长期多头资产管理人/ppg-raises-quarterly-dividend-to-0-74-ppg.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/01-依投資者類型/03-長期多頭資產管理人/ppg-raises-quarterly-dividend-to-0-74-ppg.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/01-按投資者類型/03-長期多頭資產管理人/ppg-raises-quarterly-dividend-to-0-74-ppg.md)
+**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/01-운용자별/03-롱온리자산운용사/PPG-분기-배당을-$0-74로-인상-PPG.md) · [简体中文](../../../../zh-cn/01-使用案例/01-按投资者类型/03-长期多头资产管理人/PPG-季度股息提高至-$0-74-PPG.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/01-依投資者類型/03-長期多頭資產管理人/PPG-季度股息提高至-$0-74-PPG.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/01-按投資者類型/03-長期多頭資產管理人/PPG-季度股息提高至-$0-74-PPG.md)
 <!-- locale-switcher:end -->
 
 [← Long-only Asset Manager use cases](README.md) · [All use cases](../../README.md)

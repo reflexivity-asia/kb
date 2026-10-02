@@ -19,7 +19,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 # Root Jul. 8 business update (ROOT)
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/root-jul-8-business-update-root.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/root-jul-8-business-update-root.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/root-jul-8-business-update-root.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/root-jul-8-business-update-root.md)
+**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/Root-7월-8일-사업-업데이트-ROOT.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/Root-7-月-8-日业务更新-ROOT.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/Root-7-月-8-日業務更新-ROOT.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/Root-7-月-8-日業務更新-ROOT.md)
 <!-- locale-switcher:end -->
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

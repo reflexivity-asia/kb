@@ -14,7 +14,7 @@ publication_mode: faithful-source-preserving
 # Compare EUR/USD Moves with the EUR-vs-USD Swap Spread
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/02-債券/eurusd-vs-eur-usd-swap-spread.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/02-채권/eurusd-vs-eur-usd-swap-spread.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/02-固定收益/eurusd-vs-eur-usd-swap-spread.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/02-固定收益/eurusd-vs-eur-usd-swap-spread.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/02-固定收益/eurusd-vs-eur-usd-swap-spread.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/02-債券/EUR-USDの動きとEUR・USDスワップ差の動きを比較する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/02-채권/EUR-USD-움직임과-EUR·USD-스왑-금리차-비교하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/02-固定收益/比较-EUR-USD-与欧元-美元掉期利差的变化.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/02-固定收益/比較-EUR-USD-與-EUR-USD-Swap-利差的變動.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/02-固定收益/比較-EUR-USD-走勢與-EUR／USD-Swap-Spread.md)
 <!-- locale-switcher:end -->
 
 [← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

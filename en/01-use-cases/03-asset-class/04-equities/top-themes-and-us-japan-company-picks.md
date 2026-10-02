@@ -15,7 +15,7 @@ publication_mode: faithful-source-preserving
 # Turn Strong Themes into US and Japanese Company Candidates
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/top-themes-and-us-japan-company-picks.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/top-themes-and-us-japan-company-picks.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/top-themes-and-us-japan-company-picks.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/top-themes-and-us-japan-company-picks.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/top-themes-and-us-japan-company-picks.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/注目テーマから米国・日本の関連企業をピックアップする.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/강한-테마에서-미국·일본-기업-후보를-만들기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/把强势主题转化为美国和日本公司候选.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/將強勢主題轉成美國與日本公司研究候選.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/把強勢主題轉成美日公司研究候選名單.md)
 <!-- locale-switcher:end -->
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

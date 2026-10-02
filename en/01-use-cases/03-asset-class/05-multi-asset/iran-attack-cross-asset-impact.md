@@ -14,7 +14,7 @@ publication_mode: faithful-source-preserving
 # Analyze the cross-asset impact of an Iran-attack scenario
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/05-マルチアセット/iran-attack-cross-asset-impact.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/05-멀티에셋/iran-attack-cross-asset-impact.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/05-多资产/iran-attack-cross-asset-impact.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/05-多資產/iran-attack-cross-asset-impact.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/05-多資產/iran-attack-cross-asset-impact.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/05-マルチアセット/イラン攻撃シナリオの原油・金・株式・ドルへの影響を分析する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/05-멀티에셋/이란-공격-시나리오의-크로스에셋-영향을-분석하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/05-多资产/分析伊朗遭到攻击情景下的跨资产影响.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/05-多資產/分析伊朗遭攻擊情境的跨資產影響.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/05-多資產/分析伊朗受襲情景的跨資產影響.md)
 <!-- locale-switcher:end -->
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

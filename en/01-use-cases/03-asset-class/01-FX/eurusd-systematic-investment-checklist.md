@@ -17,7 +17,7 @@ publication_mode: faithful-source-preserving
 # Turn a EUR/USD Investment View into a Systematic Checklist
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/01-FX/eurusd-systematic-investment-checklist.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/01-FX/eurusd-systematic-investment-checklist.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/01-FX/eurusd-systematic-investment-checklist.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/01-FX/eurusd-systematic-investment-checklist.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/01-FX/eurusd-systematic-investment-checklist.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/01-FX/EUR-USDの投資判断を体系的なチェックリストに落とし込む.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/01-FX/EUR-USD-투자-관점을-체계적인-체크리스트로-정리하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/01-FX/把-EUR-USD-投资观点转化为系统化检查清单.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/01-FX/將-EUR-USD-投資觀點轉化為系統化檢查清單.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/01-FX/將-EUR-USD-投資觀點轉化為系統化檢查清單.md)
 <!-- locale-switcher:end -->
 
 [← FX use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

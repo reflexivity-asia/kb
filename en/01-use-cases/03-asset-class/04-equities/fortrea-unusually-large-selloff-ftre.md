@@ -19,7 +19,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 # Fortrea unusually large selloff (FTRE)
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/fortrea-unusually-large-selloff-ftre.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/fortrea-unusually-large-selloff-ftre.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/fortrea-unusually-large-selloff-ftre.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/fortrea-unusually-large-selloff-ftre.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/fortrea-unusually-large-selloff-ftre.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/Fortrea-異例の大幅下落-FTRE-弱気シグナル.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/Fortrea-이례적으로-큰-폭의-매도-FTRE-약세-시그널.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/Fortrea-异常大幅抛售-FTRE.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/Fortrea-異常大幅拋售-FTRE.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/Fortrea-異常大幅拋售-FTRE.md)
 <!-- locale-switcher:end -->
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

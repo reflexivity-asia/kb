@@ -2,12 +2,12 @@
 
 ## 对冲基金 Tier 3
 
-- [Gulf Resources：分析师下调销售预测 (GURE)](../03-按资产类别/04-股票/gulf-resources-analyst-sales-forecast-decline-gure.md)
-- [Fortrea：异常大幅抛售 (FTRE)](../03-按资产类别/04-股票/fortrea-unusually-large-selloff-ftre.md)
+- [Gulf Resources：分析师下调销售预测 (GURE)](../03-按资产类别/04-股票/Gulf-Resources-分析师下调销售预测-GURE.md)
+- [Fortrea：异常大幅抛售 (FTRE)](../03-按资产类别/04-股票/Fortrea-异常大幅抛售-FTRE.md)
 
 ## 对冲基金 Tier 2
 
-- [Xerox：异常大幅抛售 (XRX)](../03-按资产类别/04-股票/xerox-unusually-large-selloff-xrx.md)
+- [Xerox：异常大幅抛售 (XRX)](../03-按资产类别/04-股票/Xerox-异常大幅抛售-XRX.md)
 
 ## QUICK 提供
 

@@ -15,7 +15,7 @@ publication_mode: faithful-source-preserving
 # Compare 10-Year Government-Bond Yields Across Major Markets
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/02-債券/global-10y-government-yields.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/02-채권/global-10y-government-yields.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/02-固定收益/global-10y-government-yields.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/02-固定收益/global-10y-government-yields.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/02-固定收益/global-10y-government-yields.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/02-債券/主要国の10年国債利回りを横断比較する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/02-채권/주요국-10년-국채-금리를-같은-기준으로-비교하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/02-固定收益/比较主要市场-10-年期政府债券收益率.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/02-固定收益/比較主要市場的-10-年期政府公債收益率.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/02-固定收益/比較主要市場-10-年期政府債券孳息.md)
 <!-- locale-switcher:end -->
 
 [← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

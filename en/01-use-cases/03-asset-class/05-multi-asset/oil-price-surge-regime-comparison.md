@@ -14,7 +14,7 @@ publication_mode: faithful-source-preserving
 # Compare oil-price surges by regime and trace the sector impact
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/05-マルチアセット/oil-price-surge-regime-comparison.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/05-멀티에셋/oil-price-surge-regime-comparison.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/05-多资产/oil-price-surge-regime-comparison.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/05-多資產/oil-price-surge-regime-comparison.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/05-多資產/oil-price-surge-regime-comparison.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/05-マルチアセット/原油高の原因を局面別に比較し-影響業種までたどる.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/05-멀티에셋/유가-급등을-국면별로-비교하고-섹터-영향까지-추적하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/05-多资产/按市场环境比较油价飙升-并追踪行业影响.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/05-多資產/比較不同-regime-的油價急升並追蹤產業影響.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/05-多資產/比較不同-regime-的油價急升-並追蹤行業影響.md)
 <!-- locale-switcher:end -->
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

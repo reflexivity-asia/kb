@@ -18,7 +18,7 @@ publication_mode: faithful-source-preserving
 # Find Japanese Companies Related to Rising US Stocks
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/rising-us-stocks-related-japanese-companies.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/rising-us-stocks-related-japanese-companies.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/rising-us-stocks-related-japanese-companies.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/rising-us-stocks-related-japanese-companies.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/rising-us-stocks-related-japanese-companies.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/上昇中の米国株から関連する日本企業を探す.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/상승한-미국-종목에서-관련-일본-기업을-찾기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/从上涨的美国股票中寻找相关日本公司.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/從上漲的美國股票尋找相關日本公司.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/從上漲的美國股票尋找相關日本公司.md)
 <!-- locale-switcher:end -->
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

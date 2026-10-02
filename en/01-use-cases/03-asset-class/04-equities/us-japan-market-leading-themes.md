@@ -15,7 +15,7 @@ publication_mode: faithful-source-preserving
 # Compare the Themes Leading US and Japanese Equities
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/us-japan-market-leading-themes.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/us-japan-market-leading-themes.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/us-japan-market-leading-themes.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/us-japan-market-leading-themes.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/us-japan-market-leading-themes.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/米国株と日本株の市場けん引テーマを比較する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/미국과-일본-주식시장의-주도-테마를-비교하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/比较美国与日本股票市场的主导主题.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/比較美國與日本股市的領先主題.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/比較美國與日本股票市場的領先主題.md)
 <!-- locale-switcher:end -->
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

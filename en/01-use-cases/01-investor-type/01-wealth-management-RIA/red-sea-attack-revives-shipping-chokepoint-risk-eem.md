@@ -19,7 +19,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 # Red Sea attack revives shipping chokepoint risk (EEM)
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/01-운용자별/01-웰스매니지먼트RIA/red-sea-attack-revives-shipping-chokepoint-risk-eem.md) · [简体中文](../../../../zh-cn/01-使用案例/01-按投资者类型/01-财富管理RIA/red-sea-attack-revives-shipping-chokepoint-risk-eem.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/01-依投資者類型/01-財富管理RIA/red-sea-attack-revives-shipping-chokepoint-risk-eem.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/01-按投資者類型/01-財富管理RIA/red-sea-attack-revives-shipping-chokepoint-risk-eem.md)
+**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/01-운용자별/01-웰스매니지먼트RIA/홍해-공격으로-해상-병목-위험-재부각-EEM.md) · [简体中文](../../../../zh-cn/01-使用案例/01-按投资者类型/01-财富管理RIA/红海袭击令航运咽喉风险再度升温-EEM.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/01-依投資者類型/01-財富管理RIA/紅海襲擊令航運咽喉風險再度升溫-EEM.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/01-按投資者類型/01-財富管理RIA/紅海襲擊令航運咽喉風險再度升溫-EEM.md)
 <!-- locale-switcher:end -->
 
 [← Wealth Management / RIA use cases](README.md) · [All use cases](../../README.md)

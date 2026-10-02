@@ -19,7 +19,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 # AI-chip de-rating hits semiconductor ETFs (SMH)
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/ai-chip-de-rating-hits-semiconductor-etfs-smh.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/ai-chip-de-rating-hits-semiconductor-etfs-smh.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/ai-chip-de-rating-hits-semiconductor-etfs-smh.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/ai-chip-de-rating-hits-semiconductor-etfs-smh.md)
+**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/AI-칩-디레이팅이-반도체-ETF에-충격-SMH.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/AI-芯片去评级拖累半导体-ETF-SMH.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/AI-晶片去評級拖累半導體-ETF-SMH.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/AI-晶片去評級拖累半導體-ETF-SMH.md)
 <!-- locale-switcher:end -->
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

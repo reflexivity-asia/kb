@@ -19,7 +19,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 # Arteris / IC-Link AI chip design (AIP)
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/arteris-ic-link-ai-chip-design-aip.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/arteris-ic-link-ai-chip-design-aip.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/arteris-ic-link-ai-chip-design-aip.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/arteris-ic-link-ai-chip-design-aip.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/arteris-ic-link-ai-chip-design-aip.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/Arteris-IC-Link-AIチップ設計-AIP-強気.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/Arteris-IC-Link-AI-칩-설계-AIP.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/Arteris-IC-Link-AI-芯片设计-AIP.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/Arteris-IC-Link-AI-晶片設計-AIP.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/Arteris-IC-Link-AI-晶片設計-AIP.md)
 <!-- locale-switcher:end -->
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

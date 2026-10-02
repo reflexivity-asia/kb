@@ -17,7 +17,7 @@ publication_mode: faithful-source-preserving
 # Test Whether the US 2s10s Curve Historically Predicted Recessions
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/02-債券/us-2s10s-recession-signal-validation.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/02-채권/us-2s10s-recession-signal-validation.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/02-固定收益/us-2s10s-recession-signal-validation.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/02-固定收益/us-2s10s-recession-signal-validation.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/02-固定收益/us-2s10s-recession-signal-validation.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/02-債券/2年・10年金利差は本当に景気後退を予測できるか検証する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/02-채권/미국-2년·10년-금리차가-경기침체를-예측했는지-검증하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/02-固定收益/检验美国-2s10s-曲线历史上是否预示经济衰退.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/02-固定收益/檢驗美國-2s10s-殖利率曲線是否曾預測衰退.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/02-固定收益/檢驗美國-2s10s-孳息曲線是否曾經預示衰退.md)
 <!-- locale-switcher:end -->
 
 [← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

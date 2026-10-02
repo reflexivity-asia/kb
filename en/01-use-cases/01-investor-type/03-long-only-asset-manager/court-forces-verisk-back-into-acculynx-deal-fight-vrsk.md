@@ -19,7 +19,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 # Court forces Verisk back into AccuLynx deal fight (VRSK)
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/01-운용자별/03-롱온리자산운용사/court-forces-verisk-back-into-acculynx-deal-fight-vrsk.md) · [简体中文](../../../../zh-cn/01-使用案例/01-按投资者类型/03-长期多头资产管理人/court-forces-verisk-back-into-acculynx-deal-fight-vrsk.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/01-依投資者類型/03-長期多頭資產管理人/court-forces-verisk-back-into-acculynx-deal-fight-vrsk.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/01-按投資者類型/03-長期多頭資產管理人/court-forces-verisk-back-into-acculynx-deal-fight-vrsk.md)
+**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/01-운용자별/03-롱온리자산운용사/Verisk-법원이-AccuLynx-딜-분쟁으로-다시-끌어들임-VRSK.md) · [简体中文](../../../../zh-cn/01-使用案例/01-按投资者类型/03-长期多头资产管理人/Verisk-法院要求其重新面对-AccuLynx-交易争议-VRSK.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/01-依投資者類型/03-長期多頭資產管理人/Verisk-法院要求其重新面對-AccuLynx-交易爭議-VRSK.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/01-按投資者類型/03-長期多頭資產管理人/Verisk-法院要求其重新面對-AccuLynx-交易爭議-VRSK.md)
 <!-- locale-switcher:end -->
 
 [← Long-only Asset Manager use cases](README.md) · [All use cases](../../README.md)

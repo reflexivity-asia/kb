@@ -19,7 +19,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 # MasTec $1.65B Superior / data-center deal (MTZ)
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/mastec-1-65b-superior-data-center-deal-mtz.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/mastec-1-65b-superior-data-center-deal-mtz.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/mastec-1-65b-superior-data-center-deal-mtz.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/mastec-1-65b-superior-data-center-deal-mtz.md)
+**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/MasTec-16-5억-달러-Superior-데이터센터-딜-MTZ.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/MasTec-16-5-亿美元-Superior-数据中心交易-MTZ.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/MasTec-16-5-億美元-Superior-資料中心交易-MTZ.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/MasTec-16-5-億美元-Superior-數據中心交易-MTZ.md)
 <!-- locale-switcher:end -->
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

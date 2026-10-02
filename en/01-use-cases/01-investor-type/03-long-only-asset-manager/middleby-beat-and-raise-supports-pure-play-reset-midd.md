@@ -19,7 +19,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 # Middleby beat and raise supports pure-play reset (MIDD)
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/01-운용자별/03-롱온리자산운용사/middleby-beat-and-raise-supports-pure-play-reset-midd.md) · [简体中文](../../../../zh-cn/01-使用案例/01-按投资者类型/03-长期多头资产管理人/middleby-beat-and-raise-supports-pure-play-reset-midd.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/01-依投資者類型/03-長期多頭資產管理人/middleby-beat-and-raise-supports-pure-play-reset-midd.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/01-按投資者類型/03-長期多頭資產管理人/middleby-beat-and-raise-supports-pure-play-reset-midd.md)
+**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/01-운용자별/03-롱온리자산운용사/Middleby-실적-상회와-가이던스-상향이-pure-play-리셋을-지지-MIDD.md) · [简体中文](../../../../zh-cn/01-使用案例/01-按投资者类型/03-长期多头资产管理人/Middleby-业绩超预期并上调指引-支持-pure-play-重置-MIDD.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/01-依投資者類型/03-長期多頭資產管理人/Middleby-業績優於預期並上調指引-支持-pure-play-重置-MIDD.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/01-按投資者類型/03-長期多頭資產管理人/Middleby-業績優於預期並上調指引-支持-pure-play-重置-MIDD.md)
 <!-- locale-switcher:end -->
 
 [← Long-only Asset Manager use cases](README.md) · [All use cases](../../README.md)

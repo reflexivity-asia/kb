@@ -14,7 +14,7 @@ publication_mode: faithful-source-preserving
 # Trace news into themes, countries, and companies with Market Catalyst
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/05-マルチアセット/market-catalyst-news-to-themes-countries-companies.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/05-멀티에셋/market-catalyst-news-to-themes-countries-companies.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/05-多资产/market-catalyst-news-to-themes-countries-companies.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/05-多資產/market-catalyst-news-to-themes-countries-companies.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/05-多資產/market-catalyst-news-to-themes-countries-companies.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/05-マルチアセット/ニュースからテーマ・国・企業への影響を追う.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/05-멀티에셋/Market-Catalyst로-뉴스를-테마·국가·기업까지-연결하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/05-多资产/使用-Market-Catalyst-把新闻连接到主题-国家和公司.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/05-多資產/用-Market-Catalyst-把新聞連到主題-國家與公司.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/05-多資產/用-Market-Catalyst-把新聞連到主題-國家及公司.md)
 <!-- locale-switcher:end -->
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

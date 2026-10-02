@@ -19,7 +19,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 # U.S. ISM Manufacturing beat lifts cyclicals (SPY)
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/01-운용자별/01-웰스매니지먼트RIA/u-s-ism-manufacturing-beat-lifts-cyclicals-spy.md) · [简体中文](../../../../zh-cn/01-使用案例/01-按投资者类型/01-财富管理RIA/u-s-ism-manufacturing-beat-lifts-cyclicals-spy.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/01-依投資者類型/01-財富管理RIA/u-s-ism-manufacturing-beat-lifts-cyclicals-spy.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/01-按投資者類型/01-財富管理RIA/u-s-ism-manufacturing-beat-lifts-cyclicals-spy.md)
+**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/01-운용자별/01-웰스매니지먼트RIA/미국-ISM-제조업-지표-호조로-경기민감주-상승-SPY.md) · [简体中文](../../../../zh-cn/01-使用案例/01-按投资者类型/01-财富管理RIA/美国-ISM-制造业数据超预期-周期股走强-SPY.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/01-依投資者類型/01-財富管理RIA/美國-ISM-製造業數據優於預期-週期股走強-SPY.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/01-按投資者類型/01-財富管理RIA/美國-ISM-製造業數據優於預期-週期股走強-SPY.md)
 <!-- locale-switcher:end -->
 
 [← Wealth Management / RIA use cases](README.md) · [All use cases](../../README.md)

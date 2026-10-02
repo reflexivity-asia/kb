@@ -17,7 +17,7 @@ publication_mode: faithful-source-preserving
 # Screen the US Yield Curve for Steepener and Flattener Candidates
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/02-債券/us-yield-curve-relative-value-screen.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/02-채권/us-yield-curve-relative-value-screen.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/02-固定收益/us-yield-curve-relative-value-screen.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/02-固定收益/us-yield-curve-relative-value-screen.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/02-固定收益/us-yield-curve-relative-value-screen.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/02-債券/米国イールドカーブからスティープナー／フラットナー候補をスクリーニングする.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/02-채권/미국-일드커브에서-스티프너·플래트너-후보-스크리닝하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/02-固定收益/筛选美国收益率曲线中的陡峭化与平坦化候选.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/02-固定收益/篩選美國殖利率曲線中的-Steepener-與-Flattener-候選.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/02-固定收益/篩選美國孳息曲線的-steepener-與-flattener-候選.md)
 <!-- locale-switcher:end -->
 
 [← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

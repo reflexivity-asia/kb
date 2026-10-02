@@ -13,7 +13,7 @@ source_text_status: canonicalized_from_reviewed_ja_rendering
 # Turn today's newsflow into five investment ideas to study
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/05-マルチアセット/newsflow-top-five-investment-ideas.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/05-멀티에셋/newsflow-top-five-investment-ideas.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/05-多资产/newsflow-top-five-investment-ideas.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/05-多資產/newsflow-top-five-investment-ideas.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/05-多資產/newsflow-top-five-investment-ideas.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/05-マルチアセット/その日のニュースフローから検討すべき投資アイデアを5件抽出する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/05-멀티에셋/오늘의-뉴스플로에서-추가-조사할-투자-아이디어-5개-만들기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/05-多资产/把当天新闻流转化为五个值得研究的投资想法.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/05-多資產/把當日-newsflow-轉成五個值得研究的投資構想.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/05-多資產/把每日-newsflow-轉成五個值得深入研究的投資主題.md)
 <!-- locale-switcher:end -->
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

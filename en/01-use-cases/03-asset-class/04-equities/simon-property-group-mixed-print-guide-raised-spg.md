@@ -19,7 +19,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 # Simon Property Group mixed print, guide raised (SPG)
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/simon-property-group-mixed-print-guide-raised-spg.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/simon-property-group-mixed-print-guide-raised-spg.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/simon-property-group-mixed-print-guide-raised-spg.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/simon-property-group-mixed-print-guide-raised-spg.md)
+**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/Simon-Property-Group-혼재된-실적-가이던스-상향-SPG.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/Simon-Property-Group-业绩分化-上调指引-SPG.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/Simon-Property-Group-業績分化-上調指引-SPG.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/Simon-Property-Group-業績分化-上調指引-SPG.md)
 <!-- locale-switcher:end -->
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

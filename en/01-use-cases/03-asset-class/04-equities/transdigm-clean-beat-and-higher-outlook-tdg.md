@@ -19,7 +19,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 # TransDigm clean beat and higher outlook (TDG)
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/transdigm-clean-beat-and-higher-outlook-tdg.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/transdigm-clean-beat-and-higher-outlook-tdg.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/transdigm-clean-beat-and-higher-outlook-tdg.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/transdigm-clean-beat-and-higher-outlook-tdg.md)
+**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/TransDigm-실적-상회와-전망-상향-TDG.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/TransDigm-业绩超预期并上调展望-TDG.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/TransDigm-業績優於預期並上調展望-TDG.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/TransDigm-業績優於預期並上調展望-TDG.md)
 <!-- locale-switcher:end -->
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

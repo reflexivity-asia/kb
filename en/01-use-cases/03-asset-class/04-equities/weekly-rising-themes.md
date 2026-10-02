@@ -15,7 +15,7 @@ publication_mode: faithful-source-preserving
 # Find the Common Drivers Behind Last Week's Strongest Equity Themes
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/weekly-rising-themes.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/weekly-rising-themes.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/weekly-rising-themes.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/weekly-rising-themes.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/weekly-rising-themes.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/先週上昇した株式テーマの共通点を探す.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/지난주-강했던-주식-테마의-공통-동인을-찾기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/找出上周最强股票主题背后的共同驱动.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/找出上週最強股票主題的共同驅動因素.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/找出上周最強股票主題的共同驅動因素.md)
 <!-- locale-switcher:end -->
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

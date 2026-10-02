@@ -18,7 +18,7 @@ publication_mode: faithful-source-preserving
 # Analyze the US Bond-Issuance Market by Issuer, Use of Proceeds, Supply-Demand, and Yield
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/02-債券/us-bond-issuance-market-analysis.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/02-채권/us-bond-issuance-market-analysis.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/02-固定收益/us-bond-issuance-market-analysis.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/02-固定收益/us-bond-issuance-market-analysis.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/02-固定收益/us-bond-issuance-market-analysis.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/02-債券/米国債券発行市場を発行体・資金用途・需給・利回りから分析する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/02-채권/미국-채권발행시장을-발행주체·자금용도·수급·금리로-분석하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/02-固定收益/按发行人-资金用途-供需和收益率分析美国债券发行市场.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/02-固定收益/從發行人-資金用途-供需與殖利率分析美國債券發行市場.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/02-固定收益/從發行人-資金用途-供需與孳息分析美國債券發行市場.md)
 <!-- locale-switcher:end -->
 
 [← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

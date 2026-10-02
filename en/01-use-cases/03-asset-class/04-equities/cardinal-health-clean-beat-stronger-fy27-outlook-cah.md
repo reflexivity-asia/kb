@@ -19,7 +19,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 # Cardinal Health clean beat, stronger FY27 outlook (CAH)
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/cardinal-health-clean-beat-stronger-fy27-outlook-cah.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/cardinal-health-clean-beat-stronger-fy27-outlook-cah.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/cardinal-health-clean-beat-stronger-fy27-outlook-cah.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/cardinal-health-clean-beat-stronger-fy27-outlook-cah.md)
+**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/Cardinal-Health-깔끔한-실적-상회와-더-강한-FY27-전망-CAH.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/Cardinal-Health-业绩干净超预期-FY27-展望更强-CAH.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/Cardinal-Health-業績乾淨優於預期-FY27-展望更強-CAH.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/Cardinal-Health-業績乾淨優於預期-FY27-展望更強-CAH.md)
 <!-- locale-switcher:end -->
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

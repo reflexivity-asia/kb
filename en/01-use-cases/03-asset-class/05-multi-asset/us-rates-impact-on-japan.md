@@ -14,7 +14,7 @@ publication_mode: faithful-source-preserving
 # Trace how higher US long-term rates transmit into Japanese markets
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/05-マルチアセット/us-rates-impact-on-japan.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/05-멀티에셋/us-rates-impact-on-japan.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/05-多资产/us-rates-impact-on-japan.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/05-多資產/us-rates-impact-on-japan.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/05-多資產/us-rates-impact-on-japan.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/05-マルチアセット/米長期金利上昇が日本の金利・景気・株式へどう波及するか分析する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/05-멀티에셋/미국-장기금리-상승이-일본시장에-전달되는-경로-추적하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/05-多资产/追踪美国长期利率上升如何传导到日本市场.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/05-多資產/追蹤美國長期利率上升如何傳導到日本市場.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/05-多資產/追蹤美國長期利率上升如何傳導到日本市場.md)
 <!-- locale-switcher:end -->
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

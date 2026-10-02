@@ -2,7 +2,7 @@
 
 ## Wealth Management / RIA
 
-- [트럼프, 스페인과의 무역 관계 위협 (EWP)](../01-운용자별/01-웰스매니지먼트RIA/trump-threatens-spain-trade-ties-ewp.md)
+- [트럼프, 스페인과의 무역 관계 위협 (EWP)](../01-운용자별/01-웰스매니지먼트RIA/트럼프-스페인과의-무역-관계-위협-EWP.md)
 
 ---
 

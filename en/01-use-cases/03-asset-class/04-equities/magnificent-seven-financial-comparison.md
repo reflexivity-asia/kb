@@ -18,7 +18,7 @@ publication_mode: faithful-source-preserving
 # Compare the Magnificent Seven's Financial Capacity and Rate Resilience
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/magnificent-seven-financial-comparison.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/magnificent-seven-financial-comparison.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/magnificent-seven-financial-comparison.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/magnificent-seven-financial-comparison.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/magnificent-seven-financial-comparison.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/マグニフィセント7の財務体力と金利耐性を比較する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/Magnificent-Seven의-재무여력과-금리-내성을-비교하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/比较-Magnificent-Seven-的财务能力与利率韧性.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/比較-Magnificent-Seven-的財務實力與利率韌性.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/比較-Magnificent-Seven-的財務狀況與利率韌性.md)
 <!-- locale-switcher:end -->
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

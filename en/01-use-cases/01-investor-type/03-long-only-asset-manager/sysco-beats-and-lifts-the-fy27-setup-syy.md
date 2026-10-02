@@ -19,7 +19,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 # Sysco beats and lifts the FY27 setup (SYY)
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/01-운용자별/03-롱온리자산운용사/sysco-beats-and-lifts-the-fy27-setup-syy.md) · [简体中文](../../../../zh-cn/01-使用案例/01-按投资者类型/03-长期多头资产管理人/sysco-beats-and-lifts-the-fy27-setup-syy.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/01-依投資者類型/03-長期多頭資產管理人/sysco-beats-and-lifts-the-fy27-setup-syy.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/01-按投資者類型/03-長期多頭資產管理人/sysco-beats-and-lifts-the-fy27-setup-syy.md)
+**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/01-운용자별/03-롱온리자산운용사/Sysco-실적-상회와-FY27-셋업-상향-SYY.md) · [简体中文](../../../../zh-cn/01-使用案例/01-按投资者类型/03-长期多头资产管理人/Sysco-业绩超预期并改善-FY27-预期-SYY.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/01-依投資者類型/03-長期多頭資產管理人/Sysco-業績優於預期並改善-FY27-預期-SYY.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/01-按投資者類型/03-長期多頭資產管理人/Sysco-業績優於預期並改善-FY27-預期-SYY.md)
 <!-- locale-switcher:end -->
 
 [← Long-only Asset Manager use cases](README.md) · [All use cases](../../README.md)

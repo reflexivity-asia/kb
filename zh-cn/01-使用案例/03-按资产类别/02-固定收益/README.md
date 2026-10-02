@@ -4,15 +4,15 @@
 
 ## 使用案例
 
-- [从法国主权信用压力构建相对价值交易思路](french-sovereign-corporate-yield-inversion-trade-ideas.md)
-- [筛选美国收益率曲线中的陡峭化与平坦化候选](us-yield-curve-relative-value-screen.md)
-- [检验美国 2s10s 曲线历史上是否预示经济衰退](us-2s10s-recession-signal-validation.md)
-- [比较主要市场 10 年期政府债券收益率](global-10y-government-yields.md)
-- [从整条收益率曲线理解美国 30 年期收益率上升](us-30y-yield-curve-bear-steepening.md)
-- [比较 EUR/USD 与欧元—美元掉期利差的变化](eurusd-vs-eur-usd-swap-spread.md)
+- [从法国主权信用压力构建相对价值交易思路](从法国主权信用压力构建相对价值交易思路.md)
+- [筛选美国收益率曲线中的陡峭化与平坦化候选](筛选美国收益率曲线中的陡峭化与平坦化候选.md)
+- [检验美国 2s10s 曲线历史上是否预示经济衰退](检验美国-2s10s-曲线历史上是否预示经济衰退.md)
+- [比较主要市场 10 年期政府债券收益率](比较主要市场-10-年期政府债券收益率.md)
+- [从整条收益率曲线理解美国 30 年期收益率上升](从整条收益率曲线理解美国-30-年期收益率上升.md)
+- [比较 EUR/USD 与欧元—美元掉期利差的变化](比较-EUR-USD-与欧元-美元掉期利差的变化.md)
 
-- [比较美国 10 年期国债收益率 5% 门槛与过去 20 年](us-10y-yield-5-percent-threshold.md)
-- [按发行人、资金用途、供需和收益率分析美国债券发行市场](us-bond-issuance-market-analysis.md)
+- [比较美国 10 年期国债收益率 5% 门槛与过去 20 年](比较美国-10-年期国债收益率-5%-门槛与过去-20-年.md)
+- [按发行人、资金用途、供需和收益率分析美国债券发行市场](按发行人-资金用途-供需和收益率分析美国债券发行市场.md)
 
 ## 新增 QUICK 使用案例
 

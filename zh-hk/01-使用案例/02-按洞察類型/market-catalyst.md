@@ -4,18 +4,18 @@
 
 ## 財富管理 / RIA
 
-- [貴金屬遭遇拋售](../01-按投資者類型/01-財富管理RIA/precious-metals-selloff-gold-silver.md)
-- [美國住房數據指向更明顯的需求下行 (SPY)](../01-按投資者類型/01-財富管理RIA/u-s-housing-data-signal-a-sharper-demand-downshift-spy.md)
-- [美國 ISM 製造業數據優於預期，週期股走強 (SPY)](../01-按投資者類型/01-財富管理RIA/u-s-ism-manufacturing-beat-lifts-cyclicals-spy.md)
-- [美國就業疲弱推動貴金屬輪動](../01-按投資者類型/01-財富管理RIA/weak-us-payrolls-spark-precious-metals-rotation-gold-silver.md)
-- [紅海襲擊令航運咽喉風險再度升溫 (EEM)](../01-按投資者類型/01-財富管理RIA/red-sea-attack-revives-shipping-chokepoint-risk-eem.md)
+- [貴金屬遭遇拋售](../01-按投資者類型/01-財富管理RIA/貴金屬遭遇拋售.md)
+- [美國住房數據指向更明顯的需求下行 (SPY)](../01-按投資者類型/01-財富管理RIA/美國住房數據指向更明顯的需求下行-SPY.md)
+- [美國 ISM 製造業數據優於預期，週期股走強 (SPY)](../01-按投資者類型/01-財富管理RIA/美國-ISM-製造業數據優於預期-週期股走強-SPY.md)
+- [美國就業疲弱推動貴金屬輪動](../01-按投資者類型/01-財富管理RIA/美國就業疲弱推動貴金屬輪動.md)
+- [紅海襲擊令航運咽喉風險再度升溫 (EEM)](../01-按投資者類型/01-財富管理RIA/紅海襲擊令航運咽喉風險再度升溫-EEM.md)
 
 ## 對沖基金 Tier 1
 
-- [DeepSeek 推理晶片 / AI 晶片壓力](../03-按資產類別/04-股票/deepseek-inference-chip-ai-chip-pressure.md)
-- [AI 晶片去評級拖累半導體 ETF (SMH)](../03-按資產類別/04-股票/ai-chip-de-rating-hits-semiconductor-etfs-smh.md)
-- [Palantir 業績優於預期強化 AI 軟體需求映射 (PLTR)](../03-按資產類別/04-股票/palantir-beat-sharpens-ai-software-demand-read-through-pltr.md)
-- [美國 AI 晶片出口限制衝擊半導體 (SMH)](../03-按資產類別/04-股票/us-ai-chip-export-curb-hits-semis-smh.md)
+- [DeepSeek 推理晶片 / AI 晶片壓力](../03-按資產類別/04-股票/DeepSeek-推理晶片-AI-晶片壓力.md)
+- [AI 晶片去評級拖累半導體 ETF (SMH)](../03-按資產類別/04-股票/AI-晶片去評級拖累半導體-ETF-SMH.md)
+- [Palantir 業績優於預期強化 AI 軟體需求映射 (PLTR)](../03-按資產類別/04-股票/Palantir-業績優於預期強化-AI-軟體需求映射-PLTR.md)
+- [美國 AI 晶片出口限制衝擊半導體 (SMH)](../03-按資產類別/04-股票/美國-AI-晶片出口限制衝擊半導體-SMH.md)
 
 ## QUICK 提供
 

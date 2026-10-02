@@ -15,7 +15,7 @@ publication_mode: faithful-source-preserving
 # Use Company Catalyst to Trace the Market Impact of NVIDIA-Related News
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/company-catalyst-nvidia-example.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/company-catalyst-nvidia-example.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/company-catalyst-nvidia-example.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/company-catalyst-nvidia-example.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/company-catalyst-nvidia-example.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/企業カタリストでNVIDIA関連ニュースの株価影響を確認する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/Company-Catalyst로-NVIDIA-관련-뉴스의-시장-영향을-추적하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/使用-Company-Catalyst-追踪-NVIDIA-相关新闻的市场影响.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/使用-Company-Catalyst-追蹤-NVIDIA-相關新聞的市場影響.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/用-Company-Catalyst-追蹤-NVIDIA-相關新聞的市場影響.md)
 <!-- locale-switcher:end -->
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

@@ -4,26 +4,26 @@
 
 ## Market Catalyst
 
-- [紅海襲擊令航運咽喉風險再度升溫 (EEM)](red-sea-attack-revives-shipping-chokepoint-risk-eem.md) — 2026-08-11 — 看空
-- [美國就業疲弱推動貴金屬輪動](weak-us-payrolls-spark-precious-metals-rotation-gold-silver.md) — 2026-08-10 — 看多
-- [美國 ISM 製造業數據優於預期，週期股走強 (SPY)](u-s-ism-manufacturing-beat-lifts-cyclicals-spy.md) — 2026-08-03 — 看多
-- [美國住房數據指向更明顯的需求下行 (SPY)](u-s-housing-data-signal-a-sharper-demand-downshift-spy.md) — 2026-07-16 — 看空
-- [貴金屬遭遇拋售](precious-metals-selloff-gold-silver.md) — 2026-07-08 — 看空
+- [紅海襲擊令航運咽喉風險再度升溫 (EEM)](紅海襲擊令航運咽喉風險再度升溫-EEM.md) — 2026-08-11 — 看空
+- [美國就業疲弱推動貴金屬輪動](美國就業疲弱推動貴金屬輪動.md) — 2026-08-10 — 看多
+- [美國 ISM 製造業數據優於預期，週期股走強 (SPY)](美國-ISM-製造業數據優於預期-週期股走強-SPY.md) — 2026-08-03 — 看多
+- [美國住房數據指向更明顯的需求下行 (SPY)](美國住房數據指向更明顯的需求下行-SPY.md) — 2026-07-16 — 看空
+- [貴金屬遭遇拋售](貴金屬遭遇拋售.md) — 2026-07-08 — 看空
 
 ## Geopolitical Catalyst
 
-- [川普威脅與西班牙的貿易關係 (EWP)](trump-threatens-spain-trade-ties-ewp.md) — 2026-07-08 — 看空
+- [川普威脅與西班牙的貿易關係 (EWP)](川普威脅與西班牙的貿易關係-EWP.md) — 2026-07-08 — 看空
 
 ## 合作夥伴提供的研究案例
 
 以下連結指向按資產類別整理的正文。列表顯示提供者與提供日期，並依最新日期排序。
 
-- [在 FOMC 會議前建立加息情景](../../03-按資產類別/03-宏觀/fomc-rate-hike-scenarios.md) — QUICK 提供 | 2026-09-15
-- [檢驗 iPhone 發布前後 AAPL 的股價模式](../../03-按資產類別/04-股票/iphone-launch-and-aapl-price-pattern.md) — QUICK 提供 | 2026-09-11
-- [分析日圓急升的背景，以及升勢是否延伸至其他貨幣](../../03-按資產類別/01-FX/yen-strength-background-outlook.md) — QUICK 提供 | 2026-09-09
-- [按潛在市場影響排列一周美國重要事件](../../03-按資產類別/03-宏觀/weekly-us-market-events.md) — QUICK 提供 | 2026-09-08
-- [比較主要市場 10 年期政府債券孳息](../../03-按資產類別/02-固定收益/global-10y-government-yields.md) — QUICK 提供 | 2026-09-01
-- [分析伊朗受襲情景的跨資產影響](../../03-按資產類別/05-多資產/iran-attack-cross-asset-impact.md) — QUICK 提供 | 2026-03-02
+- [在 FOMC 會議前建立加息情景](../../03-按資產類別/03-宏觀/在-FOMC-會議前建立加息情景.md) — QUICK 提供 | 2026-09-15
+- [檢驗 iPhone 發布前後 AAPL 的股價模式](../../03-按資產類別/04-股票/檢驗-iPhone-發布前後-AAPL-的股價模式.md) — QUICK 提供 | 2026-09-11
+- [分析日圓急升的背景，以及升勢是否延伸至其他貨幣](../../03-按資產類別/01-FX/分析日圓急升的背景-以及升勢是否延伸至其他貨幣.md) — QUICK 提供 | 2026-09-09
+- [按潛在市場影響排列一周美國重要事件](../../03-按資產類別/03-宏觀/按潛在市場影響排列一周美國重要事件.md) — QUICK 提供 | 2026-09-08
+- [比較主要市場 10 年期政府債券孳息](../../03-按資產類別/02-固定收益/比較主要市場-10-年期政府債券孳息.md) — QUICK 提供 | 2026-09-01
+- [分析伊朗受襲情景的跨資產影響](../../03-按資產類別/05-多資產/分析伊朗受襲情景的跨資產影響.md) — QUICK 提供 | 2026-03-02
 
 ---
 

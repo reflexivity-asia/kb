@@ -15,7 +15,7 @@ publication_mode: faithful-source-preserving
 # Frame Jackson Hole Speech Scenarios and Possible Market Reactions
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/03-マクロ/jackson-hole-scenario-analysis.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/03-매크로/jackson-hole-scenario-analysis.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/03-宏观/jackson-hole-scenario-analysis.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/03-總體/jackson-hole-scenario-analysis.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/03-宏觀/jackson-hole-scenario-analysis.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/03-マクロ/ジャクソンホール前に発言シナリオと市場反応を整理する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/03-매크로/Jackson-Hole-연설-시나리오와-시장-반응을-사전에-구조화하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/03-宏观/为-Jackson-Hole-讲话建立情景和潜在市场反应框架.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/03-總體/建立-Jackson-Hole-講話情境與可能市場反應.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/03-宏觀/為-Jackson-Hole-講話建立情景及可能市場反應.md)
 <!-- locale-switcher:end -->
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

@@ -15,7 +15,7 @@ publication_mode: faithful-source-preserving
 # Use Market Catalyst to Triage the Beige Book
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/03-マクロ/beige-book-market-catalyst-workflow.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/03-매크로/beige-book-market-catalyst-workflow.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/03-宏观/beige-book-market-catalyst-workflow.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/03-總體/beige-book-market-catalyst-workflow.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/03-宏觀/beige-book-market-catalyst-workflow.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/03-マクロ/ベージュブックをマーケットカタリストから確認する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/03-매크로/Market-Catalyst로-Beige-Book을-우선순위화해-읽기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/03-宏观/用-Market-Catalyst-快速筛选-Beige-Book-的市场重点.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/03-總體/使用-Market-Catalyst-篩選-Beige-Book-重點.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/03-宏觀/用-Market-Catalyst-快速篩選-Beige-Book-重點.md)
 <!-- locale-switcher:end -->
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

@@ -19,7 +19,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 # US AI chip export curb hits semis (SMH)
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/us-ai-chip-export-curb-hits-semis-smh.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/us-ai-chip-export-curb-hits-semis-smh.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/us-ai-chip-export-curb-hits-semis-smh.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/us-ai-chip-export-curb-hits-semis-smh.md)
+**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/미국-AI-칩-수출-제한이-반도체에-충격-SMH.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/美国-AI-芯片出口限制冲击半导体-SMH.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/美國-AI-晶片出口限制衝擊半導體-SMH.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/美國-AI-晶片出口限制衝擊半導體-SMH.md)
 <!-- locale-switcher:end -->
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

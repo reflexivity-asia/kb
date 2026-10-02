@@ -17,7 +17,7 @@ publication_mode: faithful-source-preserving
 # Build Relative-Value Trades from French Sovereign-Credit Stress
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/02-債券/french-sovereign-corporate-yield-inversion-trade-ideas.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/02-채권/french-sovereign-corporate-yield-inversion-trade-ideas.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/02-固定收益/french-sovereign-corporate-yield-inversion-trade-ideas.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/02-固定收益/french-sovereign-corporate-yield-inversion-trade-ideas.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/02-固定收益/french-sovereign-corporate-yield-inversion-trade-ideas.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/02-債券/フランス国債の信用不安から相対価値トレードを構築する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/02-채권/프랑스-국채-신용불안에서-상대가치-트레이드-구성하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/02-固定收益/从法国主权信用压力构建相对价值交易思路.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/02-固定收益/從法國主權信用壓力建立相對價值交易.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/02-固定收益/從法國主權信用壓力建立相對價值交易構想.md)
 <!-- locale-switcher:end -->
 
 [← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

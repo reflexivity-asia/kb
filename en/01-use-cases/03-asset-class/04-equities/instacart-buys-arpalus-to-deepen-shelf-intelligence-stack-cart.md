@@ -19,7 +19,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 # Instacart buys Arpalus to deepen shelf-intelligence stack (CART)
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/Instacart-Arpalus買収で棚情報インテリジェンスを強化-CART-強気.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/Instacart-Arpalus-인수로-선반-인텔리전스-강화-CART.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/Instacart-收购-Arpalus-强化货架智能能力-CART.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/Instacart-收購-Arpalus-強化貨架智慧能力-CART.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/Instacart-收購-Arpalus-強化貨架智慧能力-CART.md)
 <!-- locale-switcher:end -->
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

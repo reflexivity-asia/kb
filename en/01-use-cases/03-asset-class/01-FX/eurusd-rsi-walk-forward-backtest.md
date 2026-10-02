@@ -16,7 +16,7 @@ publication_mode: faithful-source-preserving
 # Test a EUR/USD RSI Strategy Across Parameters and Out of Sample
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/01-FX/eurusd-rsi-walk-forward-backtest.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/01-FX/eurusd-rsi-walk-forward-backtest.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/01-FX/eurusd-rsi-walk-forward-backtest.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/01-FX/eurusd-rsi-walk-forward-backtest.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/01-FX/eurusd-rsi-walk-forward-backtest.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/01-FX/EUR-USDのRSI戦略をパラメータ別・アウトオブサンプルで検証する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/01-FX/EUR-USD-RSI-전략을-파라미터와-아웃오브샘플로-검증하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/01-FX/用多组参数和样本外测试检验-EUR-USD-RSI-策略.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/01-FX/跨參數與樣本外測試-EUR-USD-RSI-策略.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/01-FX/用多組參數及樣本外測試檢驗-EUR-USD-RSI-策略.md)
 <!-- locale-switcher:end -->
 
 [← FX use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

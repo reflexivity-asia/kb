@@ -15,7 +15,7 @@ publication_mode: faithful-source-preserving
 # Build a Research Workflow Around US Retail Earnings Week
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/us-retail-earnings-calendar-workflow.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/us-retail-earnings-calendar-workflow.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/us-retail-earnings-calendar-workflow.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/us-retail-earnings-calendar-workflow.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/us-retail-earnings-calendar-workflow.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/米小売企業の決算予定を起点に調査を組み立てる.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/미국-소매업체-실적주간을-리서치-워크플로로-만들기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/围绕美国零售业财报周建立研究工作流.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/圍繞美國零售業財報週建立研究工作流程.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/圍繞美國零售股業績周建立研究流程.md)
 <!-- locale-switcher:end -->
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

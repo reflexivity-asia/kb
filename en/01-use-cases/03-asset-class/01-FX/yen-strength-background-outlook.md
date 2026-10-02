@@ -15,7 +15,7 @@ publication_mode: faithful-source-preserving
 # Analyze the Drivers of a Rapid Yen Rally and Whether It Extends Across FX
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/01-FX/yen-strength-background-outlook.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/01-FX/yen-strength-background-outlook.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/01-FX/yen-strength-background-outlook.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/01-FX/yen-strength-background-outlook.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/01-FX/yen-strength-background-outlook.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/01-FX/急速な円高の背景と他通貨への広がりを分析する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/01-FX/급격한-엔화-강세의-배경과-다른-통화로의-확산-여부-분석하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/01-FX/分析日元快速升值的驱动因素及其是否扩散到其他货币.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/01-FX/分析日圓快速升值的驅動因素-以及是否延伸至其他匯率.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/01-FX/分析日圓急升的背景-以及升勢是否延伸至其他貨幣.md)
 <!-- locale-switcher:end -->
 
 [← FX use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

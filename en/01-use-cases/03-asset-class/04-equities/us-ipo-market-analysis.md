@@ -15,7 +15,7 @@ publication_mode: faithful-source-preserving
 # Analyze the US IPO Market Through Completed Deals and the Forward Pipeline
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/us-ipo-market-analysis.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/us-ipo-market-analysis.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/us-ipo-market-analysis.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/us-ipo-market-analysis.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/us-ipo-market-analysis.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/米国IPO市場を実績と今後の大型案件から分析する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/완료된-딜과-향후-파이프라인으로-미국-IPO-시장을-분석하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/通过已完成交易与未来发行管线分析美国-IPO-市场.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/從已完成交易與後續供給管線分析美國-IPO-市場.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/從已完成交易與未來-pipeline-分析美國-IPO-市場.md)
 <!-- locale-switcher:end -->
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

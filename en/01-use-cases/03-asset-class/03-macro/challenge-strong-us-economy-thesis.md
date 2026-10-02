@@ -17,7 +17,7 @@ publication_mode: faithful-source-preserving
 # Challenge a Strong-US-Economy Thesis from the Disconfirming Side
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/03-マクロ/challenge-strong-us-economy-thesis.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/03-매크로/challenge-strong-us-economy-thesis.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/03-宏观/challenge-strong-us-economy-thesis.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/03-總體/challenge-strong-us-economy-thesis.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/03-宏觀/challenge-strong-us-economy-thesis.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/03-マクロ/「米国景気は強い」という投資仮説を反証方向から検証する.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/03-매크로/‘미국-경제가-강하다’는-가설을-반증-방향에서-검증하기.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/03-宏观/从反证角度挑战“美国经济强劲”的投资假设.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/03-總體/從反證角度挑戰「美國經濟強勁」的投資論點.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/03-宏觀/從反證角度挑戰「美國經濟強勁」的投資論點.md)
 <!-- locale-switcher:end -->
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

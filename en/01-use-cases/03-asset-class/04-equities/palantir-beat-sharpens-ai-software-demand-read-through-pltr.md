@@ -19,7 +19,7 @@ resource: "Reflexivity Insights Proof Set — Sales Enablement"
 # Palantir beat sharpens AI-software demand read-through (PLTR)
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/palantir-beat-sharpens-ai-software-demand-read-through-pltr.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/palantir-beat-sharpens-ai-software-demand-read-through-pltr.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/palantir-beat-sharpens-ai-software-demand-read-through-pltr.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/palantir-beat-sharpens-ai-software-demand-read-through-pltr.md)
+**Languages:** **English** · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/Palantir-실적-호조가-AI-소프트웨어-수요-리드스루-강화-PLTR.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/Palantir-业绩超预期强化-AI-软件需求映射-PLTR.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/Palantir-業績優於預期強化-AI-軟體需求映射-PLTR.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/Palantir-業績優於預期強化-AI-軟體需求映射-PLTR.md)
 <!-- locale-switcher:end -->
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
