@@ -55,7 +55,7 @@
 
 如果想自己瀏覽，公開 KB 分為六個主要區域：
 
-1. **什麼是 Reflexivity？** — [了解 Reflexivity 為何存在，以及它如何改變研究流程](01-什麼是Reflexivity/README.md)
+1. **什麼是 Reflexivity？** — [在存取受限的客戶資料中查看完整概述](https://github.com/reflexivity-kb/client-resources/blob/main/zh-hk/02-%E4%BB%80%E9%BA%BC%E6%98%AFReflexivity/README.md)
 2. **使用指南** — [使用方法、入門指南及 FAQ](02-使用指南/README.md)
 3. **產品** — [產品資料](03-產品/README.md)
 4. **版本說明** — [版本說明](04-版本說明/README.md)
