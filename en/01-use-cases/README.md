@@ -14,11 +14,11 @@ The persona pages combine the original proof examples with reviewed partner-prov
 
 ## Browse by Insight Type
 
-- [Market Catalyst](02-insight-type/market-catalyst.md) — 9 examples
+- [Market Catalyst](02-insight-type/market-catalyst.md) — 10 examples
 - [Geopolitical Catalyst](02-insight-type/geopolitical-catalyst.md) — 1 example
-- [Company Catalyst](02-insight-type/company-catalyst.md) — 8 examples
-- [Earnings Catalyst](02-insight-type/earnings-catalyst.md) — 7 examples
-- [Scenario Insight](02-insight-type/scenario-insight.md) — 3 examples
+- [Company Catalyst](02-insight-type/company-catalyst.md) — 9 examples
+- [Earnings Catalyst](02-insight-type/earnings-catalyst.md) — 8 examples
+- [Scenario Insight](02-insight-type/scenario-insight.md) — 5 examples
 
 ## Browse by Asset Class
 
