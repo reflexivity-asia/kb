@@ -31,10 +31,6 @@ prompt_status: not_provided
 
 **[Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)**
 
-## Prompt used
-
-The approved source does not specify the exact prompt used.
-
 ## Research objective
 
 The source does not ask Reflexivity to simply “research EUR/USD.” Instead, it turns the questions a PM wants to revisit into a repeatable checklist so that the same decision process can be updated over time. The source research was last updated on **August 28, 2025**.
