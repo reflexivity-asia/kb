@@ -22,6 +22,10 @@ These examples are dated platform outputs. Check them against current market dat
 - [PPG raises quarterly dividend to $0.74 (PPG)](../01-investor-type/03-long-only-asset-manager/ppg-raises-quarterly-dividend-to-0-74-ppg.md) — July 16, 2026 — Bullish
 - [Enerpac buys SFE Group $472M (EPAC)](../01-investor-type/03-long-only-asset-manager/enerpac-buys-sfe-group-472m-epac.md) — July 8, 2026 — Bullish
 
+## QUICK Partner-Provided Use Case
+
+- [Analyze the impact of NVIDIA's $150 billion share-repurchase increase](../03-asset-class/04-equities/nvidia-share-repurchase-impact.md) — QUICK | 2026-09-29
+
 ---
 
 [← All Use Cases](../README.md)
