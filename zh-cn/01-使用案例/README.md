@@ -14,19 +14,19 @@
 
 ## 按洞察类型浏览
 
-- [Market Catalyst](02-按洞察类型/market-catalyst.md) — 9 篇
+- [Market Catalyst](02-按洞察类型/market-catalyst.md) — 10 篇
 - [Geopolitical Catalyst](02-按洞察类型/geopolitical-catalyst.md) — 1 篇
-- [Company Catalyst](02-按洞察类型/company-catalyst.md) — 8 篇
-- [Earnings Catalyst](02-按洞察类型/earnings-catalyst.md) — 7 篇
-- [Scenario Insight](02-按洞察类型/scenario-insight.md) — 3 篇
+- [Company Catalyst](02-按洞察类型/company-catalyst.md) — 9 篇
+- [Earnings Catalyst](02-按洞察类型/earnings-catalyst.md) — 8 篇
+- [Scenario Insight](02-按洞察类型/scenario-insight.md) — 5 篇
 
 ## 按资产类别浏览
 
 - [FX](03-按资产类别/01-FX) — 3 篇案例
-- [固定收益](03-按资产类别/02-固定收益) — 8 篇案例
+- [固定收益](03-按资产类别/02-固定收益) — 9 篇案例
 - [宏观](03-按资产类别/03-宏观) — 8 篇案例
-- [股票](03-按资产类别/04-股票) — 10 篇案例
-- [多资产](03-按资产类别/05-多资产) — 10 篇案例
+- [股票](03-按资产类别/04-股票) — 13 篇案例
+- [多资产](03-按资产类别/05-多资产) — 11 篇案例
 
 同一案例可能适用于多个角色或资产类别。正文只维护一份，并从相关浏览页面链接。
 
