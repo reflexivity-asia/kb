@@ -1,7 +1,7 @@
 # Articles
 
-Articles and historical public materials are being added.
+[← English documentation menu](https://github.com/reflexivity-kb/#en)
 
-[← Reflexivity Knowledge Base](../README.md)
+Articles and historical public materials are being added.
 
 For questions, contact **jim@reflexivity.com**.
