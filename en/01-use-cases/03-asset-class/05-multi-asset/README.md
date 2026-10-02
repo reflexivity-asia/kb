@@ -17,6 +17,10 @@ Research and workflow examples that test one investment question across multiple
 
 These pages preserve source attribution, dated observations, private-link boundaries, and scenario uncertainty.
 
+## New QUICK Partner-Provided Use Case
+
+- [Use the Market Leading Indicator to compare signals with actual market moves](market-leading-indicator-dashboard.md) — QUICK | 2026-09-28
+
 ---
 
 [← Browse by asset class](../README.md) · [All use cases](../../README.md)
