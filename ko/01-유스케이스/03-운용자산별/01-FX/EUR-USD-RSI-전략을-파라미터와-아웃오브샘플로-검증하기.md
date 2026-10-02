@@ -31,10 +31,6 @@ prompt_status: not_provided
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)**
 
-## 사용한 프롬프트
-
-제공 자료에서는 사용한 프롬프트의 정확한 문구를 확인할 수 없습니다.
-
 ## 조사 목적
 
 RSI 전략은 과거 데이터를 본 뒤 특정 기간이나 임계값을 골라내면 매우 좋아 보일 수 있습니다. 따라서 하나의 “최적 파라미터”만으로는 전략에 반복 가능한 엣지가 있는지, 아니면 표본에 과최적화된 것인지 알 수 없습니다.
