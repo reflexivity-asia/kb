@@ -31,10 +31,6 @@ prompt_status: not_provided
 
 **[Reflexivityでこの調査例を開く →](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)**
 
-## 使用したプロンプト
-
-提供資料では、使用したプロンプトの全文は確認できません。
-
 ## 調査の狙い
 
 原資料は「EUR/USDを調べて」と曖昧に依頼するのではなく、**PMが毎回確認したい論点をチェックリスト化し、同じ順番で調査を更新する**例です。原資料の最終更新日は **2025-08-28** です。
