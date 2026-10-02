@@ -36,3 +36,9 @@
 - [ジャクソンホール前に発言シナリオと市場反応を整理する](../03-マクロ/jackson-hole-scenario-analysis.md) — QUICK提供 | 2026-08-21
 
 [← 運用資産別](../README.md) · [ユースケース一覧](../../README.md)
+
+## 今回追加したQUICK提供ユースケース
+
+- [NVIDIAの1500億ドル自社株買い増額のインパクトを分析する](nvidia-share-repurchase-impact.md) — QUICK提供 | 2026-09-29
+- [マイクロン決算を決算プレビューから準備する](micron-earnings-preview-workflow.md) — QUICK提供 | 2026-09-30
+- [AI・半導体・データセンターの足元を日米で比較する](ai-semiconductor-data-center-themes-us-japan.md) — QUICK提供 | 2026-10-01
