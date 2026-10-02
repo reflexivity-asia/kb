@@ -13,6 +13,10 @@
 - [Middleby: 실적 상회와 가이던스 상향 (MIDD)](../01-운용자별/03-롱온리자산운용사/middleby-beat-and-raise-supports-pure-play-reset-midd.md)
 - [Sysco: 실적 상회와 FY27 셋업 상향 (SYY)](../01-운용자별/03-롱온리자산운용사/sysco-beats-and-lifts-the-fy27-setup-syy.md)
 
+## QUICK 제공
+
+- [Micron 실적을 Earnings Preview로 준비하기](../03-운용자산별/04-주식/micron-earnings-preview-workflow.md) — 2026-09-30
+
 ---
 
 [← 인사이트 유형 목록](README.md) · [전체 유스케이스](../README.md)
