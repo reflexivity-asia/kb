@@ -32,7 +32,7 @@ QUICK's example shows how to prepare for Micron Technology's earnings before the
 
 From **Other → Events**, the earnings calendar shows the scheduled event. Selecting **Earnings Preview** opens the pre-earnings view with consensus information, key metrics and the points to watch.
 
-In the supplied screenshots, the Micron preview is framed around **AI demand**. The visible consensus fields include prior EPS of **3.96**, expected EPS of **4.81**, and expected revenue of **$13.15B**. The source also highlights five points to monitor, including HBM/AI-driven demand, margin progression, supply discipline and capital spending.
+In the supplied screenshots, the Micron preview is framed around **AI demand**. The event calendar shows forecast EPS of **31.5**. The preview metric panel shows forecast revenue of **$511.3億** (approximately **$51.13B**) and forecast EPS of **$31.5**. The visible Top 5 notes also reference Q3 revenue of **$41.5B** and EPS of **$25.11**, Q4 revenue guidance of **$50B ± $1B**, gross margin of about **86%**, EPS guidance of **$31 ± $1**, continued supply tightness, capital spending and HBM demand.
 
 ## After the release
 
