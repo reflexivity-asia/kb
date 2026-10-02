@@ -55,13 +55,13 @@ The MCP connection gives the AI application access to documented Reflexivity Ins
 
 If you prefer to explore manually, the public KB is organized into five collections:
 
-- **Use Cases** — [research workflows and examples](01-use-cases/README.md)
+- **Use Cases** — [research workflows and examples](05-use-cases/README.md)
 - **Guides** — [usage and onboarding guides](02-guides/README.md)
 - **Product** — [product materials](03-product/README.md)
-- **Articles** — [articles and historical public materials](04-articles/README.md)
-- **Releases** — [release notes](05-releases/README.md)
+- **Articles** — [articles and historical public materials](06-articles/README.md)
+- **Releases** — [release notes](04-releases/README.md)
 
-Use Cases can be browsed by **persona**, **insight type**, or **asset class**. For example, you can go directly to [Equities Use Cases](01-use-cases/03-asset-class/04-equities/README.md) or [Fixed Income Use Cases](01-use-cases/03-asset-class/02-fixed-income/README.md).
+Use Cases can be browsed by **persona**, **insight type**, or **asset class**. For example, you can go directly to [Equities Use Cases](05-use-cases/03-asset-class/04-equities/README.md) or [Fixed Income Use Cases](05-use-cases/03-asset-class/02-fixed-income/README.md).
 
 Approved users also have access to [Client Resources](https://github.com/reflexivity-kb/client-resources), which includes the access-controlled **Technical Reference** for REST APIs and AI/MCP connections.
 
