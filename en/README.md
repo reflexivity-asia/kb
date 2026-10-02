@@ -15,7 +15,7 @@ The Knowledge Base contains a large amount of material, so you do not need to re
 You can let an AI assistant read the GitHub documentation and ask it to find, summarize, compare, or link the relevant pages.
 
 - **GitHub Copilot** — Open [reflexivity-kb/docs](https://github.com/reflexivity-kb/docs) and ask Copilot about the repository, or add the repository as Copilot context. [GitHub instructions](https://docs.github.com/en/copilot/tutorials/explore-a-codebase)
-- **ChatGPT** — Connect GitHub in ChatGPT, authorize **reflexivity-kb/docs** and, if you have access, **reflexivity-kb/client-resources**, then ask questions about those repositories. [OpenAI instructions](https://help.openai.com/en/articles/11145903-connecting-github-to-chatgpt)
+- **ChatGPT** — Connect GitHub in ChatGPT, authorize **reflexivity-kb/docs** and, if you have access, **reflexivity-kb/platform**, then ask questions about those repositories. [OpenAI instructions](https://help.openai.com/en/articles/11145903-connecting-github-to-chatgpt)
 - **Claude** — Use **Add from GitHub** in a chat or add GitHub to Project knowledge, then select the relevant files or folders. [Claude instructions](https://support.claude.com/en/articles/10167454-use-the-github-integration)
 
 You can ask in any language supported by your AI assistant. The documentation itself is currently published in six locales.
