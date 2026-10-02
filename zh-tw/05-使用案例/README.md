@@ -1,7 +1,7 @@
 # Reflexivity 使用案例
 
 <!-- locale-switcher:start -->
-**Languages:** [English](../../en/05-use-cases/README.md) · [日本語](../../ja/05-ユースケース/README.md) · [한국어](../../ko/05-유ースケース/README.md) · [简体中文](../../zh-cn/05-使用案例/README.md) · **繁體中文（台灣）** · [繁體中文（香港）](../../zh-hk/05-使用案例/README.md)
+**Languages:** [English](../../en/05-use-cases/README.md) · [日本語](../../ja/05-ユースケース/README.md) · [한국어](../../ko/05-유스케이스/README.md) · [简体中文](../../zh-cn/05-使用案例/README.md) · **繁體中文（台灣）** · [繁體中文（香港）](../../zh-hk/05-使用案例/README.md)
 <!-- locale-switcher:end -->
 
 [← 繁體中文（台灣）文件選單](../README.md)
