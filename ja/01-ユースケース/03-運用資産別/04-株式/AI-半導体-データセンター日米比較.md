@@ -30,12 +30,12 @@ prompt_status: present
 
 > リターンは提供資料に記載された現地通貨ベースの価格騰落率で、配当は含みません。
 
+**[Reflexivityでこの調査例を開く →](https://app.reflexivity.com/alfred?mode=research&conversationId=944136af-a0bf-411f-959c-8dd2368b16a8&scrollTo=top)**
+
 ## 使用したプロンプト
 
 > [!IMPORTANT]
 > AI、半導体、データセンターの関連株について、米国と日本それぞれの主要銘柄の過去3か月パフォーマンスを分析し、今後のシナリオを作成してください。
-> ### [Reflexivityでこの調査例を開く →](https://app.reflexivity.com/alfred?mode=research&conversationId=944136af-a0bf-411f-959c-8dd2368b16a8&scrollTo=top)
-
 ## 米国
 
 米国ではメガキャップAI株が堅調だった一方、データセンター関連は銘柄間の差が大きくなりました。
