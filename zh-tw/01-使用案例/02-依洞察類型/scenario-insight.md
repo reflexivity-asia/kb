@@ -9,6 +9,11 @@
 
 - [Xerox：異常大幅拋售 (XRX)](../03-依資產類別/04-股票/xerox-unusually-large-selloff-xrx.md)
 
+## QUICK 提供
+
+- [用 30 年資料分析全球利率前景與 USD/JPY 影響](../03-依資產類別/02-固定收益/global-rates-outlook-and-usdjpy.md) — 2026-09-30
+- [比較美國與日本的 AI、半導體與資料中心主題](../03-依資產類別/04-股票/ai-semiconductor-data-center-themes-us-japan.md) — 2026-10-01
+
 ---
 
 [← 洞察類型列表](README.md) · [全部使用案例](../README.md)
