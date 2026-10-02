@@ -1,7 +1,10 @@
 # Reflexivity 유스케이스
 
-[← 한국어 문서 메뉴](https://github.com/reflexivity-kb/#ko)
+<!-- locale-switcher:start -->
+**Languages:** [English](../../en/05-use-cases/README.md) · [日本語](../../ja/05-ユースケース/README.md) · **한국어** · [简体中文](../../zh-cn/05-使用案例/README.md) · [繁體中文（台灣）](../../zh-tw/05-使用案例/README.md) · [繁體中文（香港）](../../zh-hk/05-使用案例/README.md)
+<!-- locale-switcher:end -->
 
+[← 한국어 문서 메뉴](../README.md)
 Reflexivity의 사례를 **페르소나별**, **인사이트 유형별**, 또는 **운용자산별**로 살펴볼 수 있습니다.
 
 > 아래 사례는 특정 시점의 리서치 또는 플랫폼 출력입니다. 현재 투자 판단에 사용하기 전에는 최신 시장 데이터와 대조하고, 그렇지 않은 경우 설명용 사례로 활용해 주세요.
