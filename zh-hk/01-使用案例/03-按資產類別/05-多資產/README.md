@@ -15,6 +15,10 @@
 - [分析伊朗受襲情景的跨資產影響](iran-attack-cross-asset-impact.md)
 - [把每日 newsflow 轉成五個值得深入研究的投資主題](newsflow-top-five-investment-ideas.md)
 
+## 新增 QUICK 使用案例
+
+- [用市場領先指標對照實際市場走勢](market-leading-indicator-dashboard.md) — QUICK 提供 | 2026-09-28
+
 ---
 
 [← 按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
