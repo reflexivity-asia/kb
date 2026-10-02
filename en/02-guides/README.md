@@ -1,8 +1,8 @@
 # Guides
 
-Usage, onboarding guides, and frequently asked questions (FAQ) are collected here.
+[← English documentation menu](https://github.com/reflexivity-kb/#en)
 
-[← Reflexivity Knowledge Base](../README.md)
+Usage, onboarding guides, and frequently asked questions (FAQ) are collected here.
 
 ## Platform resources (access required)
 
