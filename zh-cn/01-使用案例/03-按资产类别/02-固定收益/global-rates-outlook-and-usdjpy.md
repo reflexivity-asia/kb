@@ -41,7 +41,7 @@ publication_mode: faithful-source-preserving
 | 利差水平与 USD/JPY 的 30 年相关性 | 0.46 |
 | 原资料中的 USD/JPY | 157.38 |
 
-## 原资料的情景判断
+## 利率与汇率情景
 
 - **美国：** 从限制性水平转向温和、浅幅降息，但长期利率中枢可能高于 2010 年代。
 - **欧元区/英国：** 随着通胀回落，仍有小幅进一步宽松空间，但不以回到零利率为前提。
@@ -59,5 +59,9 @@ publication_mode: faithful-source-preserving
 ## 来源
 
 本页基于 QUICK 于 2026-09-30 提供的 Reflexivity 使用案例。
+
+本内容由 QUICK 提供。
+
+根据国家或地区、语言环境、所用产品、权限及数据覆盖范围，可能无法完全按本文方式复现该案例。
 
 [← 固定收益使用案例](README.md) · [全部使用案例](../../README.md)
