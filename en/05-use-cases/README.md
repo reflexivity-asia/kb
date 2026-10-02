@@ -1,7 +1,10 @@
 # Reflexivity Use Cases
 
-[← English documentation menu](https://github.com/reflexivity-kb/#en)
+<!-- locale-switcher:start -->
+**Languages:** **English** · [日本語](../../ja/05-ユースケース/README.md) · [한국어](../../ko/05-유스케이스/README.md) · [简体中文](../../zh-cn/05-使用案例/README.md) · [繁體中文（台灣）](../../zh-tw/05-使用案例/README.md) · [繁體中文（香港）](../../zh-hk/05-使用案例/README.md)
+<!-- locale-switcher:end -->
 
+[← English documentation menu](https://github.com/reflexivity-kb/)
 Explore Reflexivity examples by **persona**, **insight type**, or **asset class**.
 
 > These examples are dated research or platform outputs. Check them against current market data before using them for a current investment decision, or present them as illustrative examples only.
