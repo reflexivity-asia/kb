@@ -72,17 +72,17 @@ The result is a fundamentally different research workflow. Investors test more h
 5. **Delivers transparent conviction.**  
    Provides source-backed, auditable analysis so investors can act with confidence. Provides source-backed reasoning and analytical follow-up through Alfred so investors can act with confidence.
 
-## What changes for the user?
+## How Reflexivity changes your research workflow
 
-Five outcome dimensions, tied to workflow change rather than features.
+Using Reflexivity changes more than the speed of research. The workflow changes across five dimensions.
 
-- **Time** — Hours or days collapse to seconds.
-- **Breadth** — Broader coverage.
-- **Depth** — Analysis once out of reach becomes explorable.
-- **Eliminate blind spots** — Surface what you’re missing.
-- **Trust** — Higher-conviction decisions, with auditable source tracing.
+- **Time** — Hours or days of research can collapse to seconds.
+- **Breadth** — Cover a broader set of companies, themes, and signals.
+- **Depth** — Explore analysis that was previously out of reach.
+- **Blind spots** — Surface what you may not already be looking for.
+- **Trust** — Make higher-conviction decisions with auditable source tracing.
 
-## Why we win
+## What makes Reflexivity different
 
 ### A structured understanding of market relationships
 
@@ -100,13 +100,13 @@ Every output is auditable back to source with full source transparency into the 
 
 Unlike general-purpose AI, Reflexivity is designed to surface uncertainty rather than generate plausible-sounding answers.
 
-**The benefit:** Faster signal detection. Better analysis. Higher conviction idea generation.
+**For investors:** Faster signal detection. Better analysis. Higher-conviction idea generation.
 
-## What category are we?
+## Reflexivity, Alfred, and the Knowledge Graph
 
-**An AI investment research platform for institutional investors.**
+**Reflexivity is an AI investment research platform for institutional investors.**
 
-We bring market intelligence, relationship-mapping, and on-demand analysis into one research environment.
+It brings market intelligence, relationship-mapping, and on-demand analysis into one research environment.
 
 ### Alfred
 
@@ -116,19 +116,17 @@ The always-on AI analyst that proactively surfaces what matters and investigates
 
 The proprietary intelligence layer Alfred uses to understand relationships, identify affected companies or themes, and uncover second-order implications.
 
-## Two ways to tell our story
+## From proactive discovery to deeper analysis
 
-### 1. Proactive signal detection
+### Discover what you were not already looking for
 
 Reflexivity helps investors discover signals, risks, and opportunities they wouldn’t have known to look for.
 
-**Recommended primary.**
+### Investigate the questions you already have
 
-### 2. Better autonomous analysis
+When investors bring a question, Reflexivity helps them get to an answer faster, more accurately, and with greater confidence.
 
-Reflexivity helps investors answer questions faster, more accurately, and with greater confidence.
-
-Much of the framework — unknown unknowns, autonomous analysis, proactive signals, before you think to ask, monitors and intervenes — points toward proactive signal detection as the more differentiated story.
+Together, these two modes connect proactive discovery with on-demand analysis: Reflexivity can surface what may matter before you ask, and help investigate it once a question emerges.
 
 ---
 
