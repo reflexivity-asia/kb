@@ -29,12 +29,12 @@ prompt_status: present
 
 > 回報為來源中的本幣價格回報，不包括股息。
 
+**[在 Reflexivity 開啟此研究例子 →](https://app.reflexivity.com/alfred?mode=research&conversationId=944136af-a0bf-411f-959c-8dd2368b16a8&scrollTo=top)**
+
 ## 使用的提示詞
 
 > [!IMPORTANT]
 > 比較美國及日本 AI、半導體、數據中心相關主要股票過去三個月表現，並建立後續情景。
-> ### [在 Reflexivity 開啟此研究例子 →](https://app.reflexivity.com/alfred?mode=research&conversationId=944136af-a0bf-411f-959c-8dd2368b16a8&scrollTo=top)
-
 ## 美國
 
 | 主題 | 來源主要例子 |
