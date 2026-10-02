@@ -55,7 +55,7 @@
 
 如果希望自己浏览，公开 KB 分为六个主要栏目：
 
-1. **什么是 Reflexivity？** — [了解 Reflexivity 为什么存在，以及它如何改变研究流程](01-什么是Reflexivity/README.md)
+1. **什么是 Reflexivity？** — [在访问受限的客户资料中查看完整概述](https://github.com/reflexivity-kb/client-resources/blob/main/zh-cn/02-%E4%BB%80%E4%B9%88%E6%98%AFReflexivity/README.md)
 2. **使用指南** — [使用方法、入门指南与 FAQ](02-使用指南/README.md)
 3. **产品** — [产品资料](03-产品/README.md)
 4. **发布说明** — [发布说明](04-发布说明/README.md)
