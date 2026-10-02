@@ -26,8 +26,8 @@ prompt_status: present
 **[在 Reflexivity 中開啟這個研究示例 →](https://app.reflexivity.com/app/alfred?conversationId=13b510d0-1f45-45bd-bbbf-c2c978fd3b9a&mode=research&activeHistorySidebarCategory=all)**
 
 ## 使用的提示詞
+> [!IMPORTANT]
 > 比較 EUR/USD 的變動，與 EUR swaps 和 USD swaps 之間 spread 的變動，並檢視外匯變化如何對應相對利率定價的變化。
-
 原始問題：
 
 > Compare moves in EURUSD vs moves in the EUR Swap vs USD Swap spread

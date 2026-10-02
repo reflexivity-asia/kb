@@ -31,8 +31,8 @@ prompt_status: present
 > ### [在 Reflexivity 中打开这个研究示例 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=21bf31be-608b-4468-9697-9408b296d4dc&scrollTo=top)
 
 ## 使用的提示词
+> [!IMPORTANT]
 > 比较 Magnificent Seven 的财务状况，尤其关注融资和投资，并评估它们对利率变化的承受能力。
-
 ## 财务能力的差异在哪里
 
 基于最近一个财年的财务报表，从**流动性、债务、净现金、资本开支、自由现金流、融资和利率韧性**几个维度比较 Magnificent Seven。

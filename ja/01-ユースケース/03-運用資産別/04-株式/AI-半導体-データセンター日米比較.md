@@ -32,8 +32,8 @@ prompt_status: present
 
 ## 使用したプロンプト
 
+> [!IMPORTANT]
 > AI、半導体、データセンターの関連株について、米国と日本それぞれの主要銘柄の過去3か月パフォーマンスを分析し、今後のシナリオを作成してください。
-
 > ### [Reflexivityでこの調査例を開く →](https://app.reflexivity.com/alfred?mode=research&conversationId=944136af-a0bf-411f-959c-8dd2368b16a8&scrollTo=top)
 
 ## 米国

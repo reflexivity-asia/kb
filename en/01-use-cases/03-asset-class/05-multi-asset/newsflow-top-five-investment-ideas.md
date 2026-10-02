@@ -31,8 +31,8 @@ Read the day's news and reduce the flow to five investment ideas that are worth 
 
 Original prompt:
 
+> [!IMPORTANT]
 > Read the news and produce the top 5 investment ideas to study based on today's newsflow
-
 ## What this use case demonstrates
 
 This workflow is not just a news-summary task. It turns a broad stream of information into a prioritized research queue.

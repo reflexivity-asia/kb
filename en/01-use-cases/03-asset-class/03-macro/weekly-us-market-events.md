@@ -29,8 +29,8 @@ prompt_status: present
 
 ## Prompt used
 
+> [!IMPORTANT]
 > List the US economic releases and other events this week that have the highest potential to affect markets.
-
 ## Research objective
 
 An economic calendar can contain dozens of events, but they do not deserve equal attention. The goal here is not to reproduce a calendar. It is to prioritize events by **how likely they are to change monetary-policy expectations and then transmit into rates, the dollar, and equities**.

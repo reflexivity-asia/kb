@@ -26,8 +26,8 @@ prompt_status: present
 > This is a dated, conditional scenario analysis from 2026-03-02, not a current geopolitical forecast or investment recommendation. The useful part is the research structure: establish the starting point, separate short- and medium-horizon transmission, compare with historical stress episodes, and identify the variables that would change the scenario.
 
 ## Prompt used
+> [!IMPORTANT]
 > If the United States and Israel attack Iran, what short- and medium-term effects could be expected for oil, gold, equities, and the US dollar?
-
 ## What the research is trying to establish
 
 For a geopolitical shock, directional shorthand such as “oil up, stocks down” is not enough.

@@ -31,8 +31,8 @@ QUICK used Alfred to investigate the background to the yen's rapid appreciation.
 
 ## Prompt used
 
+> [!IMPORTANT]
 > USD/JPY has moved sharply in favor of the yen. Analyze the background to this move and how other currencies are behaving. Also analyze how the market is thinking about the outlook from here.
-
 ![USD/JPY move and related currency analysis](../../../../assets/usecases/quick/RX-USECASE-0044/source-visuals.webp)
 
 ## Research objective

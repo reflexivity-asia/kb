@@ -31,8 +31,8 @@ prompt_status: present
 
 ## 使用的提示詞
 
+> [!IMPORTANT]
 > 比較美國與日本 AI、半導體、資料中心相關主要股票過去三個月的表現，並建立後續情境。
-
 > ### [在 Reflexivity 中開啟此研究範例 →](https://app.reflexivity.com/alfred?mode=research&conversationId=944136af-a0bf-411f-959c-8dd2368b16a8&scrollTo=top)
 
 ## 美國

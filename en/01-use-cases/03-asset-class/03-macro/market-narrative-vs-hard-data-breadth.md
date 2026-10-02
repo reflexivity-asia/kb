@@ -32,8 +32,8 @@ prompt_status: present
 > ### [Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)
 
 ## Prompt used
+> [!IMPORTANT]
 > Is the narrative that “the US economy is strong” supported by broad evidence, or is it being carried by a smaller number of strong headline observations?
-
 The source combines roughly 60 days of macro-related news, Fed-related information, prediction-market pricing, equity-theme leadership, and hard economic data into one evidence table.
 
 ## Conclusion

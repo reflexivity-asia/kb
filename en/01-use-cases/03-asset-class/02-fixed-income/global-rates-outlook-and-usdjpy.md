@@ -30,8 +30,8 @@ prompt_status: present
 
 ## Prompt used
 
+> [!IMPORTANT]
 > With US and European rates back near pre-financial-crisis levels and inflation still elevated, how might rates evolve? Use 30 years of history and examine the implications for rate differentials and USD/JPY.
-
 > ### [Open this research example in Reflexivity →](https://app.reflexivity.com/alfred?mode=research&conversationId=121c67ec-ef7a-4ad4-8526-608cf402fdd0&scrollTo=top)
 
 ## Historical comparison

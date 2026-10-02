@@ -29,8 +29,8 @@ prompt_status: present
 
 ## Prompt used
 
+> [!IMPORTANT]
 > Analyze how long-term government-bond yields, including Japan, have changed over the past year across major countries.
-
 ## Research objective
 
 Comparing only current 10-year yield levels tells us which country has the highest or lowest yield, but not **where the largest repricing occurred over the year, or whether the move was global or country-specific**.

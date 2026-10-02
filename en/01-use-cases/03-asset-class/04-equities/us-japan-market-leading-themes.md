@@ -28,8 +28,8 @@ prompt_status: present
 
 ## Prompt used
 
+> [!IMPORTANT]
 > Are the themes behind the leading companies in the US equity market similar to the themes leading the Japanese market? If there are differences, what are they? Analyze the past three months of performance.
-
 ## Research design
 
 The source compares roughly **February 14 to May 14, 2026** and starts by putting US and Japanese market leaders on the same performance frame.

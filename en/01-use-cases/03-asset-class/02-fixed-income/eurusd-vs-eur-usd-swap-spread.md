@@ -32,8 +32,8 @@ Compare the movement in EUR/USD with the movement in the spread between EUR swap
 
 **Question:**
 
+> [!IMPORTANT]
 > Compare moves in EURUSD vs moves in the EUR Swap vs USD Swap spread
-
 ## What this use case demonstrates
 
 - bring EUR and USD rates markets into the same analysis as the currency pair rather than looking at FX in isolation;

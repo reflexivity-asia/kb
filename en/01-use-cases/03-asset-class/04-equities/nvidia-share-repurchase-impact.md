@@ -30,8 +30,8 @@ prompt_status: present
 
 ## Prompt used
 
+> [!IMPORTANT]
 > NVIDIA announced an additional $150 billion share-repurchase authorization. What is the likely impact, and how does the market reaction compare with other large buyback announcements?
-
 > The provided material did not include a direct Reflexivity link for this example.
 
 ## Scale of the authorization

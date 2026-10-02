@@ -32,8 +32,8 @@ prompt_status: present
 > ### [Open this research example in Reflexivity →](https://app.reflexivity.com/alfred?mode=research&conversationId=71c1788f-7e54-4620-a6b2-ab163bd6762f&scrollTo=top)
 
 ## Prompt used
+> [!IMPORTANT]
 > Bond issuance in the United States has been increasing. Analyze the main issuers and their uses of proceeds, and also examine supply-demand conditions and changes in yields.
-
 ## Start with who is issuing and why
 
 The source describes US bond issuance as expanding across both Treasuries and corporate bonds.

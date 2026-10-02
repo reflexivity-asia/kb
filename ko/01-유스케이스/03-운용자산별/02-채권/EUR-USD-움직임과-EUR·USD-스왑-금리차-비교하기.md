@@ -33,8 +33,8 @@ EUR/USD의 움직임과 EUR 스왑·USD 스왑의 금리차 움직임을 비교�
 
 **질문:**
 
+> [!IMPORTANT]
 > Compare moves in EURUSD vs moves in the EUR Swap vs USD Swap spread
-
 ## 이 유스케이스에서 확인할 수 있는 것
 
 - FX만 따로 보지 않고 EUR와 USD 금리시장을 같은 분석에 넣기

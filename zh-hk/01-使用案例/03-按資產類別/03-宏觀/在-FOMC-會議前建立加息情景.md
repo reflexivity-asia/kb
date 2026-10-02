@@ -28,8 +28,8 @@ prompt_status: present
 
 ## 使用的提示詞
 
+> [!IMPORTANT]
 > 本頁保留的是 **2026 年 9 月 15–16 日 FOMC 會議前**的有日期情景分析，而不是當前預測。來源中的概率及宏觀讀數均是當時的快照。
-
 來源問題可概括為：考慮通脹、油價上升及更廣泛宏觀背景，主席 Kevin Warsh 在本周 FOMC 對可能加息會如何表述？
 
 ![FOMC 加息情景分析](../../../../assets/usecases/quick/RX-USECASE-0041/source-visuals.webp)

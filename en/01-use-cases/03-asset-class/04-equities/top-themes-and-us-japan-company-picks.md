@@ -42,8 +42,8 @@ The workflow is:
 The original prompt did not require listed companies only and did not yet apply financial-quality filters, which is why a non-listed institution such as JAXA appears in the source output.
 
 ## Prompt used
+> [!IMPORTANT]
 > For the themes gene editing, satellite technology, space exploration, copper mining, and gold production, list three related organizations in the US and three in Japan for each category.
-
 ## Candidate universe
 
 ### Gene editing

@@ -28,8 +28,8 @@ prompt_status: present
 
 ## 使用的提示詞
 
+> [!IMPORTANT]
 > 本頁保留的是 **2026 年 8 月 27–29 日 Jackson Hole symposium 舉行前**提供的情景分析。應把它視為事件前準備案例，而不是當前預測，也不是事後按結果重建的分析。
-
 來源問題可概括為：即將舉行的 Jackson Hole symposium 應重點留意誰的發言、哪些情景合理，以及對股票及金融市場的影響可能有多大？
 
 ## 研究目標

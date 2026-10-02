@@ -29,8 +29,8 @@ prompt_status: present
 
 ## Prompt used
 
+> [!IMPORTANT]
 > List the major US IPOs completed this year and analyze their market impact. Also analyze the large IPOs reported or expected before year-end.
-
 ![US IPO market: completed deals and forward pipeline](../../../../assets/usecases/quick/RX-USECASE-0048/source-visuals.webp)
 
 ## Research objective

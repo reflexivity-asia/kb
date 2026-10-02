@@ -26,8 +26,8 @@ prompt_status: present
 > 이 예시의 수치와 시장 관측은 제공일 당시의 스냅샷입니다.
 
 ## 사용한 프롬프트
+> [!IMPORTANT]
 > @HOOD와 Bitcoin 가격의 상관관계를 분석해 주세요.
-
 비슷한 기업명이 있을 때 `@` 뒤에 티커를 쓰면 엔티티 식별을 더 정확하게 만들 수 있습니다.
 
 ![Robinhood와 Bitcoin의 가격 관계](../../../../assets/usecases/quick/RX-USECASE-0050/source-visuals.webp)

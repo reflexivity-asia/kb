@@ -30,8 +30,8 @@ prompt_status: present
 
 ## 使用的提示詞
 
+> [!IMPORTANT]
 > 列出今年已完成的主要美國 IPO，分析其市場影響；並分析年底前被報導或預期可能進行的大型 IPO。
-
 ![美國 IPO 市場的已完成交易與後續供給管線](../../../../assets/usecases/quick/RX-USECASE-0048/source-visuals.webp)
 
 ## 研究目標

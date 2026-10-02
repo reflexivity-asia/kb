@@ -27,14 +27,14 @@ prompt_status: present
 
 ## Prompt used
 
+> [!IMPORTANT]
 > With mortgage rates falling, could housing contribute positively to US economic growth this year, and what could that mean for equities?
-
+>
 > Analyze the relationship between precious-metal prices and Bitcoin.
-
+>
 > Why is Caterpillar (CAT) rising, which themes are connected to the move, and which Japanese companies are exposed to similar drivers?
-
+>
 > Credit concerns are emerging around US private-debt defaults. How could that affect US and Japanese rates and equity markets?
-
 ## 1. US housing and the equity-market read-through
 
 **Question:**

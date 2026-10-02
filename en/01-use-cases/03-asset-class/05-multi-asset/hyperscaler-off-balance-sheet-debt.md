@@ -26,8 +26,8 @@ prompt_status: present
 > A Research result was provided but is not published here. This page therefore focuses on the research framework rather than result-level findings.
 
 ## Prompt used
+> [!IMPORTANT]
 > Summarize the off-balance-sheet debt of US hyperscalers.
-
 ## What the research needs to establish
 
 Treating “off-balance-sheet debt” as one single liability number can create misleading comparisons.

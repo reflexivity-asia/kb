@@ -31,8 +31,8 @@ prompt_status: present
 > ### [在 Reflexivity 中開啟這個研究範例 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=21bf31be-608b-4468-9697-9408b296d4dc&scrollTo=top)
 
 ## 使用的提示詞
+> [!IMPORTANT]
 > 比較 Magnificent Seven 的財務狀況，特別聚焦融資與投資，並評估它們對利率變化的承受能力。
-
 ## 財務實力的差異在哪裡
 
 依最近一個會計年度的財務報表，從**流動性、負債、淨現金、資本支出、自由現金流、融資與利率韌性**等面向比較 Magnificent Seven。

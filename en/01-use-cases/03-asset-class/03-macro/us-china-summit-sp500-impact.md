@@ -32,8 +32,8 @@ prompt_status: present
 > ### [Open this research example in Reflexivity →](https://app.reflexivity.com/alfred?mode=research&conversationId=299bed89-f45c-4b78-a9f9-68f7a6c63609&scrollTo=top)
 
 ## Prompt used
+> [!IMPORTANT]
 > After US-China summits, did the US equity market move in response? Analyze the past 10 years.
-
 ## Over the past decade, the content of the meeting mattered more than the meeting itself
 
 The source concludes that US-China summits themselves rarely created a sustained trend in US equities.

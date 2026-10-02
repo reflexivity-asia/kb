@@ -32,8 +32,8 @@ prompt_status: present
 > The source included one image but no Reflexivity Research link. The article and the provided image are reproduced here.
 
 ## Prompt used
+> [!IMPORTANT]
 > How does the economic and financial-market impact change depending on whether US Treasury yields move above 5%? Analyze the current market using examples from the past 20 years.
-
 ## What does 5% mean in this context?
 
 As of the source date, the US 10-year Treasury yield had reached 5.00% on September 15, 2026, putting it at a level not seen since 2007. It had risen about 94 bp over the prior year and about 88 bp year to date. The source cites oil above $100, renewed rate-hike expectations, a 3.75% policy rate, and 3.4% year-over-year CPI as part of the backdrop.

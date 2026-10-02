@@ -28,8 +28,8 @@ prompt_status: present
 
 ## 使用的提示詞
 
+> [!IMPORTANT]
 > 總結美國hyperscaler的表外債務。
-
 ## 問題
 
 總結美國 hyperscaler 的 off-balance-sheet debt。

@@ -32,8 +32,8 @@ prompt_status: present
 > ### [Open this research example in Reflexivity →](https://app.reflexivity.com/alfred?mode=research&conversationId=8d4011b7-597b-4361-ad87-501046a67b28&scrollTo=top)
 
 ## Prompt used
+> [!IMPORTANT]
 > Between the beginning of September and yesterday, identify the US industries and major stocks that have risen, then list Japanese companies related to those firms.
-
 ## Start by narrowing the US market leaders
 
 The analysis first identifies stocks that rose in the US market between September 1 and September 17, 2026, then uses those leaders as the starting point for tracing links into the Japanese supply chain.

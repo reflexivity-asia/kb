@@ -29,8 +29,8 @@ prompt_status: present
 
 ## Prompt used
 
+> [!IMPORTANT]
 > The US 30-year Treasury yield is rising. How is the overall yield curve changing?
-
 ## Research objective
 
 A rise in the 30-year yield alone does not tell us whether the move reflects a change in expected policy rates or factors concentrated in the long end, such as fiscal risk, Treasury supply, inflation expectations, or term premium.

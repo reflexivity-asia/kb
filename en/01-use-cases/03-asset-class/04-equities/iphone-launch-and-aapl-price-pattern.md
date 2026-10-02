@@ -29,8 +29,8 @@ prompt_status: present
 
 ## Prompt used
 
+> [!IMPORTANT]
 > Analyze the relationship between new iPhone announcements and AAPL's share price over the past five years. Also analyze the market reaction to the latest Duo announcement.
-
 ![AAPL price behavior around iPhone launches](../../../../assets/usecases/quick/RX-USECASE-0046/source-visuals.webp)
 
 ## Research objective

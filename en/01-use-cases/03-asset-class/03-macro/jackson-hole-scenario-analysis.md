@@ -28,8 +28,8 @@ prompt_status: present
 > This page preserves a **pre-event** scenario analysis provided before the August 27–29, 2026 Jackson Hole symposium. It should be read as an example of event preparation, not as a current forecast or a hindsight reconstruction of what later occurred.
 
 ## Prompt used
+> [!IMPORTANT]
 > Whose remarks should investors focus on at the upcoming Jackson Hole symposium, what scenarios are plausible, and how large could the impact on equities and financial markets be?
-
 ## Research objective
 
 For an event such as Jackson Hole, identifying the speaker is only the first step. The market question is **what new information the remarks could provide about the next policy decision, what is already priced, and how large the reaction could be if the speech differs from expectations**.

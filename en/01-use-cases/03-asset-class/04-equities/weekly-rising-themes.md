@@ -28,8 +28,8 @@ prompt_status: present
 > Figures and market conditions in this example reflect the provided date.
 
 ## Prompt used
+> [!IMPORTANT]
 > Do the equity themes that rose over the past week share any common characteristics?
-
 ## Research objective
 
 A one-week ranking can easily become nothing more than a list of recent winners. The purpose here is to identify the **industries and factors shared by the constituents of the top themes**, then ask whether the move reflects a new durable trend or a rebound from prior weakness.

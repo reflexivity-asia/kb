@@ -26,8 +26,8 @@ prompt_status: present
 > Market levels and interpretations in this example reflect the provided date.
 
 ## Prompt used
+> [!IMPORTANT]
 > US long-term interest rates have been rising. How could that affect Japanese monetary policy and the Japanese economy, and what does it imply for themes such as banks, real estate, and exporters?
-
 ## What the research is trying to establish
 
 A rise in US long-term rates does not transmit mechanically into Japan.

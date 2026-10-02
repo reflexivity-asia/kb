@@ -28,8 +28,8 @@ prompt_status: present
 > A Research result was provided but is not published here. This page therefore focuses on the research workflow rather than result-level findings.
 
 ## Prompt used
+> [!IMPORTANT]
 > Compare and analyze the performance of the S&P 500 and Russell 2000 from January 2026 to today. Then identify the five best-performing Russell 2000 constituents and explain why their share prices rose.
-
 ## Research objective
 
 Comparing the two indexes alone tells us whether large caps or small caps were relatively stronger, but not what actually drove the small-cap result. Looking only at the top individual stocks has the opposite problem: it can miss whether those winners reflect a broader size rotation or a few idiosyncratic events.

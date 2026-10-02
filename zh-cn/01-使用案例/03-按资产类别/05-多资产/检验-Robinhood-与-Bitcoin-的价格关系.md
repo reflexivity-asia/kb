@@ -27,8 +27,8 @@ prompt_status: present
 > 本案例数字和市场观察均为原资料时点的历史快照。
 
 ## 使用的提示词
+> [!IMPORTANT]
 > 分析 @HOOD 与 Bitcoin 价格之间的相关性。
-
 当公司名称可能混淆时，在 `@` 后使用 ticker 可以让实体识别更准确。
 
 ![Robinhood 与 Bitcoin 的价格关系](../../../../assets/usecases/quick/RX-USECASE-0050/source-visuals.webp)

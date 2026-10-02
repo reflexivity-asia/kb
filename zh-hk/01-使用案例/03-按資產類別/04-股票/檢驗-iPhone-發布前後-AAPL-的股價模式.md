@@ -28,8 +28,8 @@ prompt_status: present
 
 ## 使用的提示詞
 
+> [!IMPORTANT]
 > 本頁根據 QUICK Inc. 提供的使用案例整理，保留原始問題、歷史比較、反證及下一步研究邏輯。產品資料及市場數字均為來源日期快照。
-
 原始問題：分析過去五年新 iPhone 發布與 AAPL 股價之間的關係，並分析最新 Duo 發布後的市場反應。
 
 ![iPhone 發布前後的 AAPL 股價走勢](../../../../assets/usecases/quick/RX-USECASE-0046/source-visuals.webp)

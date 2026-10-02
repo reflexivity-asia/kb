@@ -27,8 +27,8 @@ prompt_status: present
 > 本頁保留 QUICK 提供的使用案例。數字及市場觀察均屬來源日期快照。
 
 ## 使用的提示詞
+> [!IMPORTANT]
 > 分析 `@HOOD` 與 Bitcoin 價格的 correlation。用 `@` 加 ticker 可在公司名稱相似時提高 entity resolution 準確度。
-
 ![Robinhood 與 Bitcoin 的價格關係](../../../../assets/usecases/quick/RX-USECASE-0050/source-visuals.webp)
 
 ## 研究要建立甚麼

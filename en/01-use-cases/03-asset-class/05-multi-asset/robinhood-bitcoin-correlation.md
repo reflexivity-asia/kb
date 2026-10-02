@@ -26,8 +26,8 @@ prompt_status: present
 > Figures and market observations in this example reflect the provided date.
 
 ## Prompt used
+> [!IMPORTANT]
 > Analyze the correlation between @HOOD and the price of Bitcoin.
-
 Using a ticker after `@` can make entity resolution more precise when similar company names exist.
 
 ![Robinhood and Bitcoin price relationship](../../../../assets/usecases/quick/RX-USECASE-0050/source-visuals.webp)

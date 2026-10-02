@@ -25,8 +25,8 @@ prompt_status: present
 **[在 Reflexivity 中開啟這個研究範例 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=98829b32-be9b-4e02-8064-0901c5b6d28b&scrollTo=top)**
 
 ## 使用的提示詞
+> [!IMPORTANT]
 > 閱讀當日新聞，將大量資訊收斂成五個值得進一步研究的投資構想。
-
 原始 prompt：
 
 > Read the news and produce the top 5 investment ideas to study based on today's newsflow

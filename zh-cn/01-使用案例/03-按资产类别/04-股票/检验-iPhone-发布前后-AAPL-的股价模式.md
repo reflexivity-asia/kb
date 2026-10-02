@@ -30,8 +30,8 @@ prompt_status: present
 
 ## 使用的提示词
 
+> [!IMPORTANT]
 > 分析过去五年新 iPhone 发布与 AAPL 股价之间的关系，并分析最新 Duo 发布后的市场反应。
-
 ![iPhone 发布前后的 AAPL 股价走势](../../../../assets/usecases/quick/RX-USECASE-0046/source-visuals.webp)
 
 ## 研究目标
