@@ -18,7 +18,7 @@ publication_mode: faithful-source-preserving
 # AI・半導体・データセンターの足元を日米で比較する
 
 <!-- locale-switcher:start -->
-**Languages:** [English](../../../../en/01-use-cases/03-asset-class/04-equities/ai-semiconductor-data-center-themes-us-japan.md) · **日本語** · [한국어](../../../../ko/01-유ースケース/03-운용자산별/04-주식/ai-semiconductor-data-center-themes-us-japan.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/ai-semiconductor-data-center-themes-us-japan.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/ai-semiconductor-data-center-themes-us-japan.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/ai-semiconductor-data-center-themes-us-japan.md)
+**Languages:** [English](../../../../en/01-use-cases/03-asset-class/04-equities/ai-semiconductor-data-center-themes-us-japan.md) · **日本語** · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/ai-semiconductor-data-center-themes-us-japan.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/ai-semiconductor-data-center-themes-us-japan.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/ai-semiconductor-data-center-themes-us-japan.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/ai-semiconductor-data-center-themes-us-japan.md)
 <!-- locale-switcher:end -->
 
 [← 株式ユースケース](README.md) · [運用資産別](../README.md) · [ユースケース一覧](../../README.md)
