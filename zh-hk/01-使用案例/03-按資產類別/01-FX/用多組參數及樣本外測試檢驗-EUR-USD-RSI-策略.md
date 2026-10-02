@@ -31,10 +31,6 @@ prompt_status: not_provided
 
 **[在 Reflexivity 中開啟這個研究示例 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)**
 
-## 使用的提示詞
-
-提供資料中未列明實際使用的提示詞全文。
-
 ## 研究目標
 
 RSI 策略如果在看過歷史數據後才挑選 lookback period 或 threshold，很容易出現漂亮但過度配合樣本的結果。單一「最佳參數」因此不能證明策略具有可重複的 edge。
