@@ -15,6 +15,10 @@
 - [AI 칩 디레이팅이 반도체 ETF에 충격 (SMH)](../03-운용자산별/04-주식/ai-chip-de-rating-hits-semiconductor-etfs-smh.md)
 - [DeepSeek 추론 칩 / AI 칩 압박](../03-운용자산별/04-주식/deepseek-inference-chip-ai-chip-pressure.md)
 
+## QUICK 제공
+
+- [시장 선행지표를 실제 시장 움직임과 비교하기](../03-운용자산별/05-멀티에셋/market-leading-indicator-dashboard.md) — 2026-09-28
+
 ---
 
 [← 인사이트 유형 목록](README.md) · [전체 유스케이스](../README.md)
