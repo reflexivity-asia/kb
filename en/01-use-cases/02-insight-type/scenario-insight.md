@@ -13,6 +13,8 @@ These examples are dated platform outputs. Check them against current market dat
 
 ## QUICK Partner-Provided Use Cases
 
+- [Compare oil and gold through inflation, rates, and forward scenarios](../03-asset-class/05-multi-asset/oil-gold-inflation-rates-scenarios.md) — QUICK | 2026-10-02
+
 - [Analyze the global rates outlook and the implications for USD/JPY](../03-asset-class/02-fixed-income/global-rates-outlook-and-usdjpy.md) — QUICK | 2026-09-30
 - [Compare AI, semiconductor and data-center themes in the US and Japan](../03-asset-class/04-equities/ai-semiconductor-data-center-themes-us-japan.md) — QUICK | 2026-10-01
 
