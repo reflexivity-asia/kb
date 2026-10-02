@@ -36,6 +36,12 @@
 - [Xerox：異常大幅拋售 (XRX)](xerox-unusually-large-selloff-xrx.md) — 2026-07-08 — 看多
 - [DeepSeek 推理晶片 / AI 晶片壓力](deepseek-inference-chip-ai-chip-pressure.md) — 2026-07-08 — 看空
 
+## 新增 QUICK 使用案例
+
+- [分析 NVIDIA 增加 1,500 億美元股份回購授權的影響](nvidia-share-repurchase-impact.md) — QUICK 提供 | 2026-09-29
+- [用 Earnings Preview 為 Micron 業績做準備](micron-earnings-preview-workflow.md) — QUICK 提供 | 2026-09-30
+- [比較美國與日本的 AI、半導體及數據中心主題](ai-semiconductor-data-center-themes-us-japan.md) — QUICK 提供 | 2026-10-01
+
 ---
 
 [← 按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
