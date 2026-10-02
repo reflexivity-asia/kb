@@ -15,7 +15,7 @@
 讓 AI 讀取 GitHub 文件後，可以直接查找相關頁面、摘要或比較內容，並取得所需連結。
 
 - **GitHub Copilot** — 開啟 [reflexivity-kb/docs](https://github.com/reflexivity-kb/docs)，針對目前的儲存庫向 Copilot 提問，或把儲存庫加入 Copilot 上下文。[GitHub 說明](https://docs.github.com/en/copilot/tutorials/explore-a-codebase)
-- **ChatGPT** — 在 ChatGPT 中連接 GitHub，授權 **reflexivity-kb/docs**，以及在你有權限時的 **reflexivity-kb/client-resources**，再針對儲存庫內的文件提問。[OpenAI 說明](https://help.openai.com/en/articles/11145903-connecting-github-to-chatgpt)
+- **ChatGPT** — 在 ChatGPT 中連接 GitHub，授權 **reflexivity-kb/docs**，以及在你有權限時的 **reflexivity-kb/platform**，再針對儲存庫內的文件提問。[OpenAI 說明](https://help.openai.com/en/articles/11145903-connecting-github-to-chatgpt)
 - **Claude** — 在聊天中使用 **Add from GitHub**，或在 Project knowledge 中連接 GitHub，再選擇需要的檔案或資料夾。[Claude 說明](https://support.claude.com/en/articles/10167454-use-the-github-integration)
 
 提問語言不受六種文件語言限制，只要你使用的 AI 助理支援即可。文件原文目前提供六個 locale。
@@ -43,11 +43,11 @@
 
 如果希望 ChatGPT、Claude 等支援的 AI 應用程式**直接呼叫 Reflexivity**，需要連接 **Reflexivity MCP**。這與讓 AI 讀取 GitHub 手冊是不同的產品連接。
 
-核准使用者可以使用 [Client Resources](https://github.com/reflexivity-kb/client-resources) 中的應用程式連接指南：
+核准使用者可以使用 [Platform](https://github.com/reflexivity-kb/platform) 中的應用程式連接指南：
 
-- [ChatGPT](https://github.com/reflexivity-kb/client-resources/blob/main/zh-tw/01-技術參考/11-AI-連接/02-應用程式指南/03-ChatGPT/README.md)
-- [Claude](https://github.com/reflexivity-kb/client-resources/blob/main/zh-tw/01-技術參考/11-AI-連接/02-應用程式指南/01-Claude/README.md)
-- [GitHub Copilot in VS Code](https://github.com/reflexivity-kb/client-resources/blob/main/zh-tw/01-技術參考/11-AI-連接/02-應用程式指南/07-GitHub-Copilot-in-VS-Code/README.md)
+- [ChatGPT](https://github.com/reflexivity-kb/platform/blob/main/zh-tw/02-使用指南/技術參考/11-AI-連接/02-應用程式指南/03-ChatGPT/README.md)
+- [Claude](https://github.com/reflexivity-kb/platform/blob/main/zh-tw/02-使用指南/技術參考/11-AI-連接/02-應用程式指南/01-Claude/README.md)
+- [GitHub Copilot in VS Code](https://github.com/reflexivity-kb/platform/blob/main/zh-tw/02-使用指南/技術參考/11-AI-連接/02-應用程式指南/07-GitHub-Copilot-in-VS-Code/README.md)
 
 透過 MCP，AI 應用程式可以使用已文件化的 Reflexivity Insights 與 Knowledge Graph 功能。它並不是一般即時行情或歷史價格序列的連接。
 
@@ -55,7 +55,7 @@
 
 如果想自己瀏覽，公開 KB 分成六個主要區域：
 
-1. **什麼是 Reflexivity？** — [在存取受限的客戶資料中查看完整概述](https://github.com/reflexivity-kb/client-resources/blob/main/zh-tw/02-%E4%BB%80%E9%BA%BC%E6%98%AFReflexivity/README.md)
+1. **什麼是 Reflexivity？** — [在存取受限的Platform 資料中查看完整概述](https://github.com/reflexivity-kb/platform/blob/main/zh-tw/01-%E4%BB%80%E9%BA%BC%E6%98%AFReflexivity/README.md)
 2. **使用指南** — [使用方式、入門指南與 FAQ](02-使用指南/README.md)
 3. **產品** — [產品資料](03-產品/README.md)
 4. **版本說明** — [版本說明](04-版本說明/README.md)
@@ -64,13 +64,13 @@
 
 使用案例也可以依 **投資者/使用者類型、洞察類型、資產類別** 瀏覽。例如可直接進入 [股票使用案例](05-使用案例/03-依資產類別/04-股票/README.md)。
 
-核准使用者也可以存取 [Client Resources](https://github.com/reflexivity-kb/client-resources)，其中包含 REST API 與 AI/MCP 連接相關的受限 **技術參考**。
+核准使用者也可以存取 [Platform](https://github.com/reflexivity-kb/platform)，其中包含 REST API 與 AI/MCP 連接相關的受限 **技術參考**。
 
 ## 3. 找不到資料時直接詢問
 
 如果找不到需要的資料，請聯絡 **jim@reflexivity.com**。
 
-擁有 Client Resources 存取權限的使用者，也可以透過 [GitHub Discussions](https://github.com/reflexivity-kb/client-resources/discussions) 提交文件問題、釐清需求、回饋或缺少資料的請求。
+擁有 Platform 存取權限的使用者，也可以透過 [GitHub Discussions](https://github.com/reflexivity-kb/platform/discussions) 提交文件問題、釐清需求、回饋或缺少資料的請求。
 
 提問時請盡量附上 **相關頁面的直接連結或頁面標題**，並簡短說明原本希望找到什麼。
 
