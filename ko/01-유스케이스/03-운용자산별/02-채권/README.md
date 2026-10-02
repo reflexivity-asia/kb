@@ -15,6 +15,10 @@
 - [미국 채권발행시장을 발행주체·자금용도·수급·금리로 분석하기](us-bond-issuance-market-analysis.md) — RX-USECASE-0067
 
 
+## 신규 QUICK 제공 유스케이스
+
+- [글로벌 금리 전망과 USD/JPY 영향을 30년 데이터로 분석하기](global-rates-outlook-and-usdjpy.md) — QUICK 제공 | 2026-09-30 — `RX-USECASE-0070`
+
 ---
 
 [← 운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
