@@ -14,6 +14,10 @@
 - [比较美国 10 年期国债收益率 5% 门槛与过去 20 年](us-10y-yield-5-percent-threshold.md)
 - [按发行人、资金用途、供需和收益率分析美国债券发行市场](us-bond-issuance-market-analysis.md)
 
+## 新增 QUICK 使用案例
+
+- [用 30 年数据分析全球利率前景及 USD/JPY 影响](global-rates-outlook-and-usdjpy.md) — QUICK 提供 | 2026-09-30
+
 ---
 
 [← 按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
