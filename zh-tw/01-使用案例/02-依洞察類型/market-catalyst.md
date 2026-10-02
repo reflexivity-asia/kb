@@ -15,6 +15,10 @@
 - [AI 晶片去評級拖累半導體 ETF (SMH)](../03-依資產類別/04-股票/ai-chip-de-rating-hits-semiconductor-etfs-smh.md)
 - [DeepSeek 推理晶片 / AI 晶片壓力](../03-依資產類別/04-股票/deepseek-inference-chip-ai-chip-pressure.md)
 
+## QUICK 提供
+
+- [用市場領先指標對照實際市場走勢](../03-依資產類別/05-多資產/market-leading-indicator-dashboard.md) — 2026-09-28
+
 ---
 
 [← 洞察類型列表](README.md) · [全部使用案例](../README.md)
