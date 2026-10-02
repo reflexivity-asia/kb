@@ -70,4 +70,8 @@ The workflow combines company financial statements, price time series, catalyst 
 
 This page is based on a QUICK-provided Reflexivity usage example dated 2026-09-29.
 
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
+
 [← Equities use cases](README.md) · [All use cases](../../README.md)
