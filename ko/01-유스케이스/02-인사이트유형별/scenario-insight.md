@@ -9,6 +9,11 @@
 
 - [Xerox: 이례적으로 큰 폭의 매도 (XRX)](../03-운용자산별/04-주식/xerox-unusually-large-selloff-xrx.md)
 
+## QUICK 제공
+
+- [글로벌 금리 전망과 USD/JPY 영향을 30년 데이터로 분석하기](../03-운용자산별/02-채권/global-rates-outlook-and-usdjpy.md) — 2026-09-30
+- [미국과 일본의 AI·반도체·데이터센터 테마를 비교하기](../03-운용자산별/04-주식/ai-semiconductor-data-center-themes-us-japan.md) — 2026-10-01
+
 ---
 
 [← 인사이트 유형 목록](README.md) · [전체 유스케이스](../README.md)
