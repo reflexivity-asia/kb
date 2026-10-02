@@ -51,4 +51,8 @@ That makes the earnings event a structured research process rather than a one-of
 
 This page is based on a QUICK-provided Reflexivity usage example dated 2026-09-30. Only information visible in the supplied email and screenshots is included.
 
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
+
 [← Equities use cases](README.md) · [All use cases](../../README.md)
