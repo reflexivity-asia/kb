@@ -32,6 +32,7 @@ prompt_status: present
 
 > [!IMPORTANT]
 > NVIDIA 新增 1,500 億美元庫藏股授權，這個規模代表什麼？與其他大型回購公告後的股價表現相比如何？
+
 > 提供資料中未包含可直接開啟此案例的 Reflexivity 連結。
 
 ## 將回購規模與財務能力比較
