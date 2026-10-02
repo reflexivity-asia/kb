@@ -22,6 +22,10 @@
 - [PPG：季度股息提高至 $0.74 (PPG)](../01-按投資者類型/03-長期多頭資產管理人/ppg-raises-quarterly-dividend-to-0-74-ppg.md)
 - [Verisk：法院要求其重新面對 AccuLynx 交易爭議 (VRSK)](../01-按投資者類型/03-長期多頭資產管理人/court-forces-verisk-back-into-acculynx-deal-fight-vrsk.md)
 
+## QUICK 提供
+
+- [分析 NVIDIA 增加 1,500 億美元股份回購授權的影響](../03-按資產類別/04-股票/nvidia-share-repurchase-impact.md) — 2026-09-29
+
 ---
 
 [← 洞察類型列表](README.md) · [全部使用案例](../README.md)
