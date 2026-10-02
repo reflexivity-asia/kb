@@ -2,40 +2,54 @@
 
 **Languages:** **English** · [日本語](../ja/README.md) · [한국어](../ko/README.md) · [简体中文](../zh-cn/README.md) · [繁體中文（台灣）](../zh-tw/README.md) · [繁體中文（香港）](../zh-hk/README.md)
 
-The knowledge base is intentionally broad. You do not need to read every page before using it. Choose the route that fits what you need.
+The Knowledge Base contains a large amount of material, so you do not need to read it from beginning to end. There are three ways to use **this documentation**:
 
-## 1. Connect Reflexivity to your AI
+1. ask an AI assistant about the documentation,
+2. browse the pages directly,
+3. ask support when something is missing.
 
-Reflexivity can be connected directly to supported AI applications through **MCP**. This gives the AI application access to Reflexivity **Insights** and **Knowledge Graph** capabilities inside the conversation.
+> **Important:** Asking an AI about this Knowledge Base and connecting the **Reflexivity service itself** to an AI application via MCP are two different things. The MCP connection is explained separately below.
 
-This is different from simply asking an AI assistant to read this GitHub documentation repository.
+## 1. Ask an AI about this Knowledge Base
 
-If you have approved access to [Reflexivity Client Resources](https://github.com/reflexivity-kb/client-resources), use the application-specific setup guide:
+You can let an AI assistant read the GitHub documentation and ask it to find, summarize, compare, or link the relevant pages.
 
-- **ChatGPT** — [Connect Reflexivity to ChatGPT](https://github.com/reflexivity-kb/client-resources/blob/main/en/01-technical-reference/11-ai-connections/02-application-guides/03-chatgpt/README.md)
-- **Claude** — [Connect Reflexivity to Claude](https://github.com/reflexivity-kb/client-resources/blob/main/en/01-technical-reference/11-ai-connections/02-application-guides/01-claude/README.md)
-- **GitHub Copilot** — [Connect Reflexivity to GitHub Copilot in VS Code](https://github.com/reflexivity-kb/client-resources/blob/main/en/01-technical-reference/11-ai-connections/02-application-guides/07-github-copilot-in-vs-code/README.md)
+- **GitHub Copilot** — Open [reflexivity-kb/docs](https://github.com/reflexivity-kb/docs) and ask Copilot about the repository, or add the repository as Copilot context. [GitHub instructions](https://docs.github.com/en/copilot/tutorials/explore-a-codebase)
+- **ChatGPT** — Connect GitHub in ChatGPT, authorize **reflexivity-kb/docs** and, if you have access, **reflexivity-kb/client-resources**, then ask questions about those repositories. [OpenAI instructions](https://help.openai.com/en/articles/11145903-connecting-github-to-chatgpt)
+- **Claude** — Use **Add from GitHub** in a chat or add GitHub to Project knowledge, then select the relevant files or folders. [Claude instructions](https://support.claude.com/en/articles/10167454-use-the-github-integration)
 
-Availability and validation status can differ by application and workspace. After setup, verify that the application can actually call a Reflexivity tool rather than relying only on a successful sign-in.
+You can ask in any language supported by your AI assistant. The documentation itself is currently published in six locales.
 
-You can ask in **any language supported by your AI assistant**. Where the Reflexivity tool supports a language preference it is best effort, and some retrieved content may remain in English when a translation is unavailable.
+A useful instruction is:
 
-### Questions you can try with Reflexivity
+> Use the Reflexivity GitHub documentation as the source of truth. Answer from the most relevant pages, include direct links to the pages you used, and say clearly when the answer is not in the documentation.
 
-The examples below are based on capabilities currently documented for the Reflexivity MCP service.
+### Questions you can try
 
-1. “Find NVIDIA’s recent earnings recaps and earnings previews.”
-2. “Show me recent Company Catalyst research for NVIDIA.”
-3. “What are NVIDIA’s strongest related themes? Explain the evidence behind the top three.”
-4. “Find companies associated with the Artificial Intelligence theme.”
-5. “Who are NVIDIA’s main competitors in the Knowledge Graph? Show the evidence behind the relationships.”
-6. “Show this company’s macro and financial theme relationships, including exposure direction where available.”
-7. “List my available Reflexivity watchlists and baskets.”
-8. “Search for recent research across this watchlist or basket.”
-9. “Find Scenario Insights for this company and show the available forecast dates and values.”
-10. “Find companies related to this theme, then compare their recent earnings research.”
+These are documentation questions that can be answered from material currently in the repositories.
 
-The MCP connection is for Reflexivity research and Knowledge Graph workflows. It is **not** a general-purpose live-quote or historical-price-series connection.
+1. “Show me the equity-related Reflexivity use cases and give me direct links.”
+2. “What fixed-income use cases are available? Link each example.”
+3. “Show me the use cases for a long-only asset manager, grouped by research type.”
+4. “Which QUICK-provided use cases cover NVIDIA, Micron, AI, semiconductors, or data centers?”
+5. “What Scenario Insight use cases are available? Give me links to the underlying pages.”
+6. “What is Reflexivity AI Connections / MCP, and what can it research?”
+7. “Which AI applications have Reflexivity connection guides?”
+8. “What are the seven documented Reflexivity MCP tools and what does each one do?”
+9. “What does the ChatGPT setup guide say I should verify after connecting?”
+10. “Does the Reflexivity AI connection provide live quotes or historical price series? What separate Price History documentation is available?”
+
+### Separate: use the Reflexivity service itself from an AI application
+
+If you want ChatGPT, Claude, or another supported AI application to **call Reflexivity directly**, that is a separate product integration using **Reflexivity MCP**. It is not the same as giving the AI access to these GitHub manuals.
+
+Approved users can follow the application-specific setup guides in [Client Resources](https://github.com/reflexivity-kb/client-resources):
+
+- [ChatGPT](https://github.com/reflexivity-kb/client-resources/blob/main/en/01-technical-reference/11-ai-connections/02-application-guides/03-chatgpt/README.md)
+- [Claude](https://github.com/reflexivity-kb/client-resources/blob/main/en/01-technical-reference/11-ai-connections/02-application-guides/01-claude/README.md)
+- [GitHub Copilot in VS Code](https://github.com/reflexivity-kb/client-resources/blob/main/en/01-technical-reference/11-ai-connections/02-application-guides/07-github-copilot-in-vs-code/README.md)
+
+The MCP connection gives the AI application access to documented Reflexivity Insights and Knowledge Graph capabilities. It is not a general-purpose live-quote or historical-price-series connection.
 
 ## 2. Browse the pages
 
