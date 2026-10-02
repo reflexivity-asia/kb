@@ -6,7 +6,6 @@ locale: ko-KR
 provider: QUICK Inc.
 source_created: 2026-09-30
 provided: 2026-09-30
-source_id: CAA_1-Y1yKQdOWQV4ju7-qYV=77WxJ4w1bY5U6c1+Xn7553Zg1A@mail.gmail.com
 status: published
 translation_status: current
 source_type: partner-provided-use-case
