@@ -11,6 +11,11 @@ These examples are dated platform outputs. Check them against current market dat
 
 - [Xerox unusually large selloff (XRX)](../03-asset-class/04-equities/xerox-unusually-large-selloff-xrx.md) — July 8, 2026 — Bullish signal
 
+## QUICK Partner-Provided Use Cases
+
+- [Analyze the global rates outlook and the implications for USD/JPY](../03-asset-class/02-fixed-income/global-rates-outlook-and-usdjpy.md) — QUICK | 2026-09-30
+- [Compare AI, semiconductor and data-center themes in the US and Japan](../03-asset-class/04-equities/ai-semiconductor-data-center-themes-us-japan.md) — QUICK | 2026-10-01
+
 ---
 
 [← All Use Cases](../README.md)
