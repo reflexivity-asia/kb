@@ -16,6 +16,10 @@
 - [오늘의 뉴스플로에서 추가 조사할 투자 아이디어 5개 만들기](newsflow-top-five-investment-ideas.md) — `RX-USECASE-0061`
 
 
+## 신규 QUICK 제공 유스케이스
+
+- [시장 선행지표를 실제 시장 움직임과 비교하기](market-leading-indicator-dashboard.md) — QUICK 제공 | 2026-09-28 — `RX-USECASE-0068`
+
 ---
 
 [← 운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
