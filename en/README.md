@@ -43,11 +43,11 @@ These are documentation questions that can be answered from material currently i
 
 If you want ChatGPT, Claude, or another supported AI application to **call Reflexivity directly**, that is a separate product integration using **Reflexivity MCP**. It is not the same as giving the AI access to these GitHub manuals.
 
-Approved users can follow the application-specific setup guides in [Client Resources](https://github.com/reflexivity-kb/client-resources):
+Approved users can follow the application-specific setup guides in [Platform](https://github.com/reflexivity-kb/platform):
 
-- [ChatGPT](https://github.com/reflexivity-kb/client-resources/blob/main/en/01-technical-reference/11-ai-connections/02-application-guides/03-chatgpt/README.md)
-- [Claude](https://github.com/reflexivity-kb/client-resources/blob/main/en/01-technical-reference/11-ai-connections/02-application-guides/01-claude/README.md)
-- [GitHub Copilot in VS Code](https://github.com/reflexivity-kb/client-resources/blob/main/en/01-technical-reference/11-ai-connections/02-application-guides/07-github-copilot-in-vs-code/README.md)
+- [ChatGPT](https://github.com/reflexivity-kb/platform/blob/main/en/02-guides/technical-reference/11-ai-connections/02-application-guides/03-chatgpt/README.md)
+- [Claude](https://github.com/reflexivity-kb/platform/blob/main/en/02-guides/technical-reference/11-ai-connections/02-application-guides/01-claude/README.md)
+- [GitHub Copilot in VS Code](https://github.com/reflexivity-kb/platform/blob/main/en/02-guides/technical-reference/11-ai-connections/02-application-guides/07-github-copilot-in-vs-code/README.md)
 
 The MCP connection gives the AI application access to documented Reflexivity Insights and Knowledge Graph capabilities. It is not a general-purpose live-quote or historical-price-series connection.
 
@@ -55,7 +55,7 @@ The MCP connection gives the AI application access to documented Reflexivity Ins
 
 If you prefer to explore manually, the public KB is organized into six collections:
 
-1. **What is Reflexivity?** — [open the access-controlled overview in Client Resources](https://github.com/reflexivity-kb/client-resources/blob/main/en/02-what-is-reflexivity/README.md)
+1. **What is Reflexivity?** — [open the access-controlled overview in Platform](https://github.com/reflexivity-kb/platform/blob/main/en/01-what-is-reflexivity/README.md)
 2. **Guides** — [usage, onboarding, and FAQ](02-guides/README.md)
 3. **Product** — [product materials](03-product/README.md)
 4. **Releases** — [release notes](04-releases/README.md)
@@ -64,13 +64,13 @@ If you prefer to explore manually, the public KB is organized into six collectio
 
 Use Cases can be browsed by **persona**, **insight type**, or **asset class**. For example, you can go directly to [Equities Use Cases](05-use-cases/03-asset-class/04-equities/README.md) or [Fixed Income Use Cases](05-use-cases/03-asset-class/02-fixed-income/README.md).
 
-Approved users also have access to [Client Resources](https://github.com/reflexivity-kb/client-resources), which includes the access-controlled **Technical Reference** for REST APIs and AI/MCP connections.
+Approved users also have access to [Platform](https://github.com/reflexivity-kb/platform), which includes the access-controlled **Technical Reference** for REST APIs and AI/MCP connections.
 
 ## 3. Ask support when something is missing
 
 If you cannot find the material you need, contact **jim@reflexivity.com**.
 
-Approved Client Resources users can also use [GitHub Discussions](https://github.com/reflexivity-kb/client-resources/discussions) for documentation questions, clarification, feedback, or requests for missing material.
+Approved Platform users can also use [GitHub Discussions](https://github.com/reflexivity-kb/platform/discussions) for documentation questions, clarification, feedback, or requests for missing material.
 
 When asking, please include the **hard link or page title** when possible, plus a short note describing what you expected to find. This makes it much easier to identify the exact gap.
 
