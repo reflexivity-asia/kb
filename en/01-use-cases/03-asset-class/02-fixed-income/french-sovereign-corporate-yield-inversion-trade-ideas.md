@@ -31,10 +31,6 @@ prompt_status: not_provided
 
 **[Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)**
 
-## Prompt used
-
-The approved source does not specify the exact prompt used.
-
 ## Starting point
 
 The source begins with an unusual relationship between French sovereign yields and high-quality French corporate yields, alongside elevated political risk. The research question is not only whether the dislocation is meaningful, but **how that view could be expressed across different markets**.
