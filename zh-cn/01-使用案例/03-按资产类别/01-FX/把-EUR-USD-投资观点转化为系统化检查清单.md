@@ -32,10 +32,6 @@ prompt_status: not_provided
 
 **[在 Reflexivity 中打开这个研究示例 →](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)**
 
-## 使用的提示词
-
-提供资料中未注明实际使用的提示词全文。
-
 ## 研究目标
 
 原研究并不是简单地要求“研究 EUR/USD”，而是把 PM 希望反复检查的问题整理成可重复执行的清单，使同一套决策过程可以持续更新。原研究最后更新于 **2025-08-28**。
