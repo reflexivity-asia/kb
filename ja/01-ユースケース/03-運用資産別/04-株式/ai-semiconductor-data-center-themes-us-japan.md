@@ -66,4 +66,8 @@ publication_mode: faithful-source-preserving
 
 本ページは株式会社QUICKから2026-10-01に提供されたReflexivity活用例をもとに整理しています。
 
+本コンテンツは、株式会社QUICKよりご提供いただいたReflexivity活用例です。
+
+国・地域や言語環境、利用製品、データ提供範囲などによっては、内容をそのまま適用できない場合があります。
+
 [← 株式ユースケース](README.md) · [ユースケース一覧](../../README.md)
