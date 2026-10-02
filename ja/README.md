@@ -43,11 +43,11 @@ AIには、次のように指示すると便利です。
 
 ChatGPT、Claudeなどの対応AIアプリケーションから**Reflexivityを直接呼び出して使う**場合は、**Reflexivity MCP**を使う別の製品連携です。GitHubのマニュアルをAIに読ませることとは異なります。
 
-承認済みユーザーは [Client Resources](https://github.com/reflexivity-kb/client-resources) のアプリケーション別接続ガイドを利用できます。
+承認済みユーザーは [Platform](https://github.com/reflexivity-kb/platform) のアプリケーション別接続ガイドを利用できます。
 
-- [ChatGPT](https://github.com/reflexivity-kb/client-resources/blob/main/ja/01-技術リファレンス/11-AI連携/02-アプリケーション別ガイド/03-ChatGPT/README.md)
-- [Claude](https://github.com/reflexivity-kb/client-resources/blob/main/ja/01-技術リファレンス/11-AI連携/02-アプリケーション別ガイド/01-Claude/README.md)
-- [GitHub Copilot in VS Code](https://github.com/reflexivity-kb/client-resources/blob/main/ja/01-技術リファレンス/11-AI連携/02-アプリケーション別ガイド/07-GitHub-Copilot-in-VS-Code/README.md)
+- [ChatGPT](https://github.com/reflexivity-kb/platform/blob/main/ja/02-%E5%88%A9%E7%94%A8%E3%82%AC%E3%82%A4%E3%83%89/%E6%8A%80%E8%A1%93%E3%83%AA%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9/11-AI%E9%80%A3%E6%90%BA/02-%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%88%A5%E3%82%AC%E3%82%A4%E3%83%89/03-ChatGPT/README.md)
+- [Claude](https://github.com/reflexivity-kb/platform/blob/main/ja/02-%E5%88%A9%E7%94%A8%E3%82%AC%E3%82%A4%E3%83%89/%E6%8A%80%E8%A1%93%E3%83%AA%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9/11-AI%E9%80%A3%E6%90%BA/02-%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%88%A5%E3%82%AC%E3%82%A4%E3%83%89/01-Claude/README.md)
+- [GitHub Copilot in VS Code](https://github.com/reflexivity-kb/platform/blob/main/ja/02-%E5%88%A9%E7%94%A8%E3%82%AC%E3%82%A4%E3%83%89/%E6%8A%80%E8%A1%93%E3%83%AA%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9/11-AI%E9%80%A3%E6%90%BA/02-%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%88%A5%E3%82%AC%E3%82%A4%E3%83%89/07-GitHub-Copilot-in-VS-Code/README.md)
 
 MCP接続では、ドキュメント化されているReflexivityのInsightsとKnowledge Graph機能をAIアプリケーションから利用できます。一般的なリアルタイム価格や過去価格系列を取得するための接続ではありません。
 
@@ -55,7 +55,7 @@ MCP接続では、ドキュメント化されているReflexivityのInsightsとK
 
 手動で探したい場合、公開KBは次の6つのコレクションに分かれています。
 
-1. **Reflexivityとは？** — [アクセス制限付きのクライアント資料で概要を開く](https://github.com/reflexivity-kb/client-resources/blob/main/ja/02-Reflexivity%E3%81%A8%E3%81%AF/README.md)
+1. **Reflexivityとは？** — [アクセス制限付きのPlatform資料で概要を開く](https://github.com/reflexivity-kb/platform/blob/main/ja/01-Reflexivity%E3%81%A8%E3%81%AF/README.md)
 2. **利用ガイド** — [利用方法・オンボーディング・FAQ](02-利用ガイド/README.md)
 3. **製品** — [製品資料](03-製品/README.md)
 4. **リリース** — [リリースノート](04-リリース/README.md)
@@ -64,13 +64,13 @@ MCP接続では、ドキュメント化されているReflexivityのInsightsとK
 
 ユースケースは **運用者別・洞察タイプ別・運用資産別** に閲覧できます。たとえば [株式ユースケース](05-ユースケース/03-運用資産別/04-株式/README.md) から直接探せます。
 
-承認済みユーザーは [Client Resources](https://github.com/reflexivity-kb/client-resources) も利用でき、REST APIやAI/MCP接続に関するアクセス制限付きの **技術リファレンス** を参照できます。
+承認済みユーザーは [Platform](https://github.com/reflexivity-kb/platform) も利用でき、REST APIやAI/MCP接続に関するアクセス制限付きの **技術リファレンス** を参照できます。
 
 ## 3. 見つからない資料はサポートに質問する
 
 必要な資料が見つからない場合は **jim@reflexivity.com** までご連絡ください。
 
-Client Resourcesへのアクセス権があるユーザーは、[GitHub Discussions](https://github.com/reflexivity-kb/client-resources/discussions) から、ドキュメントの質問、確認、フィードバック、未掲載資料のリクエストを投稿することもできます。
+Platformへのアクセス権があるユーザーは、[GitHub Discussions](https://github.com/reflexivity-kb/platform/discussions) から、ドキュメントの質問、確認、フィードバック、未掲載資料のリクエストを投稿することもできます。
 
 お問い合わせの際は、可能であれば **該当ページのURL（ハードリンク）またはページタイトル** と、「何を探していたか」を短く添えてください。
 
