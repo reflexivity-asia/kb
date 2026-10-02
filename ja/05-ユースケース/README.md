@@ -1,7 +1,10 @@
 # Reflexivity ユースケース
 
-[← 日本語のドキュメントメニュー](https://github.com/reflexivity-kb/#ja)
+<!-- locale-switcher:start -->
+**Languages:** [English](../../en/05-use-cases/README.md) · **日本語** · [한국어](../../ko/05-유스케이스/README.md) · [简体中文](../../zh-cn/05-使用案例/README.md) · [繁體中文（台灣）](../../zh-tw/05-使用案例/README.md) · [繁體中文（香港）](../../zh-hk/05-使用案例/README.md)
+<!-- locale-switcher:end -->
 
+[← 日本語のドキュメントメニュー](../README.md)
 Reflexivityの調査・分析例を、**運用者別**、**インサイト別**、**運用資産別**の3つの切り口からご覧いただけます。
 
 ## 運用者別
