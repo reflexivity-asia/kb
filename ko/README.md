@@ -15,7 +15,7 @@
 GitHub에 있는 문서를 AI가 참고하게 하면 관련 페이지를 찾거나, 요약·비교하거나, 필요한 링크를 바로 받을 수 있습니다.
 
 - **GitHub Copilot** — [reflexivity-kb/docs](https://github.com/reflexivity-kb/docs)를 열고 현재 저장소에 대해 Copilot에게 질문하거나, 저장소를 Copilot context로 추가합니다. [GitHub 안내](https://docs.github.com/en/copilot/tutorials/explore-a-codebase)
-- **ChatGPT** — ChatGPT에서 GitHub를 연결하고 **reflexivity-kb/docs**, 그리고 접근 권한이 있다면 **reflexivity-kb/client-resources**를 허용한 뒤 해당 저장소의 문서에 대해 질문합니다. [OpenAI 안내](https://help.openai.com/ko-kr/articles/11145903-connecting-github-to-chatgpt)
+- **ChatGPT** — ChatGPT에서 GitHub를 연결하고 **reflexivity-kb/docs**, 그리고 접근 권한이 있다면 **reflexivity-kb/platform**를 허용한 뒤 해당 저장소의 문서에 대해 질문합니다. [OpenAI 안내](https://help.openai.com/ko-kr/articles/11145903-connecting-github-to-chatgpt)
 - **Claude** — 채팅의 **Add from GitHub** 또는 Project knowledge의 GitHub 연결에서 필요한 파일이나 폴더를 추가합니다. [Claude 안내](https://support.claude.com/en/articles/10167454-use-the-github-integration)
 
 질문 언어는 사용하는 AI 어시스턴트가 지원하는 언어라면 제한이 없습니다. 문서 원문은 현재 6개 locale로 제공됩니다.
@@ -43,11 +43,11 @@ AI에는 다음처럼 지시하면 편리합니다.
 
 ChatGPT, Claude 등 지원되는 AI 애플리케이션에서 **Reflexivity를 직접 호출해 사용**하려면 **Reflexivity MCP**를 연결합니다. 이것은 GitHub 매뉴얼을 AI가 읽게 하는 것과는 별개의 제품 연결입니다.
 
-승인된 사용자는 [Client Resources](https://github.com/reflexivity-kb/client-resources)의 애플리케이션별 연결 가이드를 이용할 수 있습니다.
+승인된 사용자는 [Platform](https://github.com/reflexivity-kb/platform)의 애플리케이션별 연결 가이드를 이용할 수 있습니다.
 
-- [ChatGPT](https://github.com/reflexivity-kb/client-resources/blob/main/ko/01-기술-레퍼런스/11-AI-연결/02-애플리케이션-가이드/03-ChatGPT/README.md)
-- [Claude](https://github.com/reflexivity-kb/client-resources/blob/main/ko/01-기술-레퍼런스/11-AI-연결/02-애플리케이션-가이드/01-Claude/README.md)
-- [GitHub Copilot in VS Code](https://github.com/reflexivity-kb/client-resources/blob/main/ko/01-기술-레퍼런스/11-AI-연결/02-애플리케이션-가이드/07-GitHub-Copilot-in-VS-Code/README.md)
+- [ChatGPT](https://github.com/reflexivity-kb/platform/blob/main/ko/02-이용가이드/기술-레퍼런스/11-AI-연결/02-애플리케이션-가이드/03-ChatGPT/README.md)
+- [Claude](https://github.com/reflexivity-kb/platform/blob/main/ko/02-이용가이드/기술-레퍼런스/11-AI-연결/02-애플리케이션-가이드/01-Claude/README.md)
+- [GitHub Copilot in VS Code](https://github.com/reflexivity-kb/platform/blob/main/ko/02-이용가이드/기술-레퍼런스/11-AI-연결/02-애플리케이션-가이드/07-GitHub-Copilot-in-VS-Code/README.md)
 
 MCP 연결을 통해 AI 애플리케이션에서 문서화된 Reflexivity Insights와 Knowledge Graph 기능을 사용할 수 있습니다. 일반적인 실시간 시세나 과거 가격 시계열을 조회하는 연결은 아닙니다.
 
@@ -55,7 +55,7 @@ MCP 연결을 통해 AI 애플리케이션에서 문서화된 Reflexivity Insigh
 
 직접 둘러보고 싶다면 공개 KB는 여섯 개 컬렉션으로 구성되어 있습니다.
 
-1. **Reflexivity란?** — [접근 제한된 클라이언트 자료에서 전체 개요 보기](https://github.com/reflexivity-kb/client-resources/blob/main/ko/02-Reflexivity%EB%9E%80/README.md)
+1. **Reflexivity란?** — [접근 제한된 Platform 자료에서 전체 개요 보기](https://github.com/reflexivity-kb/platform/blob/main/ko/01-Reflexivity%EB%9E%80/README.md)
 2. **이용 가이드** — [사용 방법·온보딩·FAQ](02-이용가이드/README.md)
 3. **제품** — [제품 자료](03-제품/README.md)
 4. **릴리스** — [릴리스 노트](04-릴리스/README.md)
@@ -64,13 +64,13 @@ MCP 연결을 통해 AI 애플리케이션에서 문서화된 Reflexivity Insigh
 
 유스케이스는 **투자자/운용자 유형, 인사이트 유형, 자산군** 기준으로 찾아볼 수 있습니다. 예를 들어 [주식 유스케이스](05-유스케이스/03-운용자산별/04-주식/README.md)로 바로 들어갈 수 있습니다.
 
-승인된 사용자는 [Client Resources](https://github.com/reflexivity-kb/client-resources)도 이용할 수 있으며, REST API와 AI/MCP 연결을 다루는 접근 제한형 **기술 레퍼런스**가 포함되어 있습니다.
+승인된 사용자는 [Platform](https://github.com/reflexivity-kb/platform)도 이용할 수 있으며, REST API와 AI/MCP 연결을 다루는 접근 제한형 **기술 레퍼런스**가 포함되어 있습니다.
 
 ## 3. 없는 자료는 바로 문의하기
 
 필요한 자료를 찾을 수 없다면 **jim@reflexivity.com**으로 문의해 주세요.
 
-Client Resources 접근 권한이 있는 사용자는 [GitHub Discussions](https://github.com/reflexivity-kb/client-resources/discussions)에서도 문서 질문, 내용 확인, 피드백, 누락 자료 요청을 남길 수 있습니다.
+Platform 접근 권한이 있는 사용자는 [GitHub Discussions](https://github.com/reflexivity-kb/platform/discussions)에서도 문서 질문, 내용 확인, 피드백, 누락 자료 요청을 남길 수 있습니다.
 
 문의할 때는 가능하면 **해당 페이지의 하드 링크 또는 페이지 제목**과 함께, 무엇을 찾고 있었는지 짧게 적어 주세요. 어떤 자료가 빠졌는지 훨씬 빠르게 확인할 수 있습니다.
 
