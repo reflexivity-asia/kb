@@ -2,40 +2,54 @@
 
 **言語:** [English](../en/README.md) · **日本語** · [한국어](../ko/README.md) · [简体中文](../zh-cn/README.md) · [繁體中文（台灣）](../zh-tw/README.md) · [繁體中文（香港）](../zh-hk/README.md)
 
-このナレッジベースには幅広い資料が収録されています。最初からすべてを読む必要はありません。目的に合わせて、次の3つの使い方から選べます。
+このナレッジベースには多くの資料が含まれているため、最初から最後まで順番に読む必要はありません。**このドキュメントを利用する方法**は、主に次の3つです。
 
-## 1. ReflexivityをAIに接続する
+1. AIにドキュメントについて質問する
+2. ページを直接閲覧する
+3. 見つからない資料をサポートに問い合わせる
 
-Reflexivityは **MCP** を通じて対応AIアプリケーションに直接接続できます。接続すると、会話の中からReflexivityの **Insights** と **Knowledge Graph** を利用できます。
+> **重要:** このKnowledge BaseをAIに読ませて質問することと、**Reflexivityのサービス自体**をMCPでAIアプリケーションに接続することは別の機能です。MCP接続については下の別セクションで説明します。
 
-これは、AIにこのGitHubドキュメントを読ませることとは別の機能です。
+## 1. AIにこのKnowledge Baseについて質問する
 
-[Reflexivity Client Resources](https://github.com/reflexivity-kb/client-resources) へのアクセス権がある場合は、各アプリケーション向けの接続ガイドをご利用ください。
+GitHub上のドキュメントをAIに参照させ、該当ページの検索、要約、比較、リンク取得などを行えます。
 
-- **ChatGPT** — [ReflexivityをChatGPTに接続する](https://github.com/reflexivity-kb/client-resources/blob/main/ja/01-技術リファレンス/11-AI連携/02-アプリケーション別ガイド/03-ChatGPT/README.md)
-- **Claude** — [ReflexivityをClaudeに接続する](https://github.com/reflexivity-kb/client-resources/blob/main/ja/01-技術リファレンス/11-AI連携/02-アプリケーション別ガイド/01-Claude/README.md)
-- **GitHub Copilot** — [ReflexivityをGitHub Copilot in VS Codeに接続する](https://github.com/reflexivity-kb/client-resources/blob/main/ja/01-技術リファレンス/11-AI連携/02-アプリケーション別ガイド/07-GitHub-Copilot-in-VS-Code/README.md)
+- **GitHub Copilot** — [reflexivity-kb/docs](https://github.com/reflexivity-kb/docs) を開き、リポジトリについてCopilotに質問するか、リポジトリをCopilotのコンテキストに追加します。[GitHubの手順](https://docs.github.com/en/copilot/tutorials/explore-a-codebase)
+- **ChatGPT** — ChatGPTでGitHubを接続し、**reflexivity-kb/docs** と、アクセス権がある場合は **reflexivity-kb/client-resources** を許可して、リポジトリ内の資料について質問します。[OpenAIの手順](https://help.openai.com/ja-jp/articles/11145903-connecting-github-to-chatgpt)
+- **Claude** — チャットの **Add from GitHub**、またはProject knowledgeのGitHub連携から必要なファイルやフォルダを追加します。[Claudeの手順](https://support.claude.com/en/articles/10167454-use-the-github-integration)
 
-利用可否や検証状況は、アプリケーションやワークスペースによって異なる場合があります。設定後は、ログインできたことだけでなく、実際にReflexivityのツールを呼び出せることを確認してください。
+質問する言語は、利用するAIアシスタントが対応している言語であれば制限されません。ドキュメント原文は現在6つのロケールで公開されています。
 
-**質問する言語に制限はありません。** お使いのAIアシスタントが対応している言語で質問できます。Reflexivity側の言語指定に対応するツールではベストエフォートで処理され、翻訳がないコンテンツは英語のまま返る場合があります。
+AIには、次のように指示すると便利です。
 
-### Reflexivityに質問してみる
+> ReflexivityのGitHubドキュメントを情報源として使ってください。最も関連するページから回答し、参照したページへの直接リンクを付けてください。ドキュメント内に答えがない場合は、推測せずその旨を明記してください。
 
-以下は、現在のReflexivity MCPのドキュメントで確認できる機能に基づく質問例です。
+### 質問例
 
-1. 「NVIDIAの最近の決算レビューと決算プレビューを探して。」
-2. 「NVIDIAに関する最近のCompany Catalystを見せて。」
-3. 「NVIDIAと関連性の高いテーマを教えて。上位3テーマについて根拠も説明して。」
-4. 「Artificial Intelligenceテーマに関連する企業を探して。」
-5. 「Knowledge GraphでNVIDIAの主要な競合企業を調べ、関係の根拠も示して。」
-6. 「この企業に関連するマクロテーマと財務テーマを、利用可能な場合はエクスポージャー方向も含めて示して。」
-7. 「利用できるReflexivityのウォッチリストとバスケットを一覧にして。」
-8. 「このウォッチリストまたはバスケットを対象に最近のリサーチを検索して。」
-9. 「この企業のScenario Insightを探して、利用可能な予測日と数値を示して。」
-10. 「このテーマに関連する企業を探し、それぞれの最近の決算リサーチを比較して。」
+以下は、現在リポジトリに存在する資料から回答できるドキュメント質問の例です。
 
-MCP接続の対象はReflexivityのリサーチとKnowledge Graphです。一般的なリアルタイム株価や過去価格系列を取得するための接続ではありません。
+1. 「株式関連のReflexivityユースケースを、直接リンク付きで一覧にして。」
+2. 「債券関連のユースケースには何がある？各ページへのリンクも付けて。」
+3. 「ロングオンリーのアセットマネージャー向けユースケースを、リサーチ種別ごとに整理して。」
+4. 「NVIDIA、Micron、AI、半導体、データセンターに関するQUICK提供のユースケースを教えて。」
+5. 「Scenario Insightのユースケースには何がある？元ページへのリンクも付けて。」
+6. 「ReflexivityのAI Connections / MCPとは何で、何をリサーチできる？」
+7. 「Reflexivityの接続ガイドが用意されているAIアプリケーションはどれ？」
+8. 「ドキュメントに記載されているReflexivity MCPの7つのツールと役割を教えて。」
+9. 「ChatGPT接続ガイドでは、接続後に何を確認するよう書かれている？」
+10. 「ReflexivityのAI接続でライブ価格や過去価格系列は取得できる？別途どのPrice History資料がある？」
+
+### 別の機能: AIアプリケーションからReflexivityサービス自体を使う
+
+ChatGPT、Claudeなどの対応AIアプリケーションから**Reflexivityを直接呼び出して使う**場合は、**Reflexivity MCP**を使う別の製品連携です。GitHubのマニュアルをAIに読ませることとは異なります。
+
+承認済みユーザーは [Client Resources](https://github.com/reflexivity-kb/client-resources) のアプリケーション別接続ガイドを利用できます。
+
+- [ChatGPT](https://github.com/reflexivity-kb/client-resources/blob/main/ja/01-技術リファレンス/11-AI連携/02-アプリケーション別ガイド/03-ChatGPT/README.md)
+- [Claude](https://github.com/reflexivity-kb/client-resources/blob/main/ja/01-技術リファレンス/11-AI連携/02-アプリケーション別ガイド/01-Claude/README.md)
+- [GitHub Copilot in VS Code](https://github.com/reflexivity-kb/client-resources/blob/main/ja/01-技術リファレンス/11-AI連携/02-アプリケーション別ガイド/07-GitHub-Copilot-in-VS-Code/README.md)
+
+MCP接続では、ドキュメント化されているReflexivityのInsightsとKnowledge Graph機能をAIアプリケーションから利用できます。一般的なリアルタイム価格や過去価格系列を取得するための接続ではありません。
 
 ## 2. ページを直接見る
 
