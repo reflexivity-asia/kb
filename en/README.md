@@ -55,7 +55,7 @@ The MCP connection gives the AI application access to documented Reflexivity Ins
 
 If you prefer to explore manually, the public KB is organized into six collections:
 
-1. **What is Reflexivity?** — [why Reflexivity exists and how it changes the research workflow](01-what-is-reflexivity/README.md)
+1. **What is Reflexivity?** — [open the access-controlled overview in Client Resources](https://github.com/reflexivity-kb/client-resources/blob/main/en/02-what-is-reflexivity/README.md)
 2. **Guides** — [usage, onboarding, and FAQ](02-guides/README.md)
 3. **Product** — [product materials](03-product/README.md)
 4. **Releases** — [release notes](04-releases/README.md)
