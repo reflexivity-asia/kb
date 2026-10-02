@@ -36,6 +36,12 @@
 - [Instacart：收购 Arpalus，强化货架智能能力 (CART)](instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md)
 - [Arteris / IC-Link：AI 芯片设计 (AIP)](arteris-ic-link-ai-chip-design-aip.md)
 
+## 新增 QUICK 使用案例
+
+- [分析 NVIDIA 增加 1500 亿美元股票回购授权的影响](nvidia-share-repurchase-impact.md) — QUICK 提供 | 2026-09-29
+- [用 Earnings Preview 为 Micron 财报做准备](micron-earnings-preview-workflow.md) — QUICK 提供 | 2026-09-30
+- [比较美国与日本的 AI、半导体和数据中心主题](ai-semiconductor-data-center-themes-us-japan.md) — QUICK 提供 | 2026-10-01
+
 ---
 
 [← 按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
