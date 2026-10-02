@@ -1,7 +1,10 @@
 # Reflexivity 使用案例
 
-[← 简体中文文档菜单](https://github.com/reflexivity-kb/#zh-cn)
+<!-- locale-switcher:start -->
+**Languages:** [English](../../en/05-use-cases/README.md) · [日本語](../../ja/05-ユースケース/README.md) · [한국어](../../ko/05-유스케이스/README.md) · **简体中文** · [繁體中文（台灣）](../../zh-tw/05-使用案例/README.md) · [繁體中文（香港）](../../zh-hk/05-使用案例/README.md)
+<!-- locale-switcher:end -->
 
+[← 简体中文文档菜单](../README.md)
 可按**角色**、**洞察类型**或**资产类别**浏览 Reflexivity 的研究与平台案例。
 
 > 以下案例基于特定日期的研究或平台输出。用于当前投资判断前，请先与最新市场数据核对；否则应仅作为说明性案例使用。
