@@ -1,0 +1,9 @@
+# Earnings Catalyst
+
+[← ユースケース一覧](../README.md)
+
+## QUICK提供
+
+- [マイクロン決算を決算プレビューから準備する](../03-運用資産別/04-株式/micron-earnings-preview-workflow.md) — 2026-09-30
+
+[← ユースケース一覧](../README.md)
