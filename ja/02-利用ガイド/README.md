@@ -1,7 +1,10 @@
 # 利用ガイド
 
-[← 日本語のドキュメントメニュー](https://github.com/reflexivity-kb/#ja)
+<!-- locale-switcher:start -->
+**Languages:** [English](../../en/02-guides/README.md) · **日本語** · [한국어](../../ko/02-이용가이드/README.md) · [简体中文](../../zh-cn/02-使用指南/README.md) · [繁體中文（台灣）](../../zh-tw/02-使用指南/README.md) · [繁體中文（香港）](../../zh-hk/02-使用指南/README.md)
+<!-- locale-switcher:end -->
 
+[← 日本語のドキュメントメニュー](../README.md)
 Reflexivityの基本的な使い方と、実際のプロンプトを使ったオンボーディング向けガイドを掲載しています。
 
 **最終更新: 2026年9月17日**
