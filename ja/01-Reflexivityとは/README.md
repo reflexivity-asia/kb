@@ -1,6 +1,6 @@
 # Reflexivityとは？
 
-[← Reflexivity ナレッジベース](../README.md)
+[← 日本語のドキュメントメニュー](https://github.com/reflexivity-kb/#ja)
 
 全文は、承認されたユーザー向けの Reflexivity Platform でご覧いただけます。
 
