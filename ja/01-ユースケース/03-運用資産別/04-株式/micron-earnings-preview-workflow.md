@@ -6,7 +6,6 @@ locale: ja-JP
 provider: 株式会社QUICK
 source_created: 2026-09-30
 provided: 2026-09-30
-source_id: CAA_1-Y19XFzNoNmDA6mOs82i0Ca7dR3ekDNvg2NMty208fJ+Dw@mail.gmail.com
 status: published
 translation_status: current
 editorial_reviewed: 2026-10-02
