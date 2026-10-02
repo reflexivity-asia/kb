@@ -1,4 +1,4 @@
-# Reflexivity Documentation
+# Reflexivity ドキュメント
 
 **言語:** [English](https://github.com/reflexivity-kb/) · **日本語** · [한국어](../ko/README.md) · [简体中文](../zh-cn/README.md) · [繁體中文（台灣）](../zh-tw/README.md) · [繁體中文（香港）](../zh-hk/README.md)
 
