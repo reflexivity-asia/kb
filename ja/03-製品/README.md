@@ -1,7 +1,7 @@
 # 製品
 
-製品資料を順次追加しています。
+[← 日本語のドキュメントメニュー](https://github.com/reflexivity-kb/#ja)
 
-[← Reflexivity ナレッジベース](../README.md)
+製品資料を順次追加しています。
 
 お問い合わせは **jim@reflexivity.com** までご連絡ください。
