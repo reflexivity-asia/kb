@@ -55,7 +55,7 @@ MCP接続では、ドキュメント化されているReflexivityのInsightsとK
 
 手動で探したい場合、公開KBは次の6つのコレクションに分かれています。
 
-1. **Reflexivityとは？** — [Reflexivityがなぜ存在し、リサーチの進め方をどう変えるのか](01-Reflexivityとは/README.md)
+1. **Reflexivityとは？** — [アクセス制限付きのクライアント資料で概要を開く](https://github.com/reflexivity-kb/client-resources/blob/main/ja/02-Reflexivity%E3%81%A8%E3%81%AF/README.md)
 2. **利用ガイド** — [利用方法・オンボーディング・FAQ](02-利用ガイド/README.md)
 3. **製品** — [製品資料](03-製品/README.md)
 4. **リリース** — [リリースノート](04-リリース/README.md)
