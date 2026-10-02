@@ -1,8 +1,8 @@
 # 使用指南
 
-这里汇总使用方法、入门指南和常见问题（FAQ）。
+[← 简体中文文档菜单](https://github.com/reflexivity-kb/#zh-cn)
 
-[← Reflexivity 知识库](../README.md)
+这里汇总使用方法、入门指南和常见问题（FAQ）。
 
 ## Platform 资料（需要访问权限）
 
