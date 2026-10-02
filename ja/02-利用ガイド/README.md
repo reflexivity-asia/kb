@@ -13,6 +13,10 @@ Reflexivityの基本的な使い方と、実際のプロンプトを使ったオ
 
 一般的なご質問や詳細については **jim@reflexivity.com** までお問い合わせください。
 
+## Platform資料（アクセス権が必要）
+
+- [技術リファレンス](https://github.com/reflexivity-kb/platform/blob/main/ja/02-利用ガイド/技術リファレンス/README.md) — REST APIおよびAI/MCP連携の技術資料です。
+
 ## FAQ
 
 よくある質問も利用ガイドと同じセクションで順次追加します。必要な情報が見つからない場合は **jim@reflexivity.com** までお問い合わせください。
