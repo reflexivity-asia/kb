@@ -1,7 +1,9 @@
 # Guides
 
-Usage and onboarding guides are being added.
+Usage, onboarding guides, and frequently asked questions (FAQ) are collected here.
 
 [← Reflexivity Knowledge Base](../README.md)
 
-For questions, contact **jim@reflexivity.com**.
+## FAQ
+
+FAQ content is being added alongside the guides. If you cannot find the answer you need, contact **jim@reflexivity.com**.
