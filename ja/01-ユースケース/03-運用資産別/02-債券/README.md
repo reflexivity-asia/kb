@@ -26,3 +26,7 @@
 - [イラン攻撃シナリオの原油・金・株式・ドルへの影響を分析する](../05-マルチアセット/iran-attack-cross-asset-impact.md) — QUICK提供 | 2026-03-02
 
 [← 運用資産別](../README.md) · [ユースケース一覧](../../README.md)
+
+## 今回追加したQUICK提供ユースケース
+
+- [金利上昇の今後とドル円への影響を30年のデータで分析する](global-rates-outlook-and-usdjpy.md) — QUICK提供 | 2026-09-30
