@@ -32,6 +32,7 @@ prompt_status: present
 
 > [!IMPORTANT]
 > NVIDIA 新增 1500 亿美元股票回购授权，这一规模意味着什么？与其他大型回购公告后的股价表现相比如何？
+
 > 提供资料中未包含可直接打开此案例的 Reflexivity 链接。
 
 ## 将回购规模与财务能力比较
