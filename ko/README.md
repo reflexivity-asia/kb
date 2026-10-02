@@ -4,41 +4,38 @@
 
 자료가 많기 때문에 처음부터 모든 페이지를 읽을 필요는 없습니다. 목적에 맞게 아래 세 가지 방식 중 하나로 이용하면 됩니다.
 
-## 1. AI에 바로 질문하기
+## 1. Reflexivity를 AI에 연결하기
 
-GitHub 저장소를 AI 어시스턴트에 연결하면, 공개된 문서를 바탕으로 궁금한 점을 바로 질문할 수 있습니다.
+Reflexivity는 **MCP**를 통해 지원되는 AI 애플리케이션에 직접 연결할 수 있습니다. 연결하면 대화 안에서 Reflexivity의 **Insights**와 **Knowledge Graph** 기능을 사용할 수 있습니다.
 
-- **GitHub Copilot** — GitHub에서 [reflexivity-kb/docs](https://github.com/reflexivity-kb/docs)를 열고 Copilot Chat에 현재 저장소에 대해 질문합니다. [GitHub 안내](https://docs.github.com/en/copilot/how-tos/copilot-on-github/chat-with-copilot/get-started-with-chat)
-- **ChatGPT** — ChatGPT의 **Settings → Plugins**에서 GitHub를 연결하고 ChatGPT가 읽을 저장소를 허용합니다. [OpenAI 안내](https://help.openai.com/ko-kr/articles/11145903-connecting-github-to-chatgpt)
-- **Claude** — 채팅에서 **+ → Add from GitHub**를 선택하거나 Project knowledge에 GitHub를 추가한 뒤 사용할 파일이나 폴더를 선택합니다. [Claude 안내](https://support.claude.com/en/articles/10167454-use-the-github-integration)
+이 기능은 AI에게 이 GitHub 문서 저장소를 읽게 하는 것과는 별개입니다.
 
-공개 문서는 **reflexivity-kb/docs**를 추가하면 됩니다. [Reflexivity Client Resources](https://github.com/reflexivity-kb/client-resources) 접근 권한이 있다면 해당 저장소도 함께 추가할 수 있습니다.
+[Reflexivity Client Resources](https://github.com/reflexivity-kb/client-resources) 접근 권한이 있다면 애플리케이션별 연결 가이드를 이용해 주세요.
 
-**질문 언어는 KB가 제공하는 6개 언어로 제한되지 않습니다.** 사용 중인 AI가 지원하는 언어라면 그 언어로 질문할 수 있습니다. KB의 원문은 현재 영어, 일본어, 한국어, 중국어 간체, 중국어 번체(대만), 중국어 번체(홍콩)로 제공됩니다.
+- **ChatGPT** — [Reflexivity를 ChatGPT에 연결하기](https://github.com/reflexivity-kb/client-resources/blob/main/ko/01-기술-레퍼런스/11-AI-연결/02-애플리케이션-가이드/03-ChatGPT/README.md)
+- **Claude** — [Reflexivity를 Claude에 연결하기](https://github.com/reflexivity-kb/client-resources/blob/main/ko/01-기술-레퍼런스/11-AI-연결/02-애플리케이션-가이드/01-Claude/README.md)
+- **GitHub Copilot** — [Reflexivity를 GitHub Copilot in VS Code에 연결하기](https://github.com/reflexivity-kb/client-resources/blob/main/ko/01-기술-레퍼런스/11-AI-연결/02-애플리케이션-가이드/07-GitHub-Copilot-in-VS-Code/README.md)
 
-출처가 중요한 질문이라면 사용한 페이지의 링크를 함께 보여 달라고 요청하는 것이 좋습니다.
+사용 가능 여부와 검증 상태는 애플리케이션이나 워크스페이스에 따라 다를 수 있습니다. 설정 후에는 로그인 성공 여부만 보지 말고 실제로 Reflexivity 도구 호출이 되는지 확인해 주세요.
 
-> `reflexivity-kb/docs`와, 내게 접근 권한이 있다면 `reflexivity-kb/client-resources`를 기준 자료로 사용해 주세요. 가장 관련 있는 Reflexivity 문서에서 답하고, 사용한 페이지의 직접 링크를 포함해 주세요. 저장소에 답이 없다면 추측하지 말고 없다고 알려 주세요.
+**질문 언어에는 제한이 없습니다.** 사용 중인 AI 어시스턴트가 지원하는 언어로 질문하면 됩니다. Reflexivity 도구의 언어 지정은 지원되는 도구에서 best-effort로 적용되며, 번역본이 없는 콘텐츠는 영어로 반환될 수 있습니다.
 
-### 이렇게 물어볼 수 있습니다
+### Reflexivity에 이렇게 물어볼 수 있습니다
 
-아래 예시는 현재 저장소에 실제로 있는 자료로 답할 수 있는지 확인했습니다.
+아래 예시는 현재 Reflexivity MCP 문서에 기재된 기능으로 수행할 수 있는 질문입니다.
 
-**공개 Knowledge Base**
+1. “NVIDIA의 최근 Earnings Recap과 Earnings Preview를 찾아줘.”
+2. “NVIDIA 관련 최근 Company Catalyst 리서치를 보여줘.”
+3. “NVIDIA와 가장 관련성이 높은 테마를 알려주고 상위 3개의 근거도 설명해줘.”
+4. “Artificial Intelligence 테마와 관련된 기업들을 찾아줘.”
+5. “Knowledge Graph에서 NVIDIA의 주요 경쟁사를 찾고 관계의 근거도 보여줘.”
+6. “이 기업과 관련된 macro/financial theme을 보여주고, 가능한 경우 exposure direction도 알려줘.”
+7. “내가 사용할 수 있는 Reflexivity watchlist와 basket을 보여줘.”
+8. “이 watchlist 또는 basket 전체에서 최근 리서치를 찾아줘.”
+9. “이 기업의 Scenario Insight를 찾아서 가능한 forecast 날짜와 값을 보여줘.”
+10. “이 테마와 관련된 기업을 찾은 뒤, 각 기업의 최근 earnings research를 비교해줘.”
 
-1. “에퀴티 관련 Reflexivity 유스케이스를 직접 링크와 함께 알려줘.”
-2. “채권 관련 유스케이스는 어떤 게 있어? 각 페이지 링크도 줘.”
-3. “Long-only Asset Manager용 유스케이스를 리서치 유형별로 정리해줘.”
-4. “NVIDIA, Micron, AI, 반도체, 데이터센터와 관련된 QUICK 제공 유스케이스를 알려줘.”
-5. “Scenario Insight 유스케이스가 어떤 게 있는지 원문 링크와 함께 알려줘.”
-
-**Client Resources — 승인된 접근 권한 필요**
-
-6. “Reflexivity AI Connections / MCP 서비스가 뭐고, 어떤 리서치를 할 수 있어?”
-7. “Reflexivity MCP의 7개 도구가 무엇이고 각각 뭘 하는지 설명해줘.”
-8. “Reflexivity를 ChatGPT에 연결하는 방법을 알려줘.”
-9. “Reflexivity를 Claude나 GitHub Copilot에 연결하는 방법을 알려줘.”
-10. “Reflexivity MCP에서 실시간 시세나 과거 가격 시계열을 받을 수 있어? 별도로 문서화된 market-close price API는 뭐야?”
+MCP 연결은 Reflexivity 리서치와 Knowledge Graph를 사용하기 위한 것입니다. 일반적인 실시간 시세나 과거 가격 시계열을 조회하는 연결은 아닙니다.
 
 ## 2. 페이지를 직접 찾아보기
 
