@@ -14,6 +14,10 @@
 - [比較美國 10 年期國債孳息 5% 門檻與過去 20 年](us-10y-yield-5-percent-threshold.md)
 - [從發行人、資金用途、供需與孳息分析美國債券發行市場](us-bond-issuance-market-analysis.md)
 
+## 新增 QUICK 使用案例
+
+- [用 30 年數據分析全球利率前景及 USD/JPY 影響](global-rates-outlook-and-usdjpy.md) — QUICK 提供 | 2026-09-30
+
 ---
 
 [← 按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
