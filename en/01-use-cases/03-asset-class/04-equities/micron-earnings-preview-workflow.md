@@ -6,7 +6,6 @@ locale: en
 provider: QUICK Inc.
 source_created: 2026-09-30
 provided: 2026-09-30
-source_id: CAA_1-Y19XFzNoNmDA6mOs82i0Ca7dR3ekDNvg2NMty208fJ+Dw@mail.gmail.com
 status: published
 translation_status: canonical
 source_type: partner-provided-use-case
