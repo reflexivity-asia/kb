@@ -1,6 +1,6 @@
 # 利用ガイド
 
-[← Reflexivity ナレッジベース](../README.md)
+[← 日本語のドキュメントメニュー](https://github.com/reflexivity-kb/#ja)
 
 Reflexivityの基本的な使い方と、実際のプロンプトを使ったオンボーディング向けガイドを掲載しています。
 
