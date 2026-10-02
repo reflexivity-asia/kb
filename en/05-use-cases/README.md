@@ -1,5 +1,7 @@
 # Reflexivity Use Cases
 
+[← Reflexivity Knowledge Base](../README.md)
+
 Explore Reflexivity examples by **persona**, **insight type**, or **asset class**.
 
 > These examples are dated research or platform outputs. Check them against current market data before using them for a current investment decision, or present them as illustrative examples only.
