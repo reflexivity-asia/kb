@@ -1,6 +1,6 @@
 # 什么是 Reflexivity？
 
-[← Reflexivity 知识库](../README.md)
+[← 简体中文文档菜单](https://github.com/reflexivity-kb/#zh-cn)
 
 完整内容仅在面向获批用户的 Reflexivity Platform 中提供。
 
