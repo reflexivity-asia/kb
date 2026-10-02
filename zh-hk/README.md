@@ -2,40 +2,54 @@
 
 **語言：** [English](../en/README.md) · [日本語](../ja/README.md) · [한국어](../ko/README.md) · [简体中文](../zh-cn/README.md) · [繁體中文（台灣）](../zh-tw/README.md) · **繁體中文（香港）**
 
-知識庫內容很多，不需要由頭逐頁閱讀。可以按需要選擇以下三種方式。
+知識庫內容很多，不需要由頭逐頁閱讀。**使用這套 Knowledge Base 文件**主要有三種方式：
 
-## 1. 將 Reflexivity 連接到 AI
+1. 讓 AI 針對這些文件回答問題
+2. 直接瀏覽頁面
+3. 找不到資料時聯絡支援
 
-Reflexivity 可以透過 **MCP** 直接連接到支援的 AI 應用程式。連接後，可以在對話中使用 Reflexivity 的 **Insights** 及 **Knowledge Graph** 功能。
+> **重要：** 讓 AI 讀取這套 Knowledge Base 文件，與透過 MCP 把 **Reflexivity 服務本身**連接到 AI 應用程式，是兩件不同的事。MCP 連接在下方另外說明。
 
-這與單純讓 AI 讀取這個 GitHub 文件儲存庫是兩回事。
+## 1. 向 AI 詢問這套 Knowledge Base
 
-如果你已獲准存取 [Reflexivity Client Resources](https://github.com/reflexivity-kb/client-resources)，請使用相應應用程式的連接指南：
+讓 AI 讀取 GitHub 文件後，可以直接查找相關頁面、摘要或比較內容，並取得所需連結。
 
-- **ChatGPT** — [將 Reflexivity 連接到 ChatGPT](https://github.com/reflexivity-kb/client-resources/blob/main/zh-hk/01-技術參考/11-AI-連接/02-應用程式指南/03-ChatGPT/README.md)
-- **Claude** — [將 Reflexivity 連接到 Claude](https://github.com/reflexivity-kb/client-resources/blob/main/zh-hk/01-技術參考/11-AI-連接/02-應用程式指南/01-Claude/README.md)
-- **GitHub Copilot** — [將 Reflexivity 連接到 GitHub Copilot in VS Code](https://github.com/reflexivity-kb/client-resources/blob/main/zh-hk/01-技術參考/11-AI-連接/02-應用程式指南/07-GitHub-Copilot-in-VS-Code/README.md)
+- **GitHub Copilot** — 開啟 [reflexivity-kb/docs](https://github.com/reflexivity-kb/docs)，針對目前的儲存庫向 Copilot 提問，或把儲存庫加入 Copilot 上下文。[GitHub 說明](https://docs.github.com/en/copilot/tutorials/explore-a-codebase)
+- **ChatGPT** — 在 ChatGPT 中連接 GitHub，授權 **reflexivity-kb/docs**，以及在你有權限時的 **reflexivity-kb/client-resources**，再針對儲存庫內的文件提問。[OpenAI 說明](https://help.openai.com/en/articles/11145903-connecting-github-to-chatgpt)
+- **Claude** — 在聊天中使用 **Add from GitHub**，或在 Project knowledge 中連接 GitHub，再選擇需要的檔案或資料夾。[Claude 說明](https://support.claude.com/en/articles/10167454-use-the-github-integration)
 
-不同應用程式及工作區的可用性與驗證狀態可能不同。設定完成後，請確認 AI 實際能夠呼叫 Reflexivity 工具，而不只是登入成功。
+提問語言不受六種文件語言限制，只要你使用的 AI 助手支援即可。文件原文目前提供六個 locale。
 
-**提問語言沒有限制。** 只要你的 AI 助手支援，就可以使用該語言提問。Reflexivity 工具在支援語言偏好的功能中以 best-effort 方式處理；如沒有相應翻譯，部分內容可能仍以英文回傳。
+建議這樣指示 AI：
 
-### 可以這樣使用 Reflexivity
+> 請以 Reflexivity GitHub 文件為資訊來源。根據最相關的頁面回答，附上實際使用頁面的直接連結；如果文件裡沒有答案，請明確說明，不要猜測。
 
-以下問題都基於目前 Reflexivity MCP 文件中已說明的功能。
+### 可以這樣提問
 
-1. 「查找 NVIDIA 最近的 Earnings Recap 及 Earnings Preview。」
-2. 「顯示最近與 NVIDIA 有關的 Company Catalyst 研究。」
-3. 「NVIDIA 關聯度最高的主題有哪些？請說明前三個主題背後的依據。」
-4. 「查找與 Artificial Intelligence 主題相關的公司。」
-5. 「在 Knowledge Graph 中查找 NVIDIA 的主要競爭對手，並顯示關係依據。」
-6. 「顯示這家公司相關的宏觀及財務主題，並在有資料時提供 exposure direction。」
-7. 「列出我可以使用的 Reflexivity watchlist 及 basket。」
-8. 「在這個 watchlist 或 basket 中搜尋最近的研究。」
-9. 「查找這家公司的 Scenario Insight，並顯示可用的預測日期及數值。」
-10. 「先查找與這個主題相關的公司，再比較這些公司的近期業績研究。」
+以下都是目前儲存庫資料可以回答的**文件問題**。
 
-MCP 連接用於 Reflexivity 研究及 Knowledge Graph 工作流程，並不是用於一般即時報價或歷史價格序列查詢。
+1. 「列出與股票相關的 Reflexivity 使用案例，並附直接連結。」
+2. 「有哪些固定收益使用案例？請附每個頁面的連結。」
+3. 「把適合 Long-only Asset Manager 的使用案例按研究類型整理出來。」
+4. 「有哪些由 QUICK 提供、涉及 NVIDIA、Micron、AI、半導體或數據中心的使用案例？」
+5. 「有哪些 Scenario Insight 使用案例？請附原始頁面連結。」
+6. 「文件裡如何解釋 Reflexivity AI Connections / MCP？它可以研究甚麼？」
+7. 「哪些 AI 應用程式有 Reflexivity 連接指南？」
+8. 「文件中的 7 個 Reflexivity MCP 工具分別是甚麼，各自做甚麼？」
+9. 「ChatGPT 連接指南要求連接後驗證甚麼？」
+10. 「Reflexivity AI 連接是否提供即時報價或歷史價格序列？另外有哪些 Price History 文件？」
+
+### 另外的功能：從 AI 應用程式直接使用 Reflexivity 服務
+
+如果希望 ChatGPT、Claude 等支援的 AI 應用程式**直接呼叫 Reflexivity**，需要連接 **Reflexivity MCP**。這與讓 AI 讀取 GitHub 手冊是不同的產品連接。
+
+核准使用者可以使用 [Client Resources](https://github.com/reflexivity-kb/client-resources) 中的應用程式連接指南：
+
+- [ChatGPT](https://github.com/reflexivity-kb/client-resources/blob/main/zh-hk/01-技術參考/11-AI-連接/02-應用程式指南/03-ChatGPT/README.md)
+- [Claude](https://github.com/reflexivity-kb/client-resources/blob/main/zh-hk/01-技術參考/11-AI-連接/02-應用程式指南/01-Claude/README.md)
+- [GitHub Copilot in VS Code](https://github.com/reflexivity-kb/client-resources/blob/main/zh-hk/01-技術參考/11-AI-連接/02-應用程式指南/07-GitHub-Copilot-in-VS-Code/README.md)
+
+透過 MCP，AI 應用程式可以使用已文件化的 Reflexivity Insights 及 Knowledge Graph 功能。它並不是一般即時報價或歷史價格序列的連接。
 
 ## 2. 直接瀏覽頁面
 
