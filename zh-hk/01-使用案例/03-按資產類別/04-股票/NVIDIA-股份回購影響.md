@@ -58,6 +58,8 @@ Meta、Alphabet 及 Apple 的公告都與業績發布重疊，因此不能把股
 
 ![大型股份回購公告後下一交易日的股價反應](../../../../assets/use-cases/RX-USECASE-0069/01-buyback-comparison.webp)
 
+![提供資料比較中使用的NVIDIA股價走勢](../../../../assets/use-cases/RX-USECASE-0069/02-nvidia-price-series.webp)
+
 ## 研究流程
 
 把財務報表、價格序列、公司催化劑及新聞連接起來，同時檢查授權規模、執行能力及市場反應。

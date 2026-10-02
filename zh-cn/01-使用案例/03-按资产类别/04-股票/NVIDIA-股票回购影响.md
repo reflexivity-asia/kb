@@ -58,6 +58,8 @@ Meta、Alphabet 与 Apple 的公告都与财报重叠，因此不能把股价上
 
 ![大型股票回购公告后下一交易日的股价反应](../../../../assets/use-cases/RX-USECASE-0069/01-buyback-comparison.webp)
 
+![提供资料比较中使用的NVIDIA股价走势](../../../../assets/use-cases/RX-USECASE-0069/02-nvidia-price-series.webp)
+
 ## 研究流程
 
 把财务报表、价格序列、公司催化剂和新闻连接起来，同时回答授权规模、执行能力与市场反应三个问题。

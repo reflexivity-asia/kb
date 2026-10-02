@@ -58,6 +58,8 @@ Meta, Alphabet, Apple 사례는 실적 발표와 함께 나왔기 때문에 주�
 
 ![대규모 자사주 매입 발표 후 다음 영업일 주가 반응](../../../../assets/use-cases/RX-USECASE-0069/01-buyback-comparison.webp)
 
+![제공 자료의 비교에 사용된 NVIDIA 주가 추이](../../../../assets/use-cases/RX-USECASE-0069/02-nvidia-price-series.webp)
+
 ## 리서치 흐름
 
 재무제표, 가격 시계열, 기업 카탈리스트와 뉴스를 연결해 승인 규모, 실행 여력, 발표 후 시장 반응을 함께 확인합니다.

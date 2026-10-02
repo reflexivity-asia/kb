@@ -60,6 +60,8 @@ The source cautions that Meta, Alphabet and Apple announced their programs along
 
 ![Next-business-day share-price reaction after major buyback announcements](../../../../assets/use-cases/RX-USECASE-0069/01-buyback-comparison.webp)
 
+![NVIDIA share-price series used in the source comparison](../../../../assets/use-cases/RX-USECASE-0069/02-nvidia-price-series.webp)
+
 ## What the example demonstrates
 
 The workflow combines company financial statements, price time series, catalyst insights and news to answer three connected questions: how large the authorization is relative to financial capacity, how the stock reacted, and whether historical analogues are genuinely comparable.

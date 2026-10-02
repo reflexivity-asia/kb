@@ -61,6 +61,8 @@ publication_mode: faithful-source-preserving
 
 ![大型自社株買い発表後の翌営業日の株価反応](../../../../assets/use-cases/RX-USECASE-0069/01-buyback-comparison.webp)
 
+![提供資料の比較で使用されたNVIDIAの株価推移](../../../../assets/use-cases/RX-USECASE-0069/02-nvidia-price-series.webp)
+
 ## この調査でつないでいる情報
 
 財務諸表、株価時系列、企業カタリスト、ニュースを組み合わせ、承認額の大きさ、実行余力、発表後の株価反応を一つの流れで確認しています。

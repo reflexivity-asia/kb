@@ -39,6 +39,10 @@ In the supplied screenshots, the Micron preview is framed around **AI demand**. 
 
 ![Micron in the earnings event calendar before the announcement](../../../../assets/use-cases/RX-USECASE-0071/01-event-calendar.webp)
 
+![Forecast revenue and EPS cards shown in the earnings preview](../../../../assets/use-cases/RX-USECASE-0071/02-forecast-metrics.webp)
+
+![Top 5 guidance checkpoint from the Micron earnings preview](../../../../assets/use-cases/RX-USECASE-0071/03-guidance-checkpoint.webp)
+
 ## After the release
 
 The source notes that, once results are announced, the workflow continues in **Earnings Review** so the user can compare the actual release with the pre-announcement expectations.

@@ -50,6 +50,10 @@ The source used monthly/annual history to place the current regime in context ra
 
 ![Historical 10-year government yields in the US, Germany, UK and Japan](../../../../assets/use-cases/RX-USECASE-0070/01-global-10y-yields.webp)
 
+![Japan 10-year yield and USD/JPY in the source analysis](../../../../assets/use-cases/RX-USECASE-0070/02-japan-10y-usdjpy.webp)
+
+![Policy-rate history used in the source scenario analysis](../../../../assets/use-cases/RX-USECASE-0070/03-policy-rates.webp)
+
 ## Scenario interpretation in the source
 
 - **United States:** restrictive policy could give way to shallow easing, while the longer-run rate regime remains above the 2010s.
