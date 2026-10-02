@@ -6,7 +6,6 @@ locale: zh-CN
 provider: QUICK Inc.
 source_created: 2026-09-28
 provided: 2026-09-28
-source_id: CAA_1-Y3BmUNPqbFdCtPGcM-MNKk86YdTU7v7mRz0AMJnqmM6LQ@mail.gmail.com
 status: published
 translation_status: current
 source_type: partner-provided-use-case
