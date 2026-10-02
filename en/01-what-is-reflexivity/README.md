@@ -1,6 +1,6 @@
 # What is Reflexivity?
 
-[← Reflexivity Knowledge Base](../README.md)
+[← English documentation menu](https://github.com/reflexivity-kb/#en)
 
 The full overview is available to approved users in the Reflexivity Platform repository.
 
