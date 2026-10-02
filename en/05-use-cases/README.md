@@ -1,6 +1,6 @@
 # Reflexivity Use Cases
 
-[← Reflexivity Knowledge Base](../README.md)
+[← English documentation menu](https://github.com/reflexivity-kb/#en)
 
 Explore Reflexivity examples by **persona**, **insight type**, or **asset class**.
 
