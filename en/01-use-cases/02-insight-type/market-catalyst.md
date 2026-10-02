@@ -17,6 +17,10 @@ These examples are dated platform outputs. Check them against current market dat
 - [AI-chip de-rating hits semiconductor ETFs (SMH)](../03-asset-class/04-equities/ai-chip-de-rating-hits-semiconductor-etfs-smh.md) — July 16, 2026 — Bearish
 - [DeepSeek inference chip / AI-chip pressure](../03-asset-class/04-equities/deepseek-inference-chip-ai-chip-pressure.md) — July 8, 2026 — Bearish
 
+## QUICK Partner-Provided Use Case
+
+- [Use the Market Leading Indicator to compare signals with actual market moves](../03-asset-class/05-multi-asset/market-leading-indicator-dashboard.md) — QUICK | 2026-09-28
+
 ---
 
 [← All Use Cases](../README.md)
