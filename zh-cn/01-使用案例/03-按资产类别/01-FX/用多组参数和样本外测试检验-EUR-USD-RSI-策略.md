@@ -31,10 +31,6 @@ prompt_status: not_provided
 
 **[在 Reflexivity 中打开这个研究示例 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)**
 
-## 使用的提示词
-
-提供资料中未注明实际使用的提示词全文。
-
 ## 研究目标
 
 如果在看过历史数据之后才挑选某个 RSI 周期或阈值，策略很容易显得格外漂亮。因此，一个“最佳参数”并不能说明策略具备可重复的优势，也可能只是对样本过拟合。
