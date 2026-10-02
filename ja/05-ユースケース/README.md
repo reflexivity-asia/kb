@@ -1,6 +1,6 @@
 # Reflexivity ユースケース
 
-[← Reflexivity ナレッジベース](../README.md)
+[← 日本語のドキュメントメニュー](https://github.com/reflexivity-kb/#ja)
 
 Reflexivityの調査・分析例を、**運用者別**、**インサイト別**、**運用資産別**の3つの切り口からご覧いただけます。
 
