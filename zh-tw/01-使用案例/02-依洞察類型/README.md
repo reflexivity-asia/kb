@@ -1,10 +1,10 @@
 # 依洞察類型瀏覽使用案例
 
-- [Market Catalyst](market-catalyst.md) — 9 篇
+- [Market Catalyst](market-catalyst.md) — 10 篇
 - [Geopolitical Catalyst](geopolitical-catalyst.md) — 1 篇
-- [Company Catalyst](company-catalyst.md) — 8 篇
-- [Earnings Catalyst](earnings-catalyst.md) — 7 篇
-- [Scenario Insight](scenario-insight.md) — 3 篇
+- [Company Catalyst](company-catalyst.md) — 9 篇
+- [Earnings Catalyst](earnings-catalyst.md) — 8 篇
+- [Scenario Insight](scenario-insight.md) — 5 篇
 
 ---
 
