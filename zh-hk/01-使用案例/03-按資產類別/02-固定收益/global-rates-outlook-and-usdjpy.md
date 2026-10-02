@@ -60,4 +60,8 @@ publication_mode: faithful-source-preserving
 
 本頁基於 QUICK 於 2026-09-30 提供的 Reflexivity 使用案例。
 
+本內容由 QUICK 提供。
+
+視乎國家或地區、語言環境、使用產品、權限及數據涵蓋範圍，未必可以完全按本文方式重現本案例。
+
 [← 固定收益使用案例](README.md) · [全部使用案例](../../README.md)
