@@ -32,10 +32,6 @@ prompt_status: not_provided
 
 **[在 Reflexivity 中開啟這個研究範例 →](https://app.reflexivity.com/app/alfred?conversationId=7a3cccb2-8503-4530-b85b-34386f208480&mode=research&activeHistorySidebarCategory=all)**
 
-## 使用的提示詞
-
-提供資料中未載明實際使用的提示詞全文。
-
 ## 這份來源更正了什麼
 
 較早的輸出中，部分顯示的交易標籤與底層邏輯不一致。這份追蹤研究修正了該問題。
