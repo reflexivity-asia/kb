@@ -17,6 +17,10 @@
 - [Palantir 業績優於預期強化 AI 軟體需求映射 (PLTR)](../03-按資產類別/04-股票/palantir-beat-sharpens-ai-software-demand-read-through-pltr.md)
 - [美國 AI 晶片出口限制衝擊半導體 (SMH)](../03-按資產類別/04-股票/us-ai-chip-export-curb-hits-semis-smh.md)
 
+## QUICK 提供
+
+- [用市場領先指標對照實際市場走勢](../03-按資產類別/05-多資產/market-leading-indicator-dashboard.md) — 2026-09-28
+
 ---
 
 [← 洞察類型列表](README.md) · [全部使用案例](../README.md)
