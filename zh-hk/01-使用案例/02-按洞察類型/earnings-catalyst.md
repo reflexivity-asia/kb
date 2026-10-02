@@ -15,6 +15,10 @@
 - [Sysco：業績優於預期並改善 FY27 預期 (SYY)](../01-按投資者類型/03-長期多頭資產管理人/sysco-beats-and-lifts-the-fy27-setup-syy.md)
 - [Middleby：業績優於預期並上調指引，支持 pure-play 重置 (MIDD)](../01-按投資者類型/03-長期多頭資產管理人/middleby-beat-and-raise-supports-pure-play-reset-midd.md)
 
+## QUICK 提供
+
+- [用 Earnings Preview 為 Micron 業績做準備](../03-按資產類別/04-股票/micron-earnings-preview-workflow.md) — 2026-09-30
+
 ---
 
 [← 洞察類型列表](README.md) · [全部使用案例](../README.md)
