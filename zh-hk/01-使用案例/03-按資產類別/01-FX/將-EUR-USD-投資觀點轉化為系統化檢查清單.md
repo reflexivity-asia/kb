@@ -32,10 +32,6 @@ prompt_status: not_provided
 
 **[在 Reflexivity 中開啟這個研究示例 →](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)**
 
-## 使用的提示詞
-
-提供資料中未列明實際使用的提示詞全文。
-
 ## 研究目標
 
 原始研究並非單純要求 Reflexivity「研究 EUR/USD」，而是把 PM 每次覆核投資觀點時會問的問題，整理成可重複更新的檢查清單。原始研究最後更新於 **2025-08-28**。
