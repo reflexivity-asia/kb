@@ -1,6 +1,6 @@
 # 什麼是 Reflexivity？
 
-[← Reflexivity 知識庫](../README.md)
+[← 繁體中文（台灣）文件選單](https://github.com/reflexivity-kb/#zh-tw)
 
 完整內容僅在提供給已核准使用者的 Reflexivity Platform 中提供。
 
