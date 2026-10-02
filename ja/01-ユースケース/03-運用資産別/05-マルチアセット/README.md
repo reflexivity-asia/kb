@@ -26,3 +26,7 @@
 - [FOMC前に利上げシナリオと市場への波及を整理する](../03-マクロ/fomc-rate-hike-scenarios.md) — QUICK提供 | 2026-09-15
 
 [← 運用資産別](../README.md) · [ユースケース一覧](../../README.md)
+
+## 今回追加したQUICK提供ユースケース
+
+- [マーケット先行指標を実際の値動きと比較する](market-leading-indicator-dashboard.md) — QUICK提供 | 2026-09-28
