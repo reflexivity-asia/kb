@@ -4,41 +4,38 @@
 
 知识库内容较多，不需要从头逐页阅读。可以按需要选择以下三种方式。
 
-## 1. 直接用 AI 提问
+## 1. 将 Reflexivity 连接到 AI
 
-把 GitHub 仓库连接到 AI 助手后，可以直接基于现有文档提问。
+Reflexivity 可以通过 **MCP** 直接连接到受支持的 AI 应用。连接后，可以在对话中使用 Reflexivity 的 **Insights** 和 **Knowledge Graph** 功能。
 
-- **GitHub Copilot** — 在 GitHub 打开 [reflexivity-kb/docs](https://github.com/reflexivity-kb/docs)，在 Copilot Chat 中针对当前仓库提问。[GitHub 说明](https://docs.github.com/en/copilot/how-tos/copilot-on-github/chat-with-copilot/get-started-with-chat)
-- **ChatGPT** — 在 ChatGPT 的 **Settings → Plugins** 中连接 GitHub，并授权 ChatGPT 可读取的仓库。[OpenAI 说明](https://help.openai.com/en/articles/11145903-connecting-github-to-chatgpt)
-- **Claude** — 在聊天中选择 **+ → Add from GitHub**，或把 GitHub 添加到 Project knowledge，然后选择需要使用的文件或文件夹。[Claude 说明](https://support.claude.com/en/articles/10167454-use-the-github-integration)
+这与单纯让 AI 阅读这个 GitHub 文档仓库是两回事。
 
-公开资料请添加 **reflexivity-kb/docs**。如果你已获准访问 [Reflexivity Client Resources](https://github.com/reflexivity-kb/client-resources)，也可以同时添加该仓库。
+如果你已获准访问 [Reflexivity Client Resources](https://github.com/reflexivity-kb/client-resources)，请使用相应应用的连接指南：
 
-**提问语言不限于知识库发布的六种语言。** 只要你使用的 AI 助手支持，就可以用其他语言提问。知识库原文目前发布为英语、日语、韩语、简体中文、繁体中文（台湾）和繁体中文（香港）。
+- **ChatGPT** — [将 Reflexivity 连接到 ChatGPT](https://github.com/reflexivity-kb/client-resources/blob/main/zh-cn/01-技术参考/11-AI-连接/02-应用指南/03-ChatGPT/README.md)
+- **Claude** — [将 Reflexivity 连接到 Claude](https://github.com/reflexivity-kb/client-resources/blob/main/zh-cn/01-技术参考/11-AI-连接/02-应用指南/01-Claude/README.md)
+- **GitHub Copilot** — [将 Reflexivity 连接到 GitHub Copilot in VS Code](https://github.com/reflexivity-kb/client-resources/blob/main/zh-cn/01-技术参考/11-AI-连接/02-应用指南/07-GitHub-Copilot-in-VS-Code/README.md)
 
-对于需要核对出处的问题，建议要求 AI 同时给出所引用页面的直接链接。
+不同应用和工作区的可用性及验证状态可能不同。设置完成后，请确认 AI 实际能够调用 Reflexivity 工具，而不仅仅是登录成功。
 
-> 请以 `reflexivity-kb/docs`，以及在我有权限时的 `reflexivity-kb/client-resources` 为信息来源。请根据最相关的 Reflexivity 文档回答，并附上实际使用页面的直接链接。如果仓库里没有答案，请明确说明，不要猜测。
+**提问语言没有限制。** 只要你的 AI 助手支持，就可以使用该语言提问。Reflexivity 工具在支持语言偏好的功能中采用 best-effort 方式处理；如果没有对应翻译，部分内容可能仍以英语返回。
 
-### 可以这样提问
+### 可以这样使用 Reflexivity
 
-以下示例都已确认可以由当前仓库中的现有资料回答。
+以下问题都基于当前 Reflexivity MCP 文档中已说明的功能。
 
-**公开 Knowledge Base**
+1. “查找 NVIDIA 最近的 Earnings Recap 和 Earnings Preview。”
+2. “显示最近与 NVIDIA 有关的 Company Catalyst 研究。”
+3. “NVIDIA 关联度最高的主题有哪些？请说明前三个主题背后的依据。”
+4. “查找与 Artificial Intelligence 主题相关的公司。”
+5. “在 Knowledge Graph 中查找 NVIDIA 的主要竞争对手，并显示关系依据。”
+6. “显示这家公司相关的宏观和财务主题，并在有数据时给出 exposure direction。”
+7. “列出我可以使用的 Reflexivity watchlist 和 basket。”
+8. “在这个 watchlist 或 basket 中搜索最近的研究。”
+9. “查找这家公司的 Scenario Insight，并显示可用的预测日期和数值。”
+10. “先查找与这个主题相关的公司，再比较这些公司的近期财报研究。”
 
-1. “把与股票相关的 Reflexivity 使用案例列出来，并给我直接链接。”
-2. “有哪些固定收益使用案例？请附每个页面的链接。”
-3. “把适合 Long-only Asset Manager 的使用案例按研究类型整理出来。”
-4. “有哪些由 QUICK 提供、涉及 NVIDIA、Micron、AI、半导体或数据中心的使用案例？”
-5. “有哪些 Scenario Insight 使用案例？请附原始页面链接。”
-
-**Client Resources — 需要已批准的访问权限**
-
-6. “Reflexivity AI Connections / MCP 是什么？可以研究哪些内容？”
-7. “Reflexivity MCP 的 7 个工具分别是什么，各自做什么？”
-8. “怎样把 Reflexivity 连接到 ChatGPT？”
-9. “怎样把 Reflexivity 连接到 Claude 或 GitHub Copilot？”
-10. “Reflexivity MCP 能否提供实时行情或历史价格序列？另外文档中的 market-close price API 是什么？”
+MCP 连接用于 Reflexivity 研究和 Knowledge Graph 工作流，并不是用于通用实时行情或历史价格序列查询。
 
 ## 2. 直接浏览页面
 
