@@ -31,10 +31,6 @@ prompt_status: not_provided
 
 **[Open this research example in Reflexivity →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=4fa62dde-58f4-4b3b-b433-837634dc84fb&scrollTo=top)**
 
-## Prompt used
-
-The approved source does not specify the exact prompt used.
-
 ## Starting question
 
 The research does not try to collect evidence for the headline view that “the US economy is strong.” It asks **where that view is beginning to break down**.
