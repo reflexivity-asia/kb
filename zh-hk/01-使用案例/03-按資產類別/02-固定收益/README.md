@@ -16,7 +16,7 @@
 
 ## 新增 QUICK 使用案例
 
-- [用 30 年數據分析全球利率前景及 USD/JPY 影響](global-rates-outlook-and-usdjpy.md) — QUICK 提供 | 2026-09-30
+- [用 30 年數據分析全球利率前景及 USD/JPY 影響](利率上升展望與美元日圓.md) — QUICK 提供 | 2026-09-30
 
 ---
 

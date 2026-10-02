@@ -39,9 +39,9 @@
 
 ## 신규 QUICK 제공 유스케이스
 
-- [NVIDIA의 1,500억 달러 자사주 매입 확대 영향을 분석하기](nvidia-share-repurchase-impact.md) — QUICK 제공 | 2026-09-29 — `RX-USECASE-0069`
-- [Micron 실적을 Earnings Preview로 준비하기](micron-earnings-preview-workflow.md) — QUICK 제공 | 2026-09-30 — `RX-USECASE-0071`
-- [미국과 일본의 AI·반도체·데이터센터 테마를 비교하기](ai-semiconductor-data-center-themes-us-japan.md) — QUICK 제공 | 2026-10-01 — `RX-USECASE-0072`
+- [NVIDIA의 1,500억 달러 자사주 매입 확대 영향을 분석하기](NVIDIA-자사주매입-영향.md) — QUICK 제공 | 2026-09-29 — `RX-USECASE-0069`
+- [Micron 실적을 Earnings Preview로 준비하기](마이크론-실적-프리뷰.md) — QUICK 제공 | 2026-09-30 — `RX-USECASE-0071`
+- [미국과 일본의 AI·반도체·데이터센터 테마를 비교하기](AI-반도체-데이터센터-미일비교.md) — QUICK 제공 | 2026-10-01 — `RX-USECASE-0072`
 
 ---
 

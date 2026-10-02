@@ -17,7 +17,7 @@
 
 ## QUICK 提供
 
-- [用 Earnings Preview 為 Micron 業績做準備](../03-按資產類別/04-股票/micron-earnings-preview-workflow.md) — 2026-09-30
+- [用 Earnings Preview 為 Micron 業績做準備](../03-按資產類別/04-股票/美光業績預覽.md) — 2026-09-30
 
 ---
 

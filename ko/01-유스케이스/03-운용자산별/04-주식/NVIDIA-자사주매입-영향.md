@@ -9,6 +9,7 @@ provided: 2026-09-29
 status: published
 translation_status: current
 source_type: partner-provided-use-case
+source_manifest: RX-USECASE-0069
 asset_class: Equities
 insight_type: Company Catalyst
 publication_mode: faithful-source-preserving
@@ -16,7 +17,7 @@ publication_mode: faithful-source-preserving
 # NVIDIA의 1,500억 달러 자사주 매입 확대 영향을 분석하기
 
 <!-- locale-switcher:start -->
-**Languages:** [English](../../../../en/01-use-cases/03-asset-class/04-equities/nvidia-share-repurchase-impact.md) · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/nvidia-share-repurchase-impact.md) · **한국어** · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/nvidia-share-repurchase-impact.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/nvidia-share-repurchase-impact.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/nvidia-share-repurchase-impact.md)
+**Languages:** [English](../../../../en/01-use-cases/03-asset-class/04-equities/nvidia-share-repurchase-impact.md) · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/NVIDIA-自社株買いのインパクト.md) · **한국어** · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/NVIDIA-股票回购影响.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/NVIDIA-股份回購影響.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/NVIDIA-股份回購影響.md)
 <!-- locale-switcher:end -->
 
 [← 주식 유스케이스](README.md) · [운용자산별](../README.md) · [전체 유스케이스](../../README.md)
@@ -27,6 +28,8 @@ publication_mode: faithful-source-preserving
 > 수치와 시장 환경은 제공 당시의 과거 스냅샷입니다.
 
 > NVIDIA가 1,500억 달러의 자사주 매입 한도를 추가로 발표했다. 그 영향은 무엇이며, 다른 대규모 자사주 매입 발표 이후의 주가 반응과 비교하면 어떤가?
+
+> 제공 자료에는 이 활용 예시를 바로 열 수 있는 Reflexivity 링크가 포함되어 있지 않습니다.
 
 ## 규모를 재무여력과 비교
 
@@ -52,6 +55,8 @@ publication_mode: faithful-source-preserving
 | Apple | $110B | 2024-05-02 | +6.0% | +11.1% |
 
 Meta, Alphabet, Apple 사례는 실적 발표와 함께 나왔기 때문에 주가 상승을 자사주 매입만의 효과로 볼 수 없습니다. 원 자료는 NVIDIA의 상대적으로 작은 익일 반응을 단독 발표라는 점과 이미 강한 현금창출 기대가 반영되어 있었을 가능성과 함께 해석합니다.
+
+![대규모 자사주 매입 발표 후 다음 영업일 주가 반응](../../../../assets/use-cases/RX-USECASE-0069/01-buyback-comparison.webp)
 
 ## 리서치 흐름
 

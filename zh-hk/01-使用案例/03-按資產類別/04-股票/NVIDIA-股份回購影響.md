@@ -9,6 +9,7 @@ provided: 2026-09-29
 status: published
 translation_status: current
 source_type: partner-provided-use-case
+source_manifest: RX-USECASE-0069
 asset_class: Equities
 insight_type: Company Catalyst
 publication_mode: faithful-source-preserving
@@ -16,7 +17,7 @@ publication_mode: faithful-source-preserving
 # 分析 NVIDIA 增加 1,500 億美元股份回購授權的影響
 
 <!-- locale-switcher:start -->
-**Languages:** [English](../../../../en/01-use-cases/03-asset-class/04-equities/nvidia-share-repurchase-impact.md) · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/nvidia-share-repurchase-impact.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/nvidia-share-repurchase-impact.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/nvidia-share-repurchase-impact.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/nvidia-share-repurchase-impact.md) · **繁體中文（香港）**
+**Languages:** [English](../../../../en/01-use-cases/03-asset-class/04-equities/nvidia-share-repurchase-impact.md) · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/NVIDIA-自社株買いのインパクト.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/NVIDIA-자사주매입-영향.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/NVIDIA-股票回购影响.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/NVIDIA-股份回購影響.md) · **繁體中文（香港）**
 <!-- locale-switcher:end -->
 
 [← 股票使用案例](README.md) · [按資產類別](../README.md) · [全部使用案例](../../README.md)
@@ -27,6 +28,8 @@ publication_mode: faithful-source-preserving
 > 數字及市場環境均為來源資料當時的歷史快照。
 
 > NVIDIA 新增 1,500 億美元股份回購授權，這個規模代表甚麼？與其他大型回購公告後的股價表現相比如何？
+
+> 提供資料中未包含可直接開啟此案例的 Reflexivity 連結。
 
 ## 將回購規模與財務能力比較
 
@@ -52,6 +55,8 @@ publication_mode: faithful-source-preserving
 | Apple | $110B | 2024-05-02 | +6.0% | +11.1% |
 
 Meta、Alphabet 及 Apple 的公告都與業績發布重疊，因此不能把股價上升單獨歸因於回購。來源把 NVIDIA 較小的翌日反應放在獨立公告，以及強勁現金流預期可能已反映於估值的背景下理解。
+
+![大型股份回購公告後下一交易日的股價反應](../../../../assets/use-cases/RX-USECASE-0069/01-buyback-comparison.webp)
 
 ## 研究流程
 

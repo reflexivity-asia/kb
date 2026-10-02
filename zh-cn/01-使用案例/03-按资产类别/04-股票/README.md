@@ -38,9 +38,9 @@
 
 ## 新增 QUICK 使用案例
 
-- [分析 NVIDIA 增加 1500 亿美元股票回购授权的影响](nvidia-share-repurchase-impact.md) — QUICK 提供 | 2026-09-29
-- [用 Earnings Preview 为 Micron 财报做准备](micron-earnings-preview-workflow.md) — QUICK 提供 | 2026-09-30
-- [比较美国与日本的 AI、半导体和数据中心主题](ai-semiconductor-data-center-themes-us-japan.md) — QUICK 提供 | 2026-10-01
+- [分析 NVIDIA 增加 1500 亿美元股票回购授权的影响](NVIDIA-股票回购影响.md) — QUICK 提供 | 2026-09-29
+- [用 Earnings Preview 为 Micron 财报做准备](美光财报预览.md) — QUICK 提供 | 2026-09-30
+- [比较美国与日本的 AI、半导体和数据中心主题](AI-半导体-数据中心美日比较.md) — QUICK 提供 | 2026-10-01
 
 ---
 

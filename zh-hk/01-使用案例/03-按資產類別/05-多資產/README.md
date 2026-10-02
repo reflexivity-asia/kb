@@ -17,7 +17,7 @@
 
 ## 新增 QUICK 使用案例
 
-- [用市場領先指標對照實際市場走勢](market-leading-indicator-dashboard.md) — QUICK 提供 | 2026-09-28
+- [用市場領先指標對照實際市場走勢](市場領先指標與實際走勢.md) — QUICK 提供 | 2026-09-28
 
 ---
 

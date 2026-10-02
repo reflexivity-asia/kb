@@ -38,9 +38,9 @@
 
 ## 新增 QUICK 使用案例
 
-- [分析 NVIDIA 增加 1,500 億美元庫藏股授權的影響](nvidia-share-repurchase-impact.md) — QUICK 提供 | 2026-09-29
-- [用 Earnings Preview 為 Micron 財報做準備](micron-earnings-preview-workflow.md) — QUICK 提供 | 2026-09-30
-- [比較美國與日本的 AI、半導體與資料中心主題](ai-semiconductor-data-center-themes-us-japan.md) — QUICK 提供 | 2026-10-01
+- [分析 NVIDIA 增加 1,500 億美元庫藏股授權的影響](NVIDIA-股份回購影響.md) — QUICK 提供 | 2026-09-29
+- [用 Earnings Preview 為 Micron 財報做準備](美光財報預覽.md) — QUICK 提供 | 2026-09-30
+- [比較美國與日本的 AI、半導體與資料中心主題](AI-半導體-資料中心美日比較.md) — QUICK 提供 | 2026-10-01
 
 ---
 

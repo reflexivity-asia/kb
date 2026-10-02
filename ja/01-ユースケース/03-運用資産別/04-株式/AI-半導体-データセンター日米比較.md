@@ -10,6 +10,7 @@ status: published
 translation_status: current
 editorial_reviewed: 2026-10-02
 source_type: partner-provided-use-case
+source_manifest: RX-USECASE-0072
 asset_class: 株式、マルチアセット
 insight_type: Scenario Insight
 publication_mode: faithful-source-preserving
@@ -17,7 +18,7 @@ publication_mode: faithful-source-preserving
 # AI・半導体・データセンターの足元を日米で比較する
 
 <!-- locale-switcher:start -->
-**Languages:** [English](../../../../en/01-use-cases/03-asset-class/04-equities/ai-semiconductor-data-center-themes-us-japan.md) · **日本語** · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/ai-semiconductor-data-center-themes-us-japan.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/ai-semiconductor-data-center-themes-us-japan.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/ai-semiconductor-data-center-themes-us-japan.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/ai-semiconductor-data-center-themes-us-japan.md)
+**Languages:** [English](../../../../en/01-use-cases/03-asset-class/04-equities/ai-semiconductor-data-center-themes-us-japan.md) · **日本語** · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/AI-반도체-데이터센터-미일비교.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/AI-半导体-数据中心美日比较.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/AI-半導體-資料中心美日比較.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/AI-半導體-數據中心美日比較.md)
 <!-- locale-switcher:end -->
 
 [← 株式ユースケース](README.md) · [運用資産別](../README.md) · [ユースケース一覧](../../README.md)
@@ -29,6 +30,8 @@ publication_mode: faithful-source-preserving
 > リターンは提供資料に記載された現地通貨ベースの価格騰落率で、配当は含みません。
 
 > AI、半導体、データセンターの関連株について、米国と日本それぞれの主要銘柄の過去3か月パフォーマンスを分析し、今後のシナリオを作成してください。
+
+> ### [Reflexivityでこの調査例を開く →](https://app.reflexivity.com/alfred?mode=research&conversationId=944136af-a0bf-411f-959c-8dd2368b16a8&scrollTo=top)
 
 ## 米国
 
@@ -44,6 +47,8 @@ publication_mode: faithful-source-preserving
 
 **シナリオ:** 強気ではハイパースケーラーのAI設備投資継続、基本では収益化とFCFを伴う銘柄の選別、弱気ではAI投資減速・高金利・規制を逆風として想定しています。
 
+![提供分析期間における米国のAI・半導体・データセンター関連株の騰落率](../../../../assets/use-cases/RX-USECASE-0072/02-us-theme-returns.webp)
+
 ## 日本
 
 日本では半導体製造装置が大きく下落する一方、データセンター／インフラ関連が相対的に強くなりました。
@@ -57,6 +62,8 @@ publication_mode: faithful-source-preserving
 提供資料では、装置株の下落を中国向け売上の減少やアジアAI株全体の調整とあわせて見ています。
 
 **シナリオ:** 強気ではAI検査・インフラと装置株の見直し、基本ではインフラ優位と装置サイクルの底打ち待ち、弱気では中国向け減速やAI投資鈍化に円高が重なるケースを想定しています。
+
+![提供分析期間における日本のAI・半導体・データセンター関連株の騰落率](../../../../assets/use-cases/RX-USECASE-0072/01-japan-theme-returns.webp)
 
 ## 日米を比べる意味
 

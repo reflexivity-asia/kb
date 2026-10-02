@@ -17,7 +17,7 @@
 
 ## 新增 QUICK 使用案例
 
-- [用市场领先指标对照实际市场走势](market-leading-indicator-dashboard.md) — QUICK 提供 | 2026-09-28
+- [用市场领先指标对照实际市场走势](市场先行指标与实际走势.md) — QUICK 提供 | 2026-09-28
 
 ---
 

@@ -15,7 +15,7 @@
 
 ## QUICK 제공
 
-- [Micron 실적을 Earnings Preview로 준비하기](../03-운용자산별/04-주식/micron-earnings-preview-workflow.md) — 2026-09-30
+- [Micron 실적을 Earnings Preview로 준비하기](../03-운용자산별/04-주식/마이크론-실적-프리뷰.md) — 2026-09-30
 
 ---
 

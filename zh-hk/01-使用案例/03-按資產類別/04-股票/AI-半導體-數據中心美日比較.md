@@ -9,6 +9,7 @@ provided: 2026-10-01
 status: published
 translation_status: current
 source_type: partner-provided-use-case
+source_manifest: RX-USECASE-0072
 asset_class: Equities, Multi-Asset
 insight_type: Scenario Insight
 publication_mode: faithful-source-preserving
@@ -16,7 +17,7 @@ publication_mode: faithful-source-preserving
 # 比較美國與日本的 AI、半導體及數據中心主題
 
 <!-- locale-switcher:start -->
-**Languages:** [English](../../../../en/01-use-cases/03-asset-class/04-equities/ai-semiconductor-data-center-themes-us-japan.md) · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/ai-semiconductor-data-center-themes-us-japan.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/ai-semiconductor-data-center-themes-us-japan.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/ai-semiconductor-data-center-themes-us-japan.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/ai-semiconductor-data-center-themes-us-japan.md) · **繁體中文（香港）**
+**Languages:** [English](../../../../en/01-use-cases/03-asset-class/04-equities/ai-semiconductor-data-center-themes-us-japan.md) · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/AI-半導体-データセンター日米比較.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/AI-반도체-데이터센터-미일비교.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/AI-半导体-数据中心美日比较.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/AI-半導體-資料中心美日比較.md) · **繁體中文（香港）**
 <!-- locale-switcher:end -->
 
 [← 股票使用案例](README.md) · [按資產類別](../README.md) · [全部使用案例](../../README.md)
@@ -28,6 +29,8 @@ publication_mode: faithful-source-preserving
 > 回報為來源中的本幣價格回報，不包括股息。
 
 > 比較美國及日本 AI、半導體、數據中心相關主要股票過去三個月表現，並建立後續情景。
+
+> ### [在 Reflexivity 開啟此研究例子 →](https://app.reflexivity.com/alfred?mode=research&conversationId=944136af-a0bf-411f-959c-8dd2368b16a8&scrollTo=top)
 
 ## 美國
 
@@ -41,6 +44,8 @@ publication_mode: faithful-source-preserving
 
 **情景：** 樂觀情景假設 hyperscaler AI 資本開支持續；基準情景偏向有變現及自由現金流支撐的公司；悲觀情景考慮 AI 投資放緩、高利率及監管壓力。
 
+![所提供分析期內美國AI、半導體及數據中心主題回報](../../../../assets/use-cases/RX-USECASE-0072/02-us-theme-returns.webp)
+
 ## 日本
 
 | 主題 | 來源主要例子 |
@@ -52,6 +57,8 @@ publication_mode: faithful-source-preserving
 日本呈現半導體設備偏弱、數據中心／基礎設施相對較強的結構。來源把設備股下跌與中國相關銷售下降及亞洲 AI 股整體調整放在一起解讀。
 
 **情景：** 樂觀情景偏向 AI 測試／基礎設施與設備股重估；基準情景維持基礎設施優勢並等待設備週期見底；悲觀情景則是假設中國需求走弱、AI 投資降溫，再加上日圓升值對出口股的壓力。
+
+![所提供分析期內日本AI、半導體及數據中心主題回報](../../../../assets/use-cases/RX-USECASE-0072/01-japan-theme-returns.webp)
 
 ## 比較時的限制
 

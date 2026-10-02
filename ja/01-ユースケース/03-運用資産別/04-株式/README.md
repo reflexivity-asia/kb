@@ -39,6 +39,6 @@
 
 ## 今回追加したQUICK提供ユースケース
 
-- [NVIDIAの1500億ドル自社株買い増額のインパクトを分析する](nvidia-share-repurchase-impact.md) — QUICK提供 | 2026-09-29
-- [マイクロン決算を決算プレビューから準備する](micron-earnings-preview-workflow.md) — QUICK提供 | 2026-09-30
-- [AI・半導体・データセンターの足元を日米で比較する](ai-semiconductor-data-center-themes-us-japan.md) — QUICK提供 | 2026-10-01
+- [NVIDIAの1500億ドル自社株買い増額のインパクトを分析する](NVIDIA-自社株買いのインパクト.md) — QUICK提供 | 2026-09-29
+- [マイクロン決算を決算プレビューから準備する](マイクロン決算プレビュー.md) — QUICK提供 | 2026-09-30
+- [AI・半導体・データセンターの足元を日米で比較する](AI-半導体-データセンター日米比較.md) — QUICK提供 | 2026-10-01

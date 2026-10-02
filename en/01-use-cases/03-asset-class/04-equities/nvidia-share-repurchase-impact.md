@@ -9,6 +9,7 @@ provided: 2026-09-29
 status: published
 translation_status: canonical
 source_type: partner-provided-use-case
+source_manifest: RX-USECASE-0069
 asset_class: Equities
 insight_type: Company Catalyst
 publication_mode: faithful-source-preserving
@@ -16,7 +17,7 @@ publication_mode: faithful-source-preserving
 # Analyze the Impact of NVIDIA's $150 Billion Share-Repurchase Increase
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/nvidia-share-repurchase-impact.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/nvidia-share-repurchase-impact.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/nvidia-share-repurchase-impact.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/nvidia-share-repurchase-impact.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/nvidia-share-repurchase-impact.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/NVIDIA-自社株買いのインパクト.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/NVIDIA-자사주매입-영향.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/NVIDIA-股票回购影响.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/NVIDIA-股份回購影響.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/NVIDIA-股份回購影響.md)
 <!-- locale-switcher:end -->
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
@@ -27,6 +28,8 @@ publication_mode: faithful-source-preserving
 > Figures and market conditions are historical snapshots from the supplied analysis.
 
 > NVIDIA announced an additional $150 billion share-repurchase authorization. What is the likely impact, and how does the market reaction compare with other large buyback announcements?
+
+> The provided material did not include a direct Reflexivity link for this example.
 
 ## Scale of the authorization
 
@@ -54,6 +57,8 @@ The source interpretation was that the authorization was large but financially s
 | Apple | $110B | 2024-05-02 | +6.0% | +11.1% |
 
 The source cautions that Meta, Alphabet and Apple announced their programs alongside earnings, so those price moves cannot be attributed to buybacks alone. NVIDIA's smaller next-day move was therefore interpreted in the context of a stand-alone authorization increase and already-strong expectations for cash generation.
+
+![Next-business-day share-price reaction after major buyback announcements](../../../../assets/use-cases/RX-USECASE-0069/01-buyback-comparison.webp)
 
 ## What the example demonstrates
 

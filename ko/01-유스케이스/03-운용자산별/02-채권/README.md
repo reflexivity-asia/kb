@@ -17,7 +17,7 @@
 
 ## 신규 QUICK 제공 유스케이스
 
-- [글로벌 금리 전망과 USD/JPY 영향을 30년 데이터로 분석하기](global-rates-outlook-and-usdjpy.md) — QUICK 제공 | 2026-09-30 — `RX-USECASE-0070`
+- [글로벌 금리 전망과 USD/JPY 영향을 30년 데이터로 분석하기](금리상승-전망과-달러엔.md) — QUICK 제공 | 2026-09-30 — `RX-USECASE-0070`
 
 ---
 

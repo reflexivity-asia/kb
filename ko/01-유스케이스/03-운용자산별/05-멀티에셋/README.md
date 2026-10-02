@@ -18,7 +18,7 @@
 
 ## 신규 QUICK 제공 유스케이스
 
-- [시장 선행지표를 실제 시장 움직임과 비교하기](market-leading-indicator-dashboard.md) — QUICK 제공 | 2026-09-28 — `RX-USECASE-0068`
+- [시장 선행지표를 실제 시장 움직임과 비교하기](시장-선행지표와-실제-가격움직임.md) — QUICK 제공 | 2026-09-28 — `RX-USECASE-0068`
 
 ---
 

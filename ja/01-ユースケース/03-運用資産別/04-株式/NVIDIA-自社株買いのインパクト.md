@@ -10,6 +10,7 @@ status: published
 translation_status: current
 editorial_reviewed: 2026-10-02
 source_type: partner-provided-use-case
+source_manifest: RX-USECASE-0069
 asset_class: 株式
 insight_type: Company Catalyst
 publication_mode: faithful-source-preserving
@@ -17,7 +18,7 @@ publication_mode: faithful-source-preserving
 # NVIDIAの1500億ドル自社株買い増額のインパクトを分析する
 
 <!-- locale-switcher:start -->
-**Languages:** [English](../../../../en/01-use-cases/03-asset-class/04-equities/nvidia-share-repurchase-impact.md) · **日本語** · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/nvidia-share-repurchase-impact.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/nvidia-share-repurchase-impact.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/nvidia-share-repurchase-impact.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/nvidia-share-repurchase-impact.md)
+**Languages:** [English](../../../../en/01-use-cases/03-asset-class/04-equities/nvidia-share-repurchase-impact.md) · **日本語** · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/NVIDIA-자사주매입-영향.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/NVIDIA-股票回购影响.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/NVIDIA-股份回購影響.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/NVIDIA-股份回購影響.md)
 <!-- locale-switcher:end -->
 
 [← 株式ユースケース](README.md) · [運用資産別](../README.md) · [ユースケース一覧](../../README.md)
@@ -28,6 +29,8 @@ publication_mode: faithful-source-preserving
 > 数値や市場環境は提供日時点のものです。
 
 > NVIDIAが1500億ドルの自社株買いを発表しましたが、このインパクトについて分析してください。他にも大規模な自社株買いの例があれば、その後の株価の動きなどを踏まえて解説してください。
+
+> 提供資料には、この活用例を直接開くためのReflexivityリンクは含まれていません。
 
 ## 承認枠の規模を財務体力と比べる
 
@@ -55,6 +58,8 @@ publication_mode: faithful-source-preserving
 | Apple | $110B | 2024-05-02 | +6.0% | +11.1% |
 
 ただしMeta、Alphabet、Appleは決算発表と重なっており、株価上昇を自社株買いだけの効果とはみなせません。提供資料では、NVIDIAの翌日反応が相対的に小さかった点を、今回は決算と切り離された発表だったことや、潤沢なキャッシュ創出力がすでに評価に織り込まれていた可能性とあわせて見ています。
+
+![大型自社株買い発表後の翌営業日の株価反応](../../../../assets/use-cases/RX-USECASE-0069/01-buyback-comparison.webp)
 
 ## この調査でつないでいる情報
 

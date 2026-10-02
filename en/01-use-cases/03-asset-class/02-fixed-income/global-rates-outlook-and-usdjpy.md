@@ -9,6 +9,7 @@ provided: 2026-09-30
 status: published
 translation_status: canonical
 source_type: partner-provided-use-case
+source_manifest: RX-USECASE-0070
 asset_class: Fixed Income, FX, Macro
 insight_type: Scenario Insight
 publication_mode: faithful-source-preserving
@@ -16,7 +17,7 @@ publication_mode: faithful-source-preserving
 # Analyze the Global Rates Outlook and the Implications for USD/JPY
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/02-債券/global-rates-outlook-and-usdjpy.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/02-채권/global-rates-outlook-and-usdjpy.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/02-固定收益/global-rates-outlook-and-usdjpy.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/02-固定收益/global-rates-outlook-and-usdjpy.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/02-固定收益/global-rates-outlook-and-usdjpy.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/02-債券/金利上昇の見通しとドル円.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/02-채권/금리상승-전망과-달러엔.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/02-固定收益/利率上升展望与美元日元.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/02-固定收益/利率上升展望與美元日圓.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/02-固定收益/利率上升展望與美元日圓.md)
 <!-- locale-switcher:end -->
 
 [← Fixed Income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
@@ -27,6 +28,8 @@ publication_mode: faithful-source-preserving
 > Figures and market conditions are historical snapshots from the supplied analysis, not current forecasts.
 
 > With US and European rates back near pre-financial-crisis levels and inflation still elevated, how might rates evolve? Use 30 years of history and examine the implications for rate differentials and USD/JPY.
+
+> ### [Open this research example in Reflexivity →](https://app.reflexivity.com/alfred?mode=research&conversationId=121c67ec-ef7a-4ad4-8526-608cf402fdd0&scrollTo=top)
 
 ## Historical comparison
 
@@ -44,6 +47,8 @@ The source compared current levels with 2007 and the broader 30-year range. Sele
 | USD/JPY in the source | 157.38 |
 
 The source used monthly/annual history to place the current regime in context rather than reading the latest rate move alone.
+
+![Historical 10-year government yields in the US, Germany, UK and Japan](../../../../assets/use-cases/RX-USECASE-0070/01-global-10y-yields.webp)
 
 ## Scenario interpretation in the source
 

@@ -9,6 +9,7 @@ provided: 2026-10-01
 status: published
 translation_status: canonical
 source_type: partner-provided-use-case
+source_manifest: RX-USECASE-0072
 asset_class: Equities, Multi-Asset
 insight_type: Scenario Insight
 publication_mode: faithful-source-preserving
@@ -16,7 +17,7 @@ publication_mode: faithful-source-preserving
 # Compare AI, Semiconductor and Data-Center Themes in the US and Japan
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/ai-semiconductor-data-center-themes-us-japan.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/ai-semiconductor-data-center-themes-us-japan.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/ai-semiconductor-data-center-themes-us-japan.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/ai-semiconductor-data-center-themes-us-japan.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/ai-semiconductor-data-center-themes-us-japan.md)
+**Languages:** **English** · [日本語](../../../../ja/01-ユースケース/03-運用資産別/04-株式/AI-半導体-データセンター日米比較.md) · [한국어](../../../../ko/01-유스케이스/03-운용자산별/04-주식/AI-반도체-데이터센터-미일비교.md) · [简体中文](../../../../zh-cn/01-使用案例/03-按资产类别/04-股票/AI-半导体-数据中心美日比较.md) · [繁體中文（台灣）](../../../../zh-tw/01-使用案例/03-依資產類別/04-股票/AI-半導體-資料中心美日比較.md) · [繁體中文（香港）](../../../../zh-hk/01-使用案例/03-按資產類別/04-股票/AI-半導體-數據中心美日比較.md)
 <!-- locale-switcher:end -->
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
@@ -28,6 +29,8 @@ publication_mode: faithful-source-preserving
 > Returns are local-currency price returns from the supplied analysis and exclude dividends.
 
 > Compare major US and Japanese stocks exposed to AI, semiconductors and data centers over the past three months, then build scenarios for what could come next.
+
+> ### [Open this research example in Reflexivity →](https://app.reflexivity.com/alfred?mode=research&conversationId=944136af-a0bf-411f-959c-8dd2368b16a8&scrollTo=top)
 
 ## United States
 
@@ -43,6 +46,8 @@ The source reading is that software/model winners and selected infrastructure na
 
 **Source scenarios:** a bullish case keeps hyperscaler AI capex strong; a base case keeps stock selection centered on monetization and free cash flow; a bearish case combines slower AI investment, high rates and regulatory pressure.
 
+![US AI, semiconductor and data-center theme returns in the provided analysis period](../../../../assets/use-cases/RX-USECASE-0072/02-us-theme-returns.webp)
+
 ## Japan
 
 Japan showed a different split: semiconductor equipment weakened sharply while data-center and infrastructure exposures were stronger.
@@ -56,6 +61,8 @@ Japan showed a different split: semiconductor equipment weakened sharply while d
 The source connects the equipment-stock weakness with declining China-related sales and a broader selloff in Asian AI names, while infrastructure and telecom names remained relatively strong.
 
 **Source scenarios:** a bullish case favors AI test/inspection and infrastructure while equipment valuations recover; a base case keeps infrastructure ahead while investors wait for the equipment cycle to bottom; a bearish case extends China weakness and AI-capex skepticism, with yen appreciation adding another headwind for exporters.
+
+![Japan AI, semiconductor and data-center theme returns in the provided analysis period](../../../../assets/use-cases/RX-USECASE-0072/01-japan-theme-returns.webp)
 
 ## Comparison and limitations
 
