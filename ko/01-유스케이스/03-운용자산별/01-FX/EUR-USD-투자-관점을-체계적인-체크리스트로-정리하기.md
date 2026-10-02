@@ -32,10 +32,6 @@ prompt_status: not_provided
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)**
 
-## 사용한 프롬프트
-
-제공 자료에서는 사용한 프롬프트의 정확한 문구를 확인할 수 없습니다.
-
 ## 조사 목적
 
 원 리서치는 단순히 “EUR/USD를 조사해 달라”고 묻지 않습니다. PM이 반복해서 점검해야 할 질문을 **재사용 가능한 체크리스트**로 만들어, 시간이 지나도 같은 의사결정 과정을 다시 실행할 수 있게 합니다. 원 리서치의 마지막 업데이트 시점은 **2025-08-28**입니다.
