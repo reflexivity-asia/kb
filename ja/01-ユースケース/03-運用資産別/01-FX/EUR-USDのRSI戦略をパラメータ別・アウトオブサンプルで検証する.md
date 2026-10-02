@@ -31,10 +31,6 @@ prompt_status: not_provided
 
 **[Reflexivityでこの調査例を開く →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)**
 
-## 使用したプロンプト
-
-提供資料では、使用したプロンプトの全文は確認できません。
-
 ## この調査で確かめたいこと
 
 RSI戦略は、特定の参照期間やしきい値を選べば過去データ上で良く見えることがあります。しかし、ひとつの「最良パラメータ」だけを示しても、その結果が再現可能な優位性なのか、過去データへの過剰適合なのかは分かりません。
