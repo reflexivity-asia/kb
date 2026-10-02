@@ -20,6 +20,10 @@
 - [PPG: 분기 배당을 $0.74로 인상 (PPG)](../01-운용자별/03-롱온리자산운용사/ppg-raises-quarterly-dividend-to-0-74-ppg.md)
 - [Enerpac: SFE Group 4.72억 달러 인수 (EPAC)](../01-운용자별/03-롱온리자산운용사/enerpac-buys-sfe-group-472m-epac.md)
 
+## QUICK 제공
+
+- [NVIDIA의 1,500억 달러 자사주 매입 확대 영향을 분석하기](../03-운용자산별/04-주식/nvidia-share-repurchase-impact.md) — 2026-09-29
+
 ---
 
 [← 인사이트 유형 목록](README.md) · [전체 유스케이스](../README.md)
