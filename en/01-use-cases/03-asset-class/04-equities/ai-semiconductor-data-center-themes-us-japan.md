@@ -29,12 +29,12 @@ prompt_status: present
 
 > Returns are local-currency price returns from the supplied analysis and exclude dividends.
 
+**[Open this research example in Reflexivity →](https://app.reflexivity.com/alfred?mode=research&conversationId=944136af-a0bf-411f-959c-8dd2368b16a8&scrollTo=top)**
+
 ## Prompt used
 
 > [!IMPORTANT]
 > Compare major US and Japanese stocks exposed to AI, semiconductors and data centers over the past three months, then build scenarios for what could come next.
-> ### [Open this research example in Reflexivity →](https://app.reflexivity.com/alfred?mode=research&conversationId=944136af-a0bf-411f-959c-8dd2368b16a8&scrollTo=top)
-
 ## United States
 
 The source shows strong performance in mega-cap AI and sharp dispersion inside data-center exposure.
