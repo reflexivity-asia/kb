@@ -7,6 +7,7 @@ author: Reflexivity Research
 published: 2026-09-15
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 original_language: en
 source_text_status: canonicalized_from_platform_research_with_reviewed_editorial_clarification
 asset_class: Fixed Income (US Rates)
@@ -26,9 +27,9 @@ prompt_status: not_provided
 **作者：** Reflexivity Research  
 **主要資產：** 固定收益（美國利率）  
 **適用使用者：** Fixed Income PM、Rates Investor、Relative-Value Investor  
-**分析類型：** 孳息曲線、相對價值、screening
+**分析類型：** 孳息曲線、相對價值、篩選
 
-> 此來源是一份修正 follow-up，而不是完整原始研究包。本頁只保留實際提供的修正 screening table 及決策邏輯，不重建缺失的較早輸出。
+> 此來源是一份後續修正，而不是完整原始研究包。本頁只保留實際提供的修正篩選表及決策邏輯，不重建缺失的較早輸出。
 
 **[在 Reflexivity 中開啟這個研究示例 →](https://app.reflexivity.com/app/alfred?conversationId=7a3cccb2-8503-4530-b85b-34386f208480&mode=research&activeHistorySidebarCategory=all)**
 
@@ -38,7 +39,7 @@ prompt_status: not_provided
 
 核心教訓是：不能單靠歷史 percentile 判斷一段曲線應歸類為哪種交易。某個 spread 相對歷史可能看起來非常平坦或倒掛，但若 **carry 與 rolldown 對持倉不利**，表面上吸引的交易可能其實不值得做。
 
-## 修正後 screening table
+## 修正後篩選表
 
 | Pair | Curve spread | Annualized spread | Historical percentile | Rolldown | 修正後觀點 |
 |---|---:|---:|---:|---:|---|
@@ -61,7 +62,7 @@ prompt_status: not_provided
 - **3y-2y** 位於第 9.6 percentile，但 rolldown 為 23.6 bp；
 - **4y-3y** 位於第 15.2 percentile，但 rolldown 為 8.8 bp。
 
-表面 valuation 訊號與 carry／rolldown 訊號互相抵銷，因此兩者都重新分類為 neutral。
+表面估值訊號與 carry／rolldown 訊號互相抵銷，因此兩者都重新分類為中性。
 
 ## 修正後分布
 
@@ -77,7 +78,7 @@ prompt_status: not_provided
 
 ## 本使用案例說明了甚麼
 
-這份修正本身很有價值，因為它展示當顯示邏輯與經濟含義不一致時，研究流程如何修正自己。可重複使用的模式是：歷史位置 → carry／rolldown → 綜合交易分類 → 若組成因素不支持 headline signal，則修正分類。
+這份修正本身很有價值，因為它展示當顯示邏輯與經濟含義不一致時，研究流程如何修正自己。可重複使用的模式是：歷史位置 → carry／rolldown → 綜合交易分類 → 若組成因素不支持表面訊號，則修正分類。
 
 
 ---
