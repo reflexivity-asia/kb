@@ -9,6 +9,7 @@ status: published
 translation_status: canonical
 editorial_reviewed: 2026-10-03
 source_type: partner-provided-use-case
+source_manifest: RX-USECASE-0055
 asset_class: equities, macro, multi-asset
 publication_mode: faithful-source-preserving
 prompt_status: not_provided
@@ -66,6 +67,12 @@ Typical sequence:
 3. Compare the displayed catalysts and choose the event that matters most for your mandate.
 4. Open the event and review the impact path beyond the headline.
 5. Use the linked themes, countries, and companies as candidates for deeper research.
+
+## Example screens
+
+![Market Catalyst region settings](../../../../assets/usecases/quick/RX-USECASE-0055/02-region-setting.webp)
+
+![Market Catalyst list after applying settings](../../../../assets/usecases/quick/RX-USECASE-0055/03-market-catalyst-list.webp)
 
 ## Why the workflow matters
 
