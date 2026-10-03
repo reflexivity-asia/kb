@@ -8,6 +8,6 @@
 
 可公开的产品文档会集中在本栏目。
 
-如需了解产品整体概览，请先阅读[什么是 Reflexivity？](../01-什么是Reflexivity/README.md)；有关设置、API 与 AI/MCP 连接，请参阅[使用指南](../02-使用指南/README.md)。
+如需了解产品整体概览，请先阅读[什么是 Reflexivity？](../01-什么是Reflexivity/README.md)；要了解持续发现的变化如何进入研究流程，请参阅 [Insights](Insights/README.md)；有关设置、API 与 AI/MCP 连接，请参阅[使用指南](../02-使用指南/README.md)。
 
 如需访问受限资料或有其他问题，请联系 **jim@reflexivity.com**。
