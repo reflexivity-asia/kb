@@ -17,6 +17,8 @@ status: published
 translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=0474081c-861c-4cde-b075-59834514aba0
 prompt_status: not_provided
+source_manifest: RX-USECASE-0022
+editorial_reviewed: 2026-10-04
 -->
 
 # AI 晶片去評級拖累半導體 ETF (SMH)
@@ -35,10 +37,6 @@ prompt_status: not_provided
 > 本案例是特定日期的平台輸出。用於目前投資判斷前，請先與最新市場數據核對；否則僅應作為說明性案例使用。
 
 **[在 Reflexivity 開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=0474081c-861c-4cde-b075-59834514aba0)**
-
-## 使用的提示詞
-
-提供資料中未列明實際使用的提示詞全文。
 
 ## 相關性
 
