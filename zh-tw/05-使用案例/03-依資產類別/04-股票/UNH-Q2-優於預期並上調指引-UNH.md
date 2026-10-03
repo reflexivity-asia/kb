@@ -15,9 +15,10 @@ resource: Reflexivity Insights 研究案例
 canonical_path: usecases/byasset/equities/unh-q2-beat-and-guidance-raise-unh.md
 status: published
 translation_status: current
-editorial_reviewed: 2026-10-03
+editorial_reviewed: 2026-10-04
 source_url: https://reflexivity.com/app/kg-insight?insightId=281b5785-16b7-4f17-a5ae-621b8b3ec534
 prompt_status: not_provided
+source_manifest: RX-USECASE-0015
 -->
 
 # UNH：Q2 優於預期並上調指引 (UNH)
@@ -36,10 +37,6 @@ prompt_status: not_provided
 > 本案例是特定時點的平台輸出。用於目前投資判斷前，請先與最新市場資料核對；否則僅應作為說明性案例使用。
 
 **[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=281b5785-16b7-4f17-a5ae-621b8b3ec534)**
-
-## 使用的提示詞
-
-提供資料中未載明實際使用的提示詞全文。
 
 ## 相關性
 
