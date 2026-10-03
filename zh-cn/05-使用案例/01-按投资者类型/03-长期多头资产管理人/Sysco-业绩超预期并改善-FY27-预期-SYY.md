@@ -15,6 +15,7 @@ resource: Reflexivity Insights 研究案例
 canonical_path: use-cases/long-only-asset-manager/sysco-beats-and-lifts-the-fy27-setup-syy.md
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_url: https://reflexivity.com/app/kg-insight?insightId=5f4fe1ef-07db-480b-955d-7f145a8cf723
 prompt_status: not_provided
 -->
@@ -42,7 +43,7 @@ prompt_status: not_provided
 
 ## 相关性
 
-这是一个长期持有判断更多取决于资本配置与利润率执行、而不是标题式业绩超预期的 quality compounder 案例。
+这是一个高质量长期复利型公司案例，长期持有判断更多取决于资本配置与利润率执行，而不是单次业绩超预期。
 
 ## 关键点
 
