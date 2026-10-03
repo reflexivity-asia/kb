@@ -36,6 +36,11 @@ editorial_reviewed: 2026-10-04
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=0b72cda9-18ac-423b-86d4-8b04b7fe2394)**
 
+## Prompt used
+
+The approved source does not specify the exact prompt used.
+
+
 ## Relevant
 
 A small bolt-on AI acquisition is exactly the kind of under-covered move a solo founder-PM would otherwise have to piece together manually.
