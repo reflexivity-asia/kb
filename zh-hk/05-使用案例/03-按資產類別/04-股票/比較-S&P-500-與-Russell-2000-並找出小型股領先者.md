@@ -7,6 +7,7 @@ provider: QUICK Inc.
 provided: 2026-08-05
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_type: partner-provided-use-case
 asset_class: Equities
 roles: Long-only Asset Manager, Hedge Fund Tier 2, Hedge Fund Tier 3
@@ -37,7 +38,7 @@ prompt_status: present
 
 因此問題自然形成一個逐步收窄的研究次序：
 
-**指數層面相對表現 → 小型股 universe 內的領先者 → 公司特定 catalyst。**
+**指數層面相對表現 → 小型股範圍內的領先者 → 公司特定催化因素。**
 
 ## 研究流程
 
@@ -53,10 +54,10 @@ prompt_status: present
 
 研究公司特定因素，例如：
 
-- 盈利及 guidance；
+- 盈利及業績指引；
 - 產品或合約公告；
 - M&A；
-- 行業或主題 exposure；
+- 行業或主題敞口；
 - 其他重大 company catalyst。
 
 目標是判斷五家公司是否共享一個驅動因素，還是各自因不同原因上升。
