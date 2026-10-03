@@ -7,7 +7,9 @@ provider: QUICK Inc.
 provided: 2025-12-26
 status: published
 translation_status: canonical
+editorial_reviewed: 2026-10-03
 source_type: partner-provided-use-case
+source_manifest: RX-USECASE-0047
 asset_class: Equities
 roles: Long-only Asset Manager, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
