@@ -36,7 +36,7 @@ Research and workflow examples for equity themes, company events, earnings, scre
 - [Instacart buys Arpalus to deepen shelf-intelligence stack (CART)](instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md)
 - [Arteris / IC-Link AI chip design (AIP)](arteris-ic-link-ai-chip-design-aip.md)
 
-Related cross-asset articles are linked from their primary asset-class pages rather than duplicated here.
+Cross-asset examples are also included when they help connect equity analysis with other markets.
 
 ## QUICK Partner-Provided Use Cases
 
