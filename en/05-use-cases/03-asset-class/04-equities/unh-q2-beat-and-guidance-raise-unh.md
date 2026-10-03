@@ -36,6 +36,11 @@ editorial_reviewed: 2026-10-04
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=281b5785-16b7-4f17-a5ae-621b8b3ec534)**
 
+## Prompt used
+
+The approved source does not specify the exact prompt used.
+
+
 ## Relevant
 
 A large-cap beat-and-raise moves an entire book, and a Tier 2 PM needs a fast read on whether the print changes the thesis or just the tape.
