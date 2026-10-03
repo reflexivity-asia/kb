@@ -9,6 +9,7 @@ status: published
 translation_status: current
 editorial_reviewed: 2026-10-03
 source_type: partner-provided-use-case
+source_manifest: RX-USECASE-0055
 asset_class: equities, macro, multi-asset
 publication_mode: faithful-source-preserving
 prompt_status: not_provided
@@ -66,6 +67,12 @@ QUICK 자료에는 다음과 같은 예시가 포함되어 있었습니다.
 3. 표시된 촉매를 비교해 자신의 운용범위에서 가장 중요한 이벤트를 선택합니다.
 4. 이벤트를 열어 헤드라인 너머의 영향 경로를 확인합니다.
 5. 연결된 테마·국가·기업을 더 깊은 리서치 후보로 사용합니다.
+
+## 화면 예시
+
+![Market Catalyst 지역 설정](../../../../assets/usecases/quick/RX-USECASE-0055/02-region-setting.webp)
+
+![설정 후 표시된 Market Catalyst 목록](../../../../assets/usecases/quick/RX-USECASE-0055/03-market-catalyst-list.webp)
 
 ## 왜 이 워크플로가 중요한가
 
