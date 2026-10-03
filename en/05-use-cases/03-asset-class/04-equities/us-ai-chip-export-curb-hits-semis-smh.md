@@ -51,15 +51,38 @@ editorial_reviewed: 2026-10-04
 The approved source does not specify the exact prompt used.
 
 
-## Relevant
+## What happened
 
-A pod PM needs a fast read on whether a policy headline is a broad semis de-rating or a single-name event.
-## Compelling
+In this dated Reflexivity output, new U.S. limits on advanced AI-accelerator exports to the Middle East are treated as a policy shock to the semiconductor stack. The source-period market view shows **AI Chips down 3.03%** and **SMH down 2.17%**, while SOXX was down **8.5% over five trading days**.
 
-The platform frames it as a policy shock repricing the AI-chip risk premium: new US limits on advanced accelerator exports to the Middle East drove AI Chips down 3.03% and SMH down 2.17%, with SOXX off 8.5% over five sessions.
-## Insight
+## What Reflexivity surfaced
 
-The PM instantly sees the move is broad, not idiosyncratic, and can decide where to concentrate or hedge, starting with Nvidia as the cleanest direct read-through on next-generation accelerator demand.
+The Insight separates first-order policy exposure from second-order demand and guidance risk.
+
+- **AI Chips** — Nvidia, AMD, Broadcom, Marvell Technology, and TSMC are mapped by exposure role, transmission path, and the next evidence to watch.
+- **Export Restrictions** — the analysis distinguishes companies directly tied to covered accelerator categories from names exposed through customer deployment plans and fabless demand.
+- **Earnings Guidance** — the next question becomes whether shipment timing, regional demand visibility, or customer caution changes company guidance.
+- **Country / Region Impact** — the U.S. is treated as the policy source, while Taiwan and South Korea are shown primarily through manufacturing and supply-chain read-through.
+
+This structure makes it possible to distinguish a direct export-control hit from a broader reassessment of AI infrastructure demand.
+
+## What to watch next
+
+The dated Insight points to the final rule scope, licenses and carve-outs, regional shipment timing, customer comments on build pacing, and whether uncertainty begins to appear in near-term guidance. Those checkpoints help determine whether the event remains narrow or spreads into a broader semiconductor-demand debate.
+
+## Follow-up questions in Alfred
+
+> [!NOTE]
+> These are follow-up questions shown after the Insight. They are **not** evidence of the original prompt that generated it.
+
+- Which names have the most direct accelerator exposure versus second-order read-through?
+- Where is demand most likely to be delayed versus redirected?
+- Which customer or geography disclosures matter most on the next earnings calls?
+- Who has enough diversification to absorb a temporary AI shipment pause?
+
+## Research workflow
+
+The practical value of the example is the separation of exposure types. Instead of treating all semiconductor names as one basket, the workflow identifies which companies are closest to the policy boundary, which are exposed through customer demand or deployment timing, and which disclosures would provide the next useful evidence.
 
 ## Resource
 
