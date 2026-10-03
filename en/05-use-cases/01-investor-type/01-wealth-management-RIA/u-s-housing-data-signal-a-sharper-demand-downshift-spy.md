@@ -13,6 +13,7 @@ status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd-bce3-3be908a48401"
 canonical_path: "use-cases/wealth-management-ria/u-s-housing-data-signal-a-sharper-demand-downshift-spy.md"
 translation_status: canonical
+editorial_reviewed: 2026-10-03
 resource: "Reflexivity Insights example collection"
 prompt_status: not_provided
 -->
@@ -45,7 +46,7 @@ A macro demand-downshift is exactly the kind of top-down signal that drives same
 The platform frames it as a broad read-through to housing-linked cyclicals — homebuilders, suppliers, lenders — rather than a single data point, and separates the trend from the noise.
 ## Workflow
 
-The advisor can send a source-cited client note explaining the Jthiune pending-home-sales miss (-5.4% vs -0.5% expected) and soft NAHB print, and which housing-exposed names to watch.
+The advisor can send a source-cited client note explaining the pending-home-sales miss (-5.4% vs -0.5% expected) and soft NAHB print, and which housing-exposed names to watch.
 
 ## Resource
 
