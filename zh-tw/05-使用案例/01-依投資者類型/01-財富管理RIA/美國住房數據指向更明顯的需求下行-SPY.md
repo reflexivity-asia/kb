@@ -38,6 +38,11 @@ source_manifest: RX-USECASE-0009
 
 **[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd-bce3-3be908a48401)**
 
+## 使用的提示詞
+
+提供資料中未載明實際使用的提示詞全文。
+
+
 ## 相關性
 
 宏觀需求下行是沒有研究團隊的顧問仍需在當天向客戶解釋的典型由上而下訊號。
