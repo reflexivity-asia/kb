@@ -11,10 +11,22 @@ published: 2026-08-03
 updated: 2026-09-07
 status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7-8915-37c6337f4488"
+## Insight view
+
+![Reflexivity Insight overview](../../../../assets/use-cases/RX-USECASE-0008/insight-overview.webp)
+
+*Dated source view showing the event summary and top takeaways.*
+
+![Reflexivity Graph](../../../../assets/use-cases/RX-USECASE-0008/reflexivity-graph.webp)
+
+*Source-period Reflexivity Graph showing the related cohort and transmission paths.*
+
 canonical_path: "use-cases/wealth-management-ria/u-s-ism-manufacturing-beat-lifts-cyclicals-spy.md"
 translation_status: canonical
 resource: "Reflexivity Insights example collection"
 prompt_status: not_provided
+source_manifest: RX-USECASE-0008
+editorial_reviewed: 2026-10-04
 -->
 
 # U.S. ISM Manufacturing beat lifts cyclicals (SPY)
@@ -32,10 +44,6 @@ prompt_status: not_provided
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7-8915-37c6337f4488)**
-
-## Prompt used
-
-The approved source does not specify the exact prompt used.
 
 ## Relevant
 
