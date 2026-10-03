@@ -7,6 +7,7 @@ provider: QUICK Inc.
 provided: 2026-09-04
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_type: partner-provided-use-case
 asset_class: Equities
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 1, Hedge Fund Tier 2, Hedge Fund Tier 3
@@ -36,7 +37,7 @@ prompt_status: not_provided
 
 ## 何時適合使用這個工作流程
 
-公司 headline 剛出現時，投資人通常需要的不是只有「發生了什麼」的摘要，還需要知道市場如何反應、管理層如何解釋、哪些競爭者或合作夥伴可能受影響，以及監管或地域差異會如何改變結果。
+公司新聞剛出現時，投資人通常需要的不是只有「發生了什麼」的摘要，還需要知道市場如何反應、管理層如何解釋、哪些競爭者或合作夥伴可能受影響，以及監管或地域差異會如何改變結果。
 
 工作流程逐層擴大：
 
@@ -86,11 +87,11 @@ Graph 的用途是辨識 catalyst 可能往哪裡傳導，而不是假設所有�
 
 ## 如何使用這個工作流程
 
-Company Catalyst 最有價值的情況，是它能把 headline 轉成研究地圖：
+Company Catalyst 最有價值的情況，是它能把新聞標題轉成研究地圖：
 
 1. 理解事件；
 2. 衡量最初市場反應；
-3. 閱讀管理層 framing；
+3. 閱讀管理層的詮釋框架；
 4. 追蹤第二層關係；
 5. 找出會改變 thesis 的監管與地域條件。
 
@@ -98,7 +99,7 @@ Company Catalyst 最有價值的情況，是它能把 headline 轉成研究地�
 
 ## 本使用案例說明了什麼
 
-這個例子展示如何從公司 headline 出發，經過市場反應與管理層 framing，再延伸到競爭、網路、監管與地域後果，而不把 headline 本身當成最終投資結論。
+這個例子展示如何從公司新聞標題出發，經過市場反應與管理層的詮釋框架，再延伸到競爭、網路、監管與地域後果，而不把新聞標題本身當成最終投資結論。
 
 ---
 
