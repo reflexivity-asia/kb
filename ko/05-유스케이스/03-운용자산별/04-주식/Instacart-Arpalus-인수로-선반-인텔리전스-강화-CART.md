@@ -38,6 +38,11 @@ editorial_reviewed: 2026-10-04
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=0b72cda9-18ac-423b-86d4-8b04b7fe2394)**
 
+## 사용한 프롬프트
+
+제공 자료에서는 사용한 프롬프트의 정확한 문구를 확인할 수 없습니다.
+
+
 ## 관련성
 
 소규모 AI 볼트온 인수는 솔로 창업자 PM이 아니면 여러 자료를 직접 조합해야 하는, 커버리지가 부족한 움직임의 전형입니다.
