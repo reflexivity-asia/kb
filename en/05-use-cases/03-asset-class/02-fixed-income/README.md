@@ -14,7 +14,7 @@ Research and workflow examples for sovereign rates, yield curves, credit, and re
 - [Compare the 5% US 10-year Treasury threshold with the past 20 years](us-10y-yield-5-percent-threshold.md)
 - [Analyze the US bond-issuance market by issuer, use of proceeds, supply-demand, and yield](us-bond-issuance-market-analysis.md)
 
-These pages preserve the reviewed source basis, dated observations, limitations, and uncertainty.
+These pages preserve source context, dated observations, limitations, and uncertainty.
 
 ## QUICK Partner-Provided Use Cases
 
