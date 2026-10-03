@@ -9,6 +9,7 @@ status: published
 translation_status: current
 editorial_reviewed: 2026-10-03
 source_type: partner-provided-use-case
+source_manifest: RX-USECASE-0055
 asset_class: equities, macro, multi-asset
 publication_mode: faithful-source-preserving
 prompt_status: not_provided
@@ -43,7 +44,7 @@ prompt_status: not_provided
 
 目的不是停在摘要，而是把新聞轉成有結構的 follow-up queue。
 
-##  catalyst 類型範例
+## 市場催化事件範例
 
 QUICK 資料包含例如：
 
@@ -67,6 +68,12 @@ QUICK 資料包含例如：
 3. 比較顯示的 catalysts，選出對 mandate 最重要的事件；
 4. 開啟事件，查看 headline 之外的 impact path；
 5. 把連結到的主題、國家與公司當作深入研究候選。
+
+## 畫面範例
+
+![Market Catalyst 區域設定](../../../../assets/usecases/quick/RX-USECASE-0055/02-region-setting.webp)
+
+![設定後顯示的 Market Catalyst 清單](../../../../assets/usecases/quick/RX-USECASE-0055/03-market-catalyst-list.webp)
 
 ## 為什麼這個工作流程重要
 
