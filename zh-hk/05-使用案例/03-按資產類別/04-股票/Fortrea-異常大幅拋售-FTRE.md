@@ -11,7 +11,7 @@ drafted: 2026-09-07
 revised:
 author: Reflexivity GTM Team
 service_version:
-resource: Reflexivity Insights Proof Set — Sales Enablement.docx
+resource: Reflexivity Insights 研究案例
 canonical_path: usecases/byasset/equities/fortrea-unusually-large-selloff-ftre.md
 status: published
 translation_status: current
@@ -54,7 +54,7 @@ PM 可在幾分鐘內完成投資邏輯檢查。歷史分布明顯偏負面：6 
 
 ## 資料
 
-- **來源資料：** Reflexivity Insights Proof Set — Sales Enablement
+- **來源資料：** Reflexivity Insights 研究案例
 - **Live Reflexivity insight：** [在 Reflexivity 開啟該洞察](https://reflexivity.com/app/kg-insight?insightId=a5e0b764-a45f-4f90-a3be-ad2c9109f241)
 
 ---

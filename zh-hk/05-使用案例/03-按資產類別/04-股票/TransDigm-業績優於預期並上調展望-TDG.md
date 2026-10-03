@@ -11,7 +11,7 @@ drafted: 2026-09-07
 revised:
 author: Reflexivity GTM Team
 service_version:
-resource: Reflexivity Insights Proof Set — Sales Enablement.docx
+resource: Reflexivity Insights 研究案例
 canonical_path: usecases/byasset/equities/transdigm-clean-beat-and-higher-outlook-tdg.md
 status: published
 translation_status: current
@@ -54,7 +54,7 @@ PM 可在業績發佈後股價上漲 7.6% 的背景下，依上調幅度調整�
 
 ## 資料
 
-- **來源資料：** Reflexivity Insights Proof Set — Sales Enablement
+- **來源資料：** Reflexivity Insights 研究案例
 - **Live Reflexivity insight：** [在 Reflexivity 開啟該洞察](https://reflexivity.com/app/kg-insight?insightId=601e0300-50c3-4ed9-900c-82627746f1ec)
 
 ---
