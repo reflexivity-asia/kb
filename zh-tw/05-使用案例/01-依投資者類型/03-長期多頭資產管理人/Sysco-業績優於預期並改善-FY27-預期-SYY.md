@@ -11,7 +11,7 @@ drafted: 2026-09-07
 revised:
 author: Reflexivity GTM Team
 service_version:
-resource: Reflexivity Insights Proof Set — Sales Enablement.docx
+resource: Reflexivity Insights 研究案例
 canonical_path: use-cases/long-only-asset-manager/sysco-beats-and-lifts-the-fy27-setup-syy.md
 status: published
 translation_status: current
@@ -54,7 +54,7 @@ PM 可以直接看到資本配置狀態，包括 $2.1B 自由現金流、2.7x �
 
 ## 資料
 
-- **來源資料：** Reflexivity Insights Proof Set — Sales Enablement
+- **來源資料：** Reflexivity Insights 研究案例
 - **Live Reflexivity insight：** [在 Reflexivity 中開啟該洞察](https://reflexivity.com/app/kg-insight?insightId=5f4fe1ef-07db-480b-955d-7f145a8cf723)
 
 ---
