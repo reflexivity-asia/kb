@@ -7,6 +7,7 @@ provider: QUICK Corporation
 provided: 2026-02-12
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_type: partner-provided-use-case
 asset_class: equities, fixed income, commodities, crypto, macro, multi-asset
 publication_mode: faithful-source-preserving
@@ -57,7 +58,7 @@ prompt_status: present
 
 ## 3. 由 Caterpillar 延伸到日本股票主題
 
-原始問題：Caterpillar (CAT) 為甚麼上升？相關主題是甚麼？哪些日本公司有相似驅動因素 exposure？
+原始問題：Caterpillar (CAT) 為甚麼上升？相關主題是甚麼？哪些日本公司有相似驅動因素敞口？
 
 來源把走勢連到 AI data-center 電力需求及強勁 2025 Q4 業績，再找出 Komatsu、Mitsubishi Heavy Industries、Mitsubishi Electric 等日本公司作 follow-up 候選。
 
