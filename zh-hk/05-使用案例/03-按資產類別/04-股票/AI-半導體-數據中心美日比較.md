@@ -8,6 +8,7 @@ source_created: 2026-10-01
 provided: 2026-10-01
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_type: partner-provided-use-case
 source_manifest: RX-USECASE-0072
 asset_class: Equities, Multi-Asset
@@ -65,7 +66,7 @@ prompt_status: present
 
 ## 比較時的限制
 
-相同的 AI、半導體、數據中心主題，在美國與日本可能由不同價值鏈環節領漲。每個主題只選約 5 個主要 exposure，容許重疊，而且本幣回報未作匯率調整。
+相同的 AI、半導體、數據中心主題，在美國與日本可能由不同價值鏈環節領漲。每個主題只選約 5 個主要敞口，容許重疊，而且本幣回報未作匯率調整。
 
 ## 來源
 
