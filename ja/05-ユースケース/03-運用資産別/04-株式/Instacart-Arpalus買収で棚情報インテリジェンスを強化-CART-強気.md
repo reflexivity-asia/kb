@@ -44,6 +44,11 @@ Arpalusは棚情報を把握する技術を持ち、買収発表では95%超と�
 
 **[Reflexivityでこの調査例を開く →](https://reflexivity.com/app/kg-insight?insightId=0b72cda9-18ac-423b-86d4-8b04b7fe2394)**
 
+## 使用したプロンプト
+
+提供資料では、使用したプロンプトの全文は確認できません。
+
+
 ## Reflexivityで確認する
 
 
