@@ -38,6 +38,11 @@ source_manifest: RX-USECASE-0015
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=281b5785-16b7-4f17-a5ae-621b8b3ec534)**
 
+## 사용한 프롬프트
+
+제공 자료에서는 사용한 프롬프트의 정확한 문구를 확인할 수 없습니다.
+
+
 ## 관련성
 
 대형주의 실적 상회와 가이던스 상향은 포트폴리오 전체에 영향을 줄 수 있으며, Tier 2 PM은 이번 실적이 투자 논리를 바꾸는지 아니면 단기 주가 흐름만 바꾸는지 빠르게 판단해야 합니다.
