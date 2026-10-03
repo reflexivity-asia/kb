@@ -15,6 +15,7 @@ resource: Reflexivity Insights 研究案例
 canonical_path: use-cases/wealth-management-ria/u-s-housing-data-signal-a-sharper-demand-downshift-spy.md
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_url: https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd-bce3-3be908a48401
 prompt_status: not_provided
 -->
@@ -50,7 +51,7 @@ Reflexivity 将其解释为住房相关周期股——住宅建筑商、供应�
 
 ## 工作流
 
-顾问可向客户解释原始资料中记录的 pending-home-sales 数据低于预期（-5.4% vs -0.5%）以及偏弱的 NAHB 数据，并提示应关注哪些住房相关公司。
+顾问可向客户解释美国成屋签约销售数据低于预期（-5.4% vs -0.5%）以及偏弱的 NAHB 数据，并提示应关注哪些住房相关公司。
 
 ## 资料
 
