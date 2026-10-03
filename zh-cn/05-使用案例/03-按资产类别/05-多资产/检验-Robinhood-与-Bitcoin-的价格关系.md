@@ -8,6 +8,7 @@ provided: 2026-08-24
 status: published
 translation_status: current
 source_type: partner-provided-use-case
+source_manifest: RX-USECASE-0050
 asset_class: equities, crypto, multi-asset
 publication_mode: faithful-source-preserving
 prompt_status: present
