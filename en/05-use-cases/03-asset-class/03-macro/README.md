@@ -16,7 +16,7 @@ Research and workflow examples for economic cycles, monetary policy, market narr
 
 ## Related Cross-Asset Use Cases
 
-These articles are maintained once under another asset class and linked here rather than duplicated.
+Related examples are also listed here when they are useful for macro research.
 
 - [Test whether the US 2s10s curve historically predicted recessions](../02-fixed-income/us-2s10s-recession-signal-validation.md)
 - [Compare EUR/USD moves with the EUR-vs-USD swap spread](../02-fixed-income/eurusd-vs-eur-usd-swap-spread.md)
@@ -24,7 +24,7 @@ These articles are maintained once under another asset class and linked here rat
 - [Compare 10-year government-bond yields across major markets](../02-fixed-income/global-10y-government-yields.md)
 - [Analyze the drivers of a rapid yen rally and whether it extends across FX](../01-FX/yen-strength-background-outlook.md)
 
-Related multi-asset articles are linked from their primary asset-class pages rather than duplicated here.
+Cross-asset examples are included when they help connect macro analysis with other markets.
 
 ---
 
