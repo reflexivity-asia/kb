@@ -7,6 +7,7 @@ provider: QUICK Corporation
 provided: 2026-08-17
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_type: partner-provided-use-case
 asset_class: equities, macro, multi-asset
 publication_mode: faithful-source-preserving
@@ -69,24 +70,20 @@ QUICK 資料包含例如：
 
 ## 為什麼這個工作流程重要
 
-看完 headline 後，更有用的問題不是只有「發生了什麼？」，而是：
+看完新聞標題後，更有用的問題不只是「發生了什麼？」，而是：
 
 - 哪個主題受影響？
 - 哪些市場或國家有曝險？
 - 哪些公司與該主題相連？
 - 下一步應該研究什麼？
 
-這樣新聞消費就能從被動 feed 轉成可重複的研究程序。
+這樣就能把被動接收新聞資訊，轉成可重複的研究流程。
 
 ## 如何使用結果
 
-開啟 catalyst 後，下游實體應被視為**研究候選**，不是自動產生的投資結論。
+開啟事件後，相關實體應被視為**研究候選**，而不是自動產生的投資結論。
 
 下一步可以依事件性質進入公司分析、主題分析或跨市場比較。
-
-## 視覺資產狀態
-
-經審閱的日文來源包含 Market Catalyst 的區域設定與 catalyst list 截圖，且已驗證。這些 binary 尚未同步驗證到英文與下游倉庫，因此本頁不加入損壞連結或替代圖片。
 
 ## 本使用案例說明了什麼
 
