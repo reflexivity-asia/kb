@@ -7,6 +7,7 @@ provider: QUICK Corporation
 provided: 2026-08-17
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_type: partner-provided-use-case
 asset_class: equities, macro, multi-asset
 publication_mode: faithful-source-preserving
@@ -79,13 +80,9 @@ QUICK 자료에는 다음과 같은 예시가 포함되어 있었습니다.
 
 ## 결과를 쓰는 방법
 
-Catalyst를 연 뒤 표시되는 downstream 엔티티는 **리서치 후보**로 다뤄야 하며 자동적인 투자 결론으로 취급하면 안 됩니다.
+Market Catalyst에서 이벤트를 연 뒤 표시되는 연결 엔티티는 **리서치 후보**로 다뤄야 하며 자동적인 투자 결론으로 취급하면 안 됩니다.
 
-이벤트에 따라 다음 단계는 기업 분석, 테마 분석, 크로스마켓 비교가 될 수 있습니다.
-
-## 자산 관련 메모
-
-검토된 일본어 자료에는 지역 설정과 catalyst 목록을 보여주는 검증된 Market Catalyst 스크린샷이 있습니다. 해당 바이너리가 복사·검증되기 전까지 한국어 페이지에는 깨진 이미지 링크나 대체 이미지를 넣지 않습니다.
+이벤트에 따라 다음 단계는 기업 분석, 테마 분석, 시장 간 비교가 될 수 있습니다.
 
 ## 이 유스케이스에서 확인할 수 있는 것
 
