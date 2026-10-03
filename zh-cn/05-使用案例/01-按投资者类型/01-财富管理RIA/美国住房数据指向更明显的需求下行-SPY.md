@@ -38,6 +38,11 @@ source_manifest: RX-USECASE-0009
 
 **[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd-bce3-3be908a48401)**
 
+## 使用的提示词
+
+提供资料中未注明实际使用的提示词全文。
+
+
 ## 相关性
 
 宏观需求下行是没有研究团队的顾问仍需在当天向客户解释的典型自上而下信号。
