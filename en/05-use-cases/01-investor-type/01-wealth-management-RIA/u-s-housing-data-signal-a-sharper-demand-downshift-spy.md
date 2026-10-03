@@ -35,6 +35,11 @@ source_manifest: RX-USECASE-0009
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd-bce3-3be908a48401)**
 
+## Prompt used
+
+The approved source does not specify the exact prompt used.
+
+
 ## Relevant
 
 A macro demand-downshift is exactly the kind of top-down signal that drives same-day client questions an advisor has to answer without a research desk.
