@@ -16,7 +16,19 @@ canonical_path: usecases/byasset/equities/us-ai-chip-export-curb-hits-semis-smh.
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=a78d51aa-a1b4-45bf-8174-a0e1e59963ca
+## Insight 畫面
+
+![Reflexivity Insight 概覽](../../../../assets/use-cases/RX-USECASE-0020/insight-overview.webp)
+
+*當時 Insight 的政策事件、市場走勢與主要重點。*
+
+![Reflexivity Graph](../../../../assets/use-cases/RX-USECASE-0020/reflexivity-graph.webp)
+
+*當時 Reflexivity Graph 中的 AI 晶片分組與傳導路徑。*
+
 prompt_status: not_provided
+source_manifest: RX-USECASE-0020
+editorial_reviewed: 2026-10-04
 -->
 
 # 美國 AI 晶片出口限制衝擊半導體 (SMH)
@@ -35,10 +47,6 @@ prompt_status: not_provided
 > 本案例是特定時點的平台輸出。用於目前投資判斷前，請先與最新市場資料核對；否則僅應作為說明性案例使用。
 
 **[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=a78d51aa-a1b4-45bf-8174-a0e1e59963ca)**
-
-## 使用的提示詞
-
-提供資料中未載明實際使用的提示詞全文。
 
 ## 相關性
 
