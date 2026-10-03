@@ -5,5 +5,9 @@
 <!-- locale-switcher:end -->
 
 [← 한국어 문서 메뉴](../README.md)
-제품 자료를 순차적으로 추가하고 있습니다.
 
+공개 가능한 제품 문서는 이 섹션에 정리합니다.
+
+제품 전체 개요는 [Reflexivity란?](../01-Reflexivity란/README.md)에서, 설정·API·AI/MCP 연결 방법은 [이용 가이드](../02-이용가이드/README.md)에서 확인할 수 있습니다.
+
+접근 권한이 필요한 자료나 기타 문의는 **jim@reflexivity.com**으로 연락해 주세요.
