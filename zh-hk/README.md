@@ -15,6 +15,7 @@
 6. **[文章](06-文章/README.md)** — 公開
 7. **[Knowledge Graph](https://github.com/reflexivity-kb/knowledge-graph)** — 只限有存取權限的使用者
 8. **[Data](https://github.com/reflexivity-kb/data)** — 只限有存取權限的使用者
+9. **[FAQ](https://github.com/reflexivity-kb/platform/blob/main/zh-hk/02-使用指南/FAQ/README.md)** — 只限有存取權限的使用者
 
 > 如果沒有存取權限，GitHub 可能會將私人儲存庫顯示為「Not Found」。
 
