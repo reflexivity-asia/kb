@@ -16,7 +16,7 @@
 - [比较 Magnificent Seven 的财务能力与利率韧性](比较-Magnificent-Seven-的财务能力与利率韧性.md)
 - [从上涨的美国股票中寻找相关日本公司](从上涨的美国股票中寻找相关日本公司.md)
 
-## 对冲基金 proof-set 案例
+## 对冲基金案例
 
 - [Nvidia：5000 亿美元 AI 基础设施融资计划 (NVDA)](Nvidia-5000-亿美元-AI-基础设施融资计划-NVDA.md)
 - [美国 AI 芯片出口限制冲击半导体 (SMH)](美国-AI-芯片出口限制冲击半导体-SMH.md)
@@ -36,7 +36,7 @@
 - [Instacart：收购 Arpalus，强化货架智能能力 (CART)](Instacart-收购-Arpalus-强化货架智能能力-CART.md)
 - [Arteris / IC-Link：AI 芯片设计 (AIP)](Arteris-IC-Link-AI-芯片设计-AIP.md)
 
-## 新增 QUICK 使用案例
+## QUICK 提供的使用案例
 
 - [分析 NVIDIA 增加 1500 亿美元股票回购授权的影响](NVIDIA-股票回购影响.md) — QUICK 提供 | 2026-09-29
 - [用 Earnings Preview 为 Micron 财报做准备](美光财报预览.md) — QUICK 提供 | 2026-09-30
