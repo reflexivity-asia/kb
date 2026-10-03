@@ -5,5 +5,9 @@
 <!-- locale-switcher:end -->
 
 [← 简体中文文档菜单](../README.md)
-产品资料正在陆续添加。
 
+可公开的产品文档会集中在本栏目。
+
+如需了解产品整体概览，请先阅读[什么是 Reflexivity？](../01-什么是Reflexivity/README.md)；有关设置、API 与 AI/MCP 连接，请参阅[使用指南](../02-使用指南/README.md)。
+
+如需访问受限资料或有其他问题，请联系 **jim@reflexivity.com**。
