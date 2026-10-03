@@ -38,6 +38,11 @@ editorial_reviewed: 2026-10-04
 
 **[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=f2915fc1-f1a7-452d-a550-b043d4be1b8b)**
 
+## 使用的提示詞
+
+提供資料中未載明實際使用的提示詞全文。
+
+
 ## 相關性
 
 Tier 2 PM 很難持續跟上整個投資組合中的所有催化，這類交易很容易被忽略。
