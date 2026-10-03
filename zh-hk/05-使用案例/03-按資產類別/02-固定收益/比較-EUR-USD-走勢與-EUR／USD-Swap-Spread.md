@@ -6,6 +6,7 @@ locale: zh-HK
 author: Reflexivity Research
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 resource: Reflexivity Research conversation approved by content owner
 asset_class: Fixed Income, Rates, FX, Multi-Asset
 publication_mode: faithful-source-preserving
@@ -41,7 +42,7 @@ prompt_status: present
 
 ## 何時使用
 
-當分析師不希望只用央行 headline 或宏觀敘事解釋 EUR/USD，而是想檢查相對利率市場是否正在確認同一段 FX 走勢時，這個工作流程特別有用。
+當分析師不希望只用央行表態或宏觀敘事解釋 EUR/USD，而是想檢查相對利率市場是否正在確認同一段 FX 走勢時，這個工作流程特別有用。
 
 對 rates investor，它把 swap pricing 的變化連到貨幣市場；對 multi-asset investor，它是一個簡潔例子，展示如何在兩種市場表達中檢驗同一個宏觀假設。
 
