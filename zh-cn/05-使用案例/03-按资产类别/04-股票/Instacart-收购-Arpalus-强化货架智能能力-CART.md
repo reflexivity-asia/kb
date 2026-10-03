@@ -38,6 +38,11 @@ editorial_reviewed: 2026-10-04
 
 **[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=0b72cda9-18ac-423b-86d4-8b04b7fe2394)**
 
+## 使用的提示词
+
+提供资料中未注明实际使用的提示词全文。
+
+
 ## 相关性
 
 这类小型 AI 补强式收购正是单人创始人 PM 往往需要手工拼接信息的低覆盖事件。
