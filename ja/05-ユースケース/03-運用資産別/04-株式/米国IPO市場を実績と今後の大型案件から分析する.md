@@ -10,6 +10,7 @@ translation_status: local-only
 revised: 2026-09-27
 editorial_reviewed: 2026-09-27
 source_type: partner-provided-use-case
+source_manifest: RX-USECASE-0048
 asset_class: 株式、マクロ
 roles: ロングオンリー・アセットマネージャー、ヘッジファンド Tier 1、ヘッジファンド Tier 2、ヘッジファンド Tier 3
 publication_mode: faithful-source-preserving
