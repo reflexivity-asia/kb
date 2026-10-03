@@ -11,16 +11,6 @@ published: 2026-08-10
 updated: 2026-09-07
 status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=a78d51aa-a1b4-45bf-8174-a0e1e59963ca"
-## Insight view
-
-![Reflexivity Insight overview](../../../../assets/use-cases/RX-USECASE-0020/insight-overview.webp)
-
-*Dated source view showing the policy event, market move, and top takeaways.*
-
-![Reflexivity Graph](../../../../assets/use-cases/RX-USECASE-0020/reflexivity-graph.webp)
-
-*Source-period Reflexivity Graph showing the AI-chip cohort and transmission paths.*
-
 canonical_path: "usecases/byasset/equities/us-ai-chip-export-curb-hits-semis-smh.md"
 translation_status: canonical
 resource: "Reflexivity Insights example collection"
@@ -45,6 +35,21 @@ editorial_reviewed: 2026-10-04
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=a78d51aa-a1b4-45bf-8174-a0e1e59963ca)**
+
+## Insight view
+
+![Reflexivity Insight overview](../../../../assets/use-cases/RX-USECASE-0020/insight-overview.webp)
+
+*Dated source view showing the policy event, market move, and top takeaways.*
+
+![Reflexivity Graph](../../../../assets/use-cases/RX-USECASE-0020/reflexivity-graph.webp)
+
+*Source-period Reflexivity Graph showing the AI-chip cohort and transmission paths.*
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
+
 
 ## Relevant
 
