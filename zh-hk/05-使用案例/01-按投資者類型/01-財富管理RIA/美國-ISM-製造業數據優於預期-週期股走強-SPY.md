@@ -16,7 +16,19 @@ canonical_path: use-cases/wealth-management-ria/u-s-ism-manufacturing-beat-lifts
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7-8915-37c6337f4488
+## Insight 畫面
+
+![Reflexivity Insight 概覽](../../../../assets/use-cases/RX-USECASE-0008/insight-overview.webp)
+
+*當時 Insight 的事件摘要及主要重點。*
+
+![Reflexivity Graph](../../../../assets/use-cases/RX-USECASE-0008/reflexivity-graph.webp)
+
+*當時 Reflexivity Graph 中的相關分組及傳導路徑。*
+
 prompt_status: not_provided
+source_manifest: RX-USECASE-0008
+editorial_reviewed: 2026-10-04
 -->
 
 # 美國 ISM 製造業數據優於預期，週期股走強 (SPY)
@@ -35,10 +47,6 @@ prompt_status: not_provided
 > 本案例是特定日期的平台輸出。用於目前投資判斷前，請先與最新市場數據核對；否則僅應作為說明性案例使用。
 
 **[在 Reflexivity 開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7-8915-37c6337f4488)**
-
-## 使用的提示詞
-
-提供資料中未列明實際使用的提示詞全文。
 
 ## 相關性
 
