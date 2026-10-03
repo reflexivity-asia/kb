@@ -6,6 +6,7 @@ locale: zh-CN
 author: Reflexivity Research
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 resource: Reflexivity Research conversation approved by content owner
 asset_class: Fixed Income, Rates, FX, Multi-Asset
 publication_mode: faithful-source-preserving
@@ -41,7 +42,7 @@ prompt_status: present
 
 ## 什么时候使用
 
-当分析者不希望只用央行 headline 或宏观叙事解释 EUR/USD，而想确认相对利率市场是否也在验证这轮 FX 走势时，这个工作流很有用。
+当分析者不希望只用央行表态或宏观叙事解释 EUR/USD，而想确认相对利率市场是否也在验证这轮 FX 走势时，这个工作流很有用。
 
 对利率投资者，它把掉期定价变化与外汇市场连接起来；对多资产投资者，它是用两个市场表达检验同一宏观假设的紧凑案例。
 
