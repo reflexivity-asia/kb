@@ -15,6 +15,7 @@ resource: Reflexivity Insights 研究案例
 canonical_path: usecases/byasset/equities/transdigm-clean-beat-and-higher-outlook-tdg.md
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_url: https://reflexivity.com/app/kg-insight?insightId=601e0300-50c3-4ed9-900c-82627746f1ec
 prompt_status: not_provided
 -->
@@ -42,7 +43,7 @@ prompt_status: not_provided
 
 ## 相关性
 
-大型公司 beat-and-raise 会影响整个组合，Tier 2 PM 需要快速判断讨论焦点是否从需求转向持续性。
+大型公司的业绩超预期并上调指引会影响整个投资组合，Tier 2 PM 需要快速判断讨论焦点是否从需求转向业绩的持续性。
 
 ## 关键点
 
