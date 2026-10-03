@@ -15,7 +15,7 @@ Explore Reflexivity examples by **persona**, **insight type**, or **asset class*
 - [Hedge Fund](01-investor-type/02-hedge-fund) — Tier 1 / 2 / 3 are shown as audience classifications within the index
 - [Long-only Asset Manager](01-investor-type/03-long-only-asset-manager)
 
-The persona pages combine the original proof examples with reviewed partner-provided research examples. Persona and tier labels are browsing aids; each research article is maintained once and linked from the relevant browsing views.
+Browse examples relevant to each investor type. Some examples may appear in more than one browsing view when the same research question is relevant to multiple audiences.
 
 ## Browse by Insight Type
 
@@ -33,13 +33,13 @@ The persona pages combine the original proof examples with reviewed partner-prov
 - [Equities](03-asset-class/04-equities)
 - [Multi-Asset](03-asset-class/05-multi-asset)
 
-Each article is maintained once and linked from the relevant browsing views rather than duplicated.
+Some examples may also appear under another asset class when the same research question spans multiple markets.
 
 ## Resources
 
-The original proof-example collection was organized from **Reflexivity Insights Proof Set — Sales Enablement**, a dated sales-enablement source grouped by ICP/persona. The KB also includes additional Reflexivity research examples and partner-provided use cases as they are reviewed and published.
+The KB includes Reflexivity-created research examples and reviewed partner-provided use cases. Each page is presented with the source and date context needed to understand how the example should be read.
 
-Each substantive page identifies its source basis or publication context. For questions about original source files, provenance, or source access, contact **jim@reflexivity.com**.
+For questions about source material or supporting context, contact **jim@reflexivity.com**.
 
 ---
 
