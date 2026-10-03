@@ -14,7 +14,7 @@ status: draft
 canonical_path: "usecases/byasset/equities/instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md"
 translation_status: review-needed
 editorial_reviewed: 2026-09-27
-resource: "Reflexivity Insights Proof Set — Sales Enablement.docx"
+resource: "Reflexivity Insightsの調査例"
 prompt_status: not_provided
 -->
 
