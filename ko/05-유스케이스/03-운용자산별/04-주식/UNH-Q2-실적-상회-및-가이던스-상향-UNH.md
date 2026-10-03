@@ -15,6 +15,7 @@ resource: Reflexivity Insights 리서치 사례
 canonical_path: usecases/byasset/equities/unh-q2-beat-and-guidance-raise-unh.md
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_url: https://reflexivity.com/app/kg-insight?insightId=281b5785-16b7-4f17-a5ae-621b8b3ec534
 prompt_status: not_provided
 -->
@@ -42,7 +43,7 @@ prompt_status: not_provided
 
 ## 관련성
 
-대형주의 beat-and-raise는 전체 북에 영향을 주며, Tier 2 PM은 이 실적이 투자 논리를 바꾸는지 단순히 주가 흐름만 바꾸는지 빠르게 판단해야 합니다.
+대형주의 실적 상회와 가이던스 상향은 포트폴리오 전체에 영향을 줄 수 있으며, Tier 2 PM은 이번 실적이 투자 논리를 바꾸는지 아니면 단기 주가 흐름만 바꾸는지 빠르게 판단해야 합니다.
 
 ## 주목 포인트
 
