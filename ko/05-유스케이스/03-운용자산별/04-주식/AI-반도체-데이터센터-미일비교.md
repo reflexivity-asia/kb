@@ -8,6 +8,7 @@ source_created: 2026-10-01
 provided: 2026-10-01
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_type: partner-provided-use-case
 source_manifest: RX-USECASE-0072
 asset_class: Equities, Multi-Asset
@@ -28,8 +29,6 @@ prompt_status: present
 **분석기간:** 2026-07-01~2026-09-30
 
 > 수익률은 원 자료의 현지통화 가격 기준이며 배당을 제외합니다.
-
-> AI, 반도체, 데이터센터 관련 주요 종목의 최근 3개월 성과를 미국과 일본으로 나누어 보고, 이후 시나리오를 구성한다.
 
 > ### [Reflexivity에서 이 리서치 예시 열기 →](https://app.reflexivity.com/alfred?mode=research&conversationId=944136af-a0bf-411f-959c-8dd2368b16a8&scrollTo=top)
 
