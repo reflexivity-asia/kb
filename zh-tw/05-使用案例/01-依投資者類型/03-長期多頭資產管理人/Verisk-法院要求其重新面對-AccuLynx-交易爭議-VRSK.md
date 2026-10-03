@@ -15,6 +15,7 @@ resource: Reflexivity Insights 研究案例
 canonical_path: use-cases/long-only-asset-manager/court-forces-verisk-back-into-acculynx-deal-fight-vrsk.md
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_url: https://reflexivity.com/app/kg-insight?insightId=26e90af4-a5f3-4b3e-944b-588507c022a1
 prompt_status: not_provided
 -->
@@ -42,7 +43,7 @@ prompt_status: not_provided
 
 ## 相關性
 
-這是一個長期持有決策更多取決於資本配置與投資組合形態，而不是單季業績的 quality compounder 案例。
+這是一個高品質長期複利型公司案例，長期持有決策更多取決於資本配置與業務組合形態，而不是單季業績。
 
 ## 關鍵點
 
