@@ -16,7 +16,19 @@ canonical_path: use-cases/wealth-management-ria/u-s-ism-manufacturing-beat-lifts
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7-8915-37c6337f4488
+## Insight 화면
+
+![Reflexivity Insight 개요 화면](../../../../assets/use-cases/RX-USECASE-0008/insight-overview.webp)
+
+*당시 Insight의 이벤트 요약과 주요 포인트 화면입니다.*
+
+![Reflexivity Graph](../../../../assets/use-cases/RX-USECASE-0008/reflexivity-graph.webp)
+
+*관련 코호트와 전파 경로를 보여주는 당시 Reflexivity Graph 화면입니다.*
+
 prompt_status: not_provided
+source_manifest: RX-USECASE-0008
+editorial_reviewed: 2026-10-04
 -->
 
 # 미국 ISM 제조업 지표 호조로 경기민감주 상승 (SPY)
@@ -35,10 +47,6 @@ prompt_status: not_provided
 > 이 예시는 특정 시점의 플랫폼 출력입니다. 현재 투자 판단에 사용하기 전에는 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7-8915-37c6337f4488)**
-
-## 사용한 프롬프트
-
-제공 자료에서는 사용한 프롬프트의 정확한 문구를 확인할 수 없습니다.
 
 ## 관련성
 
