@@ -11,7 +11,7 @@ drafted: 2026-09-07
 revised:
 author: Reflexivity GTM Team
 service_version:
-resource: Reflexivity Insights Proof Set — Sales Enablement.docx
+resource: Reflexivity Insights 리서치 사례
 canonical_path: use-cases/wealth-management-ria/u-s-housing-data-signal-a-sharper-demand-downshift-spy.md
 status: published
 translation_status: current
@@ -54,7 +54,7 @@ Reflexivity는 이를 단일 데이터 포인트가 아니라 주택 관련 경�
 
 ## 자료
 
-- **출처 자료:** Reflexivity Insights Proof Set — Sales Enablement
+- **출처 자료:** Reflexivity Insights 리서치 사례
 - **Live Reflexivity insight:** [Reflexivity에서 이 인사이트 열기](https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd-bce3-3be908a48401)
 
 ---

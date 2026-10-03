@@ -11,7 +11,7 @@ drafted: 2026-09-07
 revised:
 author: Reflexivity GTM Team
 service_version:
-resource: Reflexivity Insights Proof Set — Sales Enablement.docx
+resource: Reflexivity Insights 리서치 사례
 canonical_path: use-cases/wealth-management-ria/red-sea-attack-revives-shipping-chokepoint-risk-eem.md
 status: published
 translation_status: current
@@ -54,7 +54,7 @@ Bab el-Mandeb에서 발생한 치명적 공격으로 홍해 병목 위험이 다
 
 ## 자료
 
-- **출처 자료:** Reflexivity Insights Proof Set — Sales Enablement
+- **출처 자료:** Reflexivity Insights 리서치 사례
 - **Live Reflexivity insight:** [Reflexivity에서 이 인사이트 열기](https://reflexivity.com/app/kg-insight?insightId=887570bf-d204-467d-a72e-050fd3e96dce)
 
 ---

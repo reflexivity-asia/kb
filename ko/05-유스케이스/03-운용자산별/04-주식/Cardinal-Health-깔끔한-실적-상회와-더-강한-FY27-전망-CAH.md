@@ -11,7 +11,7 @@ drafted: 2026-09-07
 revised:
 author: Reflexivity GTM Team
 service_version:
-resource: Reflexivity Insights Proof Set — Sales Enablement.docx
+resource: Reflexivity Insights 리서치 사례
 canonical_path: usecases/byasset/equities/cardinal-health-clean-beat-stronger-fy27-outlook-cah.md
 status: published
 translation_status: current
@@ -54,7 +54,7 @@ Cardinal Health는 EPS $2.91로 컨센서스를 20.25% 상회했고 FY2027 가�
 
 ## 자료
 
-- **출처 자료:** Reflexivity Insights Proof Set — Sales Enablement
+- **출처 자료:** Reflexivity Insights 리서치 사례
 - **Live Reflexivity insight:** [Reflexivity에서 이 인사이트 열기](https://reflexivity.com/app/kg-insight?insightId=f8a6a84d-9e28-4a75-9a66-b6c151be8bf7)
 
 ---

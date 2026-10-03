@@ -11,7 +11,7 @@ drafted: 2026-09-07
 revised:
 author: Reflexivity GTM Team
 service_version:
-resource: Reflexivity Insights Proof Set — Sales Enablement.docx
+resource: Reflexivity Insights 리서치 사례
 canonical_path: use-cases/wealth-management-ria/trump-threatens-spain-trade-ties-ewp.md
 status: published
 translation_status: current
@@ -54,7 +54,7 @@ Reflexivity는 수사와 정책을 분리합니다. 이를 확정된 무역정�
 
 ## 자료
 
-- **출처 자료:** Reflexivity Insights Proof Set — Sales Enablement
+- **출처 자료:** Reflexivity Insights 리서치 사례
 - **Live Reflexivity insight:** [Reflexivity에서 이 인사이트 열기](https://reflexivity.com/app/kg-insight?insightId=0095138f-af96-497a-aea3-d463433a76b2)
 
 ---

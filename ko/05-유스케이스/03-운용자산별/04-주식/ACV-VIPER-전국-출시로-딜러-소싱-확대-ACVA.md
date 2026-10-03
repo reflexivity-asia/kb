@@ -11,7 +11,7 @@ drafted: 2026-09-07
 revised:
 author: Reflexivity GTM Team
 service_version:
-resource: Reflexivity Insights Proof Set — Sales Enablement.docx
+resource: Reflexivity Insights 리서치 사례
 canonical_path: usecases/byasset/equities/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md
 status: published
 translation_status: current
@@ -54,7 +54,7 @@ PM은 몇 분 안에 투자 논리를 점검하고 매도세에 역행할지 기
 
 ## 자료
 
-- **출처 자료:** Reflexivity Insights Proof Set — Sales Enablement
+- **출처 자료:** Reflexivity Insights 리서치 사례
 - **Live Reflexivity insight:** [Reflexivity에서 이 인사이트 열기](https://reflexivity.com/app/kg-insight?insightId=f045e1af-ddc4-4f13-8d2c-6ccf806a49f1)
 
 ---

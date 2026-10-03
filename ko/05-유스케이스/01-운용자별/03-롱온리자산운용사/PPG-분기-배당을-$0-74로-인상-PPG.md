@@ -11,7 +11,7 @@ drafted: 2026-09-07
 revised:
 author: Reflexivity GTM Team
 service_version:
-resource: Reflexivity Insights Proof Set — Sales Enablement.docx
+resource: Reflexivity Insights 리서치 사례
 canonical_path: use-cases/long-only-asset-manager/ppg-raises-quarterly-dividend-to-0-74-ppg.md
 status: published
 translation_status: current
@@ -54,7 +54,7 @@ PM은 배당이 $0.71에서 $0.74로 인상됐고 이사회 승인, 8월 10일 �
 
 ## 자료
 
-- **출처 자료:** Reflexivity Insights Proof Set — Sales Enablement
+- **출처 자료:** Reflexivity Insights 리서치 사례
 - **Live Reflexivity insight:** [Reflexivity에서 이 인사이트 열기](https://reflexivity.com/app/kg-insight?insightId=244bc038-44f5-4292-93b3-def717033967)
 
 ---

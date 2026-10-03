@@ -11,7 +11,7 @@ drafted: 2026-09-07
 revised:
 author: Reflexivity GTM Team
 service_version:
-resource: Reflexivity Insights Proof Set — Sales Enablement.docx
+resource: Reflexivity Insights 리서치 사례
 canonical_path: use-cases/long-only-asset-manager/court-forces-verisk-back-into-acculynx-deal-fight-vrsk.md
 status: published
 translation_status: current
@@ -54,7 +54,7 @@ Long-only PM은 경영진이 딜에 다시 전념할지 계속 다툴지에 대�
 
 ## 자료
 
-- **출처 자료:** Reflexivity Insights Proof Set — Sales Enablement
+- **출처 자료:** Reflexivity Insights 리서치 사례
 - **Live Reflexivity insight:** [Reflexivity에서 이 인사이트 열기](https://reflexivity.com/app/kg-insight?insightId=26e90af4-a5f3-4b3e-944b-588507c022a1)
 
 ---
