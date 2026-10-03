@@ -38,6 +38,11 @@ editorial_reviewed: 2026-10-04
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=f2915fc1-f1a7-452d-a550-b043d4be1b8b)**
 
+## 사용한 프롬프트
+
+제공 자료에서는 사용한 프롬프트의 정확한 문구를 확인할 수 없습니다.
+
+
 ## 관련성
 
 Tier 2 PM은 전체 북의 촉매를 따라가기 어렵고 이런 종류의 딜은 놓치기 쉽습니다.
