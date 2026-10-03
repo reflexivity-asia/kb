@@ -16,7 +16,7 @@
 - [Magnificent Seven의 재무여력과 금리 내성을 비교하기](Magnificent-Seven의-재무여력과-금리-내성을-비교하기.md) — RX-USECASE-0064
 - [상승한 미국 종목에서 관련 일본 기업을 찾기](상승한-미국-종목에서-관련-일본-기업을-찾기.md) — RX-USECASE-0065
 
-## 헤지펀드 proof-set 사례
+## 헤지펀드 사례
 
 - [Nvidia: 5,000억 달러 AI 인프라 자금조달 구상 (NVDA)](Nvidia-5-000억-달러-AI-인프라-자금조달-구상-NVDA.md) — `RX-USECASE-0019`
 - [미국 AI 칩 수출 제한이 반도체에 충격 (SMH)](미국-AI-칩-수출-제한이-반도체에-충격-SMH.md) — `RX-USECASE-0020`
@@ -37,7 +37,7 @@
 - [Arteris / IC-Link: AI 칩 설계 (AIP)](Arteris-IC-Link-AI-칩-설계-AIP.md) — `RX-USECASE-0005`
 
 
-## 신규 QUICK 제공 유스케이스
+## QUICK 제공 유스케이스
 
 - [NVIDIA의 1,500억 달러 자사주 매입 확대 영향을 분석하기](NVIDIA-자사주매입-영향.md) — QUICK 제공 | 2026-09-29 — `RX-USECASE-0069`
 - [Micron 실적을 Earnings Preview로 준비하기](마이크론-실적-프리뷰.md) — QUICK 제공 | 2026-09-30 — `RX-USECASE-0071`
