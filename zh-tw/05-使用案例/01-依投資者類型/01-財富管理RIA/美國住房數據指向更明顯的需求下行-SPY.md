@@ -15,6 +15,7 @@ resource: Reflexivity Insights 研究案例
 canonical_path: use-cases/wealth-management-ria/u-s-housing-data-signal-a-sharper-demand-downshift-spy.md
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_url: https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd-bce3-3be908a48401
 prompt_status: not_provided
 -->
@@ -50,7 +51,7 @@ Reflexivity 將其解讀為住房相關週期股——住宅建商、供應商�
 
 ## 工作流程
 
-顧問可向客戶解釋原始資料中記錄的 pending-home-sales 數據低於預期（-5.4% vs -0.5%）以及偏弱的 NAHB 數據，並提示應關注哪些住房相關公司。
+顧問可向客戶解釋美國成屋待完成銷售數據低於預期（-5.4% vs -0.5%）以及偏弱的 NAHB 數據，並提示應關注哪些住房相關公司。
 
 ## 資料
 
