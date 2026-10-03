@@ -5,6 +5,9 @@
 <!-- locale-switcher:end -->
 
 [← English documentation menu](https://github.com/reflexivity-kb/)
-Product materials are being added.
 
-For questions, contact **jim@reflexivity.com**.
+Public product documentation is collected here as it becomes available.
+
+For a product overview, start with [What is Reflexivity?](../01-what-is-reflexivity/README.md). For setup, APIs, and AI/MCP connections, see [Guides](../02-guides/README.md).
+
+For access-controlled materials or questions, contact **jim@reflexivity.com**.
