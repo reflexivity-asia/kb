@@ -7,6 +7,7 @@ provider: QUICK Inc.
 provided: 2026-09-04
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_type: partner-provided-use-case
 asset_class: Equities
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 1, Hedge Fund Tier 2, Hedge Fund Tier 3
@@ -86,7 +87,7 @@ Graph 的用途是识别催化剂可能沿哪些关系传播，而不是假设�
 
 ## 如何使用这个工作流
 
-Company Catalyst 最有价值的时候，是它能够把一条 headline 转化为研究地图：
+Company Catalyst 最有价值的时候，是它能够把一条新闻标题转化为研究地图：
 
 1. 理解事件；
 2. 衡量初始市场反应；
@@ -98,7 +99,7 @@ Company Catalyst 最有价值的时候，是它能够把一条 headline 转化�
 
 ## 本使用案例说明了什么
 
-这个例子展示了如何从公司 headline 出发，经过市场反应和管理层框架，进入竞争、网络、监管和地域后果，同时不把 headline 本身当作最终投资结论。
+这个例子展示了如何从公司新闻标题出发，经过市场反应和管理层框架，进入竞争、网络、监管和地域后果，同时不把标题本身当作最终投资结论。
 
 ---
 
