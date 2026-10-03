@@ -34,6 +34,7 @@ editorial_reviewed: 2026-10-04
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7-8915-37c6337f4488)**
+
 ## Insight view
 
 ![Reflexivity Insight overview](../../../../assets/use-cases/RX-USECASE-0008/insight-overview.webp)
@@ -43,6 +44,10 @@ editorial_reviewed: 2026-10-04
 ![Reflexivity Graph](../../../../assets/use-cases/RX-USECASE-0008/reflexivity-graph.webp)
 
 *Source-period Reflexivity Graph showing the related cohort and transmission paths.*
+
+## Prompt used
+
+The approved source does not specify the exact prompt used.
 
 
 ## Relevant
