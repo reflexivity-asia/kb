@@ -15,6 +15,7 @@ resource: Reflexivity Insights 研究案例
 canonical_path: use-cases/long-only-asset-manager/ppg-raises-quarterly-dividend-to-0-74-ppg.md
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_url: https://reflexivity.com/app/kg-insight?insightId=244bc038-44f5-4292-93b3-def717033967
 prompt_status: not_provided
 -->
@@ -42,7 +43,7 @@ prompt_status: not_provided
 
 ## 相關性
 
-提高股息是一個低雜訊訊號，適合重視長期資本回報而非單日波動的 quality-focused buy-and-hold mandate。
+提高股息是一個低雜訊訊號，適合重視公司品質與長期資本回報、而非單日波動的長期持有策略。
 
 ## 關鍵點
 
