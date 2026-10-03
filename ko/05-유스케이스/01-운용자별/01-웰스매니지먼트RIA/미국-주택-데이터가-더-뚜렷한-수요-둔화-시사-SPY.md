@@ -15,6 +15,7 @@ resource: Reflexivity Insights 리서치 사례
 canonical_path: use-cases/wealth-management-ria/u-s-housing-data-signal-a-sharper-demand-downshift-spy.md
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_url: https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd-bce3-3be908a48401
 prompt_status: not_provided
 -->
@@ -46,11 +47,11 @@ prompt_status: not_provided
 
 ## 주목 포인트
 
-Reflexivity는 이를 단일 데이터 포인트가 아니라 주택 관련 경기민감주 전반—주택건설사, 공급업체, 대출기관—으로 이어지는 광범위한 리드스루로 정리하고, 추세와 노이즈를 분리합니다.
+Reflexivity는 이를 단일 지표에 그치지 않고 주택건설사, 공급업체, 대출기관 등 주택 관련 경기민감주 전반으로 파급될 수 있는 신호로 정리해, 추세와 일시적 변동을 구분합니다.
 
 ## 워크플로
 
-어드바이저는 원자료에 기재된 pending-home-sales 미스(-5.4% vs -0.5% 예상)와 부진한 NAHB 지표를 설명하고, 어떤 주택 관련 종목을 볼지 출처가 포함된 고객 노트를 만들 수 있습니다.
+어드바이저는 잠정주택판매가 예상치(-0.5%)보다 크게 부진한 -5.4%를 기록한 점과 약한 NAHB 지표를 설명하고, 어떤 주택 관련 종목을 살펴볼지 출처가 포함된 고객 노트로 정리할 수 있습니다.
 
 ## 자료
 
