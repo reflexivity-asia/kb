@@ -16,7 +16,7 @@ Research and workflow examples for sovereign rates, yield curves, credit, and re
 
 These pages preserve the reviewed source basis, dated observations, limitations, and uncertainty.
 
-## New QUICK Partner-Provided Use Case
+## QUICK Partner-Provided Use Cases
 
 - [Analyze the global rates outlook and the implications for USD/JPY](global-rates-outlook-and-usdjpy.md) — QUICK | 2026-09-30
 
