@@ -1,6 +1,6 @@
 # Long-only Asset Manager Use Cases
 
-These examples are dated platform outputs or reviewed research examples. Check them against current market data before using them, or present them as illustrative examples only.
+These examples are dated platform outputs or partner-provided research examples. Check them against current market data before using them, or present them as illustrative examples only.
 
 ## Company Catalyst
 
