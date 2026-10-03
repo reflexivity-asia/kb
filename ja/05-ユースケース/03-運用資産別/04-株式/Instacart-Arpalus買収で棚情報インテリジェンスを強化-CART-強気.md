@@ -13,9 +13,10 @@ revised: 2026-09-27
 status: draft
 canonical_path: "usecases/byasset/equities/instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md"
 translation_status: review-needed
-editorial_reviewed: 2026-09-27
+editorial_reviewed: 2026-10-04
 resource: "Reflexivity Insightsの調査例"
 prompt_status: not_provided
+source_manifest: RX-USECASE-0004
 -->
 
 # Instacart：Arpalus買収で棚情報インテリジェンスを強化 (CART) - 強気
@@ -42,10 +43,6 @@ Arpalusは棚情報を把握する技術を持ち、買収発表では95%超と�
 その後は、Arpalusの技術がInstacartの既存顧客基盤にどの程度導入されるか、店舗運営向け機能が利用拡大につながるかを追うことで、買収の意味を継続的に検証できます。
 
 **[Reflexivityでこの調査例を開く →](https://reflexivity.com/app/kg-insight?insightId=0b72cda9-18ac-423b-86d4-8b04b7fe2394)**
-
-## 使用したプロンプト
-
-提供資料では、使用したプロンプトの全文は確認できません。
 
 ## Reflexivityで確認する
 
