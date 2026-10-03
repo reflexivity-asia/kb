@@ -8,6 +8,7 @@ source_created: 2026-10-01
 provided: 2026-10-01
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_type: partner-provided-use-case
 source_manifest: RX-USECASE-0072
 asset_class: Equities, Multi-Asset
@@ -28,8 +29,6 @@ prompt_status: present
 **分析期间：** 2026-07-01 至 2026-09-30
 
 > 收益率为原资料中的本币价格收益，不含股息。
-
-> 比较美国和日本 AI、半导体、数据中心相关主要股票过去三个月的表现，并构建后续情景。
 
 > ### [在 Reflexivity 中打开此研究示例 →](https://app.reflexivity.com/alfred?mode=research&conversationId=944136af-a0bf-411f-959c-8dd2368b16a8&scrollTo=top)
 
