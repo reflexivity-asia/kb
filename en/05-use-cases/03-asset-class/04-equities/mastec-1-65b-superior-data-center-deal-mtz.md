@@ -36,6 +36,11 @@ editorial_reviewed: 2026-10-04
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=f2915fc1-f1a7-452d-a550-b043d4be1b8b)**
 
+## Prompt used
+
+The approved source does not specify the exact prompt used.
+
+
 ## Relevancy
 
 A Tier 2 PM struggles to keep pace with catalysts across an entire book, and this is the kind of deal that is easy to miss.
