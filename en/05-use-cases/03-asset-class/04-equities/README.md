@@ -16,7 +16,7 @@ Research and workflow examples for equity themes, company events, earnings, scre
 - [Compare the Magnificent Seven's financial capacity and rate resilience](magnificent-seven-financial-comparison.md)
 - [Find Japanese companies related to rising US stocks](rising-us-stocks-related-japanese-companies.md)
 
-## Hedge Fund proof examples
+## Hedge Fund Examples
 
 - [Nvidia launches $500B AI infrastructure funding push (NVDA)](nvidia-launches-500b-ai-infrastructure-funding-push-nvda.md)
 - [US AI chip export curb hits semis (SMH)](us-ai-chip-export-curb-hits-semis-smh.md)
@@ -38,7 +38,7 @@ Research and workflow examples for equity themes, company events, earnings, scre
 
 Related cross-asset articles are linked from their primary asset-class pages rather than duplicated here.
 
-## New QUICK Partner-Provided Use Cases
+## QUICK Partner-Provided Use Cases
 
 - [Analyze the impact of NVIDIA's $150 billion share-repurchase increase](nvidia-share-repurchase-impact.md) — QUICK | 2026-09-29
 - [Prepare for Micron earnings with the Earnings Preview workflow](micron-earnings-preview-workflow.md) — QUICK | 2026-09-30
