@@ -38,6 +38,11 @@ editorial_reviewed: 2026-10-04
 
 **[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=0474081c-861c-4cde-b075-59834514aba0)**
 
+## 使用的提示词
+
+提供资料中未注明实际使用的提示词全文。
+
+
 ## 相关性
 
 当龙头公司业绩超预期、但拥挤的半导体组合整体仍被去评级时，Pod PM 需要快速、可审计地理解全局。
