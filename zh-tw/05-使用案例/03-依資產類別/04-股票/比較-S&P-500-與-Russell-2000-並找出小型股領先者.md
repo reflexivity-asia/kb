@@ -7,6 +7,7 @@ provider: QUICK Inc.
 provided: 2026-08-05
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_type: partner-provided-use-case
 asset_class: Equities
 roles: Long-only Asset Manager, Hedge Fund Tier 2, Hedge Fund Tier 3
@@ -37,7 +38,7 @@ prompt_status: present
 
 因此，原始問題自然形成一個逐步縮小範圍的研究順序：
 
-**指數層級相對表現 → 小型股 universe 內的領先者 → 公司特有 catalyst。**
+**指數層級相對表現 → 小型股範圍內的領先者 → 公司特有催化事件。**
 
 ## 研究工作流程
 
@@ -47,7 +48,7 @@ prompt_status: present
 
 ### 2. 排出 Russell 2000 中最強的成分股
 
-找出小型股基準中表現最好的五家公司。這可以看出 universe 內真正出現極端上行的是哪些公司，而不是假設指數漲跌平均分布於所有成分股。
+找出小型股基準中表現最好的五家公司。這可以看出小型股範圍內真正出現極端上行的是哪些公司，而不是假設指數漲跌平均分布於所有成分股。
 
 ### 3. 解釋每個領先股的走勢
 
