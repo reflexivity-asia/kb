@@ -5,6 +5,11 @@
 <!-- locale-switcher:end -->
 
 [← English documentation menu](https://github.com/reflexivity-kb/)
-Articles and historical public materials are being added.
 
-For questions, contact **jim@reflexivity.com**.
+Public articles and broadly shareable research material will appear here when available.
+
+Access-controlled articles on institutional AI research, research workflows, Alfred, integrations, and relationship intelligence are available in Reflexivity Platform.
+
+[Open Articles in Platform (access required)](https://github.com/reflexivity-kb/platform/blob/main/en/06-articles/README.md)
+
+For access or documentation questions, contact **jim@reflexivity.com**.
