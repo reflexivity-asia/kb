@@ -11,7 +11,7 @@ drafted: 2026-09-07
 revised:
 author: Reflexivity GTM Team
 service_version:
-resource: Reflexivity Insights Proof Set — Sales Enablement.docx
+resource: Reflexivity Insights 研究案例
 canonical_path: usecases/byasset/equities/simon-property-group-mixed-print-guide-raised-spg.md
 status: published
 translation_status: current
@@ -54,7 +54,7 @@ PM 可以圍繞上調的指引與資本回報進行部位判斷：股息提高 4
 
 ## 資料
 
-- **來源資料：** Reflexivity Insights Proof Set — Sales Enablement
+- **來源資料：** Reflexivity Insights 研究案例
 - **Live Reflexivity insight：** [在 Reflexivity 中開啟該洞察](https://reflexivity.com/app/kg-insight?insightId=c2e84322-21f6-47be-b74e-b67101f8f052)
 
 ---
