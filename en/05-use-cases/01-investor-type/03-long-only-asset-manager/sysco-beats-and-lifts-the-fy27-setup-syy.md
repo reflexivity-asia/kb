@@ -13,7 +13,7 @@ status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=5f4fe1ef-07db-480b-955d-7f145a8cf723"
 canonical_path: "use-cases/long-only-asset-manager/sysco-beats-and-lifts-the-fy27-setup-syy.md"
 translation_status: canonical
-resource: "Reflexivity Insights Proof Set — Sales Enablement"
+resource: "Reflexivity Insights example collection"
 prompt_status: not_provided
 -->
 
@@ -49,7 +49,7 @@ The PM gets a ready-made read on capital-allocation posture ($2.1B free cash flo
 
 ## Resource
 
-- **Source pack:** Reflexivity Insights Proof Set — Sales Enablement
+- **Source pack:** Reflexivity Insights example collection
 - **Live Reflexivity insight:** [Open this insight in Reflexivity](https://reflexivity.com/app/kg-insight?insightId=5f4fe1ef-07db-480b-955d-7f145a8cf723)
 
 ---

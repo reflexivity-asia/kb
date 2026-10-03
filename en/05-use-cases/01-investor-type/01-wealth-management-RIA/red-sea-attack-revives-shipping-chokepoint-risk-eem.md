@@ -13,7 +13,7 @@ status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=887570bf-d204-467d-a72e-050fd3e96dce"
 canonical_path: "use-cases/wealth-management-ria/red-sea-attack-revives-shipping-chokepoint-risk-eem.md"
 translation_status: canonical
-resource: "Reflexivity Insights Proof Set — Sales Enablement"
+resource: "Reflexivity Insights example collection"
 prompt_status: not_provided
 -->
 
@@ -49,7 +49,7 @@ The advisor can send a short client note framing this as an oil-and-inflation wa
 
 ## Resource
 
-- **Source pack:** Reflexivity Insights Proof Set — Sales Enablement
+- **Source pack:** Reflexivity Insights example collection
 - **Live Reflexivity insight:** [Open this insight in Reflexivity](https://reflexivity.com/app/kg-insight?insightId=887570bf-d204-467d-a72e-050fd3e96dce)
 
 ---

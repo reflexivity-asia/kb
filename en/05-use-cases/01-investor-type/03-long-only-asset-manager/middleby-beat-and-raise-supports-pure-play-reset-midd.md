@@ -13,7 +13,7 @@ status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=2eec06f6-3e35-4c79-b5ac-06c25801084b"
 canonical_path: "use-cases/long-only-asset-manager/middleby-beat-and-raise-supports-pure-play-reset-midd.md"
 translation_status: canonical
-resource: "Reflexivity Insights Proof Set — Sales Enablement"
+resource: "Reflexivity Insights example collection"
 prompt_status: not_provided
 -->
 
@@ -49,7 +49,7 @@ A long-only PM can treat the pullback as a capital-allocation quality check, dec
 
 ## Resource
 
-- **Source pack:** Reflexivity Insights Proof Set — Sales Enablement
+- **Source pack:** Reflexivity Insights example collection
 - **Live Reflexivity insight:** [Open this insight in Reflexivity](https://reflexivity.com/app/kg-insight?insightId=2eec06f6-3e35-4c79-b5ac-06c25801084b)
 
 ---

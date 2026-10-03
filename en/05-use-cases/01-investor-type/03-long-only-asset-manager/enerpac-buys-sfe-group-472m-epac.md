@@ -13,7 +13,7 @@ status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=b399a5e0-60b3-4bec-ab37-75b77577727a"
 canonical_path: "use-cases/long-only-asset-manager/enerpac-buys-sfe-group-472m-epac.md"
 translation_status: canonical
-resource: "Reflexivity Insights Proof Set — Sales Enablement"
+resource: "Reflexivity Insights example collection"
 prompt_status: not_provided
 -->
 
@@ -49,7 +49,7 @@ The analyst gets a ready-made view on whether the deal is accretive and financea
 
 ## Resource
 
-- **Source pack:** Reflexivity Insights Proof Set — Sales Enablement
+- **Source pack:** Reflexivity Insights example collection
 - **Live Reflexivity insight:** [Open this insight in Reflexivity](https://reflexivity.com/app/kg-insight?insightId=b399a5e0-60b3-4bec-ab37-75b77577727a)
 
 ---

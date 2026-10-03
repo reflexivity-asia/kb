@@ -13,7 +13,7 @@ status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=f045e1af-ddc4-4f13-8d2c-6ccf806a49f1"
 canonical_path: "usecases/byasset/equities/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md"
 translation_status: canonical
-resource: "Reflexivity Insights Proof Set — Sales Enablement"
+resource: "Reflexivity Insights example collection"
 prompt_status: not_provided
 -->
 
@@ -50,7 +50,7 @@ A PM can run a fast thesis check in minutes and decide whether to fade the sell-
 
 ## Resource
 
-- **Source pack:** Reflexivity Insights Proof Set — Sales Enablement
+- **Source pack:** Reflexivity Insights example collection
 - **Live Reflexivity insight:** [Open this insight in Reflexivity](https://reflexivity.com/app/kg-insight?insightId=f045e1af-ddc4-4f13-8d2c-6ccf806a49f1)
 
 ---

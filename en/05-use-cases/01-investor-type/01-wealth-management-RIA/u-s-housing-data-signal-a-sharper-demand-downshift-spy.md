@@ -13,7 +13,7 @@ status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd-bce3-3be908a48401"
 canonical_path: "use-cases/wealth-management-ria/u-s-housing-data-signal-a-sharper-demand-downshift-spy.md"
 translation_status: canonical
-resource: "Reflexivity Insights Proof Set — Sales Enablement"
+resource: "Reflexivity Insights example collection"
 prompt_status: not_provided
 -->
 
@@ -49,7 +49,7 @@ The advisor can send a source-cited client note explaining the Jthiune pending-h
 
 ## Resource
 
-- **Source pack:** Reflexivity Insights Proof Set — Sales Enablement
+- **Source pack:** Reflexivity Insights example collection
 - **Live Reflexivity insight:** [Open this insight in Reflexivity](https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd-bce3-3be908a48401)
 
 ---

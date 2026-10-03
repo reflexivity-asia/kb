@@ -13,7 +13,7 @@ status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=c60cffb0-8926-444e-bedd-088ede75e998"
 canonical_path: "use-cases/wealth-management-ria/weak-us-payrolls-spark-precious-metals-rotation-gold-silver.md"
 translation_status: canonical
-resource: "Reflexivity Insights Proof Set — Sales Enablement"
+resource: "Reflexivity Insights example collection"
 prompt_status: not_provided
 -->
 
@@ -49,7 +49,7 @@ The advisor can send a source-cited note within minutes on why hard assets and m
 
 ## Resource
 
-- **Source pack:** Reflexivity Insights Proof Set — Sales Enablement
+- **Source pack:** Reflexivity Insights example collection
 - **Live Reflexivity insight:** [Open this insight in Reflexivity](https://reflexivity.com/app/kg-insight?insightId=c60cffb0-8926-444e-bedd-088ede75e998)
 
 ---

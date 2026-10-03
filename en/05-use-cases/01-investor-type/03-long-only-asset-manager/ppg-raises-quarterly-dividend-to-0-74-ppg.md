@@ -13,7 +13,7 @@ status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=244bc038-44f5-4292-93b3-def717033967"
 canonical_path: "use-cases/long-only-asset-manager/ppg-raises-quarterly-dividend-to-0-74-ppg.md"
 translation_status: canonical
-resource: "Reflexivity Insights Proof Set — Sales Enablement"
+resource: "Reflexivity Insights example collection"
 prompt_status: not_provided
 -->
 
@@ -49,7 +49,7 @@ The PM gets a ready-made read on capital-allocation posture — payout raised to
 
 ## Resource
 
-- **Source pack:** Reflexivity Insights Proof Set — Sales Enablement
+- **Source pack:** Reflexivity Insights example collection
 - **Live Reflexivity insight:** [Open this insight in Reflexivity](https://reflexivity.com/app/kg-insight?insightId=244bc038-44f5-4292-93b3-def717033967)
 
 ---

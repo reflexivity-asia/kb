@@ -13,7 +13,7 @@ status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=0095138f-af96-497a-aea3-d463433a76b2"
 canonical_path: "use-cases/wealth-management-ria/trump-threatens-spain-trade-ties-ewp.md"
 translation_status: canonical
-resource: "Reflexivity Insights Proof Set — Sales Enablement"
+resource: "Reflexivity Insights example collection"
 prompt_status: not_provided
 -->
 
@@ -49,7 +49,7 @@ The advisor can reassure clients with a measured, source-cited note and knows wh
 
 ## Resource
 
-- **Source pack:** Reflexivity Insights Proof Set — Sales Enablement
+- **Source pack:** Reflexivity Insights example collection
 - **Live Reflexivity insight:** [Open this insight in Reflexivity](https://reflexivity.com/app/kg-insight?insightId=0095138f-af96-497a-aea3-d463433a76b2)
 
 ---

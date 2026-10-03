@@ -13,7 +13,7 @@ status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=5999b612-16b0-4475-ad47-8cf24a5ac845"
 canonical_path: "use-cases/wealth-management-ria/precious-metals-selloff-gold-silver.md"
 translation_status: canonical
-resource: "Reflexivity Insights Proof Set — Sales Enablement"
+resource: "Reflexivity Insights example collection"
 prompt_status: not_provided
 -->
 
@@ -49,7 +49,7 @@ The advisor can send a source-cited client note within minutes and confidently e
 
 ## Resource
 
-- **Source pack:** Reflexivity Insights Proof Set — Sales Enablement
+- **Source pack:** Reflexivity Insights example collection
 - **Live Reflexivity insight:** [Open this insight in Reflexivity](https://reflexivity.com/app/kg-insight?insightId=5999b612-16b0-4475-ad47-8cf24a5ac845)
 
 ---

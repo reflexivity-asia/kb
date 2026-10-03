@@ -13,7 +13,7 @@ status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7-8915-37c6337f4488"
 canonical_path: "use-cases/wealth-management-ria/u-s-ism-manufacturing-beat-lifts-cyclicals-spy.md"
 translation_status: canonical
-resource: "Reflexivity Insights Proof Set — Sales Enablement"
+resource: "Reflexivity Insights example collection"
 prompt_status: not_provided
 -->
 
@@ -49,7 +49,7 @@ The advisor can send a source-cited client note within minutes explaining why cy
 
 ## Resource
 
-- **Source pack:** Reflexivity Insights Proof Set — Sales Enablement
+- **Source pack:** Reflexivity Insights example collection
 - **Live Reflexivity insight:** [Open this insight in Reflexivity](https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7-8915-37c6337f4488)
 
 ---
