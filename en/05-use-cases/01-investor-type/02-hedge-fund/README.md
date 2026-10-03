@@ -1,6 +1,6 @@
 # Hedge Fund Use Cases
 
-Browse hedge-fund examples in one place. Tier 1 / Tier 2 / Tier 3 are audience classifications, not separate article directories. Each research article is maintained once and linked from the relevant browsing views.
+Browse hedge-fund examples by Tier 1 / Tier 2 / Tier 3 audience profile. An example may also appear in another browsing view when it is relevant to another asset class or investor type.
 
 ## Tier 1
 
@@ -30,7 +30,7 @@ Browse hedge-fund examples in one place. Tier 1 / Tier 2 / Tier 3 are audience c
 
 ## Partner-Provided Research Examples
 
-Provider/source chronology is shown explicitly. Tier labels remain audience filters only; the articles below link to their asset-class pages.
+Partner-provided examples include provider and date context. Tier labels are used to group the examples by audience profile.
 
 ### Tier 1
 
