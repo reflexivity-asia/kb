@@ -16,16 +16,6 @@ canonical_path: use-cases/wealth-management-ria/u-s-ism-manufacturing-beat-lifts
 status: published
 translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7-8915-37c6337f4488
-## Insight 界面
-
-![Reflexivity Insight 概览](../../../../assets/use-cases/RX-USECASE-0008/insight-overview.webp)
-
-*当时 Insight 中的事件摘要与主要结论。*
-
-![Reflexivity Graph](../../../../assets/use-cases/RX-USECASE-0008/reflexivity-graph.webp)
-
-*当时 Reflexivity Graph 中的相关分组与传导路径。*
-
 prompt_status: not_provided
 source_manifest: RX-USECASE-0008
 editorial_reviewed: 2026-10-04
@@ -47,6 +37,21 @@ editorial_reviewed: 2026-10-04
 > 本案例是特定时点的平台输出。用于当前投资判断前，请先与最新市场数据核对；否则应仅作为说明性案例使用。
 
 **[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7-8915-37c6337f4488)**
+
+## Insight 视图
+
+![Reflexivity Insight 概览](../../../../assets/use-cases/RX-USECASE-0008/insight-overview.webp)
+
+*该时点 Insight 的事件摘要与主要结论。*
+
+![Reflexivity Graph](../../../../assets/use-cases/RX-USECASE-0008/reflexivity-graph.webp)
+
+*该时点 Reflexivity Graph 展示相关群组及传导路径。*
+
+## 使用的提示词
+
+提供资料中未注明实际使用的提示词全文。
+
 
 ## 相关性
 
