@@ -13,7 +13,7 @@ status: published
 source_url: "https://reflexivity.com/app/kg-insight?insightId=a1e9e6f4-4865-499f-bdba-4afbf73fe75e"
 canonical_path: "usecases/byasset/equities/deepseek-inference-chip-ai-chip-pressure.md"
 translation_status: canonical
-resource: "Reflexivity Insights Proof Set — Sales Enablement"
+resource: "Reflexivity Insights example collection"
 prompt_status: not_provided
 -->
 
@@ -50,7 +50,7 @@ The PM instantly sees where substitution risk is concentrated (high-multiple mer
 
 ## Resource
 
-- **Source pack:** Reflexivity Insights Proof Set — Sales Enablement
+- **Source pack:** Reflexivity Insights example collection
 - **Live Reflexivity insight:** [Open this insight in Reflexivity](https://reflexivity.com/app/kg-insight?insightId=a1e9e6f4-4865-499f-bdba-4afbf73fe75e)
 
 ---
