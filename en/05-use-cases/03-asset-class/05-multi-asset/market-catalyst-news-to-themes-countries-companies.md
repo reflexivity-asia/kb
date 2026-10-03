@@ -7,6 +7,7 @@ provider: QUICK Corporation
 provided: 2026-08-17
 status: published
 translation_status: canonical
+editorial_reviewed: 2026-10-03
 source_type: partner-provided-use-case
 asset_class: equities, macro, multi-asset
 publication_mode: faithful-source-preserving
@@ -82,10 +83,6 @@ That turns news consumption into a repeatable research process rather than a pas
 Once a catalyst is opened, the downstream entities should be treated as **research candidates**, not automatic investment conclusions.
 
 The next step can be company analysis, theme analysis, or a cross-market comparison depending on the event.
-
-## Asset note
-
-The reviewed Japanese source includes verified Market Catalyst screenshots for the region settings and catalyst list. The English page intentionally omits those image links until the binary assets are copied and verified.
 
 ## What this use case demonstrates
 
