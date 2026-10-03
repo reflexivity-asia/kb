@@ -7,6 +7,7 @@ provider: QUICK Corporation
 provided: 2026-08-17
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_type: partner-provided-use-case
 asset_class: equities, macro, multi-asset
 publication_mode: faithful-source-preserving
@@ -76,17 +77,13 @@ QUICK 原资料包括例如：
 - 哪些公司与该主题有关？
 - 接下来应该调查什么？
 
-这样可以把新闻消费从被动 feed 转化为可重复的研究流程。
+这样可以把新闻阅读从被动的信息流转化为可重复的研究流程。
 
 ## 如何使用结果
 
 打开某个催化剂后，下游实体应该被视为**研究候选**，而不是自动形成投资结论。
 
 下一步可以根据事件类型进入公司分析、主题分析或跨市场比较。
-
-## 视觉资产说明
-
-经审阅的日文原资料包含经过验证的 Market Catalyst 截图，展示地区设置和催化剂列表。在二进制资产复制并验证之前，下游页面有意不发布这些图片链接。
 
 ## 本使用案例说明了什么
 
