@@ -7,6 +7,7 @@ author: Reflexivity Research
 published: 2026-09-15
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 original_language: en
 source_text_status: canonicalized_from_platform_research_with_reviewed_editorial_clarification
 asset_class: Fixed Income (US Rates)
@@ -77,7 +78,7 @@ prompt_status: not_provided
 
 ## 本使用案例說明了什麼
 
-這份更正本身就是一個有用案例：當畫面標籤與經濟邏輯不一致時，研究流程必須能修正自己的輸出。可重複的模式是：歷史位置 → carry / rolldown → 綜合交易分類 → 當各組成因素不支持 headline 訊號時進行更正。
+這份更正本身就是一個有用案例：當畫面標籤與經濟邏輯不一致時，研究流程必須能修正自己的輸出。可重複的模式是：歷史位置 → carry / rolldown → 綜合交易分類 → 當各組成因素不支持表面訊號時進行更正。
 
 
 ---
