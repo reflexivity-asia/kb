@@ -11,7 +11,7 @@ drafted: 2026-09-07
 revised:
 author: Reflexivity GTM Team
 service_version:
-resource: Reflexivity Insights Proof Set — Sales Enablement.docx
+resource: Reflexivity Insights 研究案例
 canonical_path: usecases/byasset/equities/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md
 status: published
 translation_status: current
@@ -54,7 +54,7 @@ PM 可在幾分鐘內完成投資邏輯檢查，並決定是逆勢看待拋售�
 
 ## 資料
 
-- **來源資料：** Reflexivity Insights Proof Set — Sales Enablement
+- **來源資料：** Reflexivity Insights 研究案例
 - **Live Reflexivity insight：** [在 Reflexivity 開啟該洞察](https://reflexivity.com/app/kg-insight?insightId=f045e1af-ddc4-4f13-8d2c-6ccf806a49f1)
 
 ---

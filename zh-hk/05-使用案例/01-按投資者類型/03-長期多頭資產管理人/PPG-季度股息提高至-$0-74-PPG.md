@@ -11,7 +11,7 @@ drafted: 2026-09-07
 revised:
 author: Reflexivity GTM Team
 service_version:
-resource: Reflexivity Insights Proof Set — Sales Enablement.docx
+resource: Reflexivity Insights 研究案例
 canonical_path: use-cases/long-only-asset-manager/ppg-raises-quarterly-dividend-to-0-74-ppg.md
 status: published
 translation_status: current
@@ -54,7 +54,7 @@ PM 可快速了解資本配置姿態：股息從 $0.71 提高至 $0.74，經董�
 
 ## 資料
 
-- **來源資料：** Reflexivity Insights Proof Set — Sales Enablement
+- **來源資料：** Reflexivity Insights 研究案例
 - **Live Reflexivity insight：** [在 Reflexivity 開啟該洞察](https://reflexivity.com/app/kg-insight?insightId=244bc038-44f5-4292-93b3-def717033967)
 
 ---

@@ -11,7 +11,7 @@ drafted: 2026-09-07
 revised:
 author: Reflexivity GTM Team
 service_version:
-resource: Reflexivity Insights Proof Set — Sales Enablement.docx
+resource: Reflexivity Insights 研究案例
 canonical_path: usecases/byasset/equities/cardinal-health-clean-beat-stronger-fy27-outlook-cah.md
 status: published
 translation_status: current
@@ -54,7 +54,7 @@ Cardinal Health 的 EPS 為 $2.91，比市場共識高 20.25%，FY2027 指引也
 
 ## 資料
 
-- **來源資料：** Reflexivity Insights Proof Set — Sales Enablement
+- **來源資料：** Reflexivity Insights 研究案例
 - **Live Reflexivity insight：** [在 Reflexivity 開啟該洞察](https://reflexivity.com/app/kg-insight?insightId=f8a6a84d-9e28-4a75-9a66-b6c151be8bf7)
 
 ---
