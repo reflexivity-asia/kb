@@ -8,7 +8,7 @@ source_created: 2026-10-01
 provided: 2026-10-01
 status: published
 translation_status: current
-editorial_reviewed: 2026-10-02
+editorial_reviewed: 2026-10-03
 source_type: partner-provided-use-case
 source_manifest: RX-USECASE-0072
 asset_class: 株式、マルチアセット
@@ -16,7 +16,7 @@ insight_type: Scenario Insight
 publication_mode: faithful-source-preserving
 prompt_status: present
 -->
-# AI・半導体・データセンターの足元を日米で比較する
+# AI・半導体・データセンター関連株の3か月動向を日米で比較する
 
 <!-- locale-switcher:start -->
 **Languages:** [English](../../../../en/05-use-cases/03-asset-class/04-equities/ai-semiconductor-data-center-themes-us-japan.md) · **日本語** · [한국어](../../../../ko/05-유스케이스/03-운용자산별/04-주식/AI-반도체-데이터센터-미일비교.md) · [简体中文](../../../../zh-cn/05-使用案例/03-按资产类别/04-股票/AI-半导体-数据中心美日比较.md) · [繁體中文（台灣）](../../../../zh-tw/05-使用案例/03-依資產類別/04-股票/AI-半導體-資料中心美日比較.md) · [繁體中文（香港）](../../../../zh-hk/05-使用案例/03-按資產類別/04-股票/AI-半導體-數據中心美日比較.md)
