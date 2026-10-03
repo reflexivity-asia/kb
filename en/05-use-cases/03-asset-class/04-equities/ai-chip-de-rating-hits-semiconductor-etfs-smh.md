@@ -15,6 +15,8 @@ canonical_path: "usecases/byasset/equities/ai-chip-de-rating-hits-semiconductor-
 translation_status: canonical
 resource: "Reflexivity Insights example collection"
 prompt_status: not_provided
+source_manifest: RX-USECASE-0022
+editorial_reviewed: 2026-10-04
 -->
 
 # AI-chip de-rating hits semiconductor ETFs (SMH)
@@ -33,10 +35,6 @@ prompt_status: not_provided
 > These examples are dated platform outputs. Check them against current market data before using them, or present them as illustrative examples only.
 
 **[Open this research example in Reflexivity →](https://reflexivity.com/app/kg-insight?insightId=0474081c-861c-4cde-b075-59834514aba0)**
-
-## Prompt used
-
-The approved source does not specify the exact prompt used.
 
 ## Relevant
 
