@@ -15,9 +15,10 @@ resource: Reflexivity Insights 研究案例
 canonical_path: use-cases/wealth-management-ria/u-s-housing-data-signal-a-sharper-demand-downshift-spy.md
 status: published
 translation_status: current
-editorial_reviewed: 2026-10-03
+editorial_reviewed: 2026-10-04
 source_url: https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd-bce3-3be908a48401
 prompt_status: not_provided
+source_manifest: RX-USECASE-0009
 -->
 
 # 美國住房數據指向更明顯的需求下行 (SPY)
@@ -36,10 +37,6 @@ prompt_status: not_provided
 > 本案例是特定日期的平台輸出。用於目前投資判斷前，請先與最新市場數據核對；否則僅應作為說明性案例使用。
 
 **[在 Reflexivity 開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd-bce3-3be908a48401)**
-
-## 使用的提示詞
-
-提供資料中未列明實際使用的提示詞全文。
 
 ## 相關性
 
