@@ -7,6 +7,7 @@ provider: QUICK Inc.
 provided: 2026-09-03
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_type: partner-provided-use-case
 asset_class: Macro, Equities, Fixed Income
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 1
@@ -38,7 +39,7 @@ prompt_status: not_provided
 
 Beige Book 这类文件信息量很大。很多投资工作流的第一步并不是逐行读完整份文件，而是先识别**哪些内容最可能影响市场**，再决定哪个地区或主题值得深入研究。
 
-Market Catalyst 从事件 headline 提供进入分析的入口。工作流先把信息流缩小到用户的覆盖范围，再找到相关事件，最后打开更详细的市场解读。
+Market Catalyst 从事件标题提供进入分析的入口。工作流先把信息流缩小到用户的覆盖范围，再找到相关事件，最后打开更详细的市场解读。
 
 ![Market Catalyst 中的 Beige Book 条目](../../../../assets/usecases/quick/RX-USECASE-0049/01-beige-book-market-catalyst-list.webp)
 
@@ -51,7 +52,7 @@ Market Catalyst 从事件 headline 提供进入分析的入口。工作流先把
 3. 从结果列表中选择 Beige Book 这样的重要事件；
 4. 打开事件，查看关键要点和市场含义。
 
-先配置覆盖范围并不是单纯为了减少 headline 数量，而是为了优先处理最符合投资组合或研究职责的事件。
+先配置覆盖范围并不是单纯为了减少标题数量，而是为了优先处理最符合投资组合或研究职责的事件。
 
 最终的研究流程是：
 
