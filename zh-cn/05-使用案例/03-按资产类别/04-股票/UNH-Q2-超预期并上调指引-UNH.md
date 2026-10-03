@@ -38,6 +38,11 @@ source_manifest: RX-USECASE-0015
 
 **[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=281b5785-16b7-4f17-a5ae-621b8b3ec534)**
 
+## 使用的提示词
+
+提供资料中未注明实际使用的提示词全文。
+
+
 ## 相关性
 
 大型公司的业绩超预期并上调指引会影响整个投资组合，Tier 2 PM 需要快速判断这次业绩改变的是投资逻辑，还是仅改变短期市场表现。
