@@ -8,6 +8,7 @@ provided: 2026-08-18
 status: published
 translation_status: canonical
 source_type: partner-provided-use-case
+source_manifest: RX-USECASE-0056
 asset_class: Equities
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving

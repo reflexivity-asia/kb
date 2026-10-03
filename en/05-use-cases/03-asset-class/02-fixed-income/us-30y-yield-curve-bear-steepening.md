@@ -8,6 +8,7 @@ provided: 2026-08-19
 status: published
 translation_status: canonical
 source_type: partner-provided-use-case
+source_manifest: RX-USECASE-0053
 asset_class: Fixed Income, Macro
 roles: Long-only Asset Manager, Hedge Fund Tier 1
 publication_mode: faithful-source-preserving
