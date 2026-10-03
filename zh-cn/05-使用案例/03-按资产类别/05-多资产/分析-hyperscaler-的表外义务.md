@@ -7,6 +7,7 @@ provider: QUICK Corporation
 provided: 2026-08-05
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_type: partner-provided-use-case
 asset_class: equities, fixed income, multi-asset
 publication_mode: faithful-source-preserving
@@ -47,7 +48,7 @@ prompt_status: present
 
 把资产负债表上的有息债务，与合同承诺、附注披露和其他未来义务分开。
 
-这样可以避免把经济性质完全不同的敞口合并成一个 headline 数字。
+这样可以避免把经济性质完全不同的敞口合并成一个表面总数。
 
 ## 2. 把义务规模与现金创造能力比较
 
