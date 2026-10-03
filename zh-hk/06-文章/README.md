@@ -5,5 +5,11 @@
 <!-- locale-switcher:end -->
 
 [← 繁體中文（香港）文件選單](../README.md)
-準備中。
 
+可公開的文章及研究資料會集中在本欄目。
+
+有關機構投資 AI 研究、研究工作流程、Alfred、各類整合及關係智能的受限文章，可在 Reflexivity Platform 中查看。
+
+[在 Platform 中開啟文章（需要存取權限）](https://github.com/reflexivity-kb/platform/blob/main/zh-hk/06-文章/README.md)
+
+如需申請存取權限或查詢文件，請聯絡 **jim@reflexivity.com**。
