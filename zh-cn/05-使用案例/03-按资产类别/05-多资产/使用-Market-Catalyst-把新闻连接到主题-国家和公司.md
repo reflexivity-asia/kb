@@ -9,6 +9,7 @@ status: published
 translation_status: current
 editorial_reviewed: 2026-10-03
 source_type: partner-provided-use-case
+source_manifest: RX-USECASE-0055
 asset_class: equities, macro, multi-asset
 publication_mode: faithful-source-preserving
 prompt_status: not_provided
@@ -67,6 +68,12 @@ QUICK 原资料包括例如：
 3. 比较显示出来的催化剂，选出与你的 mandate 最相关的事件。
 4. 打开该事件，查看 headline 之外的影响路径。
 5. 把关联的主题、国家和公司作为更深入研究的候选对象。
+
+## 界面示例
+
+![Market Catalyst 地区设置](../../../../assets/usecases/quick/RX-USECASE-0055/02-region-setting.webp)
+
+![设置后显示的 Market Catalyst 列表](../../../../assets/usecases/quick/RX-USECASE-0055/03-market-catalyst-list.webp)
 
 ## 为什么这个工作流重要
 
