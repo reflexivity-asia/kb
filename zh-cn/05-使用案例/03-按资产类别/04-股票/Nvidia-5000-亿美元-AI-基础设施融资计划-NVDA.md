@@ -11,7 +11,7 @@ drafted: 2026-09-07
 revised:
 author: Reflexivity GTM Team
 service_version:
-resource: Reflexivity Insights Proof Set — Sales Enablement.docx
+resource: Reflexivity Insights 研究案例
 canonical_path: usecases/byasset/equities/nvidia-launches-500b-ai-infrastructure-funding-push-nvda.md
 status: published
 translation_status: current
@@ -54,7 +54,7 @@ Pod 可以在半导体、电力、数据中心公司中广泛表达该主题，�
 
 ## 资料
 
-- **来源资料：** Reflexivity Insights Proof Set — Sales Enablement
+- **来源资料：** Reflexivity Insights 研究案例
 - **Live Reflexivity insight：** [在 Reflexivity 中打开该洞察](https://reflexivity.com/app/kg-insight?insightId=37ec34a5-3c1d-40cc-b7de-76ea7f842999)
 
 ---

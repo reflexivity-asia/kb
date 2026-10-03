@@ -11,7 +11,7 @@ drafted: 2026-09-07
 revised:
 author: Reflexivity GTM Team
 service_version:
-resource: Reflexivity Insights Proof Set — Sales Enablement.docx
+resource: Reflexivity Insights 研究案例
 canonical_path: usecases/byasset/equities/arteris-ic-link-ai-chip-design-aip.md
 status: published
 translation_status: current
@@ -54,7 +54,7 @@ PM 可在几分钟内形成差异化的小盘股观点，并明确知道下一�
 
 ## 资料
 
-- **来源资料：** Reflexivity Insights Proof Set — Sales Enablement
+- **来源资料：** Reflexivity Insights 研究案例
 - **Live Reflexivity insight：** [在 Reflexivity 中打开该洞察](https://reflexivity.com/app/kg-insight?insightId=c91f4ed8-e44b-4520-87d4-596f49b66cfe)
 
 ---

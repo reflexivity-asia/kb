@@ -11,7 +11,7 @@ drafted: 2026-09-07
 revised:
 author: Reflexivity GTM Team
 service_version:
-resource: Reflexivity Insights Proof Set — Sales Enablement.docx
+resource: Reflexivity Insights 研究案例
 canonical_path: usecases/byasset/equities/instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md
 status: published
 translation_status: current
@@ -54,7 +54,7 @@ PM 可在一个页面看到交易细节：目标公司 Arpalus、货架智能应
 
 ## 资料
 
-- **来源资料：** Reflexivity Insights Proof Set — Sales Enablement
+- **来源资料：** Reflexivity Insights 研究案例
 - **Live Reflexivity insight：** [在 Reflexivity 中打开该洞察](https://reflexivity.com/app/kg-insight?insightId=0b72cda9-18ac-423b-86d4-8b04b7fe2394)
 
 ---

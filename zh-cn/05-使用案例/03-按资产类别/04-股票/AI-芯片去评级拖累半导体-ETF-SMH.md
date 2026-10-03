@@ -11,7 +11,7 @@ drafted: 2026-09-07
 revised:
 author: Reflexivity GTM Team
 service_version:
-resource: Reflexivity Insights Proof Set — Sales Enablement.docx
+resource: Reflexivity Insights 研究案例
 canonical_path: usecases/byasset/equities/ai-chip-de-rating-hits-semiconductor-etfs-smh.md
 status: published
 translation_status: current
@@ -54,7 +54,7 @@ Reflexivity 将其解释为估值压缩 / 需求持续性争论，而不是收�
 
 ## 资料
 
-- **来源资料：** Reflexivity Insights Proof Set — Sales Enablement
+- **来源资料：** Reflexivity Insights 研究案例
 - **Live Reflexivity insight：** [在 Reflexivity 中打开该洞察](https://reflexivity.com/app/kg-insight?insightId=0474081c-861c-4cde-b075-59834514aba0)
 
 ---

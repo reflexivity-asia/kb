@@ -11,7 +11,7 @@ drafted: 2026-09-07
 revised:
 author: Reflexivity GTM Team
 service_version:
-resource: Reflexivity Insights Proof Set — Sales Enablement.docx
+resource: Reflexivity Insights 研究案例
 canonical_path: usecases/byasset/equities/palantir-beat-sharpens-ai-software-demand-read-through-pltr.md
 status: published
 translation_status: current
@@ -54,7 +54,7 @@ PM 可立即看到 AI 软件同业的门槛已经提高，并决定在后续软�
 
 ## 资料
 
-- **来源资料：** Reflexivity Insights Proof Set — Sales Enablement
+- **来源资料：** Reflexivity Insights 研究案例
 - **Live Reflexivity insight：** [在 Reflexivity 中打开该洞察](https://reflexivity.com/app/kg-insight?insightId=2b32e10c-7ca1-49ee-b740-2bda079f6579)
 
 ---

@@ -11,7 +11,7 @@ drafted: 2026-09-07
 revised:
 author: Reflexivity GTM Team
 service_version:
-resource: Reflexivity Insights Proof Set — Sales Enablement.docx
+resource: Reflexivity Insights 研究案例
 canonical_path: usecases/byasset/equities/root-jul-8-business-update-root.md
 status: published
 translation_status: current
@@ -54,7 +54,7 @@ PM 会被引导避免追逐未经确认的上涨。平台将其视为需要后�
 
 ## 资料
 
-- **来源资料：** Reflexivity Insights Proof Set — Sales Enablement
+- **来源资料：** Reflexivity Insights 研究案例
 - **Live Reflexivity insight：** [在 Reflexivity 中打开该洞察](https://reflexivity.com/app/kg-insight?insightId=0f64c0ff-bc65-4ff1-a313-fca5ad8e916b)
 
 ---
