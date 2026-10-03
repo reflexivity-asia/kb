@@ -5,6 +5,11 @@
 <!-- locale-switcher:end -->
 
 [← English documentation menu](https://github.com/reflexivity-kb/)
-Release notes are being added.
 
-For questions, contact **jim@reflexivity.com**.
+Public release notes and broadly shareable release material will appear here when available.
+
+Access-controlled roadmap and product-update material is available in Reflexivity Platform. These pages are dated, point-in-time views; newer approved information may supersede earlier availability or timing.
+
+[Open Releases in Platform (access required)](https://github.com/reflexivity-kb/platform/blob/main/en/04-releases/README.md)
+
+For current availability or access questions, contact **jim@reflexivity.com**.
