@@ -10,7 +10,7 @@ status: published
 translation_status: canonical
 original_language: ja
 source_text_status: translated_from_partner_source_reconciled_with_original
-editorial_reviewed: 2026-10-02
+editorial_reviewed: 2026-10-03
 source_type: partner-provided-use-case
 source_manifest: RX-USECASE-0073
 asset_class: Multi-Asset, Commodities, Macro
@@ -45,7 +45,7 @@ The source compares WTI crude oil and spot gold as of **2026-10-01**. WTI had re
 
 | Metric | WTI crude oil | Gold spot |
 |---|---:|---:|
-| Current value | $90.42/bbl | $4,163.97/oz |
+| Value on 2026-10-01 | $90.42/bbl | $4,163.97/oz |
 | 3 months | +31.85% | +0.90% |
 | 6 months | -9.69% | -10.88% |
 | 1 year | +44.97% | +7.66% |
