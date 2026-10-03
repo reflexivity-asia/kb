@@ -15,6 +15,7 @@ resource: Reflexivity Insights 리서치 사례
 canonical_path: use-cases/long-only-asset-manager/ppg-raises-quarterly-dividend-to-0-74-ppg.md
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_url: https://reflexivity.com/app/kg-insight?insightId=244bc038-44f5-4292-93b3-def717033967
 prompt_status: not_provided
 -->
@@ -42,7 +43,7 @@ prompt_status: not_provided
 
 ## 관련성
 
-배당 인상은 하루짜리 주가 움직임보다 지속 가능한 자본환원을 중시하는 quality-focused buy-and-hold mandate에 적합한, 노이즈가 적은 신호입니다.
+배당 인상은 하루짜리 주가 움직임보다 지속 가능한 자본환원을 중시하는 우량주 중심의 장기보유 전략에 적합한, 잡음이 적은 신호입니다.
 
 ## 주목 포인트
 
