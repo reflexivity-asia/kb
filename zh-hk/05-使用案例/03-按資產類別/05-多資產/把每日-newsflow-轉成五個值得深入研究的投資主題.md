@@ -6,6 +6,7 @@ locale: zh-HK
 author: Reflexivity Research
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 resource: Reflexivity Research conversation approved by content owner
 source_text_status: localized_from_en_canonical
 prompt_status: present
@@ -27,7 +28,7 @@ prompt_status: present
 ## 使用的提示詞
 > [!IMPORTANT]
 > 閱讀當日新聞，再把大量 newsflow 收斂成五個值得進一步研究的投資想法或主題。
-原始 prompt：
+原始提示詞：
 
 > Read the news and produce the top 5 investment ideas to study based on today's newsflow
 
@@ -48,7 +49,7 @@ prompt_status: present
 
 宏觀發展、政策變化、公司新聞、商品、利率及 FX 可以一起掃描，再收斂成一小組值得深入研究的 follow-up question。
 
-價值在於**優先排序**：不是把每個 headline 視為同等重要，而是形成一個可管理的 hypothesis / theme 清單，供下一步查證。這些是研究候選，不是自動投資結論。
+價值在於**優先排序**：不是把每則新聞標題視為同等重要，而是形成一個可管理的研究假設／主題清單，供下一步查證。這些是研究候選，不是自動投資結論。
 
 
 ---
