@@ -38,6 +38,11 @@ source_manifest: RX-USECASE-0015
 
 **[在 Reflexivity 開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=281b5785-16b7-4f17-a5ae-621b8b3ec534)**
 
+## 使用的提示詞
+
+提供資料中未列明實際使用的提示詞全文。
+
+
 ## 相關性
 
 大型公司的業績優於預期並上調指引會影響整個投資組合，Tier 2 PM 需要快速判斷這次業績改變的是投資邏輯，還是只改變短期市場表現。
