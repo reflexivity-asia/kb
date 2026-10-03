@@ -5,5 +5,11 @@
 <!-- locale-switcher:end -->
 
 [← 简体中文文档菜单](../README.md)
-相关内容正在准备中。
 
+可公开的文章和研究资料会集中在本栏目。
+
+有关机构投资 AI 研究、研究工作流、Alfred、各类集成及关系智能的受限文章，可在 Reflexivity Platform 中查看。
+
+[在 Platform 中打开文章（需要访问权限）](https://github.com/reflexivity-kb/platform/blob/main/zh-cn/06-文章/README.md)
+
+如需申请访问权限或咨询文档，请联系 **jim@reflexivity.com**。
