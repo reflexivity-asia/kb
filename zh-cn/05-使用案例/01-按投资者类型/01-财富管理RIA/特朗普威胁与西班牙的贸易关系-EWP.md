@@ -15,6 +15,7 @@ resource: Reflexivity Insights 研究案例
 canonical_path: use-cases/wealth-management-ria/trump-threatens-spain-trade-ties-ewp.md
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_url: https://reflexivity.com/app/kg-insight?insightId=0095138f-af96-497a-aea3-d463433a76b2
 prompt_status: not_provided
 -->
@@ -46,7 +47,7 @@ prompt_status: not_provided
 
 ## 关键点
 
-Reflexivity 将言辞与政策分开，把它定义为 headline risk，而非已经确认的贸易政策变化，并明确指出真正使其落地的检查点：美国或欧盟的正式行动。
+Reflexivity 将政治言辞与政策分开，把它视为标题风险，而非已经确认的贸易政策变化，并明确指出真正使其落地的检查点：美国或欧盟的正式行动。
 
 ## 工作流
 
