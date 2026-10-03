@@ -10,6 +10,7 @@ translation_status: local-only
 revised: 2026-09-27
 editorial_reviewed: 2026-09-27
 source_type: partner-provided-use-case
+source_manifest: RX-USECASE-0058
 asset_class: 株式、債券、コモディティ、暗号資産、マクロ、マルチアセット
 roles: ウェルスマネジメント / RIA、ロングオンリー・アセットマネージャー、ヘッジファンド Tier 1、ヘッジファンド Tier 2
 publication_mode: faithful-source-preserving
