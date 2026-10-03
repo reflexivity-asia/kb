@@ -7,6 +7,7 @@ provider: QUICK Corporation
 provided: 2026-08-05
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_type: partner-provided-use-case
 asset_class: equities, fixed income, multi-asset
 publication_mode: faithful-source-preserving
@@ -47,7 +48,7 @@ prompt_status: present
 
 把資產負債表中的 funded debt，與 contractual commitments、footnote disclosures 及其他未來義務分開。
 
-這可以避免把經濟性質不同的曝險加總成一個 headline 數字。
+這可以避免把經濟性質不同的曝險加總成一個表面總數。
 
 ## 2. 用現金產生能力比較負擔
 
@@ -76,7 +77,7 @@ prompt_status: present
 - free-cash-flow conversion；
 - leverage 與 financing needs；
 - bond spreads 與 ratings；
-- equity valuation 與 shareholder returns。
+- 股票估值與股東回報。
 
 ## 如何使用結果
 
