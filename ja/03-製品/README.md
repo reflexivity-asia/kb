@@ -8,6 +8,6 @@
 
 公開可能な製品資料をこのセクションに掲載します。
 
-製品全体の概要は [Reflexivityとは？](../01-Reflexivityとは/README.md)、設定・API・AI/MCP連携については [利用ガイド](../02-利用ガイド/README.md) から確認できます。
+製品全体の概要は [Reflexivityとは？](../01-Reflexivityとは/README.md)、継続的に見つかった変化をリサーチへつなげる流れは [Insights](Insights/README.md)、設定・API・AI/MCP連携については [利用ガイド](../02-利用ガイド/README.md) から確認できます。
 
 アクセス制限付き資料やその他のご質問は **jim@reflexivity.com** までお問い合わせください。
