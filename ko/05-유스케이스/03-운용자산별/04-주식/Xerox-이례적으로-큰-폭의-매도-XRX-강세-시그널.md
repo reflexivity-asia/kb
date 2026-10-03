@@ -11,7 +11,7 @@ drafted: 2026-09-07
 revised:
 author: Reflexivity GTM Team
 service_version:
-resource: Reflexivity Insights Proof Set — Sales Enablement.docx
+resource: Reflexivity Insights 리서치 사례
 canonical_path: usecases/byasset/equities/xerox-unusually-large-selloff-xrx.md
 status: published
 translation_status: current
@@ -54,7 +54,7 @@ PM은 이 셋업이 과거에 어떻게 전개됐는지 근거 기반으로 빠�
 
 ## 자료
 
-- **출처 자료:** Reflexivity Insights Proof Set — Sales Enablement
+- **출처 자료:** Reflexivity Insights 리서치 사례
 - **Live Reflexivity insight:** [Reflexivity에서 이 인사이트 열기](https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=xrx_nasd&activeInsight=e01d491b-c454-4e05-81be-bcaa9947735c)
 
 ---

@@ -11,7 +11,7 @@ drafted: 2026-09-07
 revised:
 author: Reflexivity GTM Team
 service_version:
-resource: Reflexivity Insights Proof Set — Sales Enablement.docx
+resource: Reflexivity Insights 리서치 사례
 canonical_path: usecases/byasset/equities/nvidia-launches-500b-ai-infrastructure-funding-push-nvda.md
 status: published
 translation_status: current
@@ -54,7 +54,7 @@ Nvidia는 Apollo, BlackRock, Blackstone, Brookfield와 5,000억 달러 규모의
 
 ## 자료
 
-- **출처 자료:** Reflexivity Insights Proof Set — Sales Enablement
+- **출처 자료:** Reflexivity Insights 리서치 사례
 - **Live Reflexivity insight:** [Reflexivity에서 이 인사이트 열기](https://reflexivity.com/app/kg-insight?insightId=37ec34a5-3c1d-40cc-b7de-76ea7f842999)
 
 ---

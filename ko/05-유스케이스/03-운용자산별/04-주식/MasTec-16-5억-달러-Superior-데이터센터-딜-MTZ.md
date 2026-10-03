@@ -11,7 +11,7 @@ drafted: 2026-09-07
 revised:
 author: Reflexivity GTM Team
 service_version:
-resource: Reflexivity Insights Proof Set — Sales Enablement.docx
+resource: Reflexivity Insights 리서치 사례
 canonical_path: usecases/byasset/equities/mastec-1-65b-superior-data-center-deal-mtz.md
 status: published
 translation_status: current
@@ -54,7 +54,7 @@ PM은 데이터센터와 전력 인프라 확장 테마를 빠르게 구성하�
 
 ## 자료
 
-- **출처 자료:** Reflexivity Insights Proof Set — Sales Enablement
+- **출처 자료:** Reflexivity Insights 리서치 사례
 - **Live Reflexivity insight:** [Reflexivity에서 이 인사이트 열기](https://reflexivity.com/app/kg-insight?insightId=f2915fc1-f1a7-452d-a550-b043d4be1b8b)
 
 ---

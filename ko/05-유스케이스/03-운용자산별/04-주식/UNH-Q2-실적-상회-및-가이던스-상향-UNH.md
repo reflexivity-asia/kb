@@ -11,7 +11,7 @@ drafted: 2026-09-07
 revised:
 author: Reflexivity GTM Team
 service_version:
-resource: Reflexivity Insights Proof Set — Sales Enablement.docx
+resource: Reflexivity Insights 리서치 사례
 canonical_path: usecases/byasset/equities/unh-q2-beat-and-guidance-raise-unh.md
 status: published
 translation_status: current
@@ -54,7 +54,7 @@ PM은 Q2 EPS $6.38 vs $4.85 예상, 매출 $112.03B vs $110.81B, 2026 EPS 가이
 
 ## 자료
 
-- **출처 자료:** Reflexivity Insights Proof Set — Sales Enablement
+- **출처 자료:** Reflexivity Insights 리서치 사례
 - **Live Reflexivity insight:** [Reflexivity에서 이 인사이트 열기](https://reflexivity.com/app/kg-insight?insightId=281b5785-16b7-4f17-a5ae-621b8b3ec534)
 
 ---
