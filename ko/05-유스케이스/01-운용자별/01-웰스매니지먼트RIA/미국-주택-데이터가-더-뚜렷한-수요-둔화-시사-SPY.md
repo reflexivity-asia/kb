@@ -38,6 +38,11 @@ source_manifest: RX-USECASE-0009
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd-bce3-3be908a48401)**
 
+## 사용한 프롬프트
+
+제공 자료에서는 사용한 프롬프트의 정확한 문구를 확인할 수 없습니다.
+
+
 ## 관련성
 
 매크로 수요 둔화는 리서치 데스크가 없는 어드바이저가 당일 고객 질문에 답해야 하는 전형적인 톱다운 신호입니다.
