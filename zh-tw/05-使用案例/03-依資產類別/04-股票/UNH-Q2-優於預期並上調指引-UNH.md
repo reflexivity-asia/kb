@@ -15,6 +15,7 @@ resource: Reflexivity Insights 研究案例
 canonical_path: usecases/byasset/equities/unh-q2-beat-and-guidance-raise-unh.md
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_url: https://reflexivity.com/app/kg-insight?insightId=281b5785-16b7-4f17-a5ae-621b8b3ec534
 prompt_status: not_provided
 -->
@@ -42,7 +43,7 @@ prompt_status: not_provided
 
 ## 相關性
 
-大型公司 beat-and-raise 會影響整個投資組合，Tier 2 PM 需要快速判斷這次業績改變的是投資邏輯，還是只改變短期交易表現。
+大型公司的業績優於預期並上調指引會影響整個投資組合，Tier 2 PM 需要快速判斷這次業績改變的是投資邏輯，還是只改變短期市場表現。
 
 ## 關鍵點
 
