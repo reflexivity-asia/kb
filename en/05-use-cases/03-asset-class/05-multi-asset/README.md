@@ -15,7 +15,7 @@ Research and workflow examples that test one investment question across multiple
 - [Analyze the cross-asset impact of an Iran-attack scenario](iran-attack-cross-asset-impact.md)
 - [Turn today's newsflow into five investment ideas to study](newsflow-top-five-investment-ideas.md)
 
-These pages preserve source attribution, dated observations, private-link boundaries, and scenario uncertainty.
+These pages preserve source context, dated observations, and scenario uncertainty.
 
 ## QUICK Partner-Provided Use Cases
 
