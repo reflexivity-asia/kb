@@ -15,6 +15,7 @@ resource: Reflexivity Insights 리서치 사례
 canonical_path: usecases/byasset/equities/transdigm-clean-beat-and-higher-outlook-tdg.md
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_url: https://reflexivity.com/app/kg-insight?insightId=601e0300-50c3-4ed9-900c-82627746f1ec
 prompt_status: not_provided
 -->
@@ -42,7 +43,7 @@ prompt_status: not_provided
 
 ## 관련성
 
-대형주의 beat-and-raise는 전체 북에 영향을 주기 때문에 Tier 2 PM은 논점이 수요에서 지속성으로 이동하는지 빠르게 읽어야 합니다.
+대형주의 실적 상회와 가이던스 상향은 포트폴리오 전체에 영향을 줄 수 있기 때문에 Tier 2 PM은 논점이 수요에서 실적의 지속 가능성으로 이동하는지 빠르게 판단해야 합니다.
 
 ## 주목 포인트
 
