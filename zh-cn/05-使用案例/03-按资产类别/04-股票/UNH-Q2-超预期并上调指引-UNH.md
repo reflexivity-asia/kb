@@ -15,6 +15,7 @@ resource: Reflexivity Insights 研究案例
 canonical_path: usecases/byasset/equities/unh-q2-beat-and-guidance-raise-unh.md
 status: published
 translation_status: current
+editorial_reviewed: 2026-10-03
 source_url: https://reflexivity.com/app/kg-insight?insightId=281b5785-16b7-4f17-a5ae-621b8b3ec534
 prompt_status: not_provided
 -->
@@ -42,7 +43,7 @@ prompt_status: not_provided
 
 ## 相关性
 
-大型公司 beat-and-raise 会影响整个组合，Tier 2 PM 需要快速判断这次业绩改变的是投资逻辑，还是仅改变短期交易表现。
+大型公司的业绩超预期并上调指引会影响整个投资组合，Tier 2 PM 需要快速判断这次业绩改变的是投资逻辑，还是仅改变短期市场表现。
 
 ## 关键点
 
