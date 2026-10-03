@@ -17,7 +17,7 @@ Research and workflow examples that test one investment question across multiple
 
 These pages preserve source attribution, dated observations, private-link boundaries, and scenario uncertainty.
 
-## New QUICK Partner-Provided Use Case
+## QUICK Partner-Provided Use Cases
 
 - [Compare oil and gold through inflation, rates, and forward scenarios](oil-gold-inflation-rates-scenarios.md) — QUICK | 2026-10-02
 
