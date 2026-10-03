@@ -8,6 +8,6 @@
 
 Public product documentation is collected here as it becomes available.
 
-For a product overview, start with [What is Reflexivity?](../01-what-is-reflexivity/README.md). For setup, APIs, and AI/MCP connections, see [Guides](../02-guides/README.md).
+For a product overview, start with [What is Reflexivity?](../01-what-is-reflexivity/README.md). To see how always-on research is surfaced, read [Insights](insights/README.md). For setup, APIs, and AI/MCP connections, see [Guides](../02-guides/README.md).
 
 For access-controlled materials or questions, contact **jim@reflexivity.com**.
