@@ -38,6 +38,11 @@ editorial_reviewed: 2026-10-04
 
 **[在 Reflexivity 開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=0474081c-861c-4cde-b075-59834514aba0)**
 
+## 使用的提示詞
+
+提供資料中未列明實際使用的提示詞全文。
+
+
 ## 相關性
 
 當龍頭公司業績優於預期、但擁擠的半導體投資組合整體仍被去評級時，Pod PM 需要快速、可稽核地理解全局。
